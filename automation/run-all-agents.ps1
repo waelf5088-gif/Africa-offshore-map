@@ -209,50 +209,47 @@ if (Should-Run 'cartographe') {
         }
 
         if ($ready) {
-            # 2) Deploiement CANARI (preview, sans toucher la prod).
-            Write-Cycle "Deploiement canari : vercel deploy (preview) ..." $LogFile
-            $deployOut = & $vcProg @vcPre 'deploy' '--yes' @authArgs 2>&1
+            # 2) Deploiement direct en PRODUCTION. (Les preview Vercel sont protegees
+            #    par authentification -> non testables ; la prod, elle, est publique.)
+            #    Filet de securite : verification post-deploiement + rollback automatique.
+            Write-Cycle "Deploiement production : vercel deploy --prod ..." $LogFile
+            $deployOut = & $vcProg @vcPre 'deploy' '--prod' '--yes' @authArgs 2>&1
             $deployOut | Tee-Object -FilePath $LogFile -Append | Out-Null
             $urlMatch = ($deployOut | Select-String -Pattern 'https://[A-Za-z0-9._-]+\.vercel\.app' -AllMatches |
                          ForEach-Object { $_.Matches } | Select-Object -Last 1)
-            $previewUrl = if ($urlMatch) { $urlMatch.Value } else { $null }
+            $deployUrl = if ($urlMatch) { $urlMatch.Value } else { $null }
 
-            if (-not $previewUrl) {
-                Write-Cycle "Canari : URL non detectee (verifiez 'vercel login' ou -VercelToken)." $LogFile 'ERROR'; $script:exitCode = 1
+            if (-not $deployUrl) {
+                Write-Cycle "Deploiement : URL non detectee (verifiez 'vercel login' ou -VercelToken)." $LogFile 'ERROR'; $script:exitCode = 1
             } else {
-                # 3) Test de sante du canari AVANT promotion.
-                Write-Cycle "Canari deploye : $previewUrl -> test de sante..." $LogFile
-                Start-Sleep -Seconds 3
-                $health = Test-MapHealth -Url $previewUrl
-                if (-not $health.ok) {
-                    Add-DeployHistory -ProjectDir $ProjectDir -Url $previewUrl -Healthy $false
-                    $d = if ($health.error) { $health.error } else { "HTTP $($health.status), root=$($health.has_root), bundle=$($health.asset_ok)" }
-                    Write-Cycle "Canari MALSAIN ($d) -> PROMOTION ANNULEE, prod inchangee." $LogFile 'ERROR'; $script:exitCode = 1
-                    Send-Telegram -EnvVars $EnvVars -Text "🟠 <b>CARTOGRAPHE</b> : build canari malsain, prod NON modifiee.`n$previewUrl`n$d" | Out-Null
-                } else {
-                    # 4) PROMOTION : le lien de prod pointe sur le canari valide.
-                    Write-Cycle ("Canari sain (bundle {0:N0} o). Promotion -> {1}" -f $health.asset_length, $Alias) $LogFile
-                    & $vcProg @vcPre 'alias' 'set' $previewUrl $Alias @authArgs 2>&1 | Tee-Object -FilePath $LogFile -Append
-                    Start-Sleep -Seconds 3
-                    # 5) Verification de la prod apres promotion.
+                # 3) Verification de la PROD publique (plusieurs essais le temps de la propagation).
+                Write-Cycle "Deploye : $deployUrl -> verification de https://$Alias ..." $LogFile
+                $prodHealth = $null
+                foreach ($try in 1..4) {
+                    Start-Sleep -Seconds 5
                     $prodHealth = Test-MapHealth -Url "https://$Alias"
-                    if ($prodHealth.ok) {
-                        Add-DeployHistory -ProjectDir $ProjectDir -Url $previewUrl -Healthy $true
-                        $linkFile = Save-VercelLink -ProjectDir $ProjectDir -Alias $Alias -DeployUrl $previewUrl
-                        Write-Cycle "CARTE A JOUR : https://$Alias (lien enregistre : $linkFile)" $LogFile
+                    if ($prodHealth.ok) { break }
+                }
+                if ($prodHealth.ok) {
+                    Add-DeployHistory -ProjectDir $ProjectDir -Url $deployUrl -Healthy $true
+                    $linkFile = Save-VercelLink -ProjectDir $ProjectDir -Alias $Alias -DeployUrl $deployUrl
+                    Write-Cycle ("CARTE A JOUR : https://$Alias (bundle {0:N0} o, lien : {1})" -f $prodHealth.asset_length, $linkFile) $LogFile
+                } else {
+                    # 4) ROLLBACK automatique vers le deploiement precedent.
+                    Add-DeployHistory -ProjectDir $ProjectDir -Url $deployUrl -Healthy $false
+                    $d = if ($prodHealth.error) { $prodHealth.error } else { "HTTP $($prodHealth.status), bundle=$($prodHealth.asset_ok)" }
+                    Write-Cycle "Prod KO apres deploiement ($d) -> ROLLBACK (vercel rollback)..." $LogFile 'ERROR'
+                    & $vcProg @vcPre 'rollback' '--yes' @authArgs 2>&1 | Tee-Object -FilePath $LogFile -Append
+                    Start-Sleep -Seconds 5
+                    $after = Test-MapHealth -Url "https://$Alias"
+                    if ($after.ok) {
+                        Write-Cycle "ROLLBACK OK : carte de nouveau saine sur https://$Alias" $LogFile
+                        Send-Telegram -EnvVars $EnvVars -Text "🔴 <b>CARTOGRAPHE</b> : nouveau build KO -> ROLLBACK effectue, carte restauree." | Out-Null
                     } else {
-                        # 6) ROLLBACK automatique vers le dernier deploiement sain connu.
-                        $rb = Get-RollbackTarget -ProjectDir $ProjectDir -ExcludeUrl $previewUrl
-                        if ($rb) {
-                            Write-Cycle "Prod KO apres promotion -> ROLLBACK vers $rb" $LogFile 'ERROR'
-                            & $vcProg @vcPre 'alias' 'set' $rb $Alias @authArgs 2>&1 | Tee-Object -FilePath $LogFile -Append
-                            Send-Telegram -EnvVars $EnvVars -Text "🔴 <b>CARTOGRAPHE</b> : prod KO apres deploiement -> ROLLBACK effectue vers le dernier build sain." | Out-Null
-                        } else {
-                            Write-Cycle "Prod KO apres promotion et AUCUNE cible de rollback connue." $LogFile 'ERROR'
-                            Send-Telegram -EnvVars $EnvVars -Text "🔴 <b>CARTOGRAPHE</b> : prod KO apres deploiement, pas de rollback possible. Intervention manuelle requise." | Out-Null
-                        }
-                        $script:exitCode = 1
+                        Write-Cycle "ROLLBACK insuffisant : la carte reste KO." $LogFile 'ERROR'
+                        Send-Telegram -EnvVars $EnvVars -Text "🔴 <b>CARTOGRAPHE</b> : build KO ET rollback insuffisant. Intervention manuelle requise." | Out-Null
                     }
+                    $script:exitCode = 1
                 }
             }
         }
