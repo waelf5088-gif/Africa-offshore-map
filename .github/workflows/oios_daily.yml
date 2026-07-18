@@ -1,0 +1,45 @@
+name: OIOS Daily Swarm Pipeline
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # S'exécute tous les jours à 08:00 UTC (09:00 ou 10:00 heure de Paris selon l'heure d'été)
+  workflow_dispatch: # Permet de lancer le script manuellement depuis l'interface GitHub
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@v4
+
+      - name: Set up Python environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install playwright requests python-dotenv pywin32; true # ignore pywin32 error on Linux
+
+      - name: Install Playwright Chromium Browser
+        run: npx playwright install chromium
+
+      - name: Inject LinkedIn Session Cookies
+        run: |
+          mkdir -p automation/oios/linkedin_session
+          echo '${{ secrets.LINKEDIN_COOKIES }}' > automation/oios/linkedin_session/cookies.json
+
+      - name: Run Daily Prospector
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_SERVER: 'smtp.office365.com'
+          SMTP_PORT: '587'
+        run: python automation/oios/daily_prospector.py

@@ -1,0 +1,13 @@
+﻿{
+    "ok":  false,
+    "checked":  [
+
+                ],
+    "issues":  [
+                   "manquant: src\\data\\projects.json",
+                   "manquant: src\\data\\mining_terminals.json",
+                   "manquant: src\\data\\wind_projects.json",
+                   "manquant: src\\data\\ports.json"
+               ],
+    "checked_at":  "2026-07-18T05:15:06"
+}

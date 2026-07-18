@@ -1,0 +1,19 @@
+# Secrets — NE JAMAIS versionner
+.env
+.env.*
+
+# Dependances / builds
+node_modules
+.venv
+venv
+dist
+.vercel
+
+# Volumineux / temporaires
+unzipped_files
+automation/logs
+automation/data/snapshots
+*.log
+*.db
+*.db-wal
+*.db-shm

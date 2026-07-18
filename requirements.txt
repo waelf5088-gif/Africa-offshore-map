@@ -1,0 +1,3 @@
+google-generativeai
+duckduckgo_search
+python-dotenv

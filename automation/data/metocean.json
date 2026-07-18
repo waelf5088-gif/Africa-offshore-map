@@ -1,0 +1,205 @@
+﻿{
+    "threshold_m":  2.5,
+    "source":  "Open-Meteo Marine API",
+    "fetched":  "2026-07-18T05:15:03",
+    "zones":  [
+                  {
+                      "zone":  "Baleine P3 (Cote d\u0027Ivoire)",
+                      "lat":  4.6,
+                      "lon":  -4.5,
+                      "days":  [
+                                   {
+                                       "date":  "2026-07-17",
+                                       "wave_max_m":  1.38,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-18",
+                                       "wave_max_m":  1.46,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-19",
+                                       "wave_max_m":  1.42,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-20",
+                                       "wave_max_m":  1.30,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-21",
+                                       "wave_max_m":  1.22,
+                                       "window_ok":  true
+                                   }
+                               ],
+                      "good_days_5":  5
+                  },
+                  {
+                      "zone":  "Afungi / Mozambique LNG",
+                      "lat":  -10.9,
+                      "lon":  40.6,
+                      "days":  [
+                                   {
+                                       "date":  "2026-07-17",
+                                       "wave_max_m":  0.82,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-18",
+                                       "wave_max_m":  0.80,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-19",
+                                       "wave_max_m":  0.52,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-20",
+                                       "wave_max_m":  0.40,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-21",
+                                       "wave_max_m":  0.42,
+                                       "window_ok":  true
+                                   }
+                               ],
+                      "good_days_5":  5
+                  },
+                  {
+                      "zone":  "Kaminho / Angola",
+                      "lat":  -8.8,
+                      "lon":  12.8,
+                      "days":  [
+                                   {
+                                       "date":  "2026-07-17",
+                                       "wave_max_m":  1.56,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-18",
+                                       "wave_max_m":  1.52,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-19",
+                                       "wave_max_m":  1.16,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-20",
+                                       "wave_max_m":  0.92,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-21",
+                                       "wave_max_m":  0.96,
+                                       "window_ok":  true
+                                   }
+                               ],
+                      "good_days_5":  5
+                  },
+                  {
+                      "zone":  "Venus / Namibie",
+                      "lat":  -22.5,
+                      "lon":  12,
+                      "days":  [
+                                   {
+                                       "date":  "2026-07-17",
+                                       "wave_max_m":  2.22,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-18",
+                                       "wave_max_m":  1.50,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-19",
+                                       "wave_max_m":  1.52,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-20",
+                                       "wave_max_m":  1.54,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-21",
+                                       "wave_max_m":  1.32,
+                                       "window_ok":  true
+                                   }
+                               ],
+                      "good_days_5":  5
+                  },
+                  {
+                      "zone":  "GTA (Senegal/Mauritanie)",
+                      "lat":  16.1,
+                      "lon":  -16.9,
+                      "days":  [
+                                   {
+                                       "date":  "2026-07-17",
+                                       "wave_max_m":  1.42,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-18",
+                                       "wave_max_m":  1.12,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-19",
+                                       "wave_max_m":  1.14,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-20",
+                                       "wave_max_m":  1.04,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-21",
+                                       "wave_max_m":  0.98,
+                                       "window_ok":  true
+                                   }
+                               ],
+                      "good_days_5":  5
+                  },
+                  {
+                      "zone":  "Bonga / Nigeria",
+                      "lat":  4,
+                      "lon":  5,
+                      "days":  [
+                                   {
+                                       "date":  "2026-07-17",
+                                       "wave_max_m":  1.78,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-18",
+                                       "wave_max_m":  1.58,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-19",
+                                       "wave_max_m":  1.54,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-20",
+                                       "wave_max_m":  1.46,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-21",
+                                       "wave_max_m":  1.44,
+                                       "window_ok":  true
+                                   }
+                               ],
+                      "good_days_5":  5
+                  }
+              ]
+}
