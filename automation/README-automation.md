@@ -32,26 +32,39 @@ ou ancienne machine). Dès qu'ils sont là, toute la chaîne fonctionne sans rie
 
 ---
 
-## 🤖 Les 10 agents (dans l'ordre d'exécution)
+## 🤖 Les 14 agents (dans l'ordre d'exécution)
 
 Les agents de données tournent **avant** Overmind et **l'alimentent** — ils complètent
 ses 12 sous-modules, ils ne les remplacent pas (voir `overmind-prompt.md`).
 
-| # | Agent | Rôle | État |
-|---|---|---|---|
-| 1 | **FX-RATE** | EUR/USD du jour (BCE) → Pricing Engine | ✅ testé |
-| 2 | **METOCEAN** | Houle 5 j sur 6 zones (Open-Meteo) → PROPHET | ✅ testé |
-| 3 | **TENDER-HAWK** | Signaux appels d'offres (RSS) → Tender Whisperer | ✅ testé |
-| 4 | **PROSPECT-ENRICHER** | Décideurs via Apollo.io → pipeline | ⏸️ besoin `APOLLO_API_KEY` |
-| 5 | **OVERMIND** | Agent Claude, 12 sous-modules | ✅ prêt (CLI installée) |
-| 6 | **OIOS** | Prospecteur Python | ⏸️ `daily_prospector.py` absent |
-| 7 | **CARTOGRAPHE** | build + deploy + **MAJ du lien Vercel** | ⛔ bloqué (sources) |
-| 8 | **WATCHTOWER** | Vérifie que la carte est vraiment en ligne | ✅ testé |
-| 9 | **SNAPSHOT-QA** | Capture de la carte live → Telegram | ✅ testé |
-| 10 | **GIT-SENTINEL** | Sauvegarde git (commit + push) | ✅ prêt |
+| Agent | Rôle | État |
+|---|---|---|
+| **FX-RATE** | EUR/USD du jour (BCE) → Pricing Engine | ✅ testé |
+| **METOCEAN** | Houle 5 j sur 6 zones (Open-Meteo) → PROPHET | ✅ testé |
+| **TENDER-HAWK** | Signaux appels d'offres (RSS) → Tender Whisperer | ✅ testé |
+| **AIS-LIVE** | Positions AIS temps réel (AISStream) → vessels | ⏸️ besoin `AISSTREAM_API_KEY` |
+| **PROSPECT-ENRICHER** | Décideurs via Apollo.io → pipeline | ⏸️ besoin `APOLLO_API_KEY` |
+| **OVERMIND** | Agent Claude, 12 sous-modules | ✅ prêt (auth CLI à faire) |
+| **OIOS** | Prospecteur Python | ⏸️ `daily_prospector.py` absent |
+| **SCHEMA-GUARD** | Valide `src/data/*.json` **avant** le build | ✅ testé (bloque si KO) |
+| **CARTOGRAPHE** | build → **canari** → promotion/rollback → MAJ du lien Vercel | ⛔ bloqué (sources) |
+| **WATCHTOWER** | Vérifie que la carte est vraiment en ligne (bundle JS) | ✅ testé |
+| **SNAPSHOT-QA** | Capture Playwright de la carte live → Telegram | ✅ testé (WebGL OK) |
+| **DIGEST** | Résumé unique de fin de cycle + fraîcheur → Telegram | ✅ testé |
+| **GIT-SENTINEL** | Sauvegarde git (commit + push) | ✅ testé (commit propre) |
+| **ROLLBACK** | (manuel) restaure le lien sur le dernier build sain | ✅ prêt |
+
+**Déploiement canari** : CARTOGRAPHE déploie d'abord en **preview**, teste la santé de la
+carte (page + bundle JS), et ne **promeut** le lien de prod que si elle est saine. Sinon :
+prod inchangée + alerte. Si la prod casse après promotion → **rollback automatique** vers le
+dernier déploiement sain (`data/deploy-history.json`). Le lien Vercel ne peut plus être cassé.
 
 **Modèle IA** : `sonnet` par défaut, avec **garde-fou : jamais Fable** (`Resolve-ClaudeModel`).
 Override : `-Model opus` ou `$env:FABLE_CLAUDE_MODEL`.
+
+**Planificateur** : `register-scheduler.ps1` tente le mode **S4U** (tourne même session
+fermée) ; sans droits admin il retombe en **Interactive** (tourne si session ouverte, même
+verrouillée). Pour du vrai S4U : lancer le script en **administrateur**.
 
 ---
 
