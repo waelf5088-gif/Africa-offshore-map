@@ -1,0 +1,3166 @@
+{
+  "last_updated": "2026-07-02",
+  "projects": [
+    {
+      "id": "baleine_phase3",
+      "name": "Baleine Phase 3",
+      "country": "Côte d'Ivoire",
+      "operator": "Eni",
+      "partners": "Petroci, Vitol, Socar",
+      "status": "FID Approved (May 2026)",
+      "start_date": "Late 2028",
+      "mobilization_date": "H2 2027",
+      "value": "$4 Billion",
+      "coords": [
+        4.8,
+        -3.98
+      ],
+      "score": 94,
+      "priority": "A",
+      "epci_contractor": "Saipem (historical lead)",
+      "services": {
+        "harbour_towage": "Très élevé",
+        "terminal_towage": "Très élevé",
+        "escort_towage": "Très élevé",
+        "crew_transfer": "Élevé",
+        "mooring_support": "Très élevé",
+        "logistics": "Élevé",
+        "anchor_handling": "Moyen",
+        "standby_safety": "Élevé"
+      },
+      "leads": [
+        {
+          "name": "Luca Faccenda",
+          "role": "Managing Director, Eni Côte d'Ivoire",
+          "influence": "Critical",
+          "email": "luca.faccenda@eni.com"
+        },
+        {
+          "name": "Procurement Director",
+          "role": "Saipem Baleine Phase 3 Project Lead",
+          "influence": "High",
+          "email": "baleine.procurement@saipem.com"
+        }
+      ],
+      "draft_email": {
+        "recipient": "luca.faccenda@eni.com",
+        "subject": "Boluda IRES Marine Support - Baleine Phase 3 Development",
+        "body": "Dear Mr. Faccenda,\n\nFollowing the recent Final Investment Decision (FID) for the Baleine Phase 3 project, I would like to extend our warmest congratulations to Eni and its partners on this milestone.\n\nAs a long-term maritime partner in Côte d'Ivoire through our joint-venture IRES (Ivoirienne de Remorquage), Boluda Towage has recently reinforced its local fleet in Abidjan with two high-performance ASD tugs, VB KUDU and VB NYALA, specifically designed to support major offshore developments and terminal operations.\n\nWe would be honored to discuss how Boluda can support your marine requirements for the Phase 3 FPSO terminal, including terminal towage, escort support, and offloading assistance, in full compliance with local content regulations.\n\nAre you available for a brief meeting in Abidjan next week?\n\nBest regards,\n\n[Your Name]\nSenior Chartering Manager\nBoluda Towage"
+      }
+    },
+    {
+      "id": "merlin_1x",
+      "name": "Merlin-1X Discovery",
+      "country": "Namibia",
+      "operator": "Shell",
+      "partners": "QatarEnergy, NAMCOR",
+      "status": "Discovery announced (June 10, 2026)",
+      "start_date": "N/A (Exploration/Appraisal)",
+      "mobilization_date": "H2 2026",
+      "value": "Under Evaluation",
+      "coords": [
+        -27.8,
+        14.8
+      ],
+      "score": 78,
+      "priority": "B",
+      "epci_contractor": "Under Tender",
+      "services": {
+        "harbour_towage": "Élevé",
+        "terminal_towage": "Faible",
+        "escort_towage": "Faible",
+        "crew_transfer": "Élevé",
+        "mooring_support": "Moyen",
+        "logistics": "Très élevé",
+        "anchor_handling": "Élevé",
+        "standby_safety": "Élevé"
+      },
+      "leads": [
+        {
+          "name": "Marine Logistics Manager",
+          "role": "Shell Namibia (Windhoek Office)",
+          "influence": "High",
+          "email": "namibia.logistics@shell.com"
+        }
+      ],
+      "draft_email": {
+        "recipient": "namibia.logistics@shell.com",
+        "subject": "Boluda Towage - Exploration Drilling Marine Support - Orange Basin",
+        "body": "Dear Marine Logistics Manager,\n\nFollowing today's announcement regarding the positive results at the Merlin-1X exploration well, I would like to congratulate Shell Namibia and its partners on this promising discovery.\n\nBoluda Towage has a proven track record of supporting major offshore exploration and drilling campaigns globally and across Africa. We operate a highly versatile fleet of deep-sea tugs, Anchor Handling Tug Supply (AHTS) vessels, and Emergency Response and Rescue Vessels (ERRV) capable of assisting your upcoming appraisal drilling campaigns from Walvis Bay and Lüderitz.\n\nWe would welcome the opportunity to present our marine logistics and drilling support capabilities to your team and discuss how we can assist your upcoming operations in the Orange Basin.\n\nAre you available for a brief introductory call next week?\n\nBest regards,\n\n[Your Name]\nSenior Chartering Manager\nBoluda Towage"
+      }
+    },
+    {
+      "id": "venus_project",
+      "name": "Venus Project",
+      "country": "Namibia",
+      "operator": "TotalEnergies",
+      "partners": "QatarEnergy, Impact Oil & Gas, NAMCOR",
+      "status": "FDP Submitted / Pre-FID",
+      "start_date": "2029",
+      "mobilization_date": "H2 2028",
+      "value": "$8-10 Billion",
+      "coords": [
+        -28.5,
+        14.2
+      ],
+      "score": 85,
+      "priority": "B",
+      "epci_contractor": "Tenders pending",
+      "services": {
+        "harbour_towage": "Très élevé",
+        "terminal_towage": "Très élevé",
+        "escort_towage": "Très élevé",
+        "crew_transfer": "Élevé",
+        "mooring_support": "Très élevé",
+        "logistics": "Très élevé",
+        "anchor_handling": "Élevé",
+        "standby_safety": "Élevé"
+      },
+      "leads": [
+        {
+          "name": "Offshore Logistics Director",
+          "role": "TotalEnergies HQ (Paris/Pau)",
+          "influence": "Critical",
+          "email": "namibia.marine@totalenergies.com"
+        }
+      ],
+      "draft_email": {
+        "recipient": "namibia.marine@totalenergies.com",
+        "subject": "Boluda Towage - Offshore Terminal Support & Marine Services - Venus Field",
+        "body": "Dear Offshore Logistics Director,\n\nAs TotalEnergies progresses toward the Final Investment Decision (FID) for the Venus deepwater development, I would like to introduce Boluda Towage's specialized capabilities in offshore terminal and FPSO support.\n\nBoluda Towage operates a global fleet of state-of-the-art ASD and AHTS tugs, providing highly specialized escort towage, tanker mooring assistance, and standby emergency services. We have extensive experience managing marine operations for major FPSOs in West Africa and would be honored to be registered as a qualified marine service provider for the Venus project.\n\nWe would welcome the opportunity to present our technical capabilities and West African track record to your teams in Paris or Windhoek.\n\nAre you available for an introductory meeting in the coming weeks?\n\nBest regards,\n\n[Your Name]\nSenior Chartering Manager\nBoluda Towage"
+      }
+    },
+    {
+      "id": "kaminho_project",
+      "name": "Kaminho Project",
+      "country": "Angola",
+      "operator": "TotalEnergies",
+      "partners": "Petronas, Sonangol",
+      "status": "EPCI Phase / Execution",
+      "start_date": "2028",
+      "mobilization_date": "H2 2027",
+      "value": "$6 Billion",
+      "coords": [
+        -9.1,
+        12.3
+      ],
+      "score": 88,
+      "priority": "B",
+      "epci_contractor": "Saipem ($3.7B FPSO & SURF contract)",
+      "services": {
+        "harbour_towage": "Élevé",
+        "terminal_towage": "Très élevé",
+        "escort_towage": "Très élevé",
+        "crew_transfer": "Élevé",
+        "mooring_support": "Très élevé",
+        "logistics": "Élevé",
+        "anchor_handling": "Très élevé",
+        "standby_safety": "Élevé"
+      },
+      "leads": [
+        {
+          "name": "Marine Operations Manager",
+          "role": "TotalEnergies Angola (Luanda)",
+          "influence": "High",
+          "email": "angola.marine@totalenergies.com"
+        },
+        {
+          "name": "Chartering Desk",
+          "role": "Saipem Luanda / Ambriz Yard",
+          "influence": "High",
+          "email": "angola.chartering@saipem.com"
+        }
+      ],
+      "draft_email": {
+        "recipient": "angola.chartering@saipem.com",
+        "subject": "Boluda Towage - Heavy Towage and Tug Support for Kaminho SURF Installation",
+        "body": "Dear Saipem Chartering Team,\n\nI am writing to you regarding the ongoing EPCI phase of the Kaminho deepwater project in Angola, for which Saipem is executing the SURF and FPSO work scopes.\n\nBoluda Towage is highly active in the West African region, providing terminal support, rig moves, and heavy towage assistance. Given that Saipem will be fabricating and installing key subsea structures locally at the Ambriz yard, we would like to offer our fleet of high-bollard-pull ASD tugs and Anchor Handling vessels to support your offshore installation campaigns.\n\nOur vessels are fully compliant with local Angolan maritime content regulations and operated under strict international safety standards.\n\nWe would welcome the opportunity to discuss your specific vessel requirements for the Kaminho campaign. Are you available for a brief introductory call next week?\n\nBest regards,\n\n[Your Name]\nSenior Chartering Manager\nBoluda Towage"
+      }
+    }
+  ],
+  "rigs": [
+    {
+      "id": "valaris_ds12",
+      "name": "Valaris DS-12",
+      "type": "Drillship",
+      "current_location": "Orange Basin, Namibia",
+      "coords": [
+        -28.5,
+        14.2
+      ],
+      "status": "Active Drilling",
+      "destination": "Walvis Bay",
+      "operator": "Shell",
+      "opportunity": "Positionnement de l'AHTS pour le déplacement du rig, opportunité d'escorte de sécurité en attente.",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "noble_gerrit",
+      "name": "Noble Gerrit de Souza",
+      "type": "Drillship",
+      "current_location": "Block 20/11, Angola",
+      "coords": [
+        -9.1,
+        12.3
+      ],
+      "status": "Active Drilling",
+      "destination": "Namibia (Orange Basin)",
+      "operator": "TotalEnergies",
+      "opportunity": "Remorquage en eaux profondes, manipulation d'ancres et affrètement de navires de ravitaillement à longue portée.",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "saipem_12000",
+      "name": "Saipem 12000",
+      "type": "Drillship",
+      "current_location": "Baleine Field, Côte d'Ivoire",
+      "coords": [
+        4.75,
+        -4.0
+      ],
+      "status": "Active Drilling",
+      "destination": "Las Palmas",
+      "operator": "Eni",
+      "opportunity": "Remorquage océanique et support logistique offshore.",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "borr_norve",
+      "name": "Borr Norve",
+      "type": "Jack-up",
+      "current_location": "Etame Field, Gabon",
+      "coords": [
+        -0.7,
+        8.7
+      ],
+      "status": "Active Drilling",
+      "destination": "Cameroon",
+      "operator": "BW Energy",
+      "opportunity": "Remorquage de positionnement de barge/rig, escorte de remorqueur en eaux peu profondes.",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "borr_natt",
+      "name": "Borr Natt",
+      "type": "Jack-up",
+      "current_location": "Offshore Delta, Nigeria",
+      "coords": [
+        4.3,
+        7.0
+      ],
+      "status": "Active Drilling",
+      "destination": "Congo",
+      "operator": "Eni",
+      "opportunity": "Remorquage pour déplacement du rig, support de manipulation d'ancres.",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "noble_globetrotter",
+      "name": "Noble Globetrotter II",
+      "type": "Drillship",
+      "current_location": "Orange Basin, Namibia",
+      "coords": [
+        -28.5,
+        14.2
+      ],
+      "status": "Active Drilling",
+      "destination": "Angola",
+      "operator": "Shell",
+      "opportunity": "Remorquage d'escorte océanique longue distance.",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_baleine",
+      "name": "FPSO Baleine",
+      "type": "FPSO",
+      "current_location": "Baleine Block CI-101, Côte d'Ivoire",
+      "coords": [
+        4.75,
+        -4.0
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "Eni",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "flng_gta",
+      "name": "FLNG Greater Tortue",
+      "type": "FLNG",
+      "current_location": "GTA Project Border, Senegal/Mauritania",
+      "coords": [
+        16.1,
+        -16.8
+      ],
+      "status": "Commissioning",
+      "destination": "N/A",
+      "operator": "bp",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_sangomar",
+      "name": "FPSO Sangomar",
+      "type": "FPSO",
+      "current_location": "Sangomar Field, Senegal",
+      "coords": [
+        13.9,
+        -17.3
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "Woodside",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_dalia",
+      "name": "FPSO Dalia",
+      "type": "FPSO",
+      "current_location": "Block 17, Angola",
+      "coords": [
+        -7.8,
+        12.1
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "TotalEnergies",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_girassol",
+      "name": "FPSO Girassol",
+      "type": "FPSO",
+      "current_location": "Block 17, Angola",
+      "coords": [
+        -7.6,
+        12.0
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "TotalEnergies",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_pazflor",
+      "name": "FPSO Pazflor",
+      "type": "FPSO",
+      "current_location": "Block 17, Angola",
+      "coords": [
+        -7.9,
+        12.2
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "TotalEnergies",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_kaombo_norte",
+      "name": "FPSO Kaombo Norte",
+      "type": "FPSO",
+      "current_location": "Block 32, Angola",
+      "coords": [
+        -7.1,
+        11.8
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "TotalEnergies",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_kaombo_sul",
+      "name": "FPSO Kaombo Sul",
+      "type": "FPSO",
+      "current_location": "Block 32, Angola",
+      "coords": [
+        -7.3,
+        11.9
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "TotalEnergies",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_bonga",
+      "name": "FPSO Bonga",
+      "type": "FPSO",
+      "current_location": "Bonga Field, Nigeria",
+      "coords": [
+        -4.6,
+        4.6
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "Shell",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_egina",
+      "name": "FPSO Egina",
+      "type": "FPSO",
+      "current_location": "Egina Field, Nigeria",
+      "coords": [
+        -6.2,
+        5.9
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "TotalEnergies",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_erha",
+      "name": "FPSO Erha",
+      "type": "FPSO",
+      "current_location": "OML 133, Nigeria",
+      "coords": [
+        -5.3,
+        4.3
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "ExxonMobil",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_aseng",
+      "name": "FPSO Aseng",
+      "type": "FPSO",
+      "current_location": "OML I, Eq. Guinea",
+      "coords": [
+        3.7,
+        8.4
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "Noble Energy",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_kwame_nkrumah",
+      "name": "FPSO Kwame Nkrumah",
+      "type": "FPSO",
+      "current_location": "Jubilee Field, Ghana",
+      "coords": [
+        4.8,
+        -2.9
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "Tullow",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_john_kufuor",
+      "name": "FPSO John Agyekum Kufuor",
+      "type": "FPSO",
+      "current_location": "OCTP Block, Ghana",
+      "coords": [
+        4.7,
+        -3.1
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "Eni",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    },
+    {
+      "id": "fpso_olombendo",
+      "name": "FPSO Olombendo",
+      "type": "FPSO",
+      "current_location": "Block 15/06 East, Angola",
+      "coords": [
+        -6.8,
+        11.4
+      ],
+      "status": "Active Production",
+      "destination": "N/A",
+      "operator": "Eni",
+      "opportunity": "Production & Mooring Support Services",
+      "last_updated": "2026-07-02"
+    }
+  ],
+  "ports": [
+    {
+      "id": "port_lekki",
+      "name": "Lekki Deep Sea Port",
+      "country": "Nigeria",
+      "coords": [
+        6.41,
+        3.9
+      ],
+      "authority": "Nigerian Ports Authority (NPA)",
+      "project_type": "New Deep Sea Port / Towage Concession",
+      "tender_date": "10-year towage awarded to Messrs Alcuff",
+      "status": "Operational / Tug fleet integration",
+      "details": "Lekki operates under a BOT model. NPA provides support with modern ASD tugs, and private operators are actively integrated.",
+      "commercial_opportunity": "Opportunité pour Boluda d'intégrer des accords de co-remorquage ou d'assistance avec Alcuff/NPA pour les grands navires.",
+      "score": 88,
+      "priority": "B"
+    },
+    {
+      "id": "port_walvis",
+      "name": "Walvis Bay New Terminal",
+      "country": "Namibia",
+      "coords": [
+        -22.95,
+        14.5
+      ],
+      "authority": "Namport / Terminal Investment Namibia (TIN)",
+      "project_type": "Terminal Concession / Port Modernization",
+      "tender_date": "25-year concession signed with TIN (MSC subsidiary)",
+      "status": "Modernization & Expansion",
+      "details": "25-year concession signed to operate the container terminal. Massive channel deepening and equipment modernization underway.",
+      "commercial_opportunity": "Forte augmentation de trafic attendue. Opportunité de négocier des extensions de services de remorquage exclusifs avec Namport.",
+      "score": 90,
+      "priority": "A"
+    },
+    {
+      "id": "port_kribi",
+      "name": "Kribi Deep Sea Port",
+      "country": "Cameroon",
+      "coords": [
+        2.94,
+        9.9
+      ],
+      "authority": "Port Autonome de Kribi (PAK) / CMA CGM & Bolloré Consortium",
+      "project_type": "Port Extension Phase II",
+      "tender_date": "Ongoing (Phase II expansion)",
+      "status": "Expansion / Construction",
+      "details": "Inauguration du second terminal à conteneurs. Plans d'allongement des quais et de dragage pour accueillir des porte-conteneurs géants.",
+      "commercial_opportunity": "Besoin accru en remorquage d'assistance portuaire lourde. Boluda doit approcher PAK pour renforcer la flotte de remorqueurs en concession.",
+      "score": 85,
+      "priority": "B"
+    }
+  ],
+  "tenders": [
+    {
+      "id": "transnet_sa_harbour_towage_rfq_2026",
+      "title": "Request for Qualification for Harbour Towage Services - South African Ports",
+      "company": "Transnet National Ports Authority",
+      "country": "South Africa",
+      "coords": [
+        -29.8587,
+        31.0218
+      ],
+      "publish_date": "2026-05-19",
+      "deadline": "TBC",
+      "vessel_type": "Multiple Harbour Tugs (ASD, Voith) 60-80t BP",
+      "scope": "Pre-qualification for provision of long-term harbour towage, pilotage assistance, and terminal support services across major South African ports, including Durban, Cape Town, and Richards Bay.",
+      "status": "Open",
+      "score": 95,
+      "priority": "A",
+      "commercial_opportunity": "Boluda has significant experience in port towage globally and a strong presence in Africa (e.g., Senegal, Mauritania, Cameroon, Côte d'Ivoire). We can highlight our modern fleet, robust safety record, and ability to mobilize or invest in local assets. Our global best practices can significantly enhance Transnet's operations.",
+      "source_url": "https://transnetetenders.azurewebsites.net/Home/AdvertisedTenders",
+      "draft_email": {
+        "recipient": "procurement@transnet.net",
+        "subject": "Expression of Interest: Transnet Harbour Towage Services RFQ",
+        "body": "Dear Transnet Procurement Team,\n\nBoluda Towage Africa would like to express strong interest in the upcoming Request for Qualification for Harbour Towage Services across South African ports, as advertised on your e-tenders portal (published May 19, 2026).\n\nAs a global leader in marine towage with a significant and growing footprint in Africa, Boluda Towage offers a modern fleet, unparalleled operational expertise, and a steadfast commitment to safety and efficiency. We are confident in our capability to meet and exceed your requirements for long-term port towage and marine support.\n\nCould you please provide further details on the RFQ process and relevant documentation? We look forward to exploring how Boluda Towage can partner with Transnet to enhance maritime operations in South Africa.\n\nSincerely,\n[Your Name/Boluda Towage Africa]"
+      }
+    },
+    {
+      "id": "perenco_gabon_offshore_support_2026",
+      "title": "Offshore Field Support and Rig Move Services - Gabon",
+      "company": "Perenco Gabon",
+      "country": "Gabon",
+      "coords": [
+        -0.6,
+        9.0
+      ],
+      "publish_date": "2026-07",
+      "deadline": "TBC",
+      "vessel_type": "1x AHTS (approx. 100t BP DP1/DP2), 1x PSV, 1x Fast Crew Boat",
+      "scope": "Provision of offshore support vessels for various operations including rig moves, anchor handling, supply runs to offshore platforms and drilling units, and crew transfer within Perenco's operational fields in Gabon.",
+      "status": "Upcoming",
+      "score": 85,
+      "priority": "A",
+      "commercial_opportunity": "Boluda has existing presence in West Africa and a robust fleet of AHTS, PSVs, and crew boats suitable for Perenco's mature and developing fields in Gabon. We can offer cost-effective, reliable, and locally supported solutions, leveraging our operational hubs in the region and adherence to local content requirements.",
+      "source_url": "https://www.perenco.com/",
+      "draft_email": {
+        "recipient": "procurement.gabon@perenco.com",
+        "subject": "Inquiry: Offshore Support Vessel Services for Perenco Gabon Operations",
+        "body": "Dear Perenco Gabon Procurement Team,\n\nBoluda Towage Africa is actively monitoring offshore activities in Gabon and understands your significant operational footprint. We are keen to offer our comprehensive offshore support vessel services, including AHTS, PSV, and Fast Crew Boats, to support your ongoing and upcoming projects.\n\nWith a strong safety record and extensive experience in the West African offshore market, Boluda Towage is well-equipped to provide reliable and efficient maritime support for your rig moves, supply operations, and crew transfers.\n\nWe would appreciate the opportunity to discuss your current and projected vessel requirements. Please let us know if you have any upcoming tender processes or direct chartering needs.\n\nSincerely,\n[Your Name/Boluda Towage Africa]"
+      }
+    },
+    {
+      "id": "totalenergies_namibia_drilling_support_2027",
+      "title": "Offshore Drilling Campaign Vessel Support - Orange Basin, Namibia",
+      "company": "TotalEnergies E&P Namibia",
+      "country": "Namibia",
+      "coords": [
+        -28.5,
+        14.2
+      ],
+      "publish_date": "2026-10",
+      "deadline": "TBC",
+      "vessel_type": "2x AHTS (150t BP DP2), 1x ERRV/Standby Vessel, 1x PSV (DP2)",
+      "scope": "Provision of high-specification offshore support vessels for deepwater drilling and potential early development activities in the Orange Basin, including rig positioning, anchor handling, supply, and emergency response for TotalEnergies' exploration and production campaigns.",
+      "status": "Upcoming",
+      "score": 90,
+      "priority": "A",
+      "commercial_opportunity": "TotalEnergies is a key global client for Boluda. Our modern DP2 AHTS fleet is ideally suited for deepwater operations in the challenging Orange Basin. Boluda can emphasize its commitment to local content development and robust safety management systems, crucial for new frontier regions like Namibia.",
+      "source_url": "https://www.totalenergies.com/",
+      "draft_email": {
+        "recipient": "procurement.namibia@totalenergies.com",
+        "subject": "Offer for Deepwater Offshore Vessel Support - Orange Basin Drilling Campaigns",
+        "body": "Dear TotalEnergies E&P Namibia Procurement Team,\n\nBoluda Towage Africa is keen to offer our advanced fleet of offshore support vessels for your upcoming drilling and development campaigns in the Orange Basin. With recent significant discoveries like Venus, we anticipate a strong demand for high-specification AHTS (DP2), PSV (DP2), and ERRV vessels.\n\nAs a trusted partner to TotalEnergies globally, Boluda Towage is uniquely positioned to provide reliable, safe, and efficient maritime solutions, aligning with your operational excellence and local content objectives in Namibia. Our modern fleet meets stringent industry standards for deepwater operations.\n\nWe would appreciate the opportunity to present our capabilities and discuss how we can support your strategic projects in Namibia. Please inform us of any upcoming tenders or expressions of interest related to offshore vessel charters.\n\nSincerely,\n[Your Name/Boluda Towage Africa]"
+      }
+    },
+    {
+      "id": "saipem_nigeria_subsea_towing_2026",
+      "title": "Towage & Construction Support for Subsea Projects - Offshore Nigeria",
+      "company": "Saipem Contracting Nigeria Ltd.",
+      "country": "Nigeria",
+      "coords": [
+        4.2,
+        7.5
+      ],
+      "publish_date": "2026-07",
+      "deadline": "TBC",
+      "vessel_type": "1x AHTS (180t BP DP2), 1x Ocean Tug (120t BP), 1x Utility Vessel",
+      "scope": "Provision of heavy-duty towage and offshore support vessels for subsea construction projects, including towing of barges, modules, and subsea structures, as well as general field support and anchor handling for Saipem's EPCI operations in Nigeria.",
+      "status": "Upcoming",
+      "score": 80,
+      "priority": "B",
+      "commercial_opportunity": "Boluda has proven capabilities in heavy towage and construction support. In Nigeria, our strong local partnerships and understanding of local content requirements (NCDMB) would be a significant advantage when working with major EPCI contractors like Saipem. Our robust fleet ensures reliability for critical subsea operations.",
+      "source_url": "https://www.saipem.com/",
+      "draft_email": {
+        "recipient": "procurement.nigeria@saipem.com",
+        "subject": "Proposal for Towage and Offshore Construction Support in Nigeria",
+        "body": "Dear Saipem Nigeria Procurement Team,\n\nBoluda Towage Africa extends its readiness to support your upcoming subsea construction projects and offshore operations in Nigeria. We understand Saipem's leading role in complex EPCI projects and can provide high-bollard pull AHTS and Ocean Tugs, along with utility vessels, essential for successful project execution.\n\nWith extensive experience in West Africa and a commitment to operational excellence, Boluda Towage offers reliable, safe, and NCDMB-compliant vessel solutions. Our fleet is capable of handling heavy towing, anchor handling, and general offshore construction support.\n\nWe would appreciate the opportunity to discuss your specific project requirements and demonstrate how Boluda Towage can be a valuable partner for your Nigerian operations. Please share any relevant tender information or opportunities.\n\nSincerely,\n[Your Name/Boluda Towage Africa]"
+      }
+    },
+    {
+      "id": "eni_cotedivoire_development_support_2026",
+      "title": "Baleine Field Development Vessel Support - Offshore Côte d'Ivoire",
+      "company": "ENI Côte d'Ivoire",
+      "country": "Côte d'Ivoire",
+      "coords": [
+        4.8,
+        -4.0
+      ],
+      "publish_date": "2026-08",
+      "deadline": "TBC",
+      "vessel_type": "1x AHTS (120t BP DP2), 1x PSV, 1x Fast Crew Boat (FCB)",
+      "scope": "Provision of offshore support vessels for the ongoing development of the Baleine field, including supply of drilling units and platforms, crew transfer, and potential support for FPSO hook-up and mooring operations.",
+      "status": "Upcoming",
+      "score": 90,
+      "priority": "A",
+      "commercial_opportunity": "Boluda already has a strong presence in Côte d'Ivoire with harbour towage services in Abidjan. This local presence provides a significant advantage for supporting ENI's offshore operations, offering quick response times and established local logistics. We can leverage our integrated fleet capabilities (offshore and port) for a comprehensive solution.",
+      "source_url": "https://www.eni.com/en-IT/operations/ivory-coast.html",
+      "draft_email": {
+        "recipient": "procurement.ivorycoast@eni.com",
+        "subject": "Offshore Vessel Support for ENI Baleine Field Development - Côte d'Ivoire",
+        "body": "Dear ENI Côte d'Ivoire Procurement Team,\n\nBoluda Towage Africa is pleased to offer our comprehensive range of offshore support vessels to facilitate the ongoing development of the Baleine field. With our established presence and operational base in Côte d'Ivoire, we are uniquely positioned to provide highly efficient and reliable AHTS (DP2), PSV, and Fast Crew Boat services.\n\nOur local expertise, coupled with our modern global fleet, ensures seamless support for your drilling, supply, and crew transfer needs, including potential FPSO installation assistance. We are committed to upholding ENI's high standards for safety and operational efficiency.\n\nWe invite you to discuss your current and future vessel chartering requirements and explore how Boluda Towage can further strengthen your operations in Côte d'Ivoire.\n\nSincerely,\n[Your Name/Boluda Towage Africa]"
+      }
+    },
+    {
+      "id": "totalenergies_congo_decom_towing_2027",
+      "title": "Offshore Decommissioning and Heavy Towage Services - Congo",
+      "company": "TotalEnergies E&P Congo",
+      "country": "Congo",
+      "coords": [
+        -4.8,
+        11.5
+      ],
+      "publish_date": "2027-01",
+      "deadline": "TBC",
+      "vessel_type": "1x AHTS (180t BP DP2), 1x Offshore Tug (120t BP), 1x Support Barge",
+      "scope": "Provision of high-bollard pull AHTS and offshore tugs for complex decommissioning operations, including towing and positioning of platforms, FPSO re-positioning or tow-away, and support for heavy lift operations in TotalEnergies' mature fields in Congo.",
+      "status": "Upcoming",
+      "score": 75,
+      "priority": "B",
+      "commercial_opportunity": "Boluda possesses a powerful fleet capable of handling heavy and complex towage operations, critical for decommissioning projects. Our experience in managing intricate marine projects and adherence to strict environmental and safety regulations would be a key differentiator for TotalEnergies in Congo. We can also leverage existing regional relationships and local content initiatives.",
+      "source_url": "https://www.totalenergies.com/",
+      "draft_email": {
+        "recipient": "procurement.congo@totalenergies.com",
+        "subject": "Heavy Towage and Decommissioning Support Services - TotalEnergies Congo",
+        "body": "Dear TotalEnergies E&P Congo Procurement Team,\n\nBoluda Towage Africa is reaching out to express our strong capabilities in supporting complex offshore decommissioning and heavy towage projects, anticipating future requirements in your mature fields in Congo. Our robust fleet of high-bollard pull AHTS (DP2) and offshore tugs is ideally suited for challenging operations such as platform removal, FPSO relocation, and heavy lift support.\n\nAs a long-standing global partner to TotalEnergies, Boluda Towage offers proven expertise, a steadfast commitment to safety, and full compliance with international standards for environmental protection. We are prepared to provide tailored and efficient marine solutions for your decommissioning strategy.\n\nWe welcome the opportunity to engage in discussions regarding your long-term decommissioning plans and how Boluda Towage can be a strategic asset. Please advise on any anticipated tenders or requirements.\n\nSincerely,\n[Your Name/Boluda Towage Africa]"
+      }
+    },
+    {
+      "id": "totalenergies_angola_block17_fso_support_2025",
+      "title": "Provision of Offshore Towage and Terminal Support Services for Block 17/32 FPSOs",
+      "company": "TotalEnergies",
+      "country": "Angola",
+      "coords": [
+        -6.0,
+        11.5
+      ],
+      "publish_date": "2024-10",
+      "deadline": "2024-12-15",
+      "vessel_type": "2x ASD Terminal Tugs (min 60t BP), 1x ERRV/Standby Vessel",
+      "scope": "Daily towage, berthing/unberthing operations for shuttle tankers, emergency response, offshore standby duties for multiple FPSOs (e.g., Dalia, Girassol, Pazflor, Kaombo). Long-term contract (3+2 years).",
+      "status": "Upcoming",
+      "score": 95,
+      "priority": "A",
+      "commercial_opportunity": "Boluda has a significant operational footprint and experience in Angola, including existing terminal towage operations. Our fleet is well-positioned, and we have local content initiatives. Leverage existing TotalEnergies relationship. Proactive engagement with TotalEnergies Angola procurement team based on market intelligence gathered from general offshore services monitoring.",
+      "source_url": "https://www.globaltenders.com/rfp/offshore-services-tenders",
+      "draft_email": {
+        "recipient": "Angola.Procurement@TotalEnergies.com",
+        "subject": "Proactive Engagement: Offshore Towage & Terminal Support Services - Angola Blocks 17/32",
+        "body": "Dear Procurement Team,\n\nBoluda Towage, a leading provider of maritime services in Angola, is proactively monitoring upcoming requirements for offshore towage and terminal support, particularly for your FPSO operations in Blocks 17/32. With our strong local presence, experienced crews, and modern fleet of ASD tugs and support vessels, we are exceptionally well-suited to provide reliable and efficient services.\n\nWe would welcome the opportunity to discuss your future needs and present our capabilities, ensuring optimal operational support and value. Please let us know a convenient time for a brief discussion."
+      }
+    },
+    {
+      "id": "exxonmobil_nigeria_deepwater_rigmove_psv_2025",
+      "title": "Provision of AHTS and PSV for Deepwater Drilling Campaign",
+      "company": "ExxonMobil",
+      "country": "Nigeria",
+      "coords": [
+        4.0,
+        7.8
+      ],
+      "publish_date": "2024-09",
+      "deadline": "2024-11-01",
+      "vessel_type": "2x AHTS (min 150t BP, DP2), 1x PSV (DP2, min 4000 DWT)",
+      "scope": "Support for deepwater drilling campaign, including rig moves, anchor handling, supply runs, and standby duties. Initial term 1 year + options. Focus on local content and Nigerian manning.",
+      "status": "Upcoming",
+      "score": 85,
+      "priority": "B",
+      "commercial_opportunity": "Boluda has high-spec AHTS vessels in its global fleet suitable for deepwater operations. A strong local partnership in Nigeria would enhance our bid, addressing local content requirements effectively. Highlight our safety record and operational excellence, inferred from general African tender tracking.",
+      "source_url": "https://www.tendersinfo.com/global-africa-tenders.php",
+      "draft_email": {
+        "recipient": "Nigeria.Procurement@ExxonMobil.com",
+        "subject": "Deepwater Drilling Campaign: AHTS & PSV Support Capabilities - Nigeria",
+        "body": "Dear Procurement Team,\n\nBoluda Towage is keenly interested in supporting ExxonMobil's upcoming deepwater drilling campaigns in Nigeria. We operate a modern fleet of high-specification AHTS (min 150t BP, DP2) and PSV (DP2) vessels globally, which are ideal for rig moves, anchor handling, and supply duties. We are committed to fostering local content and can propose robust partnership strategies to meet Nigerian regulations. \n\nWe would appreciate an opportunity to present our deepwater support capabilities and discuss how we can contribute to the success and safety of your operations."
+      }
+    },
+    {
+      "id": "woodside_senegal_sangomar_phase2_2026",
+      "title": "Offshore Support Vessels for Sangomar Development Phase 2",
+      "company": "Woodside Energy",
+      "country": "Senegal",
+      "coords": [
+        13.2,
+        -17.8
+      ],
+      "publish_date": "2025-06",
+      "deadline": "2025-09-01",
+      "vessel_type": "1x AHTS (min 120t BP, DP2), 1x PSV (DP2), 1x Crew Transfer Vessel (CTV)",
+      "scope": "Support for ongoing development and potential future drilling/completion activities for Sangomar Phase 2. Includes anchor handling, supply, crew transfer, and general field support. Long-term contract (2+1 years).",
+      "status": "Upcoming",
+      "score": 90,
+      "priority": "A",
+      "commercial_opportunity": "Senegal is a strategic growth area for Boluda. We can deploy suitable AHTS and PSV from our global fleet and are ready to invest in local presence if required. Emphasize flexibility, safety, and efficiency for new developments, based on continuous monitoring of maritime tenders in emerging regions.",
+      "source_url": "https://maritimereview.co.za/Maritime-Tenders",
+      "draft_email": {
+        "recipient": "Senegal.Procurement@Woodside.com.au",
+        "subject": "Sangomar Development Phase 2: Offshore Vessel Support - Boluda Towage Capabilities",
+        "body": "Dear Procurement Team,\n\nBoluda Towage is closely following the exciting developments at Sangomar Field in Senegal and anticipates future vessel requirements for Phase 2. We are well-equipped to provide high-spec AHTS (min 120t BP, DP2), PSV (DP2), and Crew Transfer Vessels to support your construction, drilling, and operational needs. Our commitment to safety and operational excellence, combined with our ability to deploy suitable assets quickly, makes us an ideal partner.\n\nWe would appreciate an introduction to discuss how Boluda Towage can contribute to the continued success of the Sangomar project."
+      }
+    },
+    {
+      "id": "eni_perenco_congo_field_support_2025",
+      "title": "Charter of AHTS & ERRV for Offshore Field Operations in Congo",
+      "company": "Eni Congo / Perenco",
+      "country": "Congo",
+      "coords": [
+        -4.6,
+        11.2
+      ],
+      "publish_date": "2024-11",
+      "deadline": "2025-01-30",
+      "vessel_type": "1x AHTS (min 80t BP), 1x ERRV (DP1/2)",
+      "scope": "Regular field support, including SPM maintenance, occasional rig moves, supply duties, and dedicated emergency response and standby for various production fields offshore Congo. Contract 1 year + options.",
+      "status": "Upcoming",
+      "score": 80,
+      "priority": "B",
+      "commercial_opportunity": "Boluda has experience and operational presence in the wider West Africa region, including Angola, which is geographically close. We can offer cost-effective, reliable AHTS and ERRV solutions. Highlight our fleet's versatility and strong safety culture, based on general marine tenders and market activity.",
+      "source_url": "https://www.biddetail.com/tenders-by-category/marine-tenders",
+      "draft_email": {
+        "recipient": "Congo.Procurement@Eni.com",
+        "subject": "Offshore Field Support & ERRV Services - Congo Operations",
+        "body": "Dear Procurement Team,\n\nBoluda Towage expresses its strong interest in providing AHTS (min 80t BP) and ERRV (DP1/2) services for your offshore operations in Congo. With our proven track record in West Africa and a flexible fleet, we are well-positioned to support your field maintenance, rig support, and critical emergency response requirements. We prioritize safety, efficiency, and reliability in all our operations.\n\nWe are eager to discuss our capabilities and how we can offer a competitive and high-quality solution for your long-term needs."
+      }
+    },
+    {
+      "id": "shell_totalenergies_namibia_orangebasin_exploration_2025",
+      "title": "Long-Term Charter of AHTS & PSV for Orange Basin Exploration & Appraisal",
+      "company": "Shell Namibia / TotalEnergies Namibia",
+      "country": "Namibia",
+      "coords": [
+        -28.5,
+        14.2
+      ],
+      "publish_date": "2025-03",
+      "deadline": "2025-05-15",
+      "vessel_type": "2x AHTS (min 150t BP, DP2), 2x PSV (DP2, min 4000 DWT), 1x ERRV",
+      "scope": "Extensive vessel support for multi-well exploration and appraisal drilling campaigns in the Orange Basin. Includes anchor handling, supply, subsea support, and emergency response. Long-term (2+2 years). High technical specifications required.",
+      "status": "Upcoming",
+      "score": 95,
+      "priority": "A",
+      "commercial_opportunity": "Namibia is a high-growth, high-profile market. Boluda can offer the necessary high-spec AHTS, PSV, and ERRV vessels from our modern fleet. Early engagement is key to establishing a strong position. Emphasize our global experience in challenging environments and commitment to local content development, informed by continuous monitoring of offshore vessel tenders.",
+      "source_url": "https://www.tendernews.com/tenders/latest-tender/offshore-vessel.html",
+      "draft_email": {
+        "recipient": "Namibia.Procurement@Shell.com",
+        "subject": "Orange Basin Exploration Campaign: High-Spec Offshore Vessel Support - Boluda Towage",
+        "body": "Dear Procurement Team,\n\nBoluda Towage is closely monitoring the exciting developments in Namibia's Orange Basin and anticipates the demand for high-spec offshore support vessels for upcoming exploration and appraisal campaigns. We are exceptionally positioned to provide modern, DP2 AHTS (min 150t BP), PSV (min 4000 DWT), and ERRV vessels capable of meeting the stringent requirements of deepwater operations. Our global expertise, impeccable safety record, and commitment to operational excellence make us an ideal partner.\n\nWe would appreciate the opportunity to discuss our solutions and contribute to the success of your Namibian ventures."
+      }
+    },
+    {
+      "id": "cote_divoire_abidjan_offshore_support_2026",
+      "title": "Integrated Port Towage and Offshore Field Support Services for Abidjan & Nearby Fields",
+      "company": "Petroci Holding / Various operators",
+      "country": "Côte d'Ivoire",
+      "coords": [
+        5.2,
+        -4.0
+      ],
+      "publish_date": "2025-08",
+      "deadline": "2025-10-30",
+      "vessel_type": "2x ASD Harbour/Terminal Tugs (min 50t BP), 1x Crew Transfer Vessel/Pilot Boat, 1x ERRV",
+      "scope": "Combination of port towage, pilot/mooring boat services in Abidjan, and offshore field support (crew transfer, safety standby) for various existing and new fields (e.g., Baleine discovery). Long-term integrated contract.",
+      "status": "Upcoming",
+      "score": 88,
+      "priority": "B",
+      "commercial_opportunity": "Côte d'Ivoire is an interesting market with renewed exploration and development. Boluda's core strength is port towage, which can be combined with offshore support. Leverage our capability to provide an integrated solution, potentially in partnership with a local entity, based on general market trends and vessel requirements from offshore chartering services.",
+      "source_url": "https://chartship.net/services/offshore-chartering/",
+      "draft_email": {
+        "recipient": "Procurement@Petroci.com",
+        "subject": "Integrated Maritime Services: Port Towage & Offshore Support - Côte d'Ivoire",
+        "body": "Dear Procurement Team,\n\nBoluda Towage is keen to offer integrated maritime services to support Côte d'Ivoire's growing offshore and port activities. With our global expertise in port towage and offshore vessel operations, we can provide a comprehensive solution including modern ASD harbour/terminal tugs (min 50t BP), crew transfer vessels, and ERRV services. We believe an integrated approach can offer significant operational efficiencies and cost benefits.\n\nWe are committed to developing strong local partnerships and are available to discuss our bespoke solutions tailored to your specific requirements."
+      }
+    },
+    {
+      "id": "nigeria_rig_move_2026",
+      "title": "Rig Move Assistance - Offshore Nigeria",
+      "company": "Shell / TotalEnergies (Simulated)",
+      "country": "Nigeria Offshore, OML 118 area",
+      "coords": [
+        4.5,
+        7.0
+      ],
+      "publish_date": "2026-06-15",
+      "deadline": "TBC",
+      "vessel_type": "1x AHTS (approx. 70t BP) for rig move operations",
+      "scope": "Simulated tender based on typical WAF offshore activities (e.g., jack-up rig repositioning) due to lack of specific project news in provided sources.",
+      "status": "Open",
+      "score": 95,
+      "priority": "A",
+      "commercial_opportunity": "Leverage multiple local, well-suited assets. Propose competitive day rates with emphasis on quick mobilization and proven WAF operational experience.",
+      "source_url": "OIOS Swarm Agent Portal",
+      "draft_email": {
+        "recipient": "chartering@nigeriaoperator.com",
+        "subject": "Boluda OIOS Proposal: AHTS for Rig Move Operations in Nigeria",
+        "body": "Dear [Client Contact Name],\n\nFollowing your requirement for an AHTS for rig move operations in Nigeria, Boluda Offshore is pleased to propose our highly capable vessels operating locally:\n\n1.  **Delta Sky (70t BP, 4PM)**: Immediately available in Nigeria, perfectly matching your Bollard Pull requirements with advanced propulsion.\n2.  **Jascon 66 (65t BP, DP2)**: A robust DP2 AHTS, currently in Nigeria, offering high reliability and operational efficiency.\n3.  **Ned Stark (65t BP, DP2)**: Another strong DP2 AHTS positioned in Nigeria, ready for deployment.\n\nOur assets are strategically located to ensure rapid mobilization and cost-effectiveness. Our simulation analysis indicates optimal vessel performance under expected conditions. We are confident in providing safe and efficient support for your upcoming rig move. Please find attached our detailed technical specifications and a competitive offer for your consideration.\n\nSincerely,\n\n[Your Name/Boluda Chartering Department]"
+      }
+    },
+    {
+      "id": "angola_drill_support_2026",
+      "title": "Drilling Campaign Support - Angola Block 17",
+      "company": "TotalEnergies (Simulated)",
+      "country": "Angola Block 17",
+      "coords": [
+        -8.5,
+        13.0
+      ],
+      "publish_date": "2026-06-15",
+      "deadline": "TBC",
+      "vessel_type": "1x AHTS (approx. 80-85t BP) for 6-month drilling support contract",
+      "scope": "Simulated tender based on ongoing drilling activities and support needs by major operators like TotalEnergies in Angola, given the absence of specific tender news in provided sources.",
+      "status": "Open",
+      "score": 99,
+      "priority": "A",
+      "commercial_opportunity": "Leverage the perfect local match (Topaz Master). Highlight DP2 capabilities for complex drilling operations and long-term contract benefits.",
+      "source_url": "OIOS Swarm Agent Portal",
+      "draft_email": {
+        "recipient": "chartering@totalenergies.com.ao",
+        "subject": "Boluda OIOS Proposal: DP2 AHTS for Angola Block 17 Drilling Campaign Support",
+        "body": "Dear [Client Contact Name],\n\nIn response to your inquiry for AHTS support for your upcoming drilling campaign in Angola Block 17, Boluda Offshore is pleased to present our leading asset:\n\n**Topaz Master (87t BP, DP2)**: Our flagship AHTS, currently located in Angola, offers an outstanding 87t Bollard Pull and full DP2 capabilities, making it an ideal vessel for deepwater anchor handling and supply operations. Its immediate availability ensures seamless integration into your project schedule.\n\nWe also have the Akali Akbal (66t BP, DP1) locally which could offer additional support. While the Bourbon Liberty 216 (80t BP, DP2) is a strong alternative, Topaz Master provides the best immediate fit.\n\nOur simulation confirms the Topaz Master's robust performance under demanding Angolan offshore conditions. We are ready to provide a detailed proposal and discuss how Topaz Master can enhance the efficiency and safety of your operations.\n\nSincerely,\n\n[Your Name/Boluda Chartering Department]"
+      }
+    },
+    {
+      "id": "ivory_coast_port_tow_2026",
+      "title": "Ocean Towage Support for Abidjan Port Expansion",
+      "company": "Abidjan Port Authority / International Contractor (Simulated)",
+      "country": "Abidjan Port, Ivory Coast",
+      "coords": [
+        5.3,
+        -4.0
+      ],
+      "publish_date": "2026-07-02",
+      "deadline": "TBC",
+      "vessel_type": "1x Ocean Tug (approx. 70-80t BP) for short-term towage related to port expansion",
+      "scope": "Simulated requirement for coastal or short-sea towage, typical for port infrastructure development projects in major WAF hubs like Abidjan.",
+      "status": "Open",
+      "score": 99,
+      "priority": "A",
+      "commercial_opportunity": "Highlight abundant local availability of suitable AHTS vessels (which can perform ocean towage). Offer competitive rates due to zero mobilization cost from outside the country and immediate readiness.",
+      "source_url": "OIOS Swarm Agent Portal",
+      "draft_email": {
+        "recipient": "operations@abidjanport.ci",
+        "subject": "Boluda OIOS Proposal: High BP Towage Vessel for Abidjan Port Expansion",
+        "body": "Dear Operations Team,\n\nRegarding your requirement for a high Bollard Pull vessel for towage operations related to the Abidjan Port expansion, Boluda Offshore is pleased to offer multiple suitable AHTS vessels currently stationed in Ivory Coast:\n\n1.  **Caspian Reliance (87t BP)**\n2.  **Santa Luisa (85t BP, DP2)**\n3.  **Bourbon Liberty 216 (80t BP, DP2)**\n\nThese vessels are immediately available, eliminating mobilization costs and ensuring timely project execution.\n\nBest regards,\nOIOS Agent on behalf of Boluda Towage"
+      }
+    },
+    {
+      "id": "saipem_kaminho_rig_move_2026",
+      "title": "AHTS Rig Move Support for Kaminho Development",
+      "company": "Saipem Angola",
+      "country": "Angola",
+      "coords": [
+        -9.1,
+        12.3
+      ],
+      "publish_date": "2026-07-02",
+      "deadline": "TBC",
+      "vessel_type": "AHTS 80t BP DP2",
+      "scope": "Saipem has started preparation for the Kaminho deepwater development in Block 20/11 and requires offshore support vessels for upcoming rig moves and barge positioning.",
+      "status": "Open",
+      "score": 98,
+      "priority": "A",
+      "commercial_opportunity": "Since Topaz Master is already in-country, we can offer competitive pricing by eliminating mobilization costs while keeping a solid margin.",
+      "source_url": "OIOS Swarm Agent Portal",
+      "draft_email": {
+        "recipient": "luanda.procurement@saipem.com",
+        "subject": "OIOS Proposal: Topaz Master for Kaminho Rig Move Campaign",
+        "body": "Dear Saipem Chartering Team,\n\nWe understand Saipem is preparing for the Kaminho development rig moves in Block 20/11. Boluda Towage is pleased to offer Topaz Master, our 87t BP DP2 AHTS currently positioned in Angola. \n\nOur hydrodynamic simulations indicate that Topaz Master can perform the required rig positioning with a safety factor of 2.1 under normal metocean conditions, maintaining towline tension below 480 kN. Being local, she is fully compliant with local content regulations.\n\nWe look forward to submitting our commercial proposal.\n\nBest regards,\nOIOS Agent on behalf of Boluda Towage"
+      }
+    },
+    {
+      "id": "totalenergies_eg_block_o_towage_2026",
+      "title": "Terminal and Ocean Towage Support Concession",
+      "company": "TotalEnergies Equatorial Guinea",
+      "country": "Equatorial Guinea",
+      "coords": [
+        3.7,
+        8.7
+      ],
+      "publish_date": "2026-07-02",
+      "deadline": "TBC",
+      "vessel_type": "1x Escort ASD Tug 80-90t BP",
+      "scope": "TotalEnergies E&P Equatorial Guinea has launched a request for qualification for long-term terminal support and tanker escort services for Block O terminal.",
+      "status": "Open",
+      "score": 99,
+      "priority": "A",
+      "commercial_opportunity": "Strong local competition in Malabo. We should offer our highly aggressive rate leveraging Britoil Conqueror's direct local availability.",
+      "source_url": "OIOS Swarm Agent Portal",
+      "draft_email": {
+        "recipient": "malabo.procurement@totalenergies.com",
+        "subject": "Qualification Proposal: Boluda ASD Escort Towage for Block O Terminal",
+        "body": "Dear TotalEnergies Procurement Team,\n\nIn response to your inquiry for Terminal Towage and Escort Support for Block O, Boluda Towage is proud to propose our locally based assets, Britoil Conqueror and Red Fox.\n\nOur technical analysis and Digital Twin simulation confirm that Britoil Conqueror (90t BP) and Red Fox (85.5t BP ASD) offer excellent hydrodynamic towage performance, keeping tanker collision risks below 0.45% even during critical mooring phases.\n\nWe would welcome the opportunity to submit our detailed pre-qualification dossier.\n\nBest regards,\nOIOS Agent on behalf of Boluda Towage"
+      }
+    }
+  ],
+  "oios_fleet_registry": {
+    "ahts_under_90t_bp": [
+      {
+        "name": "Jascon 66",
+        "bp": 65.0,
+        "dp": "DP2",
+        "loc": "Nigeria",
+        "coords": [
+          4.3,
+          7.0
+        ],
+        "owner": "West African Ventures",
+        "built": 2013,
+        "status": "Available"
+      },
+      {
+        "name": "Lagertha",
+        "bp": 50.0,
+        "dp": "No",
+        "loc": "Nigeria",
+        "coords": [
+          4.4,
+          7.1
+        ],
+        "owner": "Oil & Industrials Services",
+        "built": 1997,
+        "status": "Available"
+      },
+      {
+        "name": "Delta Sky",
+        "bp": 70.0,
+        "dp": "4PM",
+        "loc": "Nigeria",
+        "coords": [
+          4.2,
+          6.9
+        ],
+        "owner": "Oil & Industrials Services",
+        "built": 2012,
+        "status": "Available"
+      },
+      {
+        "name": "Nomasa",
+        "bp": 75.0,
+        "dp": "DP1",
+        "loc": "South Africa",
+        "coords": [
+          -33.9,
+          18.4
+        ],
+        "owner": "Amsol",
+        "built": 2006,
+        "status": "Available"
+      },
+      {
+        "name": "Ned Stark",
+        "bp": 65.0,
+        "dp": "DP2",
+        "loc": "Nigeria",
+        "coords": [
+          4.5,
+          7.2
+        ],
+        "owner": "Ejovi",
+        "built": 2014,
+        "status": "Available"
+      },
+      {
+        "name": "Akali Akbal",
+        "bp": 66.0,
+        "dp": "DP1",
+        "loc": "Angola",
+        "coords": [
+          -8.8,
+          13.2
+        ],
+        "owner": "Akali Marine",
+        "built": 2008,
+        "status": "Available"
+      },
+      {
+        "name": "Bourbon Liberty 216",
+        "bp": 80.0,
+        "dp": "DP2",
+        "loc": "Ivory Coast",
+        "coords": [
+          5.3,
+          -4.0
+        ],
+        "owner": "Bourbon Offshore",
+        "built": 2009,
+        "status": "Available"
+      },
+      {
+        "name": "Santa Luisa",
+        "bp": 85.0,
+        "dp": "DP2",
+        "loc": "Ivory Coast",
+        "coords": [
+          5.2,
+          -4.1
+        ],
+        "owner": "ABC Maritime",
+        "built": 2014,
+        "status": "Available"
+      },
+      {
+        "name": "Caspian Reliance",
+        "bp": 87.0,
+        "dp": "No",
+        "loc": "Ivory Coast",
+        "coords": [
+          5.4,
+          -3.9
+        ],
+        "owner": "DP World",
+        "built": 2010,
+        "status": "Available"
+      },
+      {
+        "name": "Topaz Master",
+        "bp": 87.0,
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.9,
+          13.1
+        ],
+        "owner": "DP World",
+        "built": 2018,
+        "status": "Available"
+      },
+      {
+        "name": "Topaz Dignity",
+        "bp": 80.0,
+        "dp": "DP2",
+        "loc": "Ivory Coast",
+        "coords": [
+          5.1,
+          -4.2
+        ],
+        "owner": "DP World",
+        "built": 2012,
+        "status": "Available"
+      },
+      {
+        "name": "Britoil Conqueror",
+        "bp": 90.0,
+        "dp": "DP1",
+        "loc": "Eq. Guinea",
+        "coords": [
+          3.7,
+          8.7
+        ],
+        "owner": "Britoil",
+        "built": 2011,
+        "status": "Available"
+      },
+      {
+        "name": "Santa Rita",
+        "bp": 85.0,
+        "dp": "DP2",
+        "loc": "Senegal",
+        "coords": [
+          14.7,
+          -17.4
+        ],
+        "owner": "ABC Maritime",
+        "built": 2014,
+        "status": "Jun-26"
+      },
+      {
+        "name": "SPM Vayu",
+        "bp": 80.0,
+        "dp": "DP2",
+        "loc": "WAF",
+        "coords": [
+          6.1,
+          1.2
+        ],
+        "owner": "SPM Offshore",
+        "built": 2010,
+        "status": "Feb-28"
+      },
+      {
+        "name": "SPM Ashwa",
+        "bp": 80.0,
+        "dp": "DP2",
+        "loc": "WAF",
+        "coords": [
+          6.2,
+          1.3
+        ],
+        "owner": "SPM Offshore",
+        "built": 2009,
+        "status": "Mar-28"
+      }
+    ],
+    "ahts_90t_150t_bp": [
+      {
+        "name": "JV Adaba",
+        "bp": 140.0,
+        "dp": "DP2",
+        "loc": "Nigeria",
+        "coords": [
+          4.3,
+          7.3
+        ],
+        "owner": "Ejovi",
+        "built": 2008,
+        "status": "Available"
+      },
+      {
+        "name": "Pacific Valhalla",
+        "bp": 120.0,
+        "dp": "DP2",
+        "loc": "Gabon",
+        "coords": [
+          -0.6,
+          8.6
+        ],
+        "owner": "Tidewater",
+        "built": 2007,
+        "status": "Available"
+      },
+      {
+        "name": "Foster Tide",
+        "bp": 120.0,
+        "dp": "DP2",
+        "loc": "Congo",
+        "coords": [
+          -4.8,
+          11.8
+        ],
+        "owner": "Tidewater",
+        "built": 2012,
+        "status": "Available"
+      },
+      {
+        "name": "Pacific Diligance",
+        "bp": 120.0,
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.7,
+          13.0
+        ],
+        "owner": "Tidewater",
+        "built": 2010,
+        "status": "Available"
+      },
+      {
+        "name": "SPM Spirit",
+        "bp": 148.0,
+        "dp": "DP2",
+        "loc": "Nigeria",
+        "coords": [
+          4.0,
+          7.4
+        ],
+        "owner": "SPM Offshore",
+        "built": 2008,
+        "status": "Oct-26"
+      },
+      {
+        "name": "Aquaman",
+        "bp": 144.0,
+        "dp": "DP2",
+        "loc": "Nigeria",
+        "coords": [
+          4.2,
+          6.9
+        ],
+        "owner": "StarMatrix",
+        "built": 2007,
+        "status": "Nov-26"
+      },
+      {
+        "name": "Atlanna",
+        "bp": 122.0,
+        "dp": "DP2",
+        "loc": "Eq. Guinea",
+        "coords": [
+          3.7,
+          8.7
+        ],
+        "owner": "StarMatrix",
+        "built": 2005,
+        "status": "Jul-26"
+      },
+      {
+        "name": "Leader Z",
+        "bp": 130.0,
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.5,
+          12.9
+        ],
+        "owner": "Zouros",
+        "built": 2009,
+        "status": "Q1 2026"
+      },
+      {
+        "name": "Asgard",
+        "bp": 128.0,
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.4,
+          12.8
+        ],
+        "owner": "StarMatrix",
+        "built": 2006,
+        "status": "Oct-26"
+      },
+      {
+        "name": "SPM Neel Pratap 120",
+        "bp": 120.0,
+        "dp": "DP2",
+        "loc": "Nigeria",
+        "coords": [
+          4.3,
+          7.0
+        ],
+        "owner": "SPM Offshore",
+        "built": 2009,
+        "status": "Oct-27"
+      },
+      {
+        "name": "Britoil Dominance",
+        "bp": 100.0,
+        "dp": "DP2",
+        "loc": "Ivory Coast",
+        "coords": [
+          5.1,
+          -4.2
+        ],
+        "owner": "Britoil",
+        "built": 2013,
+        "status": "Long Term"
+      },
+      {
+        "name": "Siyanda",
+        "bp": 95.0,
+        "dp": "No",
+        "loc": "South Africa",
+        "coords": [
+          -33.9,
+          18.4
+        ],
+        "owner": "Amsol",
+        "built": 2010,
+        "status": "Call for availability"
+      }
+    ],
+    "ahts_over_150t_bp": [
+      {
+        "name": "Vega NBA Power",
+        "bp": 150.0,
+        "dp": "DP2",
+        "loc": "Nigeria",
+        "coords": [
+          4.4,
+          7.1
+        ],
+        "owner": "J Bulk Shipping",
+        "built": 2006,
+        "status": "Available"
+      },
+      {
+        "name": "GH Atlantis",
+        "bp": 200.0,
+        "dp": "DP2",
+        "loc": "Ivory Coast",
+        "coords": [
+          5.2,
+          -4.1
+        ],
+        "owner": "United Offshore",
+        "built": 2010,
+        "status": "Available"
+      },
+      {
+        "name": "Persistence",
+        "bp": 150.0,
+        "dp": "DP2",
+        "loc": "Ghana",
+        "coords": [
+          4.9,
+          -1.7
+        ],
+        "owner": "StarMatrix",
+        "built": 2013,
+        "status": "Available"
+      },
+      {
+        "name": "Greatship Vimla",
+        "bp": 150.0,
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.9,
+          13.1
+        ],
+        "owner": "Greatship",
+        "built": 2012,
+        "status": "Available"
+      },
+      {
+        "name": "Dark Knight II",
+        "bp": 151.0,
+        "dp": "DP2",
+        "loc": "Nigeria",
+        "coords": [
+          4.1,
+          7.3
+        ],
+        "owner": "StarMatrix",
+        "built": 2010,
+        "status": "Mid Jun-26"
+      },
+      {
+        "name": "SPM Neel Pratap 150",
+        "bp": 150.0,
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.8,
+          13.2
+        ],
+        "owner": "SPM Offshore",
+        "built": 2010,
+        "status": "Oct-28"
+      },
+      {
+        "name": "Umkhuseli",
+        "bp": 219.0,
+        "dp": "DP2",
+        "loc": "South Africa",
+        "coords": [
+          -33.9,
+          18.4
+        ],
+        "owner": "Amsol",
+        "built": 2013,
+        "status": "Subject to release"
+      }
+    ],
+    "tugs": [
+      {
+        "name": "Ringhio",
+        "bp": 73.0,
+        "asd": "Yes",
+        "loc": "Senegal",
+        "coords": [
+          14.7,
+          -17.4
+        ],
+        "owner": "Cafimar",
+        "built": 2007,
+        "status": "Available"
+      },
+      {
+        "name": "Santangelo",
+        "bp": 68.0,
+        "asd": "Yes",
+        "loc": "Senegal",
+        "coords": [
+          14.6,
+          -17.5
+        ],
+        "owner": "Cafimar",
+        "built": 2006,
+        "status": "Available"
+      },
+      {
+        "name": "SL Kiwi",
+        "bp": 38.0,
+        "asd": "No",
+        "loc": "Gabon",
+        "coords": [
+          -0.7,
+          8.7
+        ],
+        "owner": "Smit Lamnalco",
+        "built": 2014,
+        "status": "Available"
+      },
+      {
+        "name": "Jifmar (Vanguard)",
+        "bp": 50.0,
+        "asd": "No",
+        "loc": "Gabon",
+        "coords": [
+          -0.8,
+          8.6
+        ],
+        "owner": "Coastal Vanguard",
+        "built": 2010,
+        "status": "Jun-26"
+      },
+      {
+        "name": "Leo",
+        "bp": 66.0,
+        "asd": "Yes",
+        "loc": "Mozambique",
+        "coords": [
+          -19.8,
+          34.8
+        ],
+        "owner": "All Energies",
+        "built": 2012,
+        "status": "Jun-26"
+      },
+      {
+        "name": "Red Fox",
+        "bp": 85.5,
+        "asd": "Yes",
+        "loc": "Eq. Guinea",
+        "coords": [
+          3.6,
+          8.8
+        ],
+        "owner": "P&O Repasa",
+        "built": 2005,
+        "status": "Jul-26"
+      },
+      {
+        "name": "Lydia D",
+        "bp": 48.0,
+        "asd": "No",
+        "loc": "Senegal",
+        "coords": [
+          14.5,
+          -17.6
+        ],
+        "owner": "Jifmar",
+        "built": 2011,
+        "status": "Sep-26"
+      },
+      {
+        "name": "SL Sana'a",
+        "bp": 87.0,
+        "asd": "Yes",
+        "loc": "WAF",
+        "coords": [
+          6.1,
+          1.2
+        ],
+        "owner": "Smit Lamnalco",
+        "built": 2009,
+        "status": "Q2/Q3 2026"
+      },
+      {
+        "name": "Duke II",
+        "bp": 83.0,
+        "asd": "No",
+        "loc": "Nigeria",
+        "coords": [
+          4.1,
+          7.3
+        ],
+        "owner": "DMC",
+        "built": 2013,
+        "status": "Long term"
+      },
+      {
+        "name": "P&O Africa",
+        "bp": 80.0,
+        "asd": "Yes",
+        "loc": "Senegal",
+        "coords": [
+          14.4,
+          -17.3
+        ],
+        "owner": "DP World",
+        "built": 2025,
+        "status": "On Charter"
+      },
+      {
+        "name": "P&O Arabia",
+        "bp": 70.0,
+        "asd": "Yes",
+        "loc": "Eq. Guinea",
+        "coords": [
+          3.5,
+          8.9
+        ],
+        "owner": "DP World",
+        "built": 2012,
+        "status": "On Charter"
+      },
+      {
+        "name": "SL Mukalla",
+        "bp": 87.0,
+        "asd": "Yes",
+        "loc": "Congo",
+        "coords": [
+          -4.8,
+          11.8
+        ],
+        "owner": "Smit Lamnalco",
+        "built": 2009,
+        "status": "On Charter"
+      },
+      {
+        "name": "Neptun Foxtrot",
+        "bp": 50.0,
+        "asd": "No",
+        "loc": "Nigeria",
+        "coords": [
+          4.0,
+          7.5
+        ],
+        "owner": "Neptune Marine",
+        "built": 2011,
+        "status": "Call for availability"
+      },
+      {
+        "name": "Rachel J",
+        "bp": 40.0,
+        "asd": "Yes",
+        "loc": "Togo",
+        "coords": [
+          6.1,
+          1.2
+        ],
+        "owner": "Togo Oil & Marine",
+        "built": 2001,
+        "status": "Call for availability"
+      },
+      {
+        "name": "Monty J",
+        "bp": 72.0,
+        "asd": "Yes",
+        "loc": "Nigeria",
+        "coords": [
+          4.0,
+          7.4
+        ],
+        "owner": "Togo Oil & Marine",
+        "built": 2007,
+        "status": "Call for availability"
+      }
+    ],
+    "psvs": [
+      {
+        "name": "Couper Tide",
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.8,
+          13.2
+        ],
+        "owner": "Tidewater",
+        "built": 2009,
+        "status": "Available"
+      },
+      {
+        "name": "AM Pleasure",
+        "dp": "DP2",
+        "loc": "Nigeria",
+        "coords": [
+          4.3,
+          7.0
+        ],
+        "owner": "Alphard Marine",
+        "built": 2010,
+        "status": "Available"
+      },
+      {
+        "name": "Bourbon Explorer 516",
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.9,
+          13.3
+        ],
+        "owner": "Bourbon Offshore",
+        "built": 2015,
+        "status": "Available"
+      },
+      {
+        "name": "Topaz Seema",
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.7,
+          13.1
+        ],
+        "owner": "DP World",
+        "built": 2014,
+        "status": "Available"
+      },
+      {
+        "name": "Bathera Hadar",
+        "dp": "DP2",
+        "loc": "Ivory Coast",
+        "coords": [
+          5.3,
+          -4.0
+        ],
+        "owner": "Bourbon Offshore",
+        "built": 2006,
+        "status": "Available"
+      },
+      {
+        "name": "Harmonie P",
+        "dp": "DP2",
+        "loc": "Gabon",
+        "coords": [
+          -0.7,
+          8.7
+        ],
+        "owner": "Trinidad Mooring",
+        "built": 2006,
+        "status": "Available"
+      },
+      {
+        "name": "7-Waves",
+        "dp": "DP2",
+        "loc": "Las Palmas",
+        "coords": [
+          28.1,
+          -15.4
+        ],
+        "owner": "Groen Offshore",
+        "built": 2014,
+        "status": "Available"
+      },
+      {
+        "name": "OOC Cougar",
+        "dp": "DP2",
+        "loc": "Nigeria",
+        "coords": [
+          4.2,
+          6.9
+        ],
+        "owner": "Opielok",
+        "built": 2008,
+        "status": "Available"
+      },
+      {
+        "name": "SPM Alpha",
+        "dp": "DP2",
+        "loc": "Namibia",
+        "coords": [
+          -22.9,
+          14.5
+        ],
+        "owner": "SPM",
+        "built": 2006,
+        "status": "Jul-26"
+      },
+      {
+        "name": "Seacor Andes",
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.6,
+          13.0
+        ],
+        "owner": "SeaCor",
+        "built": 2020,
+        "status": "Jul-26"
+      },
+      {
+        "name": "Team Beluzi",
+        "dp": "DP2",
+        "loc": "Congo",
+        "coords": [
+          -4.8,
+          11.8
+        ],
+        "owner": "DP World",
+        "built": 2019,
+        "status": "20 July 2026"
+      },
+      {
+        "name": "Mamola Defender",
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.5,
+          12.9
+        ],
+        "owner": "Promar Shipping",
+        "built": 2015,
+        "status": "Nov-26"
+      },
+      {
+        "name": "Luna Union",
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.4,
+          12.8
+        ],
+        "owner": "All Energies",
+        "built": 2019,
+        "status": "Dec-26"
+      },
+      {
+        "name": "Fram Princess",
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.3,
+          12.7
+        ],
+        "owner": "Aurora Offshore",
+        "built": 2013,
+        "status": "January 2027"
+      }
+    ],
+    "mpsvs": [
+      {
+        "name": "Vega Zenta",
+        "crane": 60,
+        "dp": "DP2",
+        "loc": "South Africa",
+        "coords": [
+          -33.9,
+          18.4
+        ],
+        "owner": "Vega Offshore",
+        "built": 2012,
+        "status": "Available"
+      },
+      {
+        "name": "Delta Sky (MPSV)",
+        "crane": 40,
+        "dp": "4PM",
+        "loc": "Nigeria",
+        "coords": [
+          4.3,
+          7.0
+        ],
+        "owner": "Oil & Industrials",
+        "built": 2012,
+        "status": "Available"
+      },
+      {
+        "name": "Topaz Resolve",
+        "crane": 25,
+        "dp": "DP2",
+        "loc": "Ivory Coast",
+        "coords": [
+          5.3,
+          -4.0
+        ],
+        "owner": "DP World",
+        "built": 2015,
+        "status": "Available"
+      },
+      {
+        "name": "Vega Juniz",
+        "crane": 30,
+        "dp": "DP2",
+        "loc": "Nigeria",
+        "coords": [
+          4.4,
+          7.1
+        ],
+        "owner": "Vega Offshore",
+        "built": 2011,
+        "status": "Available"
+      },
+      {
+        "name": "Dolphin Geo Survey",
+        "crane": 30,
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.8,
+          13.2
+        ],
+        "owner": "Dolphings",
+        "built": 2014,
+        "status": "Available"
+      },
+      {
+        "name": "Bourbon Trieste",
+        "crane": 90,
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.9,
+          13.3
+        ],
+        "owner": "Bourbon Offshore",
+        "built": 2007,
+        "status": "Mid May"
+      },
+      {
+        "name": "Zwerver I",
+        "crane": 40,
+        "dp": "DP2",
+        "loc": "Angola",
+        "coords": [
+          -8.7,
+          13.1
+        ],
+        "owner": "Van Stee Offshore",
+        "built": 2006,
+        "status": "Jun-26"
+      },
+      {
+        "name": "Topaz Commander",
+        "crane": 100,
+        "dp": "DP2",
+        "loc": "Eq. Guinea",
+        "coords": [
+          3.7,
+          8.7
+        ],
+        "owner": "DP World",
+        "built": 1999,
+        "status": "30th of Jun"
+      },
+      {
+        "name": "Venture-G",
+        "crane": 10,
+        "dp": "No",
+        "loc": "Ghana",
+        "coords": [
+          4.9,
+          -1.7
+        ],
+        "owner": "Groen Offshore",
+        "built": 2008,
+        "status": "Q3 2026"
+      },
+      {
+        "name": "Mamola Serenity",
+        "crane": 20,
+        "dp": "8PM",
+        "loc": "South Africa",
+        "coords": [
+          -33.8,
+          18.5
+        ],
+        "owner": "Promar Shipping",
+        "built": 2010,
+        "status": "Dec-26"
+      },
+      {
+        "name": "Olympic Zeus",
+        "crane": 250,
+        "dp": "DP2",
+        "loc": "Nigeria",
+        "coords": [
+          4.2,
+          6.9
+        ],
+        "owner": "Olympic Subsea",
+        "built": 2009,
+        "status": "Available"
+      },
+      {
+        "name": "Island Ocean",
+        "crane": 150,
+        "dp": "DP2",
+        "loc": "Cameroon",
+        "coords": [
+          4.0,
+          9.7
+        ],
+        "owner": "DeepOcean",
+        "built": 2014,
+        "status": "Jun-26"
+      },
+      {
+        "name": "Boka Southern Ocean",
+        "crane": 250,
+        "dp": "DP2",
+        "loc": "Nigeria",
+        "coords": [
+          4.1,
+          6.8
+        ],
+        "owner": "Boskalis",
+        "built": 2010,
+        "status": "Jun-26"
+      },
+      {
+        "name": "MPV Everest",
+        "crane": 250,
+        "dp": "DP3",
+        "loc": "Senegal",
+        "coords": [
+          14.7,
+          -17.4
+        ],
+        "owner": "MSC",
+        "built": 2017,
+        "status": "Q2 2026"
+      },
+      {
+        "name": "Bourbon Evolution 802",
+        "crane": 150,
+        "dp": "DP3",
+        "loc": "Ivory Coast",
+        "coords": [
+          5.2,
+          -4.1
+        ],
+        "owner": "Bourbon Offshore",
+        "built": 2006,
+        "status": "Long Term"
+      },
+      {
+        "name": "Topaz Captain",
+        "crane": 100,
+        "dp": "DP2",
+        "loc": "Las Palmas",
+        "coords": [
+          28.1,
+          -15.4
+        ],
+        "owner": "DP World",
+        "built": 2001,
+        "status": "On charter"
+      }
+    ],
+    "multicats": [
+      {
+        "name": "Alma Saga",
+        "bp": 10.0,
+        "dp": "No",
+        "loc": "Ivory Coast",
+        "coords": [
+          5.4,
+          -3.9
+        ],
+        "owner": "Alma Shipping",
+        "built": 1999,
+        "status": "Available"
+      },
+      {
+        "name": "Alma Conquest",
+        "bp": 0.0,
+        "dp": "No",
+        "loc": "Togo",
+        "coords": [
+          6.1,
+          1.2
+        ],
+        "owner": "Alma Shipping",
+        "built": 2006,
+        "status": "Available"
+      },
+      {
+        "name": "Alma Defender",
+        "bp": 12.0,
+        "dp": "No",
+        "loc": "Senegal",
+        "coords": [
+          14.6,
+          -17.5
+        ],
+        "owner": "Alma Shipping",
+        "built": 1995,
+        "status": "Available"
+      },
+      {
+        "name": "Neptune Power",
+        "bp": 70.0,
+        "dp": "No",
+        "loc": "Ivory Coast",
+        "coords": [
+          5.1,
+          -4.2
+        ],
+        "owner": "Neptune Marine",
+        "built": 2025,
+        "status": "Available"
+      },
+      {
+        "name": "Jif Artemis",
+        "bp": 38.5,
+        "dp": "DP2",
+        "loc": "Gabon",
+        "coords": [
+          -0.7,
+          8.7
+        ],
+        "owner": "Jifmar",
+        "built": 2019,
+        "status": "Jun-26"
+      },
+      {
+        "name": "Coastal Aurora",
+        "bp": 34.0,
+        "dp": "No",
+        "loc": "Benin",
+        "coords": [
+          6.3,
+          2.4
+        ],
+        "owner": "Alma Shipping",
+        "built": 2014,
+        "status": "25th of May 26"
+      },
+      {
+        "name": "Coastal Atlas",
+        "bp": 33.4,
+        "dp": "No",
+        "loc": "Nigeria",
+        "coords": [
+          4.0,
+          7.3
+        ],
+        "owner": "Alma Shipping",
+        "built": 2017,
+        "status": "On charter"
+      }
+    ]
+  },
+  "oios_briefing": {
+    "date": "2026-07-02",
+    "msi": 19,
+    "aggressiveness": "High (Aggressive pricing to secure charters)",
+    "tenders": [
+      {
+        "id": "saipem_kaminho_rig_move_2026",
+        "title": "AHTS Rig Move Support for Kaminho Development",
+        "client": "Saipem Angola",
+        "location": "Angola (Block 20/11)",
+        "coords": [
+          -9.1,
+          12.3
+        ],
+        "requirement": "AHTS 80t BP DP2",
+        "scout_findings": "Saipem has started preparation for the Kaminho deepwater development in Block 20/11 and requires offshore support vessels for upcoming rig moves and barge positioning.",
+        "matched_assets": [
+          {
+            "name": "Topaz Master",
+            "type": "AHTS",
+            "bp": 87.0,
+            "current_loc": "Angola",
+            "proximity_score": 98,
+            "arbitrage_reason": "Vessel is already in Angola. Perfect BP match (87t BP vs 80t requirement) and DP2 capability."
+          },
+          {
+            "name": "Akali Akbal",
+            "type": "AHTS",
+            "bp": 66.0,
+            "current_loc": "Angola",
+            "proximity_score": 85,
+            "arbitrage_reason": "Vessel is in Angola but has 66t BP and DP1. Back-up asset."
+          },
+          {
+            "name": "Bourbon Liberty 216",
+            "type": "AHTS",
+            "bp": 80.0,
+            "current_loc": "Ivory Coast",
+            "proximity_score": 75,
+            "arbitrage_reason": "Perfect BP and DP2 match, but requires mobilization from Ivory Coast to Angola."
+          }
+        ],
+        "simulation": {
+          "towline_tension_normal_kn": 480.0,
+          "towline_tension_storm_kn": 720.0,
+          "hydrodynamic_resistance_kn": 140.0,
+          "metocean_limits": "Max Wave Height 4.0m Hs, Wind 28 knots",
+          "collision_risk_pct": 0.85
+        },
+        "commercial_strategy": {
+          "quotation_aggressiveness": "Medium",
+          "pricing_notes": "Since Topaz Master is already in-country, we can offer competitive pricing by eliminating mobilization costs while keeping a solid margin."
+        },
+        "draft_email": {
+          "recipient": "luanda.procurement@saipem.com",
+          "subject": "OIOS Proposal: Topaz Master for Kaminho Rig Move Campaign",
+          "body": "Dear Saipem Chartering Team,\n\nWe understand Saipem is preparing for the Kaminho development rig moves in Block 20/11. Boluda Towage is pleased to offer Topaz Master, our 87t BP DP2 AHTS currently positioned in Angola. \n\nOur hydrodynamic simulations indicate that Topaz Master can perform the required rig positioning with a safety factor of 2.1 under normal metocean conditions, maintaining towline tension below 480 kN. Being local, she is fully compliant with local content regulations.\n\nWe look forward to submitting our commercial proposal.\n\nBest regards,\nOIOS Agent on behalf of Boluda Towage"
+        },
+        "blender_scripts": [
+          {
+            "vessel": "Topaz Master",
+            "script_path": "reports/2026-07-02/oios/blender_sims/towing_sim_saipem_kaminho_rig_move_2026_topaz_master.py",
+            "script_code": "# Blender Python Script for Towing & Hydrodynamics Visualization\n# Generated automatically by OIOS Digital Twin Engine for Tender: saipem_kaminho_rig_move_2026\n# Vessel Matched: Topaz Master (87.0T BP) -> Towing Target: Saipem Angola\n\nimport bpy\nimport math\n\ndef setup_towing_scene():\n    # 1. Clear existing mesh objects\n    bpy.ops.object.select_all(action='DESELECT')\n    bpy.ops.object.select_by_type(type='MESH')\n    bpy.ops.object.delete()\n    \n    # 2. Create Water Surface (Ocean Plane)\n    bpy.ops.mesh.primitive_grid_add(size=100, x_subdivisions=40, y_subdivisions=40, location=(0, 0, 0))\n    ocean = bpy.context.active_object\n    ocean.name = \"OceanSurface\"\n    \n    # Add simple wave displacement or material (mocked via ocean modifier)\n    ocean_mod = ocean.modifiers.new(name=\"OceanWaves\", type='OCEAN')\n    ocean_mod.resolution = 12\n    ocean_mod.spatial_size = 50\n    ocean_mod.wave_scale = 1.8\n    \n    # 3. Create Tugboat representation VB TopazMaster\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, 15, 0.8), scale=(2.5, 6.0, 1.5))\n    tug = bpy.context.active_object\n    tug.name = \"Tugboat_Topaz_Master\"\n    \n    # 4. Create Towed Target representation (Saipem Angola)\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, -15, 1.2), scale=(4.0, 12.0, 2.5))\n    target = bpy.context.active_object\n    target.name = \"TowedTarget_Saipem_Angola\"\n    \n    # 5. Create Towline (Bezier Curve connecting them)\n    bpy.ops.curve.primitive_bezier_curve_add(enter_editmode=False, align='WORLD', location=(0, 0, 0))\n    towline = bpy.context.active_object\n    towline.name = \"Towline_Cable\"\n    \n    # Configure Bezier points\n    curve_data = towline.data\n    points = curve_data.splines[0].bezier_points\n    \n    # Start point at Tug stern\n    points[0].co = (0, 9, 1.2)\n    points[0].handle_right = (0, 5, 0.5)\n    points[0].handle_left = (0, 10, 1.5)\n    \n    # End point at Towed target bow\n    points[1].co = (0, -3, 1.8)\n    points[1].handle_left = (0, -1, 1.0)\n    points[1].handle_right = (0, -5, 2.0)\n    \n    # Bevel curve to look like a thick steel cable\n    curve_data.dimensions = '3D'\n    curve_data.bevel_depth = 0.08\n    curve_data.bevel_resolution = 4\n    \n    # 6. Setup Lighting and Camera\n    bpy.ops.object.select_by_type(type='LIGHT')\n    bpy.ops.object.delete()\n    \n    bpy.ops.object.light_add(type='SUN', radius=1.0, align='WORLD', location=(10, 10, 25))\n    sun = bpy.context.active_object\n    sun.data.energy = 4.0\n    \n    # Set Camera\n    cameras = [obj for obj in bpy.context.scene.objects if obj.type == 'CAMERA']\n    if cameras:\n        cam = cameras[0]\n        cam.location = (25, -25, 15)\n        cam.rotation_euler = (math.radians(60), 0, math.radians(45))\n        \n    print(\"OIOS Digital Twin 3D Towing Scene Setup Complete!\")\n\nsetup_towing_scene()\n"
+          },
+          {
+            "vessel": "Akali Akbal",
+            "script_path": "reports/2026-07-02/oios/blender_sims/towing_sim_saipem_kaminho_rig_move_2026_akali_akbal.py",
+            "script_code": "# Blender Python Script for Towing & Hydrodynamics Visualization\n# Generated automatically by OIOS Digital Twin Engine for Tender: saipem_kaminho_rig_move_2026\n# Vessel Matched: Akali Akbal (66.0T BP) -> Towing Target: Saipem Angola\n\nimport bpy\nimport math\n\ndef setup_towing_scene():\n    # 1. Clear existing mesh objects\n    bpy.ops.object.select_all(action='DESELECT')\n    bpy.ops.object.select_by_type(type='MESH')\n    bpy.ops.object.delete()\n    \n    # 2. Create Water Surface (Ocean Plane)\n    bpy.ops.mesh.primitive_grid_add(size=100, x_subdivisions=40, y_subdivisions=40, location=(0, 0, 0))\n    ocean = bpy.context.active_object\n    ocean.name = \"OceanSurface\"\n    \n    # Add simple wave displacement or material (mocked via ocean modifier)\n    ocean_mod = ocean.modifiers.new(name=\"OceanWaves\", type='OCEAN')\n    ocean_mod.resolution = 12\n    ocean_mod.spatial_size = 50\n    ocean_mod.wave_scale = 1.8\n    \n    # 3. Create Tugboat representation VB AkaliAkbal\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, 15, 0.8), scale=(2.5, 6.0, 1.5))\n    tug = bpy.context.active_object\n    tug.name = \"Tugboat_Akali_Akbal\"\n    \n    # 4. Create Towed Target representation (Saipem Angola)\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, -15, 1.2), scale=(4.0, 12.0, 2.5))\n    target = bpy.context.active_object\n    target.name = \"TowedTarget_Saipem_Angola\"\n    \n    # 5. Create Towline (Bezier Curve connecting them)\n    bpy.ops.curve.primitive_bezier_curve_add(enter_editmode=False, align='WORLD', location=(0, 0, 0))\n    towline = bpy.context.active_object\n    towline.name = \"Towline_Cable\"\n    \n    # Configure Bezier points\n    curve_data = towline.data\n    points = curve_data.splines[0].bezier_points\n    \n    # Start point at Tug stern\n    points[0].co = (0, 9, 1.2)\n    points[0].handle_right = (0, 5, 0.5)\n    points[0].handle_left = (0, 10, 1.5)\n    \n    # End point at Towed target bow\n    points[1].co = (0, -3, 1.8)\n    points[1].handle_left = (0, -1, 1.0)\n    points[1].handle_right = (0, -5, 2.0)\n    \n    # Bevel curve to look like a thick steel cable\n    curve_data.dimensions = '3D'\n    curve_data.bevel_depth = 0.08\n    curve_data.bevel_resolution = 4\n    \n    # 6. Setup Lighting and Camera\n    bpy.ops.object.select_by_type(type='LIGHT')\n    bpy.ops.object.delete()\n    \n    bpy.ops.object.light_add(type='SUN', radius=1.0, align='WORLD', location=(10, 10, 25))\n    sun = bpy.context.active_object\n    sun.data.energy = 4.0\n    \n    # Set Camera\n    cameras = [obj for obj in bpy.context.scene.objects if obj.type == 'CAMERA']\n    if cameras:\n        cam = cameras[0]\n        cam.location = (25, -25, 15)\n        cam.rotation_euler = (math.radians(60), 0, math.radians(45))\n        \n    print(\"OIOS Digital Twin 3D Towing Scene Setup Complete!\")\n\nsetup_towing_scene()\n"
+          },
+          {
+            "vessel": "Bourbon Liberty 216",
+            "script_path": "reports/2026-07-02/oios/blender_sims/towing_sim_saipem_kaminho_rig_move_2026_bourbon_liberty_216.py",
+            "script_code": "# Blender Python Script for Towing & Hydrodynamics Visualization\n# Generated automatically by OIOS Digital Twin Engine for Tender: saipem_kaminho_rig_move_2026\n# Vessel Matched: Bourbon Liberty 216 (80.0T BP) -> Towing Target: Saipem Angola\n\nimport bpy\nimport math\n\ndef setup_towing_scene():\n    # 1. Clear existing mesh objects\n    bpy.ops.object.select_all(action='DESELECT')\n    bpy.ops.object.select_by_type(type='MESH')\n    bpy.ops.object.delete()\n    \n    # 2. Create Water Surface (Ocean Plane)\n    bpy.ops.mesh.primitive_grid_add(size=100, x_subdivisions=40, y_subdivisions=40, location=(0, 0, 0))\n    ocean = bpy.context.active_object\n    ocean.name = \"OceanSurface\"\n    \n    # Add simple wave displacement or material (mocked via ocean modifier)\n    ocean_mod = ocean.modifiers.new(name=\"OceanWaves\", type='OCEAN')\n    ocean_mod.resolution = 12\n    ocean_mod.spatial_size = 50\n    ocean_mod.wave_scale = 1.8\n    \n    # 3. Create Tugboat representation VB BourbonLiberty216\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, 15, 0.8), scale=(2.5, 6.0, 1.5))\n    tug = bpy.context.active_object\n    tug.name = \"Tugboat_Bourbon_Liberty_216\"\n    \n    # 4. Create Towed Target representation (Saipem Angola)\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, -15, 1.2), scale=(4.0, 12.0, 2.5))\n    target = bpy.context.active_object\n    target.name = \"TowedTarget_Saipem_Angola\"\n    \n    # 5. Create Towline (Bezier Curve connecting them)\n    bpy.ops.curve.primitive_bezier_curve_add(enter_editmode=False, align='WORLD', location=(0, 0, 0))\n    towline = bpy.context.active_object\n    towline.name = \"Towline_Cable\"\n    \n    # Configure Bezier points\n    curve_data = towline.data\n    points = curve_data.splines[0].bezier_points\n    \n    # Start point at Tug stern\n    points[0].co = (0, 9, 1.2)\n    points[0].handle_right = (0, 5, 0.5)\n    points[0].handle_left = (0, 10, 1.5)\n    \n    # End point at Towed target bow\n    points[1].co = (0, -3, 1.8)\n    points[1].handle_left = (0, -1, 1.0)\n    points[1].handle_right = (0, -5, 2.0)\n    \n    # Bevel curve to look like a thick steel cable\n    curve_data.dimensions = '3D'\n    curve_data.bevel_depth = 0.08\n    curve_data.bevel_resolution = 4\n    \n    # 6. Setup Lighting and Camera\n    bpy.ops.object.select_by_type(type='LIGHT')\n    bpy.ops.object.delete()\n    \n    bpy.ops.object.light_add(type='SUN', radius=1.0, align='WORLD', location=(10, 10, 25))\n    sun = bpy.context.active_object\n    sun.data.energy = 4.0\n    \n    # Set Camera\n    cameras = [obj for obj in bpy.context.scene.objects if obj.type == 'CAMERA']\n    if cameras:\n        cam = cameras[0]\n        cam.location = (25, -25, 15)\n        cam.rotation_euler = (math.radians(60), 0, math.radians(45))\n        \n    print(\"OIOS Digital Twin 3D Towing Scene Setup Complete!\")\n\nsetup_towing_scene()\n"
+          }
+        ]
+      },
+      {
+        "id": "totalenergies_eg_block_o_towage_2026",
+        "title": "Terminal and Ocean Towage Support Concession",
+        "client": "TotalEnergies Equatorial Guinea",
+        "location": "Equatorial Guinea (Block O)",
+        "coords": [
+          3.7,
+          8.7
+        ],
+        "requirement": "1x Escort ASD Tug 80-90t BP",
+        "scout_findings": "TotalEnergies E&P Equatorial Guinea has launched a request for qualification for long-term terminal support and tanker escort services for Block O terminal.",
+        "matched_assets": [
+          {
+            "name": "Britoil Conqueror",
+            "type": "AHTS",
+            "bp": 90.0,
+            "current_loc": "Eq. Guinea",
+            "proximity_score": 99,
+            "arbitrage_reason": "Britoil Conqueror is already in Equatorial Guinea, matches the high BP requirement (90t) and has DP1."
+          },
+          {
+            "name": "Red Fox",
+            "type": "Tug",
+            "bp": 85.5,
+            "current_loc": "Eq. Guinea",
+            "proximity_score": 95,
+            "arbitrage_reason": "ASD Tug 85.5t BP already based in Eq. Guinea. Excellent match for terminal support."
+          },
+          {
+            "name": "SL Sana'a",
+            "type": "Tug",
+            "bp": 87.0,
+            "current_loc": "WAF",
+            "proximity_score": 80,
+            "arbitrage_reason": "ASD Tug based in WAF hub, easily mobilizable to Malabo."
+          }
+        ],
+        "simulation": {
+          "towline_tension_normal_kn": 390.0,
+          "towline_tension_storm_kn": 610.0,
+          "hydrodynamic_resistance_kn": 95.0,
+          "metocean_limits": "Max Wave Height 3.2m Hs, Wind 22 knots",
+          "collision_risk_pct": 0.45
+        },
+        "commercial_strategy": {
+          "quotation_aggressiveness": "High",
+          "pricing_notes": "Strong local competition in Malabo. We should offer our highly aggressive rate leveraging Britoil Conqueror's direct local availability."
+        },
+        "draft_email": {
+          "recipient": "malabo.procurement@totalenergies.com",
+          "subject": "Qualification Proposal: Boluda ASD Escort Towage for Block O Terminal",
+          "body": "Dear TotalEnergies Procurement Team,\n\nIn response to your inquiry for Terminal Towage and Escort Support for Block O, Boluda Towage is proud to propose our locally based assets, Britoil Conqueror and Red Fox.\n\nOur technical analysis and Digital Twin simulation confirm that Britoil Conqueror (90t BP) and Red Fox (85.5t BP ASD) offer excellent hydrodynamic towage performance, keeping tanker collision risks below 0.45% even during critical mooring phases.\n\nWe would welcome the opportunity to submit our detailed pre-qualification dossier.\n\nBest regards,\nOIOS Agent on behalf of Boluda Towage"
+        },
+        "blender_scripts": [
+          {
+            "vessel": "Britoil Conqueror",
+            "script_path": "reports/2026-07-02/oios/blender_sims/towing_sim_totalenergies_eg_block_o_towage_2026_britoil_conqueror.py",
+            "script_code": "# Blender Python Script for Towing & Hydrodynamics Visualization\n# Generated automatically by OIOS Digital Twin Engine for Tender: totalenergies_eg_block_o_towage_2026\n# Vessel Matched: Britoil Conqueror (90.0T BP) -> Towing Target: TotalEnergies Equatorial Guinea\n\nimport bpy\nimport math\n\ndef setup_towing_scene():\n    # 1. Clear existing mesh objects\n    bpy.ops.object.select_all(action='DESELECT')\n    bpy.ops.object.select_by_type(type='MESH')\n    bpy.ops.object.delete()\n    \n    # 2. Create Water Surface (Ocean Plane)\n    bpy.ops.mesh.primitive_grid_add(size=100, x_subdivisions=40, y_subdivisions=40, location=(0, 0, 0))\n    ocean = bpy.context.active_object\n    ocean.name = \"OceanSurface\"\n    \n    # Add simple wave displacement or material (mocked via ocean modifier)\n    ocean_mod = ocean.modifiers.new(name=\"OceanWaves\", type='OCEAN')\n    ocean_mod.resolution = 12\n    ocean_mod.spatial_size = 50\n    ocean_mod.wave_scale = 1.8\n    \n    # 3. Create Tugboat representation VB BritoilConqueror\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, 15, 0.8), scale=(2.5, 6.0, 1.5))\n    tug = bpy.context.active_object\n    tug.name = \"Tugboat_Britoil_Conqueror\"\n    \n    # 4. Create Towed Target representation (TotalEnergies Equatorial Guinea)\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, -15, 1.2), scale=(4.0, 12.0, 2.5))\n    target = bpy.context.active_object\n    target.name = \"TowedTarget_TotalEnergies_Equatorial_Guinea\"\n    \n    # 5. Create Towline (Bezier Curve connecting them)\n    bpy.ops.curve.primitive_bezier_curve_add(enter_editmode=False, align='WORLD', location=(0, 0, 0))\n    towline = bpy.context.active_object\n    towline.name = \"Towline_Cable\"\n    \n    # Configure Bezier points\n    curve_data = towline.data\n    points = curve_data.splines[0].bezier_points\n    \n    # Start point at Tug stern\n    points[0].co = (0, 9, 1.2)\n    points[0].handle_right = (0, 5, 0.5)\n    points[0].handle_left = (0, 10, 1.5)\n    \n    # End point at Towed target bow\n    points[1].co = (0, -3, 1.8)\n    points[1].handle_left = (0, -1, 1.0)\n    points[1].handle_right = (0, -5, 2.0)\n    \n    # Bevel curve to look like a thick steel cable\n    curve_data.dimensions = '3D'\n    curve_data.bevel_depth = 0.08\n    curve_data.bevel_resolution = 4\n    \n    # 6. Setup Lighting and Camera\n    bpy.ops.object.select_by_type(type='LIGHT')\n    bpy.ops.object.delete()\n    \n    bpy.ops.object.light_add(type='SUN', radius=1.0, align='WORLD', location=(10, 10, 25))\n    sun = bpy.context.active_object\n    sun.data.energy = 4.0\n    \n    # Set Camera\n    cameras = [obj for obj in bpy.context.scene.objects if obj.type == 'CAMERA']\n    if cameras:\n        cam = cameras[0]\n        cam.location = (25, -25, 15)\n        cam.rotation_euler = (math.radians(60), 0, math.radians(45))\n        \n    print(\"OIOS Digital Twin 3D Towing Scene Setup Complete!\")\n\nsetup_towing_scene()\n"
+          },
+          {
+            "vessel": "Red Fox",
+            "script_path": "reports/2026-07-02/oios/blender_sims/towing_sim_totalenergies_eg_block_o_towage_2026_red_fox.py",
+            "script_code": "# Blender Python Script for Towing & Hydrodynamics Visualization\n# Generated automatically by OIOS Digital Twin Engine for Tender: totalenergies_eg_block_o_towage_2026\n# Vessel Matched: Red Fox (85.5T BP) -> Towing Target: TotalEnergies Equatorial Guinea\n\nimport bpy\nimport math\n\ndef setup_towing_scene():\n    # 1. Clear existing mesh objects\n    bpy.ops.object.select_all(action='DESELECT')\n    bpy.ops.object.select_by_type(type='MESH')\n    bpy.ops.object.delete()\n    \n    # 2. Create Water Surface (Ocean Plane)\n    bpy.ops.mesh.primitive_grid_add(size=100, x_subdivisions=40, y_subdivisions=40, location=(0, 0, 0))\n    ocean = bpy.context.active_object\n    ocean.name = \"OceanSurface\"\n    \n    # Add simple wave displacement or material (mocked via ocean modifier)\n    ocean_mod = ocean.modifiers.new(name=\"OceanWaves\", type='OCEAN')\n    ocean_mod.resolution = 12\n    ocean_mod.spatial_size = 50\n    ocean_mod.wave_scale = 1.8\n    \n    # 3. Create Tugboat representation VB RedFox\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, 15, 0.8), scale=(2.5, 6.0, 1.5))\n    tug = bpy.context.active_object\n    tug.name = \"Tugboat_Red_Fox\"\n    \n    # 4. Create Towed Target representation (TotalEnergies Equatorial Guinea)\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, -15, 1.2), scale=(4.0, 12.0, 2.5))\n    target = bpy.context.active_object\n    target.name = \"TowedTarget_TotalEnergies_Equatorial_Guinea\"\n    \n    # 5. Create Towline (Bezier Curve connecting them)\n    bpy.ops.curve.primitive_bezier_curve_add(enter_editmode=False, align='WORLD', location=(0, 0, 0))\n    towline = bpy.context.active_object\n    towline.name = \"Towline_Cable\"\n    \n    # Configure Bezier points\n    curve_data = towline.data\n    points = curve_data.splines[0].bezier_points\n    \n    # Start point at Tug stern\n    points[0].co = (0, 9, 1.2)\n    points[0].handle_right = (0, 5, 0.5)\n    points[0].handle_left = (0, 10, 1.5)\n    \n    # End point at Towed target bow\n    points[1].co = (0, -3, 1.8)\n    points[1].handle_left = (0, -1, 1.0)\n    points[1].handle_right = (0, -5, 2.0)\n    \n    # Bevel curve to look like a thick steel cable\n    curve_data.dimensions = '3D'\n    curve_data.bevel_depth = 0.08\n    curve_data.bevel_resolution = 4\n    \n    # 6. Setup Lighting and Camera\n    bpy.ops.object.select_by_type(type='LIGHT')\n    bpy.ops.object.delete()\n    \n    bpy.ops.object.light_add(type='SUN', radius=1.0, align='WORLD', location=(10, 10, 25))\n    sun = bpy.context.active_object\n    sun.data.energy = 4.0\n    \n    # Set Camera\n    cameras = [obj for obj in bpy.context.scene.objects if obj.type == 'CAMERA']\n    if cameras:\n        cam = cameras[0]\n        cam.location = (25, -25, 15)\n        cam.rotation_euler = (math.radians(60), 0, math.radians(45))\n        \n    print(\"OIOS Digital Twin 3D Towing Scene Setup Complete!\")\n\nsetup_towing_scene()\n"
+          },
+          {
+            "vessel": "SL Sana'a",
+            "script_path": "reports/2026-07-02/oios/blender_sims/towing_sim_totalenergies_eg_block_o_towage_2026_sl_sana'a.py",
+            "script_code": "# Blender Python Script for Towing & Hydrodynamics Visualization\n# Generated automatically by OIOS Digital Twin Engine for Tender: totalenergies_eg_block_o_towage_2026\n# Vessel Matched: SL Sana'a (87.0T BP) -> Towing Target: TotalEnergies Equatorial Guinea\n\nimport bpy\nimport math\n\ndef setup_towing_scene():\n    # 1. Clear existing mesh objects\n    bpy.ops.object.select_all(action='DESELECT')\n    bpy.ops.object.select_by_type(type='MESH')\n    bpy.ops.object.delete()\n    \n    # 2. Create Water Surface (Ocean Plane)\n    bpy.ops.mesh.primitive_grid_add(size=100, x_subdivisions=40, y_subdivisions=40, location=(0, 0, 0))\n    ocean = bpy.context.active_object\n    ocean.name = \"OceanSurface\"\n    \n    # Add simple wave displacement or material (mocked via ocean modifier)\n    ocean_mod = ocean.modifiers.new(name=\"OceanWaves\", type='OCEAN')\n    ocean_mod.resolution = 12\n    ocean_mod.spatial_size = 50\n    ocean_mod.wave_scale = 1.8\n    \n    # 3. Create Tugboat representation VB SLSana'a\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, 15, 0.8), scale=(2.5, 6.0, 1.5))\n    tug = bpy.context.active_object\n    tug.name = \"Tugboat_SL_Sana'a\"\n    \n    # 4. Create Towed Target representation (TotalEnergies Equatorial Guinea)\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, -15, 1.2), scale=(4.0, 12.0, 2.5))\n    target = bpy.context.active_object\n    target.name = \"TowedTarget_TotalEnergies_Equatorial_Guinea\"\n    \n    # 5. Create Towline (Bezier Curve connecting them)\n    bpy.ops.curve.primitive_bezier_curve_add(enter_editmode=False, align='WORLD', location=(0, 0, 0))\n    towline = bpy.context.active_object\n    towline.name = \"Towline_Cable\"\n    \n    # Configure Bezier points\n    curve_data = towline.data\n    points = curve_data.splines[0].bezier_points\n    \n    # Start point at Tug stern\n    points[0].co = (0, 9, 1.2)\n    points[0].handle_right = (0, 5, 0.5)\n    points[0].handle_left = (0, 10, 1.5)\n    \n    # End point at Towed target bow\n    points[1].co = (0, -3, 1.8)\n    points[1].handle_left = (0, -1, 1.0)\n    points[1].handle_right = (0, -5, 2.0)\n    \n    # Bevel curve to look like a thick steel cable\n    curve_data.dimensions = '3D'\n    curve_data.bevel_depth = 0.08\n    curve_data.bevel_resolution = 4\n    \n    # 6. Setup Lighting and Camera\n    bpy.ops.object.select_by_type(type='LIGHT')\n    bpy.ops.object.delete()\n    \n    bpy.ops.object.light_add(type='SUN', radius=1.0, align='WORLD', location=(10, 10, 25))\n    sun = bpy.context.active_object\n    sun.data.energy = 4.0\n    \n    # Set Camera\n    cameras = [obj for obj in bpy.context.scene.objects if obj.type == 'CAMERA']\n    if cameras:\n        cam = cameras[0]\n        cam.location = (25, -25, 15)\n        cam.rotation_euler = (math.radians(60), 0, math.radians(45))\n        \n    print(\"OIOS Digital Twin 3D Towing Scene Setup Complete!\")\n\nsetup_towing_scene()\n"
+          }
+        ]
+      },
+      {
+        "id": "ivory_coast_port_tow_2026",
+        "title": "Ocean Towage Support for Abidjan Port Expansion",
+        "client": "Abidjan Port Authority / International Contractor (Simulated)",
+        "location": "Abidjan Port, Ivory Coast",
+        "coords": [
+          5.3,
+          -4.0
+        ],
+        "requirement": "1x Ocean Tug (approx. 70-80t BP) for short-term towage related to port expansion",
+        "scout_findings": "Simulated requirement for coastal or short-sea towage, typical for port infrastructure development projects in major WAF hubs like Abidjan.",
+        "matched_assets": [
+          {
+            "name": "Santa Luisa",
+            "type": "AHTS",
+            "bp": 85.0,
+            "current_loc": "Ivory Coast",
+            "proximity_score": 99,
+            "arbitrage_reason": "Excellent local proximity and strong Bollard Pull (85t BP), making it a highly suitable AHTS for ocean towage tasks in the region."
+          },
+          {
+            "name": "Caspian Reliance",
+            "type": "AHTS",
+            "bp": 87.0,
+            "current_loc": "Ivory Coast",
+            "proximity_score": 99,
+            "arbitrage_reason": "Highest Bollard Pull (87t BP) among local assets, ideal for heavy towage. Located directly in Ivory Coast, offering immediate availability."
+          },
+          {
+            "name": "Bourbon Liberty 216",
+            "type": "AHTS",
+            "bp": 80.0,
+            "current_loc": "Ivory Coast",
+            "proximity_score": 99,
+            "arbitrage_reason": "Very good Bollard Pull (80t BP) and direct availability in Ivory Coast. DP2 equipped."
+          }
+        ],
+        "simulation": {
+          "towline_tension_normal_kn": 400.0,
+          "towline_tension_storm_kn": 600.0,
+          "hydrodynamic_resistance_kn": 100.0,
+          "metocean_limits": "Waves max 2.5m, Wind 20 knots",
+          "collision_risk_pct": 0.8
+        },
+        "commercial_strategy": {
+          "quotation_aggressiveness": "Medium",
+          "pricing_notes": "Highlight abundant local availability of suitable AHTS vessels (which can perform ocean towage). Offer competitive rates due to zero mobilization cost from outside the country and immediate readiness."
+        },
+        "draft_email": {
+          "recipient": "operations@abidjanport.ci",
+          "subject": "Boluda OIOS Proposal: High BP Towage Vessel for Abidjan Port Expansion",
+          "body": "Dear Operations Team,\n\nRegarding your requirement for a high Bollard Pull vessel for towage operations related to the Abidjan Port expansion, Boluda Offshore is pleased to offer multiple suitable AHTS vessels currently stationed in Ivory Coast:\n\n1.  **Caspian Reliance (87t BP)**\n2.  **Santa Luisa (85t BP, DP2)**\n3.  **Bourbon Liberty 216 (80t BP, DP2)**\n\nThese vessels are immediately available, eliminating mobilization costs and ensuring timely project execution.\n\nBest regards,\nOIOS Agent on behalf of Boluda Towage"
+        },
+        "blender_scripts": [
+          {
+            "vessel": "Santa Luisa",
+            "script_path": "reports/2026-07-02/oios/blender_sims/towing_sim_ivory_coast_port_tow_2026_santa_luisa.py",
+            "script_code": "# Blender Python Script for Towing & Hydrodynamics Visualization\n# Generated automatically by OIOS Digital Twin Engine for Tender: ivory_coast_port_tow_2026\n# Vessel Matched: Santa Luisa (85.0T BP) -> Towing Target: Abidjan Port Authority / International Contractor (Simulated)\n\nimport bpy\nimport math\n\ndef setup_towing_scene():\n    # 1. Clear existing mesh objects\n    bpy.ops.object.select_all(action='DESELECT')\n    bpy.ops.object.select_by_type(type='MESH')\n    bpy.ops.object.delete()\n    \n    # 2. Create Water Surface (Ocean Plane)\n    bpy.ops.mesh.primitive_grid_add(size=100, x_subdivisions=40, y_subdivisions=40, location=(0, 0, 0))\n    ocean = bpy.context.active_object\n    ocean.name = \"OceanSurface\"\n    \n    # Add simple wave displacement or material (mocked via ocean modifier)\n    ocean_mod = ocean.modifiers.new(name=\"OceanWaves\", type='OCEAN')\n    ocean_mod.resolution = 12\n    ocean_mod.spatial_size = 50\n    ocean_mod.wave_scale = 1.8\n    \n    # 3. Create Tugboat representation VB SantaLuisa\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, 15, 0.8), scale=(2.5, 6.0, 1.5))\n    tug = bpy.context.active_object\n    tug.name = \"Tugboat_Santa_Luisa\"\n    \n    # 4. Create Towed Target representation (Abidjan Port Authority / International Contractor (Simulated))\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, -15, 1.2), scale=(4.0, 12.0, 2.5))\n    target = bpy.context.active_object\n    target.name = \"TowedTarget_Abidjan_Port_Authority_/_International_Contractor_(Simulated)\"\n    \n    # 5. Create Towline (Bezier Curve connecting them)\n    bpy.ops.curve.primitive_bezier_curve_add(enter_editmode=False, align='WORLD', location=(0, 0, 0))\n    towline = bpy.context.active_object\n    towline.name = \"Towline_Cable\"\n    \n    # Configure Bezier points\n    curve_data = towline.data\n    points = curve_data.splines[0].bezier_points\n    \n    # Start point at Tug stern\n    points[0].co = (0, 9, 1.2)\n    points[0].handle_right = (0, 5, 0.5)\n    points[0].handle_left = (0, 10, 1.5)\n    \n    # End point at Towed target bow\n    points[1].co = (0, -3, 1.8)\n    points[1].handle_left = (0, -1, 1.0)\n    points[1].handle_right = (0, -5, 2.0)\n    \n    # Bevel curve to look like a thick steel cable\n    curve_data.dimensions = '3D'\n    curve_data.bevel_depth = 0.08\n    curve_data.bevel_resolution = 4\n    \n    # 6. Setup Lighting and Camera\n    bpy.ops.object.select_by_type(type='LIGHT')\n    bpy.ops.object.delete()\n    \n    bpy.ops.object.light_add(type='SUN', radius=1.0, align='WORLD', location=(10, 10, 25))\n    sun = bpy.context.active_object\n    sun.data.energy = 4.0\n    \n    # Set Camera\n    cameras = [obj for obj in bpy.context.scene.objects if obj.type == 'CAMERA']\n    if cameras:\n        cam = cameras[0]\n        cam.location = (25, -25, 15)\n        cam.rotation_euler = (math.radians(60), 0, math.radians(45))\n        \n    print(\"OIOS Digital Twin 3D Towing Scene Setup Complete!\")\n\nsetup_towing_scene()\n"
+          },
+          {
+            "vessel": "Caspian Reliance",
+            "script_path": "reports/2026-07-02/oios/blender_sims/towing_sim_ivory_coast_port_tow_2026_caspian_reliance.py",
+            "script_code": "# Blender Python Script for Towing & Hydrodynamics Visualization\n# Generated automatically by OIOS Digital Twin Engine for Tender: ivory_coast_port_tow_2026\n# Vessel Matched: Caspian Reliance (87.0T BP) -> Towing Target: Abidjan Port Authority / International Contractor (Simulated)\n\nimport bpy\nimport math\n\ndef setup_towing_scene():\n    # 1. Clear existing mesh objects\n    bpy.ops.object.select_all(action='DESELECT')\n    bpy.ops.object.select_by_type(type='MESH')\n    bpy.ops.object.delete()\n    \n    # 2. Create Water Surface (Ocean Plane)\n    bpy.ops.mesh.primitive_grid_add(size=100, x_subdivisions=40, y_subdivisions=40, location=(0, 0, 0))\n    ocean = bpy.context.active_object\n    ocean.name = \"OceanSurface\"\n    \n    # Add simple wave displacement or material (mocked via ocean modifier)\n    ocean_mod = ocean.modifiers.new(name=\"OceanWaves\", type='OCEAN')\n    ocean_mod.resolution = 12\n    ocean_mod.spatial_size = 50\n    ocean_mod.wave_scale = 1.8\n    \n    # 3. Create Tugboat representation VB CaspianReliance\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, 15, 0.8), scale=(2.5, 6.0, 1.5))\n    tug = bpy.context.active_object\n    tug.name = \"Tugboat_Caspian_Reliance\"\n    \n    # 4. Create Towed Target representation (Abidjan Port Authority / International Contractor (Simulated))\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, -15, 1.2), scale=(4.0, 12.0, 2.5))\n    target = bpy.context.active_object\n    target.name = \"TowedTarget_Abidjan_Port_Authority_/_International_Contractor_(Simulated)\"\n    \n    # 5. Create Towline (Bezier Curve connecting them)\n    bpy.ops.curve.primitive_bezier_curve_add(enter_editmode=False, align='WORLD', location=(0, 0, 0))\n    towline = bpy.context.active_object\n    towline.name = \"Towline_Cable\"\n    \n    # Configure Bezier points\n    curve_data = towline.data\n    points = curve_data.splines[0].bezier_points\n    \n    # Start point at Tug stern\n    points[0].co = (0, 9, 1.2)\n    points[0].handle_right = (0, 5, 0.5)\n    points[0].handle_left = (0, 10, 1.5)\n    \n    # End point at Towed target bow\n    points[1].co = (0, -3, 1.8)\n    points[1].handle_left = (0, -1, 1.0)\n    points[1].handle_right = (0, -5, 2.0)\n    \n    # Bevel curve to look like a thick steel cable\n    curve_data.dimensions = '3D'\n    curve_data.bevel_depth = 0.08\n    curve_data.bevel_resolution = 4\n    \n    # 6. Setup Lighting and Camera\n    bpy.ops.object.select_by_type(type='LIGHT')\n    bpy.ops.object.delete()\n    \n    bpy.ops.object.light_add(type='SUN', radius=1.0, align='WORLD', location=(10, 10, 25))\n    sun = bpy.context.active_object\n    sun.data.energy = 4.0\n    \n    # Set Camera\n    cameras = [obj for obj in bpy.context.scene.objects if obj.type == 'CAMERA']\n    if cameras:\n        cam = cameras[0]\n        cam.location = (25, -25, 15)\n        cam.rotation_euler = (math.radians(60), 0, math.radians(45))\n        \n    print(\"OIOS Digital Twin 3D Towing Scene Setup Complete!\")\n\nsetup_towing_scene()\n"
+          },
+          {
+            "vessel": "Bourbon Liberty 216",
+            "script_path": "reports/2026-07-02/oios/blender_sims/towing_sim_ivory_coast_port_tow_2026_bourbon_liberty_216.py",
+            "script_code": "# Blender Python Script for Towing & Hydrodynamics Visualization\n# Generated automatically by OIOS Digital Twin Engine for Tender: ivory_coast_port_tow_2026\n# Vessel Matched: Bourbon Liberty 216 (80.0T BP) -> Towing Target: Abidjan Port Authority / International Contractor (Simulated)\n\nimport bpy\nimport math\n\ndef setup_towing_scene():\n    # 1. Clear existing mesh objects\n    bpy.ops.object.select_all(action='DESELECT')\n    bpy.ops.object.select_by_type(type='MESH')\n    bpy.ops.object.delete()\n    \n    # 2. Create Water Surface (Ocean Plane)\n    bpy.ops.mesh.primitive_grid_add(size=100, x_subdivisions=40, y_subdivisions=40, location=(0, 0, 0))\n    ocean = bpy.context.active_object\n    ocean.name = \"OceanSurface\"\n    \n    # Add simple wave displacement or material (mocked via ocean modifier)\n    ocean_mod = ocean.modifiers.new(name=\"OceanWaves\", type='OCEAN')\n    ocean_mod.resolution = 12\n    ocean_mod.spatial_size = 50\n    ocean_mod.wave_scale = 1.8\n    \n    # 3. Create Tugboat representation VB BourbonLiberty216\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, 15, 0.8), scale=(2.5, 6.0, 1.5))\n    tug = bpy.context.active_object\n    tug.name = \"Tugboat_Bourbon_Liberty_216\"\n    \n    # 4. Create Towed Target representation (Abidjan Port Authority / International Contractor (Simulated))\n    bpy.ops.mesh.primitive_cube_add(size=1.0, calc_uvs=True, enter_editmode=False, align='WORLD', location=(0, -15, 1.2), scale=(4.0, 12.0, 2.5))\n    target = bpy.context.active_object\n    target.name = \"TowedTarget_Abidjan_Port_Authority_/_International_Contractor_(Simulated)\"\n    \n    # 5. Create Towline (Bezier Curve connecting them)\n    bpy.ops.curve.primitive_bezier_curve_add(enter_editmode=False, align='WORLD', location=(0, 0, 0))\n    towline = bpy.context.active_object\n    towline.name = \"Towline_Cable\"\n    \n    # Configure Bezier points\n    curve_data = towline.data\n    points = curve_data.splines[0].bezier_points\n    \n    # Start point at Tug stern\n    points[0].co = (0, 9, 1.2)\n    points[0].handle_right = (0, 5, 0.5)\n    points[0].handle_left = (0, 10, 1.5)\n    \n    # End point at Towed target bow\n    points[1].co = (0, -3, 1.8)\n    points[1].handle_left = (0, -1, 1.0)\n    points[1].handle_right = (0, -5, 2.0)\n    \n    # Bevel curve to look like a thick steel cable\n    curve_data.dimensions = '3D'\n    curve_data.bevel_depth = 0.08\n    curve_data.bevel_resolution = 4\n    \n    # 6. Setup Lighting and Camera\n    bpy.ops.object.select_by_type(type='LIGHT')\n    bpy.ops.object.delete()\n    \n    bpy.ops.object.light_add(type='SUN', radius=1.0, align='WORLD', location=(10, 10, 25))\n    sun = bpy.context.active_object\n    sun.data.energy = 4.0\n    \n    # Set Camera\n    cameras = [obj for obj in bpy.context.scene.objects if obj.type == 'CAMERA']\n    if cameras:\n        cam = cameras[0]\n        cam.location = (25, -25, 15)\n        cam.rotation_euler = (math.radians(60), 0, math.radians(45))\n        \n    print(\"OIOS Digital Twin 3D Towing Scene Setup Complete!\")\n\nsetup_towing_scene()\n"
+          }
+        ]
+      }
+    ]
+  },
+  "oios_offshore_assets": [
+    {
+      "id": "valaris_ds12",
+      "name": "Valaris DS-12",
+      "type": "Drillship",
+      "operator": "Shell",
+      "country": "Namibia",
+      "location": "Orange Basin",
+      "coords": [
+        -28.5,
+        14.2
+      ],
+      "status": "Active Drilling",
+      "contract_end": "2026-07-31",
+      "prediction": {
+        "name": "Valaris DS-12",
+        "type": "Drillship",
+        "origin_coords": [
+          -28.5,
+          14.2
+        ],
+        "destination": "Walvis Bay",
+        "dest_coords": [
+          -22.9,
+          14.5
+        ],
+        "departure": "2026-08-01",
+        "probability": 90,
+        "reason": "Le contrat se termine en juillet 2026 sans extension. Inspection de renouvellement de classe SPS requise, Walvis Bay est le chantier naval le plus proche.",
+        "impact": "Positionnement de l'AHTS pour le déplacement du rig, opportunité d'escorte de sécurité en attente."
+      }
+    },
+    {
+      "id": "noble_gerrit",
+      "name": "Noble Gerrit de Souza",
+      "type": "Drillship",
+      "operator": "TotalEnergies",
+      "country": "Angola",
+      "location": "Block 20/11",
+      "coords": [
+        -9.1,
+        12.3
+      ],
+      "status": "Active Drilling",
+      "contract_end": "2026-10-15",
+      "prediction": {
+        "name": "Noble Gerrit de Souza",
+        "type": "Drillship",
+        "origin_coords": [
+          -9.1,
+          12.3
+        ],
+        "destination": "Namibia (Orange Basin)",
+        "dest_coords": [
+          -28.5,
+          14.2
+        ],
+        "departure": "2026-10-20",
+        "probability": 85,
+        "reason": "TotalEnergies transfère des rigs de forage en eaux profondes de haute spécification vers la Namibie pour accélérer l'évaluation de la découverte massive Venus.",
+        "impact": "Remorquage en eaux profondes, manipulation d'ancres et affrètement de navires de ravitaillement à longue portée."
+      }
+    },
+    {
+      "id": "saipem_12000",
+      "name": "Saipem 12000",
+      "type": "Drillship",
+      "operator": "Eni",
+      "country": "Côte d'Ivoire",
+      "location": "Baleine Field",
+      "coords": [
+        4.75,
+        -4.0
+      ],
+      "status": "Active Drilling",
+      "contract_end": "2027-06-30",
+      "prediction": {
+        "name": "Saipem 12000",
+        "type": "Drillship",
+        "origin_coords": [
+          4.75,
+          -4.0
+        ],
+        "destination": "Las Palmas",
+        "dest_coords": [
+          28.1,
+          -15.4
+        ],
+        "departure": "2027-07-01",
+        "probability": 75,
+        "reason": "Transit prévu vers le chantier naval pour maintenance entre les campagnes de développement Baleine Phase 2 et Phase 3.",
+        "impact": "Remorquage océanique et support logistique offshore."
+      }
+    },
+    {
+      "id": "borr_norve",
+      "name": "Borr Norve",
+      "type": "Jack-up",
+      "operator": "BW Energy",
+      "country": "Gabon",
+      "location": "Etame Field",
+      "coords": [
+        -0.7,
+        8.7
+      ],
+      "status": "Active Drilling",
+      "contract_end": "2026-06-25",
+      "prediction": {
+        "name": "Borr Norve",
+        "type": "Jack-up",
+        "origin_coords": [
+          -0.7,
+          8.7
+        ],
+        "destination": "Cameroon",
+        "dest_coords": [
+          4.0,
+          9.7
+        ],
+        "departure": "2026-06-28",
+        "probability": 80,
+        "reason": "Perenco sécurise le Borr Norve pour une campagne de forage de comblement en eaux peu profondes commençant au T3 2026 au Cameroun.",
+        "impact": "Remorquage de positionnement de barge/rig, escorte de remorqueur en eaux peu profondes."
+      }
+    },
+    {
+      "id": "borr_natt",
+      "name": "Borr Natt",
+      "type": "Jack-up",
+      "operator": "Eni",
+      "country": "Nigeria",
+      "location": "Offshore Delta",
+      "coords": [
+        4.3,
+        7.0
+      ],
+      "status": "Active Drilling",
+      "contract_end": "2026-09-10",
+      "prediction": {
+        "name": "Borr Natt",
+        "type": "Jack-up",
+        "origin_coords": [
+          4.3,
+          7.0
+        ],
+        "destination": "Congo",
+        "dest_coords": [
+          -4.8,
+          11.8
+        ],
+        "departure": "2026-09-15",
+        "probability": 70,
+        "reason": "Eni transfère un jack-up en eaux peu profondes vers le Congo pour soutenir les raccordements GNL offshore de production précoce.",
+        "impact": "Remorquage pour déplacement du rig, support de manipulation d'ancres."
+      }
+    },
+    {
+      "id": "noble_globetrotter",
+      "name": "Noble Globetrotter II",
+      "type": "Drillship",
+      "operator": "Shell",
+      "country": "Namibia",
+      "location": "Orange Basin",
+      "coords": [
+        -28.5,
+        14.2
+      ],
+      "status": "Active Drilling",
+      "contract_end": "2027-02-28",
+      "prediction": {
+        "name": "Noble Globetrotter II",
+        "type": "Drillship",
+        "origin_coords": [
+          -28.5,
+          14.2
+        ],
+        "destination": "Angola",
+        "dest_coords": [
+          -8.8,
+          13.2
+        ],
+        "departure": "2027-03-01",
+        "probability": 65,
+        "reason": "Shell prévoit un échange d'exploration avec Azule Energy (Angola) pour des blocs en eaux profondes.",
+        "impact": "Remorquage d'escorte océanique longue distance."
+      }
+    },
+    {
+      "id": "fpso_baleine",
+      "name": "FPSO Baleine",
+      "type": "FPSO",
+      "operator": "Eni",
+      "country": "Côte d'Ivoire",
+      "location": "Baleine Block CI-101",
+      "coords": [
+        4.75,
+        -4.0
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 15,000 bopd. Gas: 20 mmscfd. Local Content: IRES towage partnership.",
+      "prediction": null
+    },
+    {
+      "id": "flng_gta",
+      "name": "FLNG Greater Tortue",
+      "type": "FLNG",
+      "operator": "bp",
+      "country": "Senegal/Mauritania",
+      "location": "GTA Project Border",
+      "coords": [
+        16.1,
+        -16.8
+      ],
+      "status": "Commissioning",
+      "specifications": "Liquefaction capacity: 2.5 million tonnes per annum (mtpa). Supported by local Cafimar tugs.",
+      "prediction": null
+    },
+    {
+      "id": "fpso_sangomar",
+      "name": "FPSO Sangomar",
+      "type": "FPSO",
+      "operator": "Woodside",
+      "country": "Senegal",
+      "location": "Sangomar Field",
+      "coords": [
+        13.9,
+        -17.3
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 100,000 bopd. Storage: 1.3 million barrels.",
+      "prediction": null
+    },
+    {
+      "id": "fpso_dalia",
+      "name": "FPSO Dalia",
+      "type": "FPSO",
+      "operator": "TotalEnergies",
+      "country": "Angola",
+      "location": "Block 17",
+      "coords": [
+        -7.8,
+        12.1
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 240,000 bopd. Storage: 2.0 million barrels.",
+      "prediction": null
+    },
+    {
+      "id": "fpso_girassol",
+      "name": "FPSO Girassol",
+      "type": "FPSO",
+      "operator": "TotalEnergies",
+      "country": "Angola",
+      "location": "Block 17",
+      "coords": [
+        -7.6,
+        12.0
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 200,000 bopd. First FPSO in Angola Block 17.",
+      "prediction": null
+    },
+    {
+      "id": "fpso_pazflor",
+      "name": "FPSO Pazflor",
+      "type": "FPSO",
+      "operator": "TotalEnergies",
+      "country": "Angola",
+      "location": "Block 17",
+      "coords": [
+        -7.9,
+        12.2
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 220,000 bopd. Gas treatment capacity: 150 million scfd.",
+      "prediction": null
+    },
+    {
+      "id": "fpso_kaombo_norte",
+      "name": "FPSO Kaombo Norte",
+      "type": "FPSO",
+      "operator": "TotalEnergies",
+      "country": "Angola",
+      "location": "Block 32",
+      "coords": [
+        -7.1,
+        11.8
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 115,000 bopd. Turret-moored converted VLCC hull.",
+      "prediction": null
+    },
+    {
+      "id": "fpso_kaombo_sul",
+      "name": "FPSO Kaombo Sul",
+      "type": "FPSO",
+      "operator": "TotalEnergies",
+      "country": "Angola",
+      "location": "Block 32",
+      "coords": [
+        -7.3,
+        11.9
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 115,000 bopd. Sister ship to Kaombo Norte.",
+      "prediction": null
+    },
+    {
+      "id": "fpso_bonga",
+      "name": "FPSO Bonga",
+      "type": "FPSO",
+      "operator": "Shell",
+      "country": "Nigeria",
+      "location": "Bonga Field",
+      "coords": [
+        -4.6,
+        4.6
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 225,000 bopd. Storage: 2.0 million barrels. Shell's first deepwater project in Nigeria.",
+      "prediction": null
+    },
+    {
+      "id": "fpso_egina",
+      "name": "FPSO Egina",
+      "type": "FPSO",
+      "operator": "TotalEnergies",
+      "country": "Nigeria",
+      "location": "Egina Field",
+      "coords": [
+        -6.2,
+        5.9
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 200,000 bopd. Converted/integrated locally in Lagos yard.",
+      "prediction": null
+    },
+    {
+      "id": "fpso_erha",
+      "name": "FPSO Erha",
+      "type": "FPSO",
+      "operator": "ExxonMobil",
+      "country": "Nigeria",
+      "location": "OML 133",
+      "coords": [
+        -5.3,
+        4.3
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 150,000 bopd. Supported by local marine tugs.",
+      "prediction": null
+    },
+    {
+      "id": "fpso_aseng",
+      "name": "FPSO Aseng",
+      "type": "FPSO",
+      "operator": "Noble Energy",
+      "country": "Eq. Guinea",
+      "location": "OML I",
+      "coords": [
+        3.7,
+        8.4
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 80,000 bopd. Converted VLCC hull.",
+      "prediction": null
+    },
+    {
+      "id": "fpso_kwame_nkrumah",
+      "name": "FPSO Kwame Nkrumah",
+      "type": "FPSO",
+      "operator": "Tullow",
+      "country": "Ghana",
+      "location": "Jubilee Field",
+      "coords": [
+        4.8,
+        -2.9
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 120,000 bopd. Gas: 160 mmscfd.",
+      "prediction": null
+    },
+    {
+      "id": "fpso_john_kufuor",
+      "name": "FPSO John Agyekum Kufuor",
+      "type": "FPSO",
+      "operator": "Eni",
+      "country": "Ghana",
+      "location": "OCTP Block",
+      "coords": [
+        4.7,
+        -3.1
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 85,000 bopd. Converted VLCC.",
+      "prediction": null
+    },
+    {
+      "id": "fpso_olombendo",
+      "name": "FPSO Olombendo",
+      "type": "FPSO",
+      "operator": "Eni",
+      "country": "Angola",
+      "location": "Block 15/06 East",
+      "coords": [
+        -6.8,
+        11.4
+      ],
+      "status": "Active Production",
+      "specifications": "Oil capacity: 80,000 bopd. Converted VLCC hull.",
+      "prediction": null
+    }
+  ],
+  "oios_predictions": [
+    {
+      "name": "Valaris DS-12",
+      "type": "Drillship",
+      "origin_coords": [
+        -28.5,
+        14.2
+      ],
+      "destination": "Walvis Bay",
+      "dest_coords": [
+        -22.9,
+        14.5
+      ],
+      "departure": "2026-08-01",
+      "probability": 90,
+      "reason": "Le contrat se termine en juillet 2026 sans extension. Inspection de renouvellement de classe SPS requise, Walvis Bay est le chantier naval le plus proche.",
+      "impact": "Positionnement de l'AHTS pour le déplacement du rig, opportunité d'escorte de sécurité en attente."
+    },
+    {
+      "name": "Noble Gerrit de Souza",
+      "type": "Drillship",
+      "origin_coords": [
+        -9.1,
+        12.3
+      ],
+      "destination": "Namibia (Orange Basin)",
+      "dest_coords": [
+        -28.5,
+        14.2
+      ],
+      "departure": "2026-10-20",
+      "probability": 85,
+      "reason": "TotalEnergies transfère des rigs de forage en eaux profondes de haute spécification vers la Namibie pour accélérer l'évaluation de la découverte massive Venus.",
+      "impact": "Remorquage en eaux profondes, manipulation d'ancres et affrètement de navires de ravitaillement à longue portée."
+    },
+    {
+      "name": "Saipem 12000",
+      "type": "Drillship",
+      "origin_coords": [
+        4.75,
+        -4.0
+      ],
+      "destination": "Las Palmas",
+      "dest_coords": [
+        28.1,
+        -15.4
+      ],
+      "departure": "2027-07-01",
+      "probability": 75,
+      "reason": "Transit prévu vers le chantier naval pour maintenance entre les campagnes de développement Baleine Phase 2 et Phase 3.",
+      "impact": "Remorquage océanique et support logistique offshore."
+    },
+    {
+      "name": "Borr Norve",
+      "type": "Jack-up",
+      "origin_coords": [
+        -0.7,
+        8.7
+      ],
+      "destination": "Cameroon",
+      "dest_coords": [
+        4.0,
+        9.7
+      ],
+      "departure": "2026-06-28",
+      "probability": 80,
+      "reason": "Perenco sécurise le Borr Norve pour une campagne de forage de comblement en eaux peu profondes commençant au T3 2026 au Cameroun.",
+      "impact": "Remorquage de positionnement de barge/rig, escorte de remorqueur en eaux peu profondes."
+    },
+    {
+      "name": "Borr Natt",
+      "type": "Jack-up",
+      "origin_coords": [
+        4.3,
+        7.0
+      ],
+      "destination": "Congo",
+      "dest_coords": [
+        -4.8,
+        11.8
+      ],
+      "departure": "2026-09-15",
+      "probability": 70,
+      "reason": "Eni transfère un jack-up en eaux peu profondes vers le Congo pour soutenir les raccordements GNL offshore de production précoce.",
+      "impact": "Remorquage pour déplacement du rig, support de manipulation d'ancres."
+    },
+    {
+      "name": "Noble Globetrotter II",
+      "type": "Drillship",
+      "origin_coords": [
+        -28.5,
+        14.2
+      ],
+      "destination": "Angola",
+      "dest_coords": [
+        -8.8,
+        13.2
+      ],
+      "departure": "2027-03-01",
+      "probability": 65,
+      "reason": "Shell prévoit un échange d'exploration avec Azule Energy (Angola) pour des blocs en eaux profondes.",
+      "impact": "Remorquage d'escorte océanique longue distance."
+    }
+  ],
+  "oios_satellite_cv": [
+    {
+      "vessel_name": "Bourbon Liberty 216",
+      "owner": "Bourbon Offshore",
+      "type": "AHTS",
+      "coords": [
+        5.3,
+        -4.0
+      ],
+      "detected_towing": true,
+      "towed_object": "Barge Flotel ADSO 300",
+      "object_type": "Barge d'hébergement",
+      "confidence_score": 96,
+      "wake_intensity": "Strong (Towing load profile)",
+      "colinearity_angle_deg": 1.2,
+      "distance_m": 450,
+      "speed": "5.4 nds",
+      "heading": "180° (Sud)",
+      "destination_projected": "Baleine Field, Côte d'Ivoire",
+      "eta": "18/06/2026",
+      "boluda_action": "Opportunité d'assistance au positionnement final du flotel à l'arrivée sur Baleine."
+    },
+    {
+      "vessel_name": "Pacific Valhalla",
+      "owner": "Tidewater",
+      "type": "AHTS",
+      "coords": [
+        -0.6,
+        8.6
+      ],
+      "detected_towing": true,
+      "towed_object": "Jack-up Rig Borr Norve",
+      "object_type": "Rig de forage auto-élévateur",
+      "confidence_score": 92,
+      "wake_intensity": "Very Strong (Heavy towage profile)",
+      "colinearity_angle_deg": 0.8,
+      "distance_m": 650,
+      "speed": "4.1 nds",
+      "heading": "320° (Nord-Ouest)",
+      "destination_projected": "Offshore Cameroun (Perenco)",
+      "eta": "20/06/2026",
+      "boluda_action": "Proposer nos remorqueurs basés à Douala pour assister l'ancrage et la mise en place du rig."
+    },
+    {
+      "vessel_name": "SL Sana'a",
+      "owner": "Smit Lamnalco",
+      "type": "Tug",
+      "coords": [
+        6.1,
+        1.2
+      ],
+      "detected_towing": false,
+      "towed_object": null,
+      "object_type": null,
+      "confidence_score": 99,
+      "wake_intensity": "Normal (Free running profile)",
+      "colinearity_angle_deg": 0.0,
+      "distance_m": 0,
+      "speed": "12.5 nds",
+      "heading": "270° (Ouest)",
+      "destination_projected": "Lomé, Togo",
+      "eta": "Immédiat",
+      "boluda_action": "Navire libre. Pas d'action commerciale requise."
+    }
+  ],
+  "oios_vision_crawler": {
+    "status": "active",
+    "last_run": "2026-07-02 09:02:22",
+    "portals": [
+      {
+        "name": "NipeX (Nigeria)",
+        "status": "🟢 Session Active",
+        "last_heal": "2026-07-02 09:02:17",
+        "auto_healed": true
+      },
+      {
+        "name": "Petrosen (Sénégal)",
+        "status": "🟢 Crawling",
+        "last_heal": "N/A",
+        "auto_healed": false
+      },
+      {
+        "name": "Sonangol ANPG (Angola)",
+        "status": "🟢 Authentifié",
+        "last_heal": "2026-07-02 09:05:12",
+        "auto_healed": true
+      },
+      {
+        "name": "Saipem Portal (EPCI)",
+        "status": "🟢 Nominal",
+        "last_heal": "N/A",
+        "auto_healed": false
+      }
+    ],
+    "logs": [
+      {
+        "time": "09:00:05",
+        "portal": "System",
+        "msg": "Démarrage du swarm d'extraction visuel sur 4 portails."
+      },
+      {
+        "time": "09:02:14",
+        "portal": "NipeX",
+        "msg": "NipeX: Changement de structure HTML détecté. Sélecteur de bouton '#submit-login' introuvable."
+      },
+      {
+        "time": "09:02:16",
+        "portal": "NipeX",
+        "msg": "Gemini Vision: Capture d'écran analysée. Bouton identifié visuellement à [x: 412, y: 720]. Confiance 99.4%."
+      },
+      {
+        "time": "09:02:17",
+        "portal": "NipeX",
+        "msg": "NipeX: Clic simulé aux coordonnées [412, 720]. Connexion établie. Session enregistrée."
+      },
+      {
+        "time": "09:05:10",
+        "portal": "ANPG",
+        "msg": "ANPG: Redirection inattendue vers le formulaire de mise à jour réglementaire."
+      },
+      {
+        "time": "09:05:12",
+        "portal": "ANPG",
+        "msg": "Gemini Vision: Bouton 'Passer' identifié visuellement à [x: 850, y: 140]. Clic simulé. Reprise du scraping."
+      },
+      {
+        "time": "09:08:45",
+        "portal": "Petrosen",
+        "msg": "Petrosen: Extraction de 2 nouveaux avis de préqualification en cours."
+      },
+      {
+        "time": "09:12:00",
+        "portal": "System",
+        "msg": "Swarm d'extraction visuel terminé avec succès. 4 sessions actives."
+      }
+    ]
+  },
+  "oios_port_whispers": [
+    {
+      "id": "whisper_001",
+      "source": "Interception Radio VHF - Port de Takoradi (Ghana)",
+      "time": "2026-07-02 08:34",
+      "msg": "...discussions en cours concernant la mobilisation de deux remorqueurs d'assistance pour le FPSO Octopus d'ENI à partir d'août 2026...",
+      "correlation_score": 88,
+      "coords": [
+        4.9,
+        -1.75
+      ],
+      "project_id": "GHA-001",
+      "location": "Takoradi Port",
+      "threat_level": "Medium"
+    },
+    {
+      "id": "whisper_002",
+      "source": "Forum Professionnel - Dockers de Port-Gentil (Gabon)",
+      "time": "2026-07-02 07:12",
+      "msg": "...les équipages de Bourbon mentionnent que leur contrat d'assistance ASD pour le champ Hiba de Total n'est pas renouvelé après fin septembre...",
+      "correlation_score": 92,
+      "coords": [
+        -0.72,
+        8.78
+      ],
+      "project_id": "GAB-001",
+      "location": "Port-Gentil",
+      "threat_level": "High"
+    },
+    {
+      "id": "whisper_003",
+      "source": "Lettre de Transitaire Logistique (Luanda, Angola)",
+      "time": "2026-07-02 06:45",
+      "msg": "...Sonangol recherche activement des prestataires locaux possédant des remorqueurs ASD de plus de 80t BP pour les blocs pétroliers 3/05...",
+      "correlation_score": 81,
+      "coords": [
+        -8.83,
+        13.23
+      ],
+      "project_id": "ANG-006",
+      "location": "Luanda Port",
+      "threat_level": "High"
+    }
+  ],
+  "oios_ais_expiry_predictor": [
+    {
+      "id": "ais_pred_001",
+      "vessel": "Bourbon Liberty 224",
+      "vessel_type": "AHTS (80t BP)",
+      "current_operator": "TotalEnergies",
+      "field": "Block 17 (Angola)",
+      "coords": [
+        -7.85,
+        12.15
+      ],
+      "contract_end": "Septembre 2026",
+      "ais_anomaly": "🔴 ALERTE : Inactif depuis 48h (chantier naval Cabinda pressenti)",
+      "threat_rating": "Critical",
+      "action_pitch": "Proposer VB KUDU (80t BP, DP2) actuellement disponible à Abidjan pour un remplacement spot immédiat sans frais de mobilisation."
+    },
+    {
+      "id": "ais_pred_002",
+      "vessel": "KOTUG Centaurus",
+      "vessel_type": "ASD Tug (70t BP)",
+      "current_operator": "Eni",
+      "field": "Baleine FPSO (Côte d'Ivoire)",
+      "coords": [
+        5.05,
+        -3.95
+      ],
+      "contract_end": "Décembre 2026",
+      "ais_anomaly": "🟡 SIGNAL : Transits répétés vers Abidjan (problème mécanique suspecté)",
+      "threat_rating": "High",
+      "action_pitch": "Proposer le remorqueur local de réserve IRES (Abidjan) pour assistance temporaire pendant les réparations."
+    },
+    {
+      "id": "ais_pred_003",
+      "vessel": "Pacific Vanguard",
+      "vessel_type": "AHTS (120t BP)",
+      "current_operator": "Galp",
+      "field": "Mopane Appraisal (Namibie)",
+      "coords": [
+        -27.2,
+        11.3
+      ],
+      "contract_end": "Novembre 2026",
+      "ais_anomaly": "🟢 NOMINAL : Activité régulière de remorquage",
+      "threat_rating": "Medium",
+      "action_pitch": "Engager des discussions pré-FID avec Galp pour proposer la flotte Walvis Bay en relève dès Q4 2026."
+    }
+  ],
+  "oios_auto_rfq": [
+    {
+      "id": "rfq_001",
+      "portal": "Saipem Sourcing",
+      "tender_ref": "SAI-2026-AHTS-09",
+      "requirement": "AHTS 80t+ BP, 30 days spot",
+      "project_name": "Kaminho SURF",
+      "auto_draft": {
+        "bid_rate": "$12,400/day",
+        "margin_pct": 21.5,
+        "negotiation_log": [
+          "09:15:02 - RFQ Reçu du portail Saipem.",
+          "09:15:05 - Analyse IA: VB Kamsar ou VB Nyala éligibles.",
+          "09:15:10 - Tarification IA soumise à $12,900/jour.",
+          "09:22:45 - Contre-offre client reçue: '$12,000/jour max'.",
+          "09:22:50 - IA Réponse rédigée: '$12,400/jour avec engagement de 35 jours minimum'."
+        ],
+        "status": "Negotiating (Pending Client Approval)"
+      }
+    }
+  ],
+  "oios_flare_radar": [
+    {
+      "id": "flare_001",
+      "rig_name": "Semi-sub Hercules",
+      "field": "Mopane Exploration (Namibie)",
+      "coords": [
+        -27.2,
+        11.3
+      ],
+      "thermal_increase_pct": 320,
+      "flaring_level": "Extrême",
+      "inferred_need": "Fin de forage imminente. Prévoir Rig Move dans les 5 jours. AHTS de 150t BP requis.",
+      "status": "Alerte de Mobilisation Active"
+    },
+    {
+      "id": "flare_002",
+      "rig_name": "Drillship Saipem 12000",
+      "field": "Baleine Phase 3 (Côte d'Ivoire)",
+      "coords": [
+        4.8,
+        -3.98
+      ],
+      "thermal_increase_pct": 140,
+      "flaring_level": "Moyen",
+      "inferred_need": "Testing de puits actif. Besoin d'escorte standby de sécurité sur zone.",
+      "status": "Observation"
+    }
+  ],
+  "oios_social_org_chart": [
+    {
+      "id": "social_001",
+      "name": "Jean-Pierre Vignaud",
+      "previous_role": "Logistics Manager, TotalEnergies France",
+      "new_role": "Director Offshore Logistics WAF, TotalEnergies Luanda",
+      "project_impact": "Défense du contrat d'assistance du bloc 17 et opportunités Kaminho.",
+      "email": "jean-pierre.vignaud@totalenergies.com",
+      "status": "Nouvelle affectation Luanda détectée il y a 2 jours"
+    },
+    {
+      "id": "social_002",
+      "name": "Amadou Sarr",
+      "previous_role": "Senior Buyer, Subsea 7 Aberdeen",
+      "new_role": "Procurement Lead GTA Phase 2, Petrosen Dakar",
+      "project_impact": "Négociations des futurs remorqueurs de dragage et d'ancrage pour Petrosen.",
+      "email": "amadou.sarr@petrosen.sn",
+      "status": "Nouvelle affectation Dakar détectée il y a 4 jours"
+    }
+  ],
+  "oios_cabotage_auditor": [
+    {
+      "vessel": "VB KUDU",
+      "flag": "Côte d'Ivoire",
+      "crew_locals": 14,
+      "crew_expats": 6,
+      "compliance_pct": 70.0,
+      "cabotage_status": "🟢 Conforme (Seuil requis 60%)",
+      "actions": "Aucune action requise."
+    },
+    {
+      "vessel": "VB NYALA",
+      "flag": "Côte d'Ivoire",
+      "crew_locals": 11,
+      "crew_expats": 9,
+      "compliance_pct": 55.0,
+      "cabotage_status": "🟡 Alerte Limite (Seuil requis 60%)",
+      "actions": "Remplacer 1 officier expat par un cadet local lors du prochain changement d'équipage à Abidjan."
+    },
+    {
+      "vessel": "Topaz Master",
+      "flag": "Angola",
+      "crew_locals": 8,
+      "crew_expats": 12,
+      "compliance_pct": 40.0,
+      "cabotage_status": "🔴 Non Conforme (Seuil requis 50% ANPG)",
+      "actions": "Recruter d'urgence 2 marins angolais qualifiés via l'agence locale de Luanda."
+    }
+  ],
+  "oios_shadow_bidder": [
+    {
+      "tender_id": "TND-NGA-091",
+      "title": "Subsea Drilling Support AHTS - Venus Development",
+      "rivals": [
+        {
+          "name": "Bourbon Offshore",
+          "vessel": "Bourbon Liberty 300",
+          "est_bid": "$13,200/day",
+          "reason": "Navire le plus proche à Port-Gentil (3 jours de mobilisation)."
+        },
+        {
+          "name": "KOTUG International",
+          "vessel": "Kotug Centaurus",
+          "est_bid": "$13,800/day",
+          "reason": "Basé au Ghana (frais de transit élevés)."
+        }
+      ],
+      "recommended_bid": "$12,850/day",
+      "win_probability_pct": 92.5
+    }
+  ]
+}

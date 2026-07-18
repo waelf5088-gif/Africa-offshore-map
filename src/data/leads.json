@@ -1,0 +1,6082 @@
+[
+  {
+    "company": "ABC CONTRACTING",
+    "firstName": "Bruno",
+    "lastName": "Diette",
+    "title": "Purchasing Manager",
+    "email": "b.diette@abccontracting.be",
+    "emailStatus": "Verified",
+    "country": "Belgium",
+    "linkedin": "http://www.linkedin.com/in/bruno-diette-67a52a136"
+  },
+  {
+    "company": "ABC CONTRACTING",
+    "firstName": "Luc",
+    "lastName": "Meunier",
+    "title": "Director of Operations",
+    "email": "l.meunier@abccontracting.be",
+    "emailStatus": "Verified",
+    "country": "Belgium",
+    "linkedin": "http://www.linkedin.com/in/luc-meunier-86258490"
+  },
+  {
+    "company": "Acteon",
+    "firstName": "Ivan",
+    "lastName": "Harnett",
+    "title": "Director, Usa Renewables",
+    "email": "ivan.harnett@acteon.com",
+    "emailStatus": "Verified",
+    "country": "Ireland",
+    "linkedin": "http://www.linkedin.com/in/ivan-harnett-8617b57"
+  },
+  {
+    "company": "Acteon",
+    "firstName": "Barry",
+    "lastName": "Parsons",
+    "title": "Chief Commercial Officer",
+    "email": "barry.parsons@acteon.com",
+    "emailStatus": "Verified",
+    "country": "Luxembourg",
+    "linkedin": "http://www.linkedin.com/in/barry-parsons-b7b8b69"
+  },
+  {
+    "company": "Acteon",
+    "firstName": "Jason",
+    "lastName": "Clark",
+    "title": "Vice President",
+    "email": "jason.clark@acteon.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/jason-clark-7164b019"
+  },
+  {
+    "company": "Addax Petroleum",
+    "firstName": "Pricila",
+    "lastName": "Behos",
+    "title": "Procurement Specialist",
+    "email": "pricila.behos@addaxpetroleum.com",
+    "emailStatus": "Verified",
+    "country": "Cameroon",
+    "linkedin": "http://www.linkedin.com/in/pricila-behos-mcips-sg-cabef-70a2a014"
+  },
+  {
+    "company": "Addax Petroleum",
+    "firstName": "Sophie",
+    "lastName": "Tafon",
+    "title": "Head of Support Contracts & Procurement",
+    "email": "sophie.tafon@addaxpetroleum.com",
+    "emailStatus": "Verified",
+    "country": "Cameroon",
+    "linkedin": "http://www.linkedin.com/in/wakunatafon"
+  },
+  {
+    "company": "Addax Petroleum",
+    "firstName": "Erich",
+    "lastName": "Maroga-Azochry",
+    "title": "CEO & Founder",
+    "email": "erich.maroga@addaxpetroleum.com",
+    "emailStatus": "Verified",
+    "country": "Gabon",
+    "linkedin": "http://www.linkedin.com/in/erich-maroga-azochry-127278130"
+  },
+  {
+    "company": "ADES Holding",
+    "firstName": "Ahmed",
+    "lastName": "Ali",
+    "title": "Supply Chain Manager - Projects",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Saudi Arabia",
+    "linkedin": "https://linkedin.com/in/ACoAAB3fiFQBN-MKoyxga_ytlYi1BabIovHyiI0"
+  },
+  {
+    "company": "ADNOC Group",
+    "firstName": "Charlie",
+    "lastName": "R.",
+    "title": "Vessel Sale & Purchase Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "United Arab Emirates",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAf4vHkB4UT4o7ZcN9857YL1-3f83JgCGk8"
+  },
+  {
+    "company": "ADNOC Group",
+    "firstName": "Mohammad",
+    "lastName": "Bawazir",
+    "title": "Supply Chain Manager",
+    "email": "mbawazir@adnoc.ae",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "https://www.linkedin.com/in/ACoAACPoQJoBUNBMKhf41ar8LP1wDqubindy7Vg"
+  },
+  {
+    "company": "ADNOC Group",
+    "firstName": "Engr",
+    "lastName": "Jasmi",
+    "title": "Manager Of Procurement",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "United States",
+    "linkedin": "https://www.linkedin.com/in/engr-saeed-ahmed-al-jasmi-1b5"
+  },
+  {
+    "company": "ADNOC Group",
+    "firstName": "Devasish",
+    "lastName": "Sarangi",
+    "title": "Department Manager, Procurement Technology ADNOC Group",
+    "email": "dsarangi@adnoc.ae",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAA4Dp4BelIZLNk2vo0cDu5a4Z_fqe7zxb4"
+  },
+  {
+    "company": "Aker Solutions",
+    "firstName": "Lena",
+    "lastName": "Berg",
+    "title": "Procurement Manager",
+    "email": "lena.berg@akersolutions.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/lena-berg-19153942"
+  },
+  {
+    "company": "Aker Solutions",
+    "firstName": "Kjetel",
+    "lastName": "Digre",
+    "title": "President & CEO",
+    "email": "kjetel.digre@akersolutions.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/kjetel-digre-31951925"
+  },
+  {
+    "company": "Aker Solutions",
+    "firstName": "Hege",
+    "lastName": "Engelsas",
+    "title": "Senior Procurement Manager",
+    "email": "hege.engelsas@akersolutions.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/hege-engelsas-abbb8629"
+  },
+  {
+    "company": "Aker Solutions",
+    "firstName": "Valentin",
+    "lastName": "Podaru",
+    "title": "Procurement Lead",
+    "email": "valentin.podaru@akersolutions.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/valentin-podaru-004a9534"
+  },
+  {
+    "company": "Aker Solutions",
+    "firstName": "Nikolas",
+    "lastName": "Selvaag",
+    "title": "Procurement Buyer",
+    "email": "nikolas.selvaag@akersolutions.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/nikolas-selvaag-6b1729200"
+  },
+  {
+    "company": "Aker Solutions",
+    "firstName": "Natalia",
+    "lastName": "Zakirova",
+    "title": "Procurement Manager",
+    "email": "natalia.zakirova@akersolutions.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/natalia-zakirova-a6617567"
+  },
+  {
+    "company": "Aker Solutions",
+    "firstName": "Denise",
+    "lastName": "Holloway",
+    "title": "Tender Manager",
+    "email": "denise.holloway@akersolutions.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/denise-holloway-90a35938"
+  },
+  {
+    "company": "Aker Solutions",
+    "firstName": "Richard",
+    "lastName": "Yeomans",
+    "title": "Project Procurement Manager",
+    "email": "richard.yeomans@akersolutions.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/richard-yeomans-58586023"
+  },
+  {
+    "company": "ARO Drilling",
+    "firstName": "Manzoor",
+    "lastName": "Razak",
+    "title": "Logistics Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Bahrain",
+    "linkedin": "https://www.linkedin.com/in/ACoAACsj9LwBDR-AiAXz6SGFcUBDHDhgKPdKHuA"
+  },
+  {
+    "company": "ARO Drilling",
+    "firstName": "Mohamed",
+    "lastName": "Al Hegawy",
+    "title": "Director Supply Chain Management",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Egypt",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAXshGkBwfuygnR1aIclBRMQmC_eiKNd5xo"
+  },
+  {
+    "company": "ARO Drilling",
+    "firstName": "May",
+    "lastName": "Al Juraib, MBA, Ciccm",
+    "title": "Director , Supply Chain Management",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Saudi Arabia",
+    "linkedin": "https://www.linkedin.com/in/ACoAACRqSy0BRmx4kL7zfmk_oiQIcNHUc9aV2Wk"
+  },
+  {
+    "company": "ARO Drilling",
+    "firstName": "Duha",
+    "lastName": "Al-shammasi",
+    "title": "Senior Manager Of Procurement & Sourcing | Contracts & Vendor Management",
+    "email": "dalshammasi@arodrilling.com",
+    "emailStatus": "Verified",
+    "country": "Saudi Arabia",
+    "linkedin": "https://www.linkedin.com/in/ACoAAALTQk0BB0WGk__opbiSOaKHrSdnp1AAs3c"
+  },
+  {
+    "company": "ARO Drilling",
+    "firstName": "Nabeel",
+    "lastName": "Alghamdi",
+    "title": "Procurement Manager - Saudi Aramco Rowan Offshore Drilling",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Saudi Arabia",
+    "linkedin": "https://www.linkedin.com/in/ACoAACRipb4BXSqbuyNdkgSty0GhtCmaJVz_59k"
+  },
+  {
+    "company": "ARO Drilling",
+    "firstName": "Eid",
+    "lastName": "Alhajri",
+    "title": "Logistics Supervisor",
+    "email": "ealhajri@arodrilling.com",
+    "emailStatus": "Verified",
+    "country": "Saudi Arabia",
+    "linkedin": "https://www.linkedin.com/in/ACoAAB5gSRABwAMUW8yqOI0ULgkTcRF5wEyUaSI"
+  },
+  {
+    "company": "ARO Drilling",
+    "firstName": "Avinash",
+    "lastName": "Verma",
+    "title": "Supply Chain Manager",
+    "email": "averma@arodrilling.com",
+    "emailStatus": "Verified",
+    "country": "Saudi Arabia",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAX8W0oBCIlECc_z54kVeLlUPicxl8gxzf4"
+  },
+  {
+    "company": "Azule Energy",
+    "firstName": "Luis",
+    "lastName": "Cabral",
+    "title": "Materials & Post Sale Procurement Section Leader",
+    "email": "luis.cabral@azule-energy.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "https://linkedin.com/in/ACoAAAHkDggBSHS2Z84rHxdFpzLeHNoKsCcf2Hk"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Kherkhache",
+    "lastName": "Fares",
+    "title": "Field Sales Specialist",
+    "email": "kherkhache.fares@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAC7G0WUB4yZYS9HQ6_HZl9DZdmZi3UIj84Q"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Luimbi",
+    "lastName": "Luimbi",
+    "title": "Senior Procurement Specialist",
+    "email": "luimbi.luimbi@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/luimbi-luimbi-22057b111"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Muhammed",
+    "lastName": "Elgarhy",
+    "title": "Procurement and Sourcing Manager â€“ Egypt",
+    "email": "elgarhy.muhammed@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/muhammed-elgarhy-4b107a55"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Magda",
+    "lastName": "Khalifa",
+    "title": "Sales Support Specialist",
+    "email": "magda.khalifa@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAaO4zgBn27qR97t1nIYDV3Kp0yGKmJuNE0"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Rawda",
+    "lastName": "Marwan",
+    "title": "Tender & Commercial Manager - Oilfield and Industrial Chemicals - North Africa & Turkey",
+    "email": "rawda.marwan@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAXfA4YBo8By1sO5r2v-yhO4KFoONko8-iQ"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Tibo",
+    "lastName": "Sorin",
+    "title": "Procurement Manager",
+    "email": "tibo.sorin@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "France",
+    "linkedin": "http://www.linkedin.com/in/tibo-sorin-067753158"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Benjamin",
+    "lastName": "Linke",
+    "title": "Vice President - Industrial Products & CEO",
+    "email": "benjamin.linke@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "Germany",
+    "linkedin": "http://www.linkedin.com/in/benjamin-linke-70b4292"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Jack",
+    "lastName": "Sparrow",
+    "title": "Sales Manager",
+    "email": "jack.sparrow@bakerhughes.com",
+    "emailStatus": "Catch-all",
+    "country": "Kenya",
+    "linkedin": "http://www.linkedin.com/in/ACoAAC6_lSYB4ube3UG0lNWisrE5UE2TfmtTeiU"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Zoheb",
+    "lastName": "Jussab",
+    "title": "Sourcing Specialist - Buying / Procurement (mozambique / Uganda",
+    "email": "zoheb.jussab@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAt7jlcB4Wb5WFN5w90jGr-66PFHoNvvGcE"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Natasha",
+    "lastName": "Oguebie",
+    "title": "Tender / Contract Manager",
+    "email": "natasha.oguebie@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/natasha-nkechinyere-oguebie-5201ab33"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Oluwasayo",
+    "lastName": "Olusegun",
+    "title": "Sales Staff Director - Proposals, Production Solutions",
+    "email": "oluwasayo.olusegun@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAyRjDABHpMW_m8U8CcDovAObeLht0KBe68"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Olanrewaju",
+    "lastName": "Soetan",
+    "title": "Sourcing Manager",
+    "email": "olanrewaju.soetan@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAACoZI0EBOr6X_x39pI5K6UfUQTeyls346MY"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Ole",
+    "lastName": "Lande",
+    "title": "Tender Manager",
+    "email": "ole.lande@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/ole-vebj%c3%b8rn-lande-695543b9"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Leon",
+    "lastName": "Perie",
+    "title": "Leader Sales Specialist / Channel Manager At Baker Hughes",
+    "email": "leon.perie@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAABbCdisBqSUpBD3xZby3T_OI3i4qcTQtoy0"
+  },
+  {
+    "company": "Baker Hughes",
+    "firstName": "Matt",
+    "lastName": "Davis",
+    "title": "Procurement Director",
+    "email": "matt.davis@bakerhughes.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/matt-davis-bsc-mcips-50249562"
+  },
+  {
+    "company": "Bechtel Corporation",
+    "firstName": "Mimoza",
+    "lastName": "Gega",
+    "title": "Contracts & Procurement",
+    "email": "mgega@bechtel.com",
+    "emailStatus": "Verified",
+    "country": "Albania",
+    "linkedin": "http://www.linkedin.com/in/mimoza-gega-8b55418"
+  },
+  {
+    "company": "Bechtel Corporation",
+    "firstName": "Laverna",
+    "lastName": "William",
+    "title": "Director of Procurement",
+    "email": "lwilliam@bechtel.com",
+    "emailStatus": "Verified",
+    "country": "Australia",
+    "linkedin": "http://www.linkedin.com/in/laverna-william-b00352200"
+  },
+  {
+    "company": "Bechtel Corporation",
+    "firstName": "Naveen",
+    "lastName": "Bhat",
+    "title": "Procurement Team Lead",
+    "email": "nbhat2@bechtel.com",
+    "emailStatus": "Verified",
+    "country": "India",
+    "linkedin": "http://www.linkedin.com/in/naveen-bhat"
+  },
+  {
+    "company": "Bechtel Corporation",
+    "firstName": "Phillipe",
+    "lastName": "Geeson",
+    "title": "Procurement",
+    "email": "pageeson@bechtel.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/phillipe-geeson-b686b155"
+  },
+  {
+    "company": "Bechtel Corporation",
+    "firstName": "Phillip",
+    "lastName": "Brown",
+    "title": "Chartering Manager",
+    "email": "pbbrown1@bechtel.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/phillip-brown-39a84a62"
+  },
+  {
+    "company": "Bechtel Corporation",
+    "firstName": "Catie",
+    "lastName": "Pintuck",
+    "title": "Procurement Manager",
+    "email": "cpintuck@bechtel.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/catie-pintuck"
+  },
+  {
+    "company": "Borr Drilling",
+    "firstName": "Balan",
+    "lastName": "Poobalan",
+    "title": "Global Supply Chain Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Malaysia",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAVyo_YB31cANr6uLXaF2I3P0L3WRzoCkiQ"
+  },
+  {
+    "company": "Borr Drilling",
+    "firstName": "Fitri",
+    "lastName": "Sulaiman",
+    "title": "Projects Supply Chain Manager | Global Strategic Sourcing",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Singapore",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAYc-xYBpy3wOiDFSz5JibojdI6zjPdJ4Uo"
+  },
+  {
+    "company": "Borr Drilling",
+    "firstName": "Marco",
+    "lastName": "Antonio Perez Padron",
+    "title": "Regional Supply Chain Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Spain",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAq0T9kBS29-9tNiYjYW1a3qHFDPvUYUOqo"
+  },
+  {
+    "company": "Borr Drilling",
+    "firstName": "Steve",
+    "lastName": "McHardy",
+    "title": "Procurement & Contract Manager",
+    "email": "smchardy@borrdrilling.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/steve-mchardy-mcips-36b6b565"
+  },
+  {
+    "company": "Borr Drilling",
+    "firstName": "Abby",
+    "lastName": "Simpson",
+    "title": "Procurement and Contracts Specialist",
+    "email": "asimpson@borrdrilling.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/abby-simpson-513854b9"
+  },
+  {
+    "company": "Borr Drilling",
+    "firstName": "Karlah",
+    "lastName": "Sinclair",
+    "title": "Procurement Specialist",
+    "email": "ksinclair@borrdrilling.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/karlah-sinclair-834a895a"
+  },
+  {
+    "company": "Borr Drilling",
+    "firstName": "Stephany",
+    "lastName": "Marcucci",
+    "title": "Supply Chain Manager - Europe Africa",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "United States",
+    "linkedin": "https://www.linkedin.com/in/ACoAAASMDMoBY5mxTFgHIbkwxIRXGR8OGoneKLQ"
+  },
+  {
+    "company": "Boskalis",
+    "firstName": "Maurice",
+    "lastName": "Koerts",
+    "title": "Project Procurement Process Spec.",
+    "email": "maurice.koerts@boskalis.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/maurice-koerts-53b5736"
+  },
+  {
+    "company": "Boskalis",
+    "firstName": "Nefeli",
+    "lastName": "Palaiogianni",
+    "title": "Tender Manager Offshore Heavy Lifting",
+    "email": "nefeli.palaiogianni@boskalis.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/nefeli-palaiogianni"
+  },
+  {
+    "company": "Boskalis",
+    "firstName": "Richard",
+    "lastName": "Van Breenen",
+    "title": "Manager Project Procurement",
+    "email": "richard.van.breenen@boskalis.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/richard-van-breenen-12026555"
+  },
+  {
+    "company": "Boskalis",
+    "firstName": "Rob",
+    "lastName": "Van Den Donker",
+    "title": "Tender & Proposal Manager Middle East",
+    "email": "rob.vd.donker@boskalis.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/rob-van-den-donker-b7a9aaa4"
+  },
+  {
+    "company": "Boskalis",
+    "firstName": "Bas",
+    "lastName": "Vellekoop",
+    "title": "Manager Tender Department",
+    "email": "bas.vellekoop@boskalis.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/bas-vellekoop-0a61479"
+  },
+  {
+    "company": "Boskalis",
+    "firstName": "Gerard",
+    "lastName": "Willekes",
+    "title": "Tender Manager",
+    "email": "gerard.willekes@boskalis.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/gerard-willekes-5836aa11"
+  },
+  {
+    "company": "bp",
+    "firstName": "Ahmed",
+    "lastName": "Elmandouh",
+    "title": "Procurement Manager",
+    "email": "ahmed.elmandouh@se1.bp.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ahmed-elmandouh-54799122"
+  },
+  {
+    "company": "bp",
+    "firstName": "Nashwa",
+    "lastName": "Elshabrawy",
+    "title": "Chief Procurement Officer",
+    "email": "nashwa.elshabrawy@bp.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/nashwa-elshabrawy-9908615"
+  },
+  {
+    "company": "bp",
+    "firstName": "Thomas",
+    "lastName": "Altendeitering",
+    "title": "Head of Procurement",
+    "email": "thomas.altendeitering@bp.com",
+    "emailStatus": "Verified",
+    "country": "Germany",
+    "linkedin": "http://www.linkedin.com/in/thomas-altendeitering-3771781a2"
+  },
+  {
+    "company": "bp",
+    "firstName": "Carlos",
+    "lastName": "Chipanga",
+    "title": "Country Project Manager",
+    "email": "carlos.chipanga@bp.com",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/carlos-chipanga-4360435a"
+  },
+  {
+    "company": "bp",
+    "firstName": "Anne",
+    "lastName": "Gaye",
+    "title": "Manager of Procurement",
+    "email": "annemarie.gaye@bp.com",
+    "emailStatus": "Verified",
+    "country": "Senegal",
+    "linkedin": "http://www.linkedin.com/in/anne-marie-gaye-67115b60"
+  },
+  {
+    "company": "bp",
+    "firstName": "Emma",
+    "lastName": "Molotsane",
+    "title": "Europe & Africa Customers Procurement",
+    "email": "emma.molotsane@bp.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/emma-m-5025ab21"
+  },
+  {
+    "company": "BP LNG",
+    "firstName": "May",
+    "lastName": "Abdelhalim",
+    "title": "Business Development Leader",
+    "email": "may.abdelhalim@bp.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAABPGD-oBNbxizRm6n0WjJkEWKbiWNOYQhC4"
+  },
+  {
+    "company": "BP LNG",
+    "firstName": "Sherif",
+    "lastName": "Alkhodairy",
+    "title": "Senior Commercial Manager",
+    "email": "sherif.alkhodairy@uk.bp.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAABmdnaMBSxn4HxrX3D2x3jbswDeI9wWyHQc"
+  },
+  {
+    "company": "BP LNG",
+    "firstName": "Farid",
+    "lastName": "Elagamawy",
+    "title": "Operational Procurement Team Leader",
+    "email": "farid.elagamawy@bp.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAKLIRgBiLS0LtZ8XdQD5bKq7IU5ktc_U8Y"
+  },
+  {
+    "company": "BP LNG",
+    "firstName": "Ayman",
+    "lastName": "Elkomy",
+    "title": "Procurement and Supply Chain Management",
+    "email": "elkoam@bp.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ayman-elkomy-895a6511b"
+  },
+  {
+    "company": "BP LNG",
+    "firstName": "Marwa",
+    "lastName": "Refaat",
+    "title": "Senior Finance and Commercial Manager, East Nile Delta",
+    "email": "marwa.refaat@bp.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAPErU8BD4BnNjr_BZDYTGprghYVUqitCaM"
+  },
+  {
+    "company": "BP LNG",
+    "firstName": "Khaled",
+    "lastName": "Zidan",
+    "title": "Senior Buyer",
+    "email": "khaled.zidan@se1.bp.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAACQi7bwBperalDSqB2EonZxXnA6AeOd2r6Q"
+  },
+  {
+    "company": "BP LNG",
+    "firstName": "Sifiso",
+    "lastName": "Mtsweni",
+    "title": "Retail Business Manager",
+    "email": "sifiso.mtsweni@bp.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA9Df4kBiit6U47-GIls4r7LDXRMlGVm21I"
+  },
+  {
+    "company": "BP LNG",
+    "firstName": "Anelisa",
+    "lastName": "Nqavashe",
+    "title": "Retail Business Manager",
+    "email": "anelisa.nqavashe@bp.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAABtQHWYB059EK4Mus_m_ybj68NRIsrIiGNw"
+  },
+  {
+    "company": "Capricorn Energy PLC",
+    "firstName": "Jessica",
+    "lastName": "Blair",
+    "title": "Head of Contracts & Procurement",
+    "email": "jessica.blair@capricornenergy.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/jessica-blair-3b196479"
+  },
+  {
+    "company": "Chevron",
+    "firstName": "Adylson",
+    "lastName": "Almeida",
+    "title": "Procurement Specialist",
+    "email": "adylson.dealmeida@chevron.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/ACoAACLGQUsBM2M3tm9Knx5K4srk0QwZUoxtsfI"
+  },
+  {
+    "company": "Chevron",
+    "firstName": "Paul",
+    "lastName": "Derrick",
+    "title": "Procurement and Logistic Manager",
+    "email": "dpaul@chevron.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/paul-derrick-b195437a"
+  },
+  {
+    "company": "Chevron",
+    "firstName": "Omar",
+    "lastName": "Argoun",
+    "title": "Business Development & Special Projects Manager",
+    "email": "omar.argoun@chevron.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAADMJQu4B6s5HiQ6ntK3hnvAeVJCUjbJuibs"
+  },
+  {
+    "company": "Chevron",
+    "firstName": "Cyrille",
+    "lastName": "Braconnier",
+    "title": "Procurement Director",
+    "email": "cyrb@chevron.com",
+    "emailStatus": "Verified",
+    "country": "France",
+    "linkedin": "http://www.linkedin.com/in/cyrille-braconnier-0b2aa4"
+  },
+  {
+    "company": "Chevron",
+    "firstName": "Glory",
+    "lastName": "Aladdin",
+    "title": "Procurement Specialist",
+    "email": "aladdin.glory@chevron.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/glory-aladdin-645b05139"
+  },
+  {
+    "company": "Chevron",
+    "firstName": "Clement",
+    "lastName": "Dada",
+    "title": "Procurement Manager",
+    "email": "clementdada@chevron.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAC-fpHkBOVtGJtpZEObQee6JEnyd2TI-dck"
+  },
+  {
+    "company": "Chevron",
+    "firstName": "Florence",
+    "lastName": "Ogu",
+    "title": "Supply Chain Contracts and Procurement Lead",
+    "email": "florenceogu@chevron.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/florence-ogu-ba39901a8"
+  },
+  {
+    "company": "Chevron",
+    "firstName": "Tayo",
+    "lastName": "Oluyemi",
+    "title": "Procurement Manager",
+    "email": "tayooluyemi@chevron.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/tayo-oluyemi-0855557"
+  },
+  {
+    "company": "Chevron",
+    "firstName": "Akinola",
+    "lastName": "Yusuf",
+    "title": "Account Manager",
+    "email": "akinolayusuf@chevron.com",
+    "emailStatus": "Catch-all",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAACtgZbMB-e-yQXTP3GRwTJkfeH4_dHKPG-Y"
+  },
+  {
+    "company": "Chevron",
+    "firstName": "Keith",
+    "lastName": "Fisher",
+    "title": "Procurement Manager",
+    "email": "kfisher@chevron.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/keith-fisher-96217712a"
+  },
+  {
+    "company": "Chevron",
+    "firstName": "Tian",
+    "lastName": "Lan",
+    "title": "Senior Procurement Manager",
+    "email": "tian.lan@chevron.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/tian-lan-32297856"
+  },
+  {
+    "company": "Chiyoda Corporation",
+    "firstName": "Harold",
+    "lastName": "Calunsod",
+    "title": "Procurement Buyer",
+    "email": "calunsod.harold@chiyodacorp.com",
+    "emailStatus": "Verified",
+    "country": "Japan",
+    "linkedin": "http://www.linkedin.com/in/m-harold-calunsod-66731b96"
+  },
+  {
+    "company": "Chiyoda Corporation",
+    "firstName": "Kazuo",
+    "lastName": "Mitsuhashi",
+    "title": "Global Procurement Manager",
+    "email": "mitsuhashi.kazuo@chiyodacorp.com",
+    "emailStatus": "Verified",
+    "country": "Japan",
+    "linkedin": "http://www.linkedin.com/in/kazuo-mitsuhashi-384002162"
+  },
+  {
+    "company": "Chiyoda Corporation",
+    "firstName": "Tsuneo",
+    "lastName": "Uotani",
+    "title": "Senior Procurement Manager",
+    "email": "uotani.tsuneo@chiyodacorp.com",
+    "emailStatus": "Verified",
+    "country": "Japan",
+    "linkedin": "http://www.linkedin.com/in/tsuneo-uotani-03b4667"
+  },
+  {
+    "company": "Chiyoda Corporation",
+    "firstName": "Jullan",
+    "lastName": "Francisco",
+    "title": "Procurement and Instrumentation Engineer",
+    "email": "francisco.jullan@chiyodacorp.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/jullan-francisco-61534145"
+  },
+  {
+    "company": "Chiyoda Corporation",
+    "firstName": "Pierfrancesco",
+    "lastName": "Barillaro",
+    "title": "Project Coordinator, Inspector and Expediter",
+    "email": "barillaro.pierfrancesco@chiyodacorp.com",
+    "emailStatus": "Verified",
+    "country": "Switzerland",
+    "linkedin": "http://www.linkedin.com/in/pierfrancesco-barillaro-1b426a58"
+  },
+  {
+    "company": "CNOOC International",
+    "firstName": "Lori",
+    "lastName": "Jeffries",
+    "title": "Procurement & Operations Contracts Lead",
+    "email": "lori.jeffries@intl.cnoocltd.com",
+    "emailStatus": "Verified",
+    "country": "Canada",
+    "linkedin": "http://www.linkedin.com/in/lori-jeffries-a7875316"
+  },
+  {
+    "company": "CNOOC International",
+    "firstName": "Dan",
+    "lastName": "Kiiza",
+    "title": "Procurement Engineer Drilling and Completions Projects Kingfisher Development Area (KFDA)- Uganda",
+    "email": "dan.kiiza@intl.cnoocltd.com",
+    "emailStatus": "Verified",
+    "country": "Uganda",
+    "linkedin": "http://www.linkedin.com/in/dan-kiiza-865094231"
+  },
+  {
+    "company": "CNOOC International",
+    "firstName": "Namara",
+    "lastName": "Rebecca",
+    "title": "Procurement Supervisor",
+    "email": "rebecca.n@cnoocuganda.com",
+    "emailStatus": "Verified",
+    "country": "Uganda",
+    "linkedin": "http://www.linkedin.com/in/namara-rebecca-mcips-6a3394245"
+  },
+  {
+    "company": "CNOOC International",
+    "firstName": "Salvador",
+    "lastName": "Escobedo",
+    "title": "Procurement International Consultant",
+    "email": "salvador.escobedo@intl.cnoocltd.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/salvador-escobedosanchez"
+  },
+  {
+    "company": "CNOOC International",
+    "firstName": "Ali",
+    "lastName": "Nexen",
+    "title": "Procurement SNR Buyer/Contract Administrator",
+    "email": "nexen@cnooc.com.cn",
+    "emailStatus": "Verified",
+    "country": "Yemen",
+    "linkedin": "http://www.linkedin.com/in/ali-baabeid-nexen-0b435742"
+  },
+  {
+    "company": "CNPC Chuanqing Drilling Engineering Company Limited (CCDC)",
+    "firstName": "Ying",
+    "lastName": "Wang",
+    "title": "Procurement",
+    "email": "wangy@cnpc.com.cn",
+    "emailStatus": "Verified",
+    "country": "China",
+    "linkedin": "http://www.linkedin.com/in/ying-wang-681328a3"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Karim",
+    "lastName": "Arafa",
+    "title": "Procurement Manager",
+    "email": "karafa@ccc.gr",
+    "emailStatus": "Catch-all",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAaVelkB4u0OPIhV1hN9vsT260ZatntJe6k"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Mahmoud",
+    "lastName": "Atef",
+    "title": "Procurement and Material Controller At Consolidated Contractors International Company",
+    "email": "matef@ccc.gr",
+    "emailStatus": "Catch-all",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAABw91ecBSQ9db9FLOjp_iMJ74AGrTLDeZMs"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Mohamed",
+    "lastName": "Bassyouni",
+    "title": "Head of Procurement MEP",
+    "email": "mbassyouni@ccc.net",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/mohamed-amer-bassyouni-7866a2178"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Ahmed",
+    "lastName": "Fawzy",
+    "title": "Head of Procurement",
+    "email": "ahmedfawzy@ccc.net",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ahmed-fawzy-064a1858"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Mohamed",
+    "lastName": "Fayyad",
+    "title": "Procurement Specialist",
+    "email": "mfayyad@ccc.net",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/mohamed-fayyad-7755bb214"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Kerolous",
+    "lastName": "Fouad",
+    "title": "Procurement Section Head",
+    "email": "",
+    "emailStatus": "Unavailable",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/kerolous-fouad-mba-pmp%c2%ae-bb744a1b3"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Ismail",
+    "lastName": "Hosny",
+    "title": "Procurement Manager",
+    "email": "ihosny@ccc.net",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ismail-hosny-0254a549"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Tarek",
+    "lastName": "Ibrahim",
+    "title": "Procurement Manager",
+    "email": "tibrahim@ccc.net",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/tarek-ibrahim-95a7505a"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Wafaa",
+    "lastName": "Mustafa",
+    "title": "Procurement Manager - Central Procurement & Operation Support | Africa",
+    "email": "wmustafa@ccc.net",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/wafaa-mustafa-procurement"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Ahmed",
+    "lastName": "S",
+    "title": "Procurement Manager",
+    "email": "akandil@ccc.gr",
+    "emailStatus": "Catch-all",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAURpbMBMcGOLO5Q7pgak_KEGIoZdd3OzII"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Ibrahim",
+    "lastName": "Sabry",
+    "title": "Purchase Specialist",
+    "email": "isabry@ccc.net",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAC3ech4BEIQStD2d5vZDC9NRE3wBikdr8Io"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Mayar",
+    "lastName": "Waly",
+    "title": "Procurement & Estimation Engineer",
+    "email": "mwaly@ccc.net",
+    "emailStatus": "Catch-all",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAABScOwsBk0Uyj2aOlf_61oVhdFESxyU5AEA"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Marta",
+    "lastName": "Reich",
+    "title": "Plant Administrator & Procurement Officer",
+    "email": "mreich@ccc.net",
+    "emailStatus": "Catch-all",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/ACoAADT5nAkBVrI64E962FsTMTNwhzkP70__mVU"
+  },
+  {
+    "company": "Consolidated Contractors Company",
+    "firstName": "Charles",
+    "lastName": "Onwe",
+    "title": "Sales Manager",
+    "email": "conwe@ccc.net",
+    "emailStatus": "Catch-all",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAACIqQLMBDhyQxD6DpXN221bgIm7z5RzO8OA"
+  },
+  {
+    "company": "Debswana",
+    "firstName": "Moalosi",
+    "lastName": "Dimpho, Pr.eng",
+    "title": "Engineering Manager: Reliability Strategy & Planning",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Botswana",
+    "linkedin": "https://linkedin.com/in/ACoAAA-2NcYB0oz5buROk57Zt3yOI1Ibvs-01w4"
+  },
+  {
+    "company": "DEC â€¢ Dynamic Environmental Corporation",
+    "firstName": "Marco",
+    "lastName": "Carletto",
+    "title": "Procurement & Logistics Specialist",
+    "email": "marco.carletto@dec.group",
+    "emailStatus": "Verified",
+    "country": "Italy",
+    "linkedin": "http://www.linkedin.com/in/marco-carletto-783549204"
+  },
+  {
+    "company": "DEC â€¢ Dynamic Environmental Corporation",
+    "firstName": "Francesca",
+    "lastName": "Neotti",
+    "title": "Procurement Logistics Specialist",
+    "email": "francesca.neotti@decimpianti.com",
+    "emailStatus": "Verified",
+    "country": "Italy",
+    "linkedin": "http://www.linkedin.com/in/francesca-neotti-07b32514a"
+  },
+  {
+    "company": "DeepOcean",
+    "firstName": "Ragnhild",
+    "lastName": "Brekke-Brandtzaeg",
+    "title": "Tender Manager & Team Leader-Commercial",
+    "email": "rbrekke@deepoceangroup.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/ragnhildbrekke"
+  },
+  {
+    "company": "DeepOcean",
+    "firstName": "Kristian",
+    "lastName": "Rorbakk",
+    "title": "Procurement Manager",
+    "email": "krorbakk@deepoceangroup.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/kristian-eik-r%c3%b8rbakk-133a8942"
+  },
+  {
+    "company": "DeepOcean",
+    "firstName": "Tord",
+    "lastName": "Vagsholm",
+    "title": "Chartering & Marine Operations Manager",
+    "email": "tvagsholm@deepoceangroup.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/tord-karstensen-v%c3%a5gsholm-688a8678"
+  },
+  {
+    "company": "DeepOcean",
+    "firstName": "Liam",
+    "lastName": "Cairney",
+    "title": "Tender Manager",
+    "email": "lcairney@deepoceangroup.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/liam-cairney-79ab5663"
+  },
+  {
+    "company": "DeepOcean",
+    "firstName": "Josh",
+    "lastName": "Knight",
+    "title": "Tender Manager",
+    "email": "jknight@deepoceangroup.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/josh-knight-9840a2138"
+  },
+  {
+    "company": "DEME Group",
+    "firstName": "Anna",
+    "lastName": "Kusumaningtyas",
+    "title": "Project Procurement",
+    "email": "anna.kusumaningtyas@deme-group.com",
+    "emailStatus": "Verified",
+    "country": "Belgium",
+    "linkedin": "http://www.linkedin.com/in/anna-felicia-kusumaningtyas"
+  },
+  {
+    "company": "DEME Group",
+    "firstName": "Roel",
+    "lastName": "Macken",
+    "title": "Procurement Manager",
+    "email": "macken.roel@deme-group.com",
+    "emailStatus": "Verified",
+    "country": "Belgium",
+    "linkedin": "http://www.linkedin.com/in/roel-macken-a6b9998"
+  },
+  {
+    "company": "DEME Group",
+    "firstName": "Luc",
+    "lastName": "Vandenbulcke",
+    "title": "CEO",
+    "email": "vandenbulcke.luc@deme-group.com",
+    "emailStatus": "Verified",
+    "country": "Belgium",
+    "linkedin": "http://www.linkedin.com/in/luc-vandenbulcke-71a68315b"
+  },
+  {
+    "company": "DEME Group",
+    "firstName": "Makhoukhi",
+    "lastName": "Hammou",
+    "title": "Tender Manager",
+    "email": "hammou.makhoukhi@deme-group.com",
+    "emailStatus": "Verified",
+    "country": "Luxembourg",
+    "linkedin": "http://www.linkedin.com/in/46b96225"
+  },
+  {
+    "company": "DEME Group",
+    "firstName": "Bisi",
+    "lastName": "Cscmp",
+    "title": "Senior Procurement, Contract and Logistics Coordinator",
+    "email": "bisi.aderibigbe@deme-group.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/bisi-george-aderibigbe"
+  },
+  {
+    "company": "DOF",
+    "firstName": "Kristine",
+    "lastName": "Biering",
+    "title": "Tender Manager",
+    "email": "kristine.biering@dof.com",
+    "emailStatus": "Verified",
+    "country": "Denmark",
+    "linkedin": "http://www.linkedin.com/in/kristine-biering-6a45a73"
+  },
+  {
+    "company": "DOF",
+    "firstName": "Thomas",
+    "lastName": "Hamre",
+    "title": "Administrerende Direktr (CEO)",
+    "email": "thomas.hamre@dofsubsea.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/thomas-hamre-28b46542"
+  },
+  {
+    "company": "DOF",
+    "firstName": "Anja",
+    "lastName": "Heggholmen",
+    "title": "Senior Chartering Financial Controller",
+    "email": "anja.heggholmen@dof.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/anja-heggholmen-2b7420a7"
+  },
+  {
+    "company": "DOF",
+    "firstName": "Ross",
+    "lastName": "Finlayson",
+    "title": "Senior Chartering Manager",
+    "email": "ross.finlayson@dof.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/ross-finlayson-a4035820"
+  },
+  {
+    "company": "DOF",
+    "firstName": "Duncan",
+    "lastName": "Lister",
+    "title": "Procurement Manager",
+    "email": "duncanlister@sky.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/duncanlister"
+  },
+  {
+    "company": "DOF",
+    "firstName": "Mark",
+    "lastName": "McVittie",
+    "title": "Regional Tendering Manager",
+    "email": "mark.mcvittie@dofsubsea.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/mark-mcvittie-2786b364"
+  },
+  {
+    "company": "Eiffage in Norway",
+    "firstName": "Frederic",
+    "lastName": "Landais",
+    "title": "Chief Financial Officer",
+    "email": "frederic.landais@eiffage.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/fr%c3%a9d%c3%a9ric-duszka-landais-08579b41"
+  },
+  {
+    "company": "Eiffage in Norway",
+    "firstName": "Stine",
+    "lastName": "Rasmussen",
+    "title": "Subcontract Manager",
+    "email": "stine.rasmussen@eiffage.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/stine-rasmussen-11a1978a"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Paul",
+    "lastName": "Ngouama",
+    "title": "Chef de Dpartement Achats and Magasin",
+    "email": "paul.ngouama@eni.com",
+    "emailStatus": "Verified",
+    "country": "Congo",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAVJcOkBxE_sS9xgn05nLKAhayfYOvDy0Mg"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Elie",
+    "lastName": "Mongin",
+    "title": "Project Procurement Manager",
+    "email": "elie.mongin@eni.com",
+    "emailStatus": "Verified",
+    "country": "Cote d'Ivoire",
+    "linkedin": "http://www.linkedin.com/in/elie-mongin-12469529"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Amal",
+    "lastName": "Ali",
+    "title": "Procurement Planning, Systems & Compliance Expert",
+    "email": "amal.ali@eni.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAY-N8kBlqzsvBOPY_l9ZIgAjWJdOGHhgIg"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Abdullah",
+    "lastName": "Elgendy",
+    "title": "Senior Business Development",
+    "email": "abdullah.elgendy@eni.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA9fv4gBFT29oLwhPqBFWgZM1Mzh39v5ulc"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Borhan",
+    "lastName": "Elsayed",
+    "title": "Business Development and New Initiative Manager",
+    "email": "borhan.elsayed@eni.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAANwMoIBYSSrwni_0LYp4zXVcW0PIkCixu0"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Ahmed",
+    "lastName": "Gamaleldin",
+    "title": "Procurement Coordinator",
+    "email": "ahmed.gamaleldin@eni.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAABXpo4sBXpmJ2FFfxVXIs4pU-SaBoygKRRg"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Manal",
+    "lastName": "Said",
+    "title": "Procurement Officer",
+    "email": "manal.said@eni.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/manal-m-said-89808631"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Freida",
+    "lastName": "Quagraine",
+    "title": "Operations Procurement Manager (including Corporate Procurement)",
+    "email": "freida.quagraine@eni.com",
+    "emailStatus": "Verified",
+    "country": "Ghana",
+    "linkedin": "http://www.linkedin.com/in/freida-quagraine-51479518"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Raffaele",
+    "lastName": "Roma",
+    "title": "LNG Chartering Manager",
+    "email": "raffaele.roma@eni.com",
+    "emailStatus": "Verified",
+    "country": "Italy",
+    "linkedin": "http://www.linkedin.com/in/raffaele-roma-3326598"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Gianluca",
+    "lastName": "Bucchi",
+    "title": "Commercial and Negotiations Division Manager",
+    "email": "gianluca.bucchi@eni.it",
+    "emailStatus": "Verified",
+    "country": "Libya",
+    "linkedin": "http://www.linkedin.com/in/ACoAAF_8zv0Bka-uOhLofSPmLf5Ux908aDPbUuc"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Francesco",
+    "lastName": "Ciccarello",
+    "title": "Project Services Manager",
+    "email": "francesco.ciccarello@eni.com",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/francescociccarello"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Faquir",
+    "lastName": "Momede",
+    "title": "Procurement Officer",
+    "email": "momede.faquir@eni.com",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/faquir-momede-694057114"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Faquir",
+    "lastName": "Momede",
+    "title": "Procurement Officer",
+    "email": "faquir.momede@eni.com",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/ACoAABx7yBABMICyRV6Q3WuCnKS0Cq-srIXCNvA"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Mohamed",
+    "lastName": "Rmadan",
+    "title": "Project Services Manager",
+    "email": "mohamed.shoukry@eni.com",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/mohamed-shoukry-rmadan-02813a22"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Jean-Luc",
+    "lastName": "Yaba",
+    "title": "Head of Procurement at CEC",
+    "email": "jean-luc.yaba@eni.com",
+    "emailStatus": "Verified",
+    "country": "Republic of the Congo",
+    "linkedin": "http://www.linkedin.com/in/jean-luc-yaba-87a80632b"
+  },
+  {
+    "company": "Equinor",
+    "firstName": "Erik",
+    "lastName": "Amdal",
+    "title": "Procurement Manager",
+    "email": "aerik@equinor.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/erik-amdal-480230157"
+  },
+  {
+    "company": "Equinor",
+    "firstName": "Tore",
+    "lastName": "Dyngeland",
+    "title": "Leader, Procurement",
+    "email": "tdy@equinor.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/toredyngeland"
+  },
+  {
+    "company": "Equinor",
+    "firstName": "Trond",
+    "lastName": "Loraas",
+    "title": "Procurement Manager",
+    "email": "tloraas@equinor.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/trond-loraas-a7a98b36"
+  },
+  {
+    "company": "Equinor",
+    "firstName": "Mette",
+    "lastName": "Ottoy",
+    "title": "Chief Procurement Officer/Senior Vice President Procurement and Supplier Relations",
+    "email": "mhot@equinor.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/mette-ott%c3%b8y-23103042"
+  },
+  {
+    "company": "Equinor",
+    "firstName": "Audun",
+    "lastName": "Tonstad",
+    "title": "Long-Term Chartering Manager",
+    "email": "abto@equinor.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/audun-borgen-tonstad-38137aa"
+  },
+  {
+    "company": "Equinor",
+    "firstName": "Geir",
+    "lastName": "Ydstebo",
+    "title": "Chartering Manager",
+    "email": "geyd@equinor.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/geir-egil-ydsteb%c3%b8-69a56a32a"
+  },
+  {
+    "company": "Equinor",
+    "firstName": "Ewa",
+    "lastName": "Sieminska",
+    "title": "Principal Procurement",
+    "email": "ewas@equinor.com",
+    "emailStatus": "Verified",
+    "country": "Poland",
+    "linkedin": "http://www.linkedin.com/in/ewa-siemi%c5%84ska-9a1906119"
+  },
+  {
+    "company": "Expro",
+    "firstName": "Hocine",
+    "lastName": "Ghendir",
+    "title": "Procurement Manager",
+    "email": "hocine.ghendir@expro.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/hocine-g-ab80b921"
+  },
+  {
+    "company": "Expro",
+    "firstName": "Djelloul",
+    "lastName": "Messaoudi",
+    "title": "â€Procurement Coordinator",
+    "email": "djelloul.messaoudi@expro.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/djelloul-messaoudi-a9a4996a"
+  },
+  {
+    "company": "Expro",
+    "firstName": "Diana",
+    "lastName": "Nfuca",
+    "title": "Procurement Buyer",
+    "email": "diana.nfuca@expro.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/diana-nfuca-80471a6a"
+  },
+  {
+    "company": "Expro",
+    "firstName": "Esmira",
+    "lastName": "Hamidova",
+    "title": "Buyer | Procurement & Supply Chain",
+    "email": "esmira.hamidova@expro.com",
+    "emailStatus": "Verified",
+    "country": "Azerbaijan",
+    "linkedin": "http://www.linkedin.com/in/esmira-hamidova-4b17a4211"
+  },
+  {
+    "company": "Expro",
+    "firstName": "Norman",
+    "lastName": "Gerber",
+    "title": "Global Procurement Manager",
+    "email": "norman.gerber@expro.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/norman-gerber-69919047"
+  },
+  {
+    "company": "Expro",
+    "firstName": "Brendan",
+    "lastName": "Webster",
+    "title": "Global Strategic Sourcing and Procurement Manager",
+    "email": "brendan.webster@expro.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/brendan-webster-765171b"
+  },
+  {
+    "company": "ExxonMobil",
+    "firstName": "Adao",
+    "lastName": "Costa",
+    "title": "Procurement Manager",
+    "email": "adao.costa@exxonmobil.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/adao-costa-27757465"
+  },
+  {
+    "company": "ExxonMobil",
+    "firstName": "Ben",
+    "lastName": "Coker",
+    "title": "Procurement Manager",
+    "email": "ben@exxonmobil.com",
+    "emailStatus": "Verified",
+    "country": "Czech Republic",
+    "linkedin": "http://www.linkedin.com/in/ben-coker-4387626a"
+  },
+  {
+    "company": "ExxonMobil",
+    "firstName": "Mariachiara",
+    "lastName": "Faraon",
+    "title": "Procurement Buyer",
+    "email": "mariachiara.faraon@exxonmobil.com",
+    "emailStatus": "Verified",
+    "country": "Czech Republic",
+    "linkedin": "http://www.linkedin.com/in/mariachiara-faraon-a5593999"
+  },
+  {
+    "company": "ExxonMobil",
+    "firstName": "Yana",
+    "lastName": "Mussina",
+    "title": "Procurement Buyer",
+    "email": "yana.mussina@exxonmobil.com",
+    "emailStatus": "Verified",
+    "country": "Czech Republic",
+    "linkedin": "http://www.linkedin.com/in/yana-mussina-268b82128"
+  },
+  {
+    "company": "ExxonMobil",
+    "firstName": "Philippe",
+    "lastName": "Gerard",
+    "title": "Procurement Project Manager",
+    "email": "philippe.gerard@exxonmobil.com",
+    "emailStatus": "Verified",
+    "country": "Czechia",
+    "linkedin": "http://www.linkedin.com/in/philippe-gerard-2ba486145"
+  },
+  {
+    "company": "ExxonMobil",
+    "firstName": "Nelsa",
+    "lastName": "Machenguana",
+    "title": "Procurement and Payable Team Lead",
+    "email": "nelsa.machenguana@exxonmobil.com",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/nelsa-mualeite-machenguana-21957286"
+  },
+  {
+    "company": "ExxonMobil",
+    "firstName": "Frances",
+    "lastName": "Andah",
+    "title": "Procurement Category Manager",
+    "email": "frances.n.andah@exxonmobil.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/frances-andah-71122465"
+  },
+  {
+    "company": "ExxonMobil",
+    "firstName": "Atanda",
+    "lastName": "Toluwanimi",
+    "title": "Procurement Contract Specialist",
+    "email": "atanda.toluwanimi@exxonmobil.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/atandatoluwanimi"
+  },
+  {
+    "company": "Fluor Corporation",
+    "firstName": "Sergio",
+    "lastName": "Barozzini",
+    "title": "Procurement & Contracts Manager at Fluor Nordic",
+    "email": "sergio.barozzini@fluor.com",
+    "emailStatus": "Verified",
+    "country": "Denmark",
+    "linkedin": "http://www.linkedin.com/in/sergio-barozzini"
+  },
+  {
+    "company": "Fluor Corporation",
+    "firstName": "Kilian",
+    "lastName": "Winnen",
+    "title": "Senior Manager Procurement & Contracts",
+    "email": "kilian_winnen@fluor.com",
+    "emailStatus": "Verified",
+    "country": "Germany",
+    "linkedin": "http://www.linkedin.com/in/kilian-winnen-17209a160"
+  },
+  {
+    "company": "Fluor Corporation",
+    "firstName": "Erik",
+    "lastName": "Enzerink",
+    "title": "Project Procurement Manager",
+    "email": "erik.enzerink@fluor.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/erik-enzerink-64a2631b1"
+  },
+  {
+    "company": "Fluor Corporation",
+    "firstName": "Mehna",
+    "lastName": "Salim",
+    "title": "Procurement & Contracts",
+    "email": "mehna.muhamed.salim@fluor.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/mehnamuhamedsalim"
+  },
+  {
+    "company": "Fluor Corporation",
+    "firstName": "Sandra",
+    "lastName": "Chmura",
+    "title": "Buyer Senior Procurement Specialist - Material Management",
+    "email": "sandra.chmura@fluor.com",
+    "emailStatus": "Verified",
+    "country": "Poland",
+    "linkedin": "http://www.linkedin.com/in/sandra-chmura-499119183"
+  },
+  {
+    "company": "Fluor Corporation",
+    "firstName": "Kim",
+    "lastName": "Dennill",
+    "title": "Senior Sales Manager",
+    "email": "kim.dennill@fluor.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAABoPS0Be6I6vl6vYz8K9gsD9OSerQv1fEs"
+  },
+  {
+    "company": "Fluor Corporation",
+    "firstName": "Charmaine",
+    "lastName": "Duffar-roberts",
+    "title": "Senior Procurement Manager",
+    "email": "charmaine.duffar-roberts@fluor.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAQkEFcBy1kslOv4qHX6LtBgJPdQgMPNc8o"
+  },
+  {
+    "company": "Fluor Corporation",
+    "firstName": "Nathan",
+    "lastName": "Duvenhage",
+    "title": "Sales Manager",
+    "email": "nathan.duvenhage@fluor.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAABC7WIgBlslPtiWvsKZSorV-PXNSDCVNpnA"
+  },
+  {
+    "company": "Fluor Corporation",
+    "firstName": "Nolwazi",
+    "lastName": "Kunene",
+    "title": "Cashier",
+    "email": "nolwazi.kunene@fluor.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAABuK4twBAqganpEr6hd-PSZQqthgi21tCx8"
+  },
+  {
+    "company": "Fluor Corporation",
+    "firstName": "Akhona",
+    "lastName": "Vellem",
+    "title": "Indirect Procurement & Supply Chain",
+    "email": "akhona.vellem@fluor.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAE_-3SsBPsqRYgt4qdvPcgl2VgkXcLqWmKk"
+  },
+  {
+    "company": "Fluor Corporation",
+    "firstName": "Monika",
+    "lastName": "Mateja",
+    "title": "Senior Procurement Manager",
+    "email": "monika.mateja@fluor.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/monika-mateja-9b611a2b"
+  },
+  {
+    "company": "Fluor Corporation",
+    "firstName": "Edward",
+    "lastName": "Spooner",
+    "title": "Procurement Manager",
+    "email": "edward.spooner@fluor.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/edward-spooner-88b21518"
+  },
+  {
+    "company": "Glencore",
+    "firstName": "Molly",
+    "lastName": "Khumalo",
+    "title": "Procurement Officer",
+    "email": "molly.khumalo@glencore.co.za",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/molly-khumalo-825a6570"
+  },
+  {
+    "company": "Glencore",
+    "firstName": "Nkanyezi",
+    "lastName": "Luthuli",
+    "title": "Team Lead Group Procurement",
+    "email": "nkanyezi.luthuli@glencore.co.za",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/nkanyezi-luthuli-83476955"
+  },
+  {
+    "company": "Glencore",
+    "firstName": "Johan",
+    "lastName": "Malan",
+    "title": "Procurement Co-Ordinator",
+    "email": "johan.malan@glencore.co.za",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/johan-malan-944b63144"
+  },
+  {
+    "company": "Glencore",
+    "firstName": "Jay",
+    "lastName": "Naidoo",
+    "title": "Senior Procurement Lead",
+    "email": "jay.naidoo@glencore.co.za",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/jay-naidoo-b304b830"
+  },
+  {
+    "company": "Glencore",
+    "firstName": "Tom",
+    "lastName": "Currie",
+    "title": "Chartering Manager",
+    "email": "tom.currie@glencore.com",
+    "emailStatus": "Verified",
+    "country": "Switzerland",
+    "linkedin": "http://www.linkedin.com/in/tom-currie-8555292b"
+  },
+  {
+    "company": "Glencore",
+    "firstName": "Jorge",
+    "lastName": "Delgado",
+    "title": "Head of Procurement and Supply Chain for Copper Assets",
+    "email": "jorge.delgado@glencore.com",
+    "emailStatus": "Verified",
+    "country": "Switzerland",
+    "linkedin": "http://www.linkedin.com/in/jorge-delgado-a82aa935"
+  },
+  {
+    "company": "Gulf Marine Services PLC",
+    "firstName": "Vishnu",
+    "lastName": "Cipm",
+    "title": "Procurement & Supply Chain Manager",
+    "email": "vishnu.rajan@gmsplc.com",
+    "emailStatus": "Verified",
+    "country": "United Arab Emirates",
+    "linkedin": "http://www.linkedin.com/in/vishnu-rajan-cipm-ciscm-66b1a745"
+  },
+  {
+    "company": "Gulf Marine Services PLC",
+    "firstName": "Luthul",
+    "lastName": "Latheef",
+    "title": "Procurement Engineer",
+    "email": "luthul.latheef@gmsplc.com",
+    "emailStatus": "Verified",
+    "country": "United Arab Emirates",
+    "linkedin": "http://www.linkedin.com/in/luthul-latheef-b3236619b"
+  },
+  {
+    "company": "H&P",
+    "firstName": "Joshy",
+    "lastName": "Kollara",
+    "title": "Strategic Purchase Manager",
+    "email": "joshy.kollara@kcadeutag.com",
+    "emailStatus": "Verified",
+    "country": "Oman",
+    "linkedin": "http://www.linkedin.com/in/joshy-kollara-89084224"
+  },
+  {
+    "company": "H&P",
+    "firstName": "Ali",
+    "lastName": "Alalwiyat",
+    "title": "Procurement Specialist",
+    "email": "ali.alalwiyat@hpinc.com",
+    "emailStatus": "Verified",
+    "country": "Saudi Arabia",
+    "linkedin": "http://www.linkedin.com/in/ali-alalwiyat"
+  },
+  {
+    "company": "H&P",
+    "firstName": "Shahbaz",
+    "lastName": "Khan",
+    "title": "Procurement Buyer",
+    "email": "shahbaz.khan@hpinc.com",
+    "emailStatus": "Verified",
+    "country": "Saudi Arabia",
+    "linkedin": "http://www.linkedin.com/in/shahbaz-khan-148a05145"
+  },
+  {
+    "company": "H&P",
+    "firstName": "Elizabeth",
+    "lastName": "Barber",
+    "title": "Procurement Manager",
+    "email": "elizabeth.barber@hpinc.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/elizabeth-barber-22b091397"
+  },
+  {
+    "company": "H&P",
+    "firstName": "Brandon",
+    "lastName": "Chouinard",
+    "title": "Senior Manager Procurement and SC Systems",
+    "email": "brandon.chouinard@hpinc.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/brandon-chouinard"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Saber",
+    "lastName": "Dib",
+    "title": "Procurement Supervisor",
+    "email": "saber.dib@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAACPq_IkBQkS0KhPWY6NgZjKEWUhzetY566Y"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Abdennour",
+    "lastName": "Hocine",
+    "title": "Procurement Specialist",
+    "email": "abdennour.hocine@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/abdennour-hocine-20ba9018a"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Youcef",
+    "lastName": "Raghda",
+    "title": "Procurement Specialist, Sr",
+    "email": "youcef.raghda@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/youcef-raghda-bb399318"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Teresa",
+    "lastName": "Braz",
+    "title": "Procurement Specialist",
+    "email": "teresa.braz@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/teresa-braz-17524089"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Rosa",
+    "lastName": "Loemba",
+    "title": "Procurement Contract Specialist",
+    "email": "rosa.loemba@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/rosa-loemba-7278a8202"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Stephane",
+    "lastName": "Metoule",
+    "title": "Area Technical Sales Advisor",
+    "email": "stephane.metoule@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Cameroon",
+    "linkedin": "http://www.linkedin.com/in/ACoAABQtQ2AB9jBs1g4hxbbHvwBpAfEhHtSIgkk"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Mohamed",
+    "lastName": "Diaa",
+    "title": "Principal Wireline Technical Sales Advisor",
+    "email": "mohamed.diaa@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA8HHsAByqp6PfU-kuSnFS7VCepgoriG5kM"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Akram",
+    "lastName": "El-soud",
+    "title": "Business Development Manager",
+    "email": "akram.abuelsaud@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAREPPkBRLiLGKZld064Fo2bzJMB-r-zulI"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Nadine",
+    "lastName": "Hegazy",
+    "title": "Senior Procurement Contract Specialist",
+    "email": "nadine.hegazy@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/nadine-hegazy-343802130"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Amr",
+    "lastName": "Khafagy",
+    "title": "Chevron Account Manager",
+    "email": "amrmohamed.khafagy@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAoIOaABePUzBRZrEr8Yp-_WI3Lc0Y1uEgo"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Mina",
+    "lastName": "Mitry",
+    "title": "Sales Manager",
+    "email": "mina.mitry@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAB1AP8cBqL48qVlfBWMXrbX4qGSIQ1I1tao"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Ahmed",
+    "lastName": "Said",
+    "title": "Procurement Manager",
+    "email": "ahmed.said@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ahmed-said-45025839"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Kholoud",
+    "lastName": "Wahid",
+    "title": "Senior Procurement Specialist",
+    "email": "kholoud.wahid@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/kholoud-wahid-195899116"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Hilya",
+    "lastName": "Namupolo",
+    "title": "Proposal Specialist",
+    "email": "hilya.namupolo@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Namibia",
+    "linkedin": "http://www.linkedin.com/in/ACoAABxGSKcBl2qXAIiKakzOtk3ELoJWZcrZDd0"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Robert",
+    "lastName": "Voicu",
+    "title": "Procurement Specialist",
+    "email": "robert.voicu@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Romania",
+    "linkedin": "http://www.linkedin.com/in/robert-voicu-6a553b53"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Nene",
+    "lastName": "Aidara",
+    "title": "Senior Procurement Specialist",
+    "email": "nenelabaye.aidara@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "Senegal",
+    "linkedin": "http://www.linkedin.com/in/nene-labaye-aidara-10883a131"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Mohammed",
+    "lastName": "Ahsan",
+    "title": "Global Procurement Specialist.",
+    "email": "mohammed.ahsan@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/mohammed-ahsan-72663b50"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Sasha-Lee",
+    "lastName": "Hickman",
+    "title": "Area Procurement Manager for Europe",
+    "email": "sasha-lee.hickman@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/sasha-lee-taylor-hickman-3aa539b3"
+  },
+  {
+    "company": "Halliburton",
+    "firstName": "Stephen",
+    "lastName": "Watson",
+    "title": "Senior Procurement Specialist",
+    "email": "stephen.watson@halliburton.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/stephen-watson-95461230"
+  },
+  {
+    "company": "Heerema Marine",
+    "firstName": "Martijn",
+    "lastName": "Wijdeveld",
+    "title": "Director Supply Chain Management And Procurement",
+    "email": "mwijdeveld@hmc-heerema.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "https://linkedin.com/in/ACoAAAAi4CwB4lWy82W7quj811I2XpRscYzfIBc"
+  },
+  {
+    "company": "Heritage Energy Operational Services Limited",
+    "firstName": "Henry",
+    "lastName": "Otta",
+    "title": "Engineering & Project Manager",
+    "email": "henry.otta@heosl.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/henroo"
+  },
+  {
+    "company": "Intex Construction Limited",
+    "firstName": "Vincent",
+    "lastName": "Mulama",
+    "title": "Manager, Systems Administratorag Information Technology",
+    "email": "vincent@intexafrica.com",
+    "emailStatus": "Verified",
+    "country": "Kenya",
+    "linkedin": "http://www.linkedin.com/in/vincent-mulama-050b4b17"
+  },
+  {
+    "company": "Jan De Nul Group",
+    "firstName": "Richard",
+    "lastName": "Cordes",
+    "title": "Procurement Manager Offshore & Dredging",
+    "email": "richard.cordes@jandenul.com",
+    "emailStatus": "Verified",
+    "country": "Belgium",
+    "linkedin": "http://www.linkedin.com/in/richard-cordes-80a79645"
+  },
+  {
+    "company": "Jan De Nul Group",
+    "firstName": "Genetello",
+    "lastName": "Marino",
+    "title": "Expert Tender & Procurement Engineer",
+    "email": "marino.genetello@jandenul.com",
+    "emailStatus": "Verified",
+    "country": "Belgium",
+    "linkedin": "http://www.linkedin.com/in/genetello-marino-4a219036"
+  },
+  {
+    "company": "Jan De Nul Group",
+    "firstName": "Van",
+    "lastName": "Peter",
+    "title": "Procurement Category Manager",
+    "email": "peter.vandaele@jandenul.com",
+    "emailStatus": "Verified",
+    "country": "Belgium",
+    "linkedin": "http://www.linkedin.com/in/van-daele-peter-2bb15b69"
+  },
+  {
+    "company": "Jan De Nul Group",
+    "firstName": "Machteld",
+    "lastName": "Van Damme",
+    "title": "Manager Operational Procurement",
+    "email": "machteld.vandamme@jandenul.com",
+    "emailStatus": "Verified",
+    "country": "Belgium",
+    "linkedin": "http://www.linkedin.com/in/machteld-van-damme-330b7610"
+  },
+  {
+    "company": "Jan De Nul Group",
+    "firstName": "Michael",
+    "lastName": "Van Der Elst",
+    "title": "Project Procurement Coordinator",
+    "email": "michael.vanderelst@jandenul.com",
+    "emailStatus": "Verified",
+    "country": "Belgium",
+    "linkedin": "http://www.linkedin.com/in/micha%c3%abl-van-der-elst-370361a4"
+  },
+  {
+    "company": "Jan De Nul Group",
+    "firstName": "Thijs",
+    "lastName": "Van Herbruggen",
+    "title": "Group Procurement Manager",
+    "email": "thijs.vanherbruggen@jandenul.com",
+    "emailStatus": "Verified",
+    "country": "Belgium",
+    "linkedin": "http://www.linkedin.com/in/thijs-van-herbruggen-1090b579"
+  },
+  {
+    "company": "JGC",
+    "firstName": "Biju",
+    "lastName": "Aduthila",
+    "title": "Buyer, Procurement Dept",
+    "email": "aduthila.biju@jgc.com",
+    "emailStatus": "Verified",
+    "country": "India",
+    "linkedin": "http://www.linkedin.com/in/biju-aduthila-a227488"
+  },
+  {
+    "company": "JGC",
+    "firstName": "Arun",
+    "lastName": "Kumar",
+    "title": "Procurement Buyer",
+    "email": "kumar.arun@jgc.com",
+    "emailStatus": "Verified",
+    "country": "India",
+    "linkedin": "http://www.linkedin.com/in/arunkumar-sampath"
+  },
+  {
+    "company": "JGC",
+    "firstName": "Vikram",
+    "lastName": "Raaj",
+    "title": "Project Procurement",
+    "email": "raaj.vikram@jgc.com",
+    "emailStatus": "Verified",
+    "country": "India",
+    "linkedin": "http://www.linkedin.com/in/vikram-raaj-409b1959"
+  },
+  {
+    "company": "JGC",
+    "firstName": "Shoichiro",
+    "lastName": "Mori",
+    "title": "Procurement Expediter",
+    "email": "mori.shoichiro@jgc.com",
+    "emailStatus": "Verified",
+    "country": "Italy",
+    "linkedin": "http://www.linkedin.com/in/shoichiro-mori"
+  },
+  {
+    "company": "JGC",
+    "firstName": "Janica",
+    "lastName": "Encomienda",
+    "title": "Chief Procurement Coordinator",
+    "email": "encomienda.janica@jgc.com",
+    "emailStatus": "Verified",
+    "country": "Philippines",
+    "linkedin": "http://www.linkedin.com/in/janica-encomienda-b28525200"
+  },
+  {
+    "company": "JGC",
+    "firstName": "Ajaz",
+    "lastName": "Bhat",
+    "title": "Field Procurement Head",
+    "email": "bhat.ajaz@jgc.com",
+    "emailStatus": "Verified",
+    "country": "Saudi Arabia",
+    "linkedin": "http://www.linkedin.com/in/ajaz-bhat-b100a93a"
+  },
+  {
+    "company": "KBR, Inc.",
+    "firstName": "Nnenna",
+    "lastName": "Elechi",
+    "title": "Project Procurement Manager",
+    "email": "nnenna.elechi@kbr.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/nnenna-elechi-57a907229"
+  },
+  {
+    "company": "KBR, Inc.",
+    "firstName": "Chris",
+    "lastName": "Goddard",
+    "title": "Project Procurement Manager",
+    "email": "chris.goddard@kbr.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/chris-goddard-337464138"
+  },
+  {
+    "company": "KBR, Inc.",
+    "firstName": "Richard",
+    "lastName": "Hickman",
+    "title": "Senior Procurement Manager",
+    "email": "richard.hickman@kbr.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/richard-hickman-07a55340"
+  },
+  {
+    "company": "KBR, Inc.",
+    "firstName": "Rhea",
+    "lastName": "Maxwell",
+    "title": "Principal Procurement Specialist",
+    "email": "rhea.maxwell@kbr.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/rhea-maxwell-1ab5a422"
+  },
+  {
+    "company": "KBR, Inc.",
+    "firstName": "Jonathan",
+    "lastName": "McLachlan",
+    "title": "Head of Procurement",
+    "email": "jonathan.mclachlan@kbr.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/jonathanmclachlan1"
+  },
+  {
+    "company": "KBR, Inc.",
+    "firstName": "Glenn",
+    "lastName": "Purvey",
+    "title": "Procurement Manager",
+    "email": "glenn.purvey2@kbr.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/glenn-purvey-768190a4"
+  },
+  {
+    "company": "KCA Deutag",
+    "firstName": "Ruslan",
+    "lastName": "Aliyev",
+    "title": "Procurement Team Leader",
+    "email": "ruslan.aliyev@kcadeutag.com",
+    "emailStatus": "Verified",
+    "country": "Azerbaijan",
+    "linkedin": "http://www.linkedin.com/in/ruslan-aliyev-a6322b33"
+  },
+  {
+    "company": "KCA Deutag",
+    "firstName": "Daniel",
+    "lastName": "Chu Marquez",
+    "title": "Procurement & Post Order Deputy Manager - Sucursal Colombia",
+    "email": "daniel.chu@kcadeutag.com",
+    "emailStatus": "Verified",
+    "country": "Peru",
+    "linkedin": "http://www.linkedin.com/in/daniel-chu-m%c3%a1rquez-43782926b"
+  },
+  {
+    "company": "KCA Deutag",
+    "firstName": "Rana",
+    "lastName": "Aleid",
+    "title": "â€Procurement",
+    "email": "rana.aleid@kcadeutag.com",
+    "emailStatus": "Verified",
+    "country": "Saudi Arabia",
+    "linkedin": "http://www.linkedin.com/in/rana-aleid-856568255"
+  },
+  {
+    "company": "Keppel Offshore & Marine",
+    "firstName": "Mohd",
+    "lastName": "Salleh",
+    "title": "Executive Director Operations",
+    "email": "mohd.salleh@keppel.com",
+    "emailStatus": "Verified",
+    "country": "Singapore",
+    "linkedin": "http://www.linkedin.com/in/mohd-salleh-aa2631149"
+  },
+  {
+    "company": "Kosmos Energy",
+    "firstName": "Ismail",
+    "lastName": "Ahmed",
+    "title": "Vice President& Country Manager- Kosmos Energy",
+    "email": "isidahmed@kosmosenergy.com",
+    "emailStatus": "Verified",
+    "country": "Mauritania",
+    "linkedin": "http://www.linkedin.com/in/ismail-mohamed-sid-ahmed-6a093745"
+  },
+  {
+    "company": "Kosmos Energy",
+    "firstName": "Scott",
+    "lastName": "Lawrie",
+    "title": "Drilling Supervisor",
+    "email": "slawrie@kosmosenergy.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/scott-lawrie-81061818"
+  },
+  {
+    "company": "Kuwait Oil Company",
+    "firstName": "Mr.",
+    "lastName": "Eisa Abdulrahman Al-maraghi",
+    "title": "Marine Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Hungary",
+    "linkedin": "https://www.linkedin.com/in/ACoAAFbR3aYByZk5RXFLuxLM-VYwbWa43zi0dio"
+  },
+  {
+    "company": "Kuwait Oil Company",
+    "firstName": "Marwan",
+    "lastName": "Nasr",
+    "title": "Procurement Logistics Manager",
+    "email": "mnasr@kockw.com",
+    "emailStatus": "Verified",
+    "country": "Morocco",
+    "linkedin": "https://www.linkedin.com/in/ACoAADDSukMBu9OQOW738DbhPhnh9Zkda-C6nRk"
+  },
+  {
+    "company": "Lamprell",
+    "firstName": "Paul",
+    "lastName": "Bool",
+    "title": "Procurement Coordinator",
+    "email": "bpaul@lamprell.com",
+    "emailStatus": "Verified",
+    "country": "Philippines",
+    "linkedin": "http://www.linkedin.com/in/paul-bool-407709119"
+  },
+  {
+    "company": "Lamprell",
+    "firstName": "Terry",
+    "lastName": "Mills",
+    "title": "Senior Project Procurement Manager",
+    "email": "tmills@lamprell.com",
+    "emailStatus": "Verified",
+    "country": "United Arab Emirates",
+    "linkedin": "http://www.linkedin.com/in/terry-mills-27555a77"
+  },
+  {
+    "company": "Lamprell",
+    "firstName": "Smruthi",
+    "lastName": "Mohan",
+    "title": "Senior Procurement Specialist",
+    "email": "msmruthi@lamprell.com",
+    "emailStatus": "Verified",
+    "country": "United Arab Emirates",
+    "linkedin": "http://www.linkedin.com/in/smruthi-mohan-cips-693144141"
+  },
+  {
+    "company": "Lamprell",
+    "firstName": "Shyam",
+    "lastName": "Muraleedharan",
+    "title": "Team Lead (Lead Procurement Specialist)",
+    "email": "smuraleedharan@lamprell.com",
+    "emailStatus": "Verified",
+    "country": "United Arab Emirates",
+    "linkedin": "http://www.linkedin.com/in/shyam-muraleedharan-ab392b51"
+  },
+  {
+    "company": "Lamprell",
+    "firstName": "Satteesh",
+    "lastName": "Sridharan",
+    "title": "Project Procurement Manager",
+    "email": "ssatteesh@lamprell.com",
+    "emailStatus": "Verified",
+    "country": "United Arab Emirates",
+    "linkedin": "http://www.linkedin.com/in/satteesh-s-cips-certified-93301157"
+  },
+  {
+    "company": "LANDMARK HOLDINGS LTD",
+    "firstName": "Raju",
+    "lastName": "Rajusethi",
+    "title": "Director",
+    "email": "raju@lhl.co.ke",
+    "emailStatus": "Verified",
+    "country": "Kenya",
+    "linkedin": "http://www.linkedin.com/in/raju-raju-sethi-59809550"
+  },
+  {
+    "company": "LUKOIL",
+    "firstName": "Suleymanova",
+    "lastName": "Dzhanat",
+    "title": "Tender and Procurement Manager, Central Eastern Europe Cluster at Lukoil Czech Republic, s.r.o.",
+    "email": "suleymanova.dzhanat@petrotel.lukoil.com",
+    "emailStatus": "Verified",
+    "country": "Czech Republic",
+    "linkedin": "http://www.linkedin.com/in/suleymanova-dzhanat-204b9671"
+  },
+  {
+    "company": "LUKOIL",
+    "firstName": "Nurbol",
+    "lastName": "Yermekov",
+    "title": "Contracts and Procurement Manager",
+    "email": "nurbol.yermekov@lukoil.com",
+    "emailStatus": "Verified",
+    "country": "Kazakhstan",
+    "linkedin": "http://www.linkedin.com/in/nurbolyermekov"
+  },
+  {
+    "company": "LUKOIL",
+    "firstName": "Oleg",
+    "lastName": "Skvortsov",
+    "title": "Director of Procurement",
+    "email": "oleg.skvortsov@lukoil.com",
+    "emailStatus": "Verified",
+    "country": "Romania",
+    "linkedin": "http://www.linkedin.com/in/oleg-skvortsov-90b14158"
+  },
+  {
+    "company": "LUKOIL",
+    "firstName": "Vitaly",
+    "lastName": "Seryakov",
+    "title": "Procurement Manager",
+    "email": "vitaly.seryakov@lukoil.com",
+    "emailStatus": "Verified",
+    "country": "Russia",
+    "linkedin": "http://www.linkedin.com/in/vitaly-seryakov-6165764"
+  },
+  {
+    "company": "LUKOIL",
+    "firstName": "Aleksey",
+    "lastName": "Zavyalov",
+    "title": "Head Purchasing Specialist, Procurement Department",
+    "email": "aleksey.zavyalov@lukoil.com",
+    "emailStatus": "Verified",
+    "country": "Russia",
+    "linkedin": "http://www.linkedin.com/in/aleksey-zavyalov-06141759"
+  },
+  {
+    "company": "Maersk Supply Service",
+    "firstName": "Pernille",
+    "lastName": "Beck",
+    "title": "Senior Procurement Manager",
+    "email": "pernille.beck@maersksupplyservice.com",
+    "emailStatus": "Verified",
+    "country": "Denmark",
+    "linkedin": "http://www.linkedin.com/in/pernille-beck-3b136a6"
+  },
+  {
+    "company": "Marathon Petroleum Corporation",
+    "firstName": "Denese",
+    "lastName": "James",
+    "title": "Procurement Manager",
+    "email": "djames@marathonpetroleum.com",
+    "emailStatus": "Verified",
+    "country": "Jamaica",
+    "linkedin": "http://www.linkedin.com/in/denese-james-8932b69a"
+  },
+  {
+    "company": "Marathon Petroleum Corporation",
+    "firstName": "Jan",
+    "lastName": "Banas",
+    "title": "Project Procurement Manager",
+    "email": "jbanas@marathonpetroleum.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/jan-banas-08462b200"
+  },
+  {
+    "company": "Marathon Petroleum Corporation",
+    "firstName": "Emily",
+    "lastName": "Feldpausch",
+    "title": "Global Procurement Representative",
+    "email": "efeldpausch@marathonpetroleum.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/emily-feldpausch-78125a3a"
+  },
+  {
+    "company": "Marathon Petroleum Corporation",
+    "firstName": "Susan",
+    "lastName": "Gomez",
+    "title": "Advanced Procurement Specialist",
+    "email": "sgomez@marathonpetroleum.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/susan-l-gomez-28b92b16"
+  },
+  {
+    "company": "Marathon Petroleum Corporation",
+    "firstName": "Whitney",
+    "lastName": "McAnespy",
+    "title": "Operational Procurement Manager",
+    "email": "wlmcanespy@marathonpetroleum.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/whitney-frye-mcanespy-81437170"
+  },
+  {
+    "company": "Marathon Petroleum Corporation",
+    "firstName": "Ron",
+    "lastName": "Wilson",
+    "title": "Procurement and Contracts",
+    "email": "ronalddwilso@marathonpetroleum.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/ron-wilson-134b28126"
+  },
+  {
+    "company": "Maurel & Prom",
+    "firstName": "Olivier",
+    "lastName": "Langavant",
+    "title": "CEO",
+    "email": "odelangavant@maureletprom.fr",
+    "emailStatus": "Verified",
+    "country": "France",
+    "linkedin": "http://www.linkedin.com/in/olivier-de-langavant-70051b116"
+  },
+  {
+    "company": "Maurel & Prom",
+    "firstName": "Vincent",
+    "lastName": "Rodet",
+    "title": "M&P Group Wells Manager | Caroil CEO",
+    "email": "vrodet@maureletprom.fr",
+    "emailStatus": "Verified",
+    "country": "France",
+    "linkedin": "http://www.linkedin.com/in/vincent-rodet-b60b401"
+  },
+  {
+    "company": "Maurel & Prom",
+    "firstName": "Mathieu",
+    "lastName": "Thabault",
+    "title": "Chief Operating Officer",
+    "email": "mthabault@maureletprom.fr",
+    "emailStatus": "Verified",
+    "country": "France",
+    "linkedin": "http://www.linkedin.com/in/mathieu-thabault-2963609b"
+  },
+  {
+    "company": "Maurel & Prom",
+    "firstName": "Obame",
+    "lastName": "Obame",
+    "title": "Oil & Gas Production Professional",
+    "email": "oobame@gabonmp.com",
+    "emailStatus": "Verified",
+    "country": "Gabon",
+    "linkedin": "http://www.linkedin.com/in/obame-obame-4a40b739"
+  },
+  {
+    "company": "McDermott",
+    "firstName": "Leow",
+    "lastName": "Yon Wei",
+    "title": "Senior Manager Procurement",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Australia",
+    "linkedin": "https://linkedin.com/in/ACoAACIcFSEB_YuQrcYmfxGsaiK7e_Fgz7ooDao"
+  },
+  {
+    "company": "McDermott International, Ltd",
+    "firstName": "Joao",
+    "lastName": "Gime",
+    "title": "Procurement Specialist",
+    "email": "joao.gime@mcdermott.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/joao-gime-54755b113"
+  },
+  {
+    "company": "McDermott International, Ltd",
+    "firstName": "Vit",
+    "lastName": "Hanak",
+    "title": "Procurement Manager",
+    "email": "vit.hanak@mcdermott.com",
+    "emailStatus": "Verified",
+    "country": "Czechia",
+    "linkedin": "http://www.linkedin.com/in/v%c3%adt-han%c3%a1k-06a69734"
+  },
+  {
+    "company": "McDermott International, Ltd",
+    "firstName": "Dmitriy",
+    "lastName": "Lupanov",
+    "title": "Principal Procurement Specialist",
+    "email": "dlupanov@mcdermott.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/dmitriy-lupanov-550a05b"
+  },
+  {
+    "company": "McDermott International, Ltd",
+    "firstName": "Pierre",
+    "lastName": "Oosterveer",
+    "title": "Project Procurement Manager",
+    "email": "poosterveer@mcdermott.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/pierre-oosterveer-b2b5ba42"
+  },
+  {
+    "company": "McDermott International, Ltd",
+    "firstName": "Randy",
+    "lastName": "Orquiza",
+    "title": "Manager Procurement",
+    "email": "randy.orquiza@mcdermott.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/81rso"
+  },
+  {
+    "company": "McDermott International, Ltd",
+    "firstName": "Mark",
+    "lastName": "Smith",
+    "title": "Deputy Procurement & Contracts Manager",
+    "email": "mark.smith@mcdermott.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/mark-smith-a7843387"
+  },
+  {
+    "company": "McDermott International, Ltd",
+    "firstName": "Rahul",
+    "lastName": "Tyagi",
+    "title": "Procurement Manager- Feed+epc Proposal for 12 Trains of 1.5MTPA Each of Rovuma LNG Phase 1 for Exxon",
+    "email": "rahul.tyagi@mcdermott.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/rahul-tyagi-b0a71421"
+  },
+  {
+    "company": "Meren",
+    "firstName": "Oliver",
+    "lastName": "Quinn",
+    "title": "Chief Commercial & Operating Officer",
+    "email": "oliver.quinn@mereninc.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/oliver-quinn-86053812"
+  },
+  {
+    "company": "Meren",
+    "firstName": "Roger",
+    "lastName": "Tucker",
+    "title": "President and Chief Executive Officer",
+    "email": "roger.tucker@mereninc.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/roger-tucker-35b20435"
+  },
+  {
+    "company": "MODEC",
+    "firstName": "Gustavo",
+    "lastName": "Trevilatto",
+    "title": "Global Category Procurement Manager",
+    "email": "gustavo.trevilatto@modec.com",
+    "emailStatus": "Verified",
+    "country": "Brazil",
+    "linkedin": "http://www.linkedin.com/in/gustavotrevilattto"
+  },
+  {
+    "company": "MODEC",
+    "firstName": "Khady",
+    "lastName": "Diouf",
+    "title": "Procurement Analyst",
+    "email": "khady.diouf@modec.com",
+    "emailStatus": "Verified",
+    "country": "Senegal",
+    "linkedin": "http://www.linkedin.com/in/khady-ga%c3%afs-diouf-204a36153"
+  },
+  {
+    "company": "MODEC",
+    "firstName": "Moise",
+    "lastName": "Sadio",
+    "title": "Procurement Analyst",
+    "email": "moise.sadio@modec.com",
+    "emailStatus": "Verified",
+    "country": "Senegal",
+    "linkedin": "http://www.linkedin.com/in/moise-sadio-5792b837"
+  },
+  {
+    "company": "MODEC",
+    "firstName": "Gus",
+    "lastName": "Gilani",
+    "title": "Sr. Procurement Specialist",
+    "email": "gus_gilani@modec.com",
+    "emailStatus": "Verified",
+    "country": "Singapore",
+    "linkedin": "http://www.linkedin.com/in/gusgilani"
+  },
+  {
+    "company": "MODEC",
+    "firstName": "Hendrik",
+    "lastName": "Barnard",
+    "title": "Chief Revenue Officer",
+    "email": "hendrik.barnard@modec.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA4PuGoBsRBkbKtMkjOG6RBfIPZhz6Ou-uE"
+  },
+  {
+    "company": "MODEC",
+    "firstName": "Tien",
+    "lastName": "Bui",
+    "title": "Lead Procurement & Logistics Officer",
+    "email": "tien.bui@modec.com",
+    "emailStatus": "Verified",
+    "country": "Vietnam",
+    "linkedin": "http://www.linkedin.com/in/tien-bui-638240106"
+  },
+  {
+    "company": "MODEC",
+    "firstName": "Hien",
+    "lastName": "Tran",
+    "title": "Procurement Officer",
+    "email": "hien.tran@modec.com",
+    "emailStatus": "Verified",
+    "country": "Vietnam",
+    "linkedin": "http://www.linkedin.com/in/hien-tran-67588626"
+  },
+  {
+    "company": "Nabors Industries",
+    "firstName": "Camilo",
+    "lastName": "Gomez",
+    "title": "Head of Procurement and Supply Chain Manager",
+    "email": "camilo.gomez@nabors.com",
+    "emailStatus": "Verified",
+    "country": "Colombia",
+    "linkedin": "http://www.linkedin.com/in/camigome"
+  },
+  {
+    "company": "Nabors Industries",
+    "firstName": "Niyati",
+    "lastName": "Lawand",
+    "title": "Sr Procurement Supply Chain",
+    "email": "niyati.lawand@nabors.com",
+    "emailStatus": "Verified",
+    "country": "India",
+    "linkedin": "http://www.linkedin.com/in/niyati-lawand-264023b2"
+  },
+  {
+    "company": "Nabors Industries",
+    "firstName": "Sandeep",
+    "lastName": "Vasipalli",
+    "title": "Procurement Buyer",
+    "email": "sandeep.vasipalli@parkerdrilling.com",
+    "emailStatus": "Verified",
+    "country": "India",
+    "linkedin": "http://www.linkedin.com/in/sandeep-vasipalli-a023b3b4"
+  },
+  {
+    "company": "Nexans Norge",
+    "firstName": "Natacha",
+    "lastName": "Jushko",
+    "title": "Sales Manager Rdc",
+    "email": "natacha.jushko@nexans.com",
+    "emailStatus": "Catch-all",
+    "country": "DR Congo",
+    "linkedin": "http://www.linkedin.com/in/ACoAAACi38oB2Mi_HPzxxD8LTHWBBwJgoJiXVTk"
+  },
+  {
+    "company": "Nexans Norge",
+    "firstName": "Mostafa",
+    "lastName": "Essam",
+    "title": "Sales Marketing Executive",
+    "email": "mostafa.essam@nexans.com",
+    "emailStatus": "Catch-all",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAACfKLU8B3a4NhVifKkJaOptPNeBtLcAZ-4M"
+  },
+  {
+    "company": "Nexans Norge",
+    "firstName": "Maged",
+    "lastName": "Gamal",
+    "title": "Sales",
+    "email": "maged.gamal@nexans.com",
+    "emailStatus": "Catch-all",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAft2skBZbyL5aM5zCQ_PFrr3BCVzTRDPmY"
+  },
+  {
+    "company": "Nexans Norge",
+    "firstName": "Humphrey",
+    "lastName": "Amartey",
+    "title": "Sales Manager",
+    "email": "humphrey.amartey@nexans.com",
+    "emailStatus": "Verified",
+    "country": "Ghana",
+    "linkedin": "http://www.linkedin.com/in/ACoAAB-mK7kBjKPMcz22WSkdUSPGAKKHB7zsYJY"
+  },
+  {
+    "company": "Nexans Norge",
+    "firstName": "Ahmed",
+    "lastName": "Barhi",
+    "title": "Acheteur",
+    "email": "ahmed.barhi@nexans.com",
+    "emailStatus": "Verified",
+    "country": "Morocco",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAtmitUBE6NNs7OUp0YdF3DNfPE06lFxSFw"
+  },
+  {
+    "company": "Nexans Norge",
+    "firstName": "Khadija",
+    "lastName": "Benhachime",
+    "title": "Acheteur",
+    "email": "khadija.benhachime@nexans.com",
+    "emailStatus": "Verified",
+    "country": "Morocco",
+    "linkedin": "http://www.linkedin.com/in/ACoAADGUc-kBmRIZnLy0Ibo6l7SJ6NG-H9qzio4"
+  },
+  {
+    "company": "Nexans Norge",
+    "firstName": "Mouhcine",
+    "lastName": "Oukhoya",
+    "title": "Senior Technician After Sales Service",
+    "email": "mouhcine.oukhoya@nexans.com",
+    "emailStatus": "Catch-all",
+    "country": "Morocco",
+    "linkedin": "http://www.linkedin.com/in/ACoAACfj-64BNMJRLk4adePhsOl0OMcbz1nR7KQ"
+  },
+  {
+    "company": "Nexans Norge",
+    "firstName": "Victor",
+    "lastName": "Balogun",
+    "title": "Sales Officer",
+    "email": "victor.balogun@nexans.com",
+    "emailStatus": "Catch-all",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAbwuC0B0SYjlxEAnB0jHawbO8pKp62U8sM"
+  },
+  {
+    "company": "NNPC E&P LIMITED",
+    "firstName": "Dennis",
+    "lastName": "Chioma",
+    "title": "Procurement Specialist",
+    "email": "chioma.dennis@nnpcgroup.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/dennis-chioma-phd-965310129"
+  },
+  {
+    "company": "NNPC E&P LIMITED",
+    "firstName": "Bwalmo",
+    "lastName": "Musa",
+    "title": "Executive Director Logistics and Procurement",
+    "email": "bwalmo.musa@nnpcgroup.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/bwalmo-musa-a3627060"
+  },
+  {
+    "company": "Nobel Energy",
+    "firstName": "Rufat",
+    "lastName": "Aghayev",
+    "title": "Procurement Officer",
+    "email": "raghayev@nobelenergy.com",
+    "emailStatus": "Verified",
+    "country": "Azerbaijan",
+    "linkedin": "http://www.linkedin.com/in/rufat-aghayev-4384a324"
+  },
+  {
+    "company": "Nobel Energy",
+    "firstName": "Fagan",
+    "lastName": "Huseynov",
+    "title": "Procurement Specialist",
+    "email": "fhuseynov@nobelenergy.com",
+    "emailStatus": "Verified",
+    "country": "Azerbaijan",
+    "linkedin": "http://www.linkedin.com/in/fagan-huseynov-5b5080191"
+  },
+  {
+    "company": "Nobel Energy",
+    "firstName": "Vugar",
+    "lastName": "Samadli",
+    "title": "Chief Executive Officer",
+    "email": "vugar.samadli@nobelenergy.com",
+    "emailStatus": "Verified",
+    "country": "Azerbaijan",
+    "linkedin": "http://www.linkedin.com/in/vugar-samadli-3abb7345"
+  },
+  {
+    "company": "Noble Corporation",
+    "firstName": "Signe",
+    "lastName": "Martedal",
+    "title": "Vice President, Head Of Supply Chain",
+    "email": "smartedal@noblecorp.com",
+    "emailStatus": "Verified",
+    "country": "Denmark",
+    "linkedin": "https://linkedin.com/in/ACoAAAGF6bUB89K3eDUFSP8uyLnrIYeFAgQfzek"
+  },
+  {
+    "company": "Noble Corporation",
+    "firstName": "Ewelina",
+    "lastName": "Formela",
+    "title": "Senior Manager, Digital Procurement",
+    "email": "eformela@noblecorp.com",
+    "emailStatus": "Verified",
+    "country": "Poland",
+    "linkedin": "http://www.linkedin.com/in/ewelina-formela-330b4b12a"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Ali",
+    "lastName": "Ferhat",
+    "title": "Business Development Manager",
+    "email": "ali.ferhat@nov.com",
+    "emailStatus": "Catch-all",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA7IYLIBW2HHBqOV3THDXq0WutLARgH7FPE"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Maria",
+    "lastName": "Jose",
+    "title": "Area Sales Manager",
+    "email": "maria.jose@nov.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAuKzXAB_CYOeV0oMIdg485tgPBy84uUG94"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Heba",
+    "lastName": "Behiery",
+    "title": "Tendering Manager",
+    "email": "heba.behiery@nov.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA6gNnQBS0IaUEDp-T9c_UqcA-sgv0zfHYY"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Dina",
+    "lastName": "Essam",
+    "title": "Sales",
+    "email": "dinaessam@nov.com",
+    "emailStatus": "Catch-all",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/dina-essam-37166828"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Mohamed",
+    "lastName": "Gheith",
+    "title": "Sales Account Manager",
+    "email": "mohamed.gheith@nov.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAmjulUBi_XHzofCzWLWkTug8Z3QxWXqJEM"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Mohamed",
+    "lastName": "Tuboscope",
+    "title": "Sales Manager",
+    "email": "mohamed.abdellatif@nov.com",
+    "emailStatus": "Catch-all",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAggKO4Bi2RpMoXQ5fgGrjd18dDw8tNJ3D4"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Steinar",
+    "lastName": "Bergsto",
+    "title": "Coordinator Procurement",
+    "email": "steinar.bergsto@nov.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/steinar-bergsto-hmsk100"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Jimmy",
+    "lastName": "Villegas",
+    "title": "Project and Tender Manager, Specialist Engineer, Project Lead Engineer - I&CET, Deputy Team Manager",
+    "email": "jimmy.villegas@nov.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/jimmy-villegas-cice-minstmc-334b0a32"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Olav",
+    "lastName": "Wisloeff",
+    "title": "Senior Purchaser, Production Procurement",
+    "email": "olavross.wisloff@nov.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/olav-ross-wisl%c3%b6ff-68172843"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Jacques",
+    "lastName": "Niemann",
+    "title": "Sales Account Manager",
+    "email": "jacques.niemann@nov.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAQFxA0Bg6PLjf5ncFgHbOrHlMMtv2WMZFA"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Earl",
+    "lastName": "Ogrady",
+    "title": "Buyer",
+    "email": "earl.ogrady@nov.com",
+    "emailStatus": "Catch-all",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAABhfpiYBGS5Y1WSgwMzmxxzpvL4V3GyhTd0"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Andrea",
+    "lastName": "Cordiner",
+    "title": "Procurement Lead",
+    "email": "andrea.cordiner@nov.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/andrea-cordiner-33830822a"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Cherie",
+    "lastName": "Elmegirab",
+    "title": "Procurement Manager",
+    "email": "cherie.elmegirab@nov.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/cherie-elmegirab-66876a27"
+  },
+  {
+    "company": "NOV",
+    "firstName": "Chakib",
+    "lastName": "Emba",
+    "title": "Tenders & Contracts Manager",
+    "email": "chakib.bouziane@nov.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/chakib-bouziane-emba-electronics-eng-9635155a"
+  },
+  {
+    "company": "Odfjell Drilling",
+    "firstName": "Sigurd",
+    "lastName": "Freuchen",
+    "title": "Purchasing Manager MODU",
+    "email": "sigurd@odfjelldrilling.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAW8csIBDl0gZ9fyAPL0fo2jMlmaup5oxIo"
+  },
+  {
+    "company": "Odfjell Drilling",
+    "firstName": "Øystein",
+    "lastName": "Koch",
+    "title": "Procurement Manager",
+    "email": "oko@odfjelldrilling.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "https://www.linkedin.com/in/ACoAAANUs9UBHe9acNKUnu-i0x4GgQIbdmSX_Vs"
+  },
+  {
+    "company": "Odfjell Drilling",
+    "firstName": "Tor",
+    "lastName": "Reidar Berge",
+    "title": "Marine Superintendent",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Norway",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAm_ZDsBPpHMVQJ6qldlITVSZpVUlsuQaVg"
+  },
+  {
+    "company": "Odfjell Drilling",
+    "firstName": "Even",
+    "lastName": "Sævik Valø",
+    "title": "Marine Supervisor",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Norway",
+    "linkedin": "https://www.linkedin.com/in/ACoAAA5s29gB8V1qDVbZs2NfwXm5GuwAXDJnG8A"
+  },
+  {
+    "company": "Oil And Natural Gas ONGC",
+    "firstName": "Pradip",
+    "lastName": "Bandopadhyay",
+    "title": "Logistics Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "India",
+    "linkedin": "https://www.linkedin.com/in/ACoAADo9kwkBiWI3zeg-VPLH1mSygfpNrkv990M"
+  },
+  {
+    "company": "Oil And Natural Gas ONGC",
+    "firstName": "Jyoti",
+    "lastName": "Iyer",
+    "title": "Procurement Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "India",
+    "linkedin": "https://www.linkedin.com/in/ACoAADcP-DoBwx22zki0qN0WYdeYOkgLy7E2nYI"
+  },
+  {
+    "company": "Oil And Natural Gas ONGC",
+    "firstName": "Ravi",
+    "lastName": "Jain",
+    "title": "Procurement Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "India",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAtsxMEBnDQbIvFKpvmJInz0tZf7zJgAvG8"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "Mohamed",
+    "lastName": "Abu-Lila",
+    "title": "Head of Procurement",
+    "email": "mohamed.abulila@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/mohamed-salah-abu-lila-28918580"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "Waled",
+    "lastName": "Adel",
+    "title": "Commercial Manager",
+    "email": "waled.adel@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAmeSPsBrHYY-MgY0J5PVQazxO6I-He_QJw"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "Karim",
+    "lastName": "Amir",
+    "title": "Procurement Specialist",
+    "email": "karim.amir@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAACAIzycBfVyQ1lXXqYYuQc8_jsG5sbE3XoM"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "Karim",
+    "lastName": "George",
+    "title": "Procurement Manager",
+    "email": "karim.george@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/karim-george-b6a28783"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "Aziz",
+    "lastName": "Gerges",
+    "title": "Tendering Director",
+    "email": "aziz.gerges@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA8R8QwB13pWin0OoAH9ePrjj1O65VrefXU"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "George",
+    "lastName": "Girguis",
+    "title": "Purchasing",
+    "email": "george.girguis@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA_mayoBZkBb6ZwMqs3NrCH0O0ESwhYDLTo"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "Perihan",
+    "lastName": "Khattab",
+    "title": "Sr. Procurement Manager",
+    "email": "perihan.khattab@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/perihan-khattab-4064054a"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "Gerges",
+    "lastName": "Meseha",
+    "title": "Procurement Specialist",
+    "email": "gerges.meseha@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAD7wiysBiZLW_SaGHI84wKdkBuvuRLx-JTY"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "George",
+    "lastName": "Naguib",
+    "title": "Procurement Team Leader (Technical Procurement Department)",
+    "email": "george.naguib@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/georgeghattasnaguib"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "Mina",
+    "lastName": "Osama",
+    "title": "Purchasing Department Employee",
+    "email": "mina.osama@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAACLMoDEBze2wBnuKhaP-UbQzXwC5_cY1l58"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "Magdy",
+    "lastName": "Sinifro",
+    "title": "Procurement Team Leader",
+    "email": "magdy.sinifro@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/magdy-sinifro-640ba662"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "Samuel",
+    "lastName": "Thabet",
+    "title": "Procurement Manager",
+    "email": "samuel.thabet@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/samuelthabet"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "Davy",
+    "lastName": "Tharwat",
+    "title": "Business Development Manager",
+    "email": "davy.tharwat@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAC5XdGIBTK4tWycohFRE7O5kqyZya07HWlY"
+  },
+  {
+    "company": "Orascom Construction PLC",
+    "firstName": "Osama",
+    "lastName": "Yousef",
+    "title": "Procurement Manager",
+    "email": "osama.yousef@orascom.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAABQsWlYBSzMwUPTQfI0yGLobHI5zKwuRAu8"
+  },
+  {
+    "company": "Oryx Energies",
+    "firstName": "Marx",
+    "lastName": "Alofa",
+    "title": "Country Procurement Manager",
+    "email": "marx.alofa@oryxenergies.com",
+    "emailStatus": "Verified",
+    "country": "Benin",
+    "linkedin": "http://www.linkedin.com/in/alofa-marx-pierre-213937b7"
+  },
+  {
+    "company": "Oryx Energies",
+    "firstName": "Rose",
+    "lastName": "Mtongana",
+    "title": "Procurement Manager",
+    "email": "rose.mtongana@oryxenergies.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/rose-mtongana-04828275"
+  },
+  {
+    "company": "Oryx Energies",
+    "firstName": "Moussa",
+    "lastName": "Diao",
+    "title": "CEO",
+    "email": "moussa.diao@oryxenergies.com",
+    "emailStatus": "Verified",
+    "country": "Switzerland",
+    "linkedin": "http://www.linkedin.com/in/moussa-diao-018b00a0"
+  },
+  {
+    "company": "Oryx Energies",
+    "firstName": "Christian",
+    "lastName": "Tchounda",
+    "title": "Chief Procurement Officer",
+    "email": "christian.tchounda@oryxenergies.com",
+    "emailStatus": "Verified",
+    "country": "Switzerland",
+    "linkedin": "http://www.linkedin.com/in/christian-tchounda"
+  },
+  {
+    "company": "Oryx Energies",
+    "firstName": "Happiness",
+    "lastName": "Katunzi",
+    "title": "Head of Procurement",
+    "email": "happiness.katunzi@oryxenergies.co.tz",
+    "emailStatus": "Verified",
+    "country": "Tanzania",
+    "linkedin": "http://www.linkedin.com/in/happiness-katunzi-829a4042"
+  },
+  {
+    "company": "Oryx Energies",
+    "firstName": "Lamin",
+    "lastName": "Jallow",
+    "title": "Procurement Manager",
+    "email": "jallow.lamin@oryxenergies.com",
+    "emailStatus": "Verified",
+    "country": "The Gambia",
+    "linkedin": "http://www.linkedin.com/in/lamin-jallow-a38257169"
+  },
+  {
+    "company": "Oryx Energies",
+    "firstName": "Dennis",
+    "lastName": "Asiimwe",
+    "title": "Procurement Officer",
+    "email": "dennis.asiimwe@oryxenergies.com",
+    "emailStatus": "Verified",
+    "country": "Uganda",
+    "linkedin": "http://www.linkedin.com/in/dennis-asiimwe-a1b752236"
+  },
+  {
+    "company": "Patterson-UTI",
+    "firstName": "Marcus",
+    "lastName": "Coleman",
+    "title": "Procurement Buyer 2",
+    "email": "marcus.coleman@patenergy.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/marcus-c-6125207a"
+  },
+  {
+    "company": "PEMEX",
+    "firstName": "Evaristo",
+    "lastName": "Canales",
+    "title": "TA Logistics Leader",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "United States",
+    "linkedin": "https://www.linkedin.com/in/ACoAABVH9K4B9rrZQMb1ZMhU1cw1Z7pcPAvTqaM"
+  },
+  {
+    "company": "PEMEX",
+    "firstName": "Waldo",
+    "lastName": "Cardenas",
+    "title": "Procurement Manager - Data, Systems & Processes",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "United States",
+    "linkedin": "https://www.linkedin.com/in/ACoAAArbNcABhzG0rnI1dMtOEvj3fsdEaOQ-5fQ"
+  },
+  {
+    "company": "PEMEX",
+    "firstName": "Jeremy",
+    "lastName": "Gribnau",
+    "title": "Production Unit Manager-logistics",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "United States",
+    "linkedin": "https://www.linkedin.com/in/ACoAABBEMcABJtKZ_rHAPW5S2YxZbTEeU_7O_TE"
+  },
+  {
+    "company": "PEMEX",
+    "firstName": "Joe",
+    "lastName": "Riley",
+    "title": "Director, Supply Chain ◆ Generated $30 Million Annual Savings ◆ Led 45 Employees",
+    "email": "joe.riley@pemex.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAkREl0Bx6fN9oRntwe3iaq1oqE2Pibe5nA"
+  },
+  {
+    "company": "Perenco",
+    "firstName": "Felipe",
+    "lastName": "Fernandes",
+    "title": "Supply Chain Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Brazil",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAakx3IBxK7Ukd5bj60CGJ_BsIcbqUcy0Ns"
+  },
+  {
+    "company": "Perenco",
+    "firstName": "Sadou",
+    "lastName": "Abdouraman",
+    "title": "Deputy Head of Procurement",
+    "email": "sadou.abdouraman@perenco.com",
+    "emailStatus": "Verified",
+    "country": "Cameroon",
+    "linkedin": "http://www.linkedin.com/in/sadou-abdouraman-167905145"
+  },
+  {
+    "company": "Perenco",
+    "firstName": "Abdouraman",
+    "lastName": "Sadou",
+    "title": "Deputy Head of Procurement",
+    "email": "sabdouraman@cm.perenco.com",
+    "emailStatus": "Verified",
+    "country": "Cameroon",
+    "linkedin": "http://www.linkedin.com/in/abdouraman-sadou-23b05724"
+  },
+  {
+    "company": "Perenco",
+    "firstName": "Abdouraman",
+    "lastName": "Sadou",
+    "title": "Deputy Head Of Procurement",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Cameroon",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAT9hY8BDQe9YDRJ8UinRisA4HY7XTET_lk"
+  },
+  {
+    "company": "Perenco",
+    "firstName": "Armel",
+    "lastName": "Simondin",
+    "title": "Chief Executive Officer",
+    "email": "asimondin@perenco.com",
+    "emailStatus": "Verified",
+    "country": "Cameroon",
+    "linkedin": "http://www.linkedin.com/in/armel-simondin-1372001"
+  },
+  {
+    "company": "Perenco",
+    "firstName": "Armel",
+    "lastName": "Simondin",
+    "title": "Chief Executive Officer",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Cameroon",
+    "linkedin": "https://linkedin.com/in/ACoAAAA1KLsB9pF6qCyunvbVKGG3lZ0-7EWuTts"
+  },
+  {
+    "company": "Perenco",
+    "firstName": "Fredy",
+    "lastName": "Reyes",
+    "title": "Global Procurement Engineer",
+    "email": "freyes@fr.perenco.com",
+    "emailStatus": "Verified",
+    "country": "France",
+    "linkedin": "http://www.linkedin.com/in/fredy-reyes-80b85151"
+  },
+  {
+    "company": "Perenco",
+    "firstName": "Edwige",
+    "lastName": "Kindou",
+    "title": "Procurement",
+    "email": "ekindou@perenco.com",
+    "emailStatus": "Verified",
+    "country": "Republic of the Congo",
+    "linkedin": "http://www.linkedin.com/in/edwige-kindou-102652104"
+  },
+  {
+    "company": "Perenco",
+    "firstName": "Julia",
+    "lastName": "Haston",
+    "title": "Procurement Buyer/Expeditor",
+    "email": "jhaston@uk.perenco.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/julia-haston-65a67866"
+  },
+  {
+    "company": "Perenco",
+    "firstName": "Ben",
+    "lastName": "Torkia Nabil",
+    "title": "Supply Chain Manager",
+    "email": "bnabil@perenco.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAOb02MB53XLkpq7HFucMcE0m48uXXN27qo"
+  },
+  {
+    "company": "Perenco",
+    "firstName": "Stephen",
+    "lastName": "Ditzen",
+    "title": "Supply Chain Manager",
+    "email": "sditzen@perenco.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "https://www.linkedin.com/in/ACoAAA1-OdcBD4PGjGt1-R5INUQoQU3Tyh6r_N0"
+  },
+  {
+    "company": "Petrobras",
+    "firstName": "Larissa",
+    "lastName": "Dantas",
+    "title": "Procurement Manager",
+    "email": "larissa.dantas@petrobras.com.br",
+    "emailStatus": "Verified",
+    "country": "Brazil",
+    "linkedin": "http://www.linkedin.com/in/larissa-dantas-25545123"
+  },
+  {
+    "company": "Petrobras",
+    "firstName": "Maximo",
+    "lastName": "Medeiros",
+    "title": "Procurement Manager",
+    "email": "maximoluiz@petrobras.com.br",
+    "emailStatus": "Verified",
+    "country": "Brazil",
+    "linkedin": "http://www.linkedin.com/in/maximo-medeiros-246aba194"
+  },
+  {
+    "company": "Petrobras",
+    "firstName": "Andre",
+    "lastName": "Mota",
+    "title": "Procurement Manager/PETROBRAS",
+    "email": "m.andre@petrobras.com.br",
+    "emailStatus": "Verified",
+    "country": "Brazil",
+    "linkedin": "http://www.linkedin.com/in/andre-mota-665146175"
+  },
+  {
+    "company": "Petrobras",
+    "firstName": "Dalmo",
+    "lastName": "Silva",
+    "title": "Chartering Manager",
+    "email": "dalmo.silva@petrobras.com.br",
+    "emailStatus": "Verified",
+    "country": "Brazil",
+    "linkedin": "http://www.linkedin.com/in/dalmo-silva-739a9429"
+  },
+  {
+    "company": "Petrobras",
+    "firstName": "Leonardo",
+    "lastName": "Barros",
+    "title": "Senior Procurement Analyst",
+    "email": "leonardoalcantara@petrobras.com.br",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/leonardo-barros-253b8832"
+  },
+  {
+    "company": "Petrobras",
+    "firstName": "Ana",
+    "lastName": "Palmai",
+    "title": "Procurement Specialist",
+    "email": "ana.palmai@petrobras.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/anapalmai"
+  },
+  {
+    "company": "Petrofac",
+    "firstName": "Abdeldjalil",
+    "lastName": "Bousbia",
+    "title": "Procurement",
+    "email": "abdeldjalil.bousbia@petrofac.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/abdeldjalil-bousbia-78b552120"
+  },
+  {
+    "company": "Petrofac",
+    "firstName": "Asta",
+    "lastName": "Valiene",
+    "title": "Procurement Specialist",
+    "email": "asta.valiene@petrofac.com",
+    "emailStatus": "Verified",
+    "country": "Lithuania",
+    "linkedin": "http://www.linkedin.com/in/asta-valiene-063391302"
+  },
+  {
+    "company": "Petrofac",
+    "firstName": "Elias",
+    "lastName": "Chouaifati",
+    "title": "Senior Procurement Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "United Arab Emirates",
+    "linkedin": "https://linkedin.com/in/ACoAAAu-jJ8BsspQJNeBsy1F4vPuQ19rmz2kLWI"
+  },
+  {
+    "company": "Petrofac",
+    "firstName": "Clayton",
+    "lastName": "Chettiar",
+    "title": "Global Strategic Procurement",
+    "email": "clayton.chettiar@petrofac.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/clayton-chettiar-42157014"
+  },
+  {
+    "company": "Petrofac",
+    "firstName": "Tareq",
+    "lastName": "Kawash",
+    "title": "Chief Executive Officer",
+    "email": "tareq.kawash@petrofac.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/tareq-kawash"
+  },
+  {
+    "company": "Petrofac",
+    "firstName": "Alan",
+    "lastName": "Ramsay",
+    "title": "Procurement and Supply Chain Manager",
+    "email": "alan.ramsay@petrofac.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/alan-ramsay-bsc-mcips-chartered-253738121"
+  },
+  {
+    "company": "Petronas Carigali",
+    "firstName": "Azri",
+    "lastName": "Qushairie",
+    "title": "Logistics Supervisor",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Malaysia",
+    "linkedin": "https://www.linkedin.com/in/ACoAAFOzzmoBknIXcfcu_HgH1Jya726m9t3CYkA"
+  },
+  {
+    "company": "Petronas Carigali",
+    "firstName": "Hasyida",
+    "lastName": "Upl",
+    "title": "Marine Supervisor Drilling Upstream Logistic",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Malaysia",
+    "linkedin": "https://www.linkedin.com/in/ACoAAFMTWnEBE37CtZ8tdG5AXm-Zhg6kR1ICIis"
+  },
+  {
+    "company": "Precision Drilling",
+    "firstName": "Bleu",
+    "lastName": "-Saney",
+    "title": "Procurement Inventory Coordinator",
+    "email": "b-saney@precisiondrilling.com",
+    "emailStatus": "Verified",
+    "country": "Canada",
+    "linkedin": "http://www.linkedin.com/in/bleu-sosa-saney-37aa093b"
+  },
+  {
+    "company": "Precision Drilling",
+    "firstName": "Shawn",
+    "lastName": "Veldhoen",
+    "title": "Team Lead, Inventory Procurement",
+    "email": "sveldhoen@precisiondrilling.com",
+    "emailStatus": "Verified",
+    "country": "Canada",
+    "linkedin": "http://www.linkedin.com/in/shawn-veldhoen-559995212"
+  },
+  {
+    "company": "Precision Drilling",
+    "firstName": "Jeff",
+    "lastName": "Page",
+    "title": "Team Lead - US Procurement",
+    "email": "jpage@precisiondrilling.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/jeff-page-7a301547"
+  },
+  {
+    "company": "Precision Drilling",
+    "firstName": "Bill",
+    "lastName": "Pickering",
+    "title": "US Procurement Manager",
+    "email": "bpickering@precisiondrilling.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/bill-pickering-ab0910179"
+  },
+  {
+    "company": "Reach Subsea",
+    "firstName": "Vebjorn",
+    "lastName": "Bauge",
+    "title": "Group Procurement Manager",
+    "email": "vba@reachsubsea.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/vebj%c3%b8rn-bauge-600280191"
+  },
+  {
+    "company": "Reach Subsea",
+    "firstName": "Thomas",
+    "lastName": "Edvardsen",
+    "title": "Procurement Specialist",
+    "email": "thomas.edvardsen@reachsubsea.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/thomas-vester-edvardsen-a77891266"
+  },
+  {
+    "company": "Reach Subsea",
+    "firstName": "Arve",
+    "lastName": "Hagesaeter",
+    "title": "Procurement & Logistic Manager",
+    "email": "arve.hagesaeter@reachsubsea.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/arve-hages%c3%a6ter-b5b8942b"
+  },
+  {
+    "company": "Reach Subsea",
+    "firstName": "Nick",
+    "lastName": "Herrington",
+    "title": "Project/Tender Manager",
+    "email": "nick.herrington@reachsubsea.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/nick-herrington-8b674234"
+  },
+  {
+    "company": "Reach Subsea",
+    "firstName": "Rhalina",
+    "lastName": "McIntyre",
+    "title": "Tender Manager",
+    "email": "rhalina.mcintyre@reachsubsea.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/rhalinaduguid"
+  },
+  {
+    "company": "Reach Subsea",
+    "firstName": "Adele",
+    "lastName": "Morrison",
+    "title": "Tender Manager",
+    "email": "adele.morrison@reachsubsea.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/adele-morrison-93bb5a5b"
+  },
+  {
+    "company": "repsol",
+    "firstName": "Tone",
+    "lastName": "Saevik",
+    "title": "Procurement Partner",
+    "email": "tone.saevik@repsol.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/tone-s%c3%a6vik-339198b3"
+  },
+  {
+    "company": "repsol",
+    "firstName": "Carlos",
+    "lastName": "Varela",
+    "title": "Head Contracting&procurement and Facility Mng",
+    "email": "cmvarela@repsol.com",
+    "emailStatus": "Verified",
+    "country": "Portugal",
+    "linkedin": "http://www.linkedin.com/in/carlos-v-7684667"
+  },
+  {
+    "company": "repsol",
+    "firstName": "David",
+    "lastName": "Ricard Sebastian",
+    "title": "Corporation Procurement Director",
+    "email": "dricards@repsol.com",
+    "emailStatus": "Verified",
+    "country": "Spain",
+    "linkedin": "http://www.linkedin.com/in/davidricardsebastian"
+  },
+  {
+    "company": "repsol",
+    "firstName": "Javier",
+    "lastName": "Sanz Rodriguez",
+    "title": "Head of WTG Procurement",
+    "email": "jrodriguez@repsol.com",
+    "emailStatus": "Verified",
+    "country": "Spain",
+    "linkedin": "http://www.linkedin.com/in/javiersanzrodriguez"
+  },
+  {
+    "company": "repsol",
+    "firstName": "Neil",
+    "lastName": "Gibson",
+    "title": "Procurement Team Leader",
+    "email": "neil.gibson@repsolsinopecuk.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/neil-gibson-90a5baa1"
+  },
+  {
+    "company": "repsol",
+    "firstName": "Paul",
+    "lastName": "O'Neill",
+    "title": "Procurement & Inventory Manager",
+    "email": "paul.oneill@repsolsinopecuk.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/paul-o-neill-616a0615b"
+  },
+  {
+    "company": "Saipem",
+    "firstName": "Mauro",
+    "lastName": "Macueria",
+    "title": "Procurement and Contract Management",
+    "email": "mauro.macueria@saipem.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/mauro-macu%c3%a9ria-a4589b85"
+  },
+  {
+    "company": "Saipem",
+    "firstName": "Crizaldy",
+    "lastName": "Santuyo",
+    "title": "Deputy Procurement Manager",
+    "email": "crizaldy.santuyo@saipem.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/crizaldy-santuyo-ab3418167"
+  },
+  {
+    "company": "Saipem",
+    "firstName": "Crizaldy",
+    "lastName": "Santuyo",
+    "title": "Deputy Procurement Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Angola",
+    "linkedin": "https://linkedin.com/in/ACoAACfALScB-ZAQTmSWC3PXlpt1ChkE1h-VTEo"
+  },
+  {
+    "company": "Saipem",
+    "firstName": "Prabhu",
+    "lastName": "Periyasamy",
+    "title": "Section Leader - Procurement Department",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "India",
+    "linkedin": "https://linkedin.com/in/ACoAAA3livkBbcZO1W-geR4MFXxEauqmtsdFNbs"
+  },
+  {
+    "company": "Saipem",
+    "firstName": "Valeria",
+    "lastName": "Brondoni",
+    "title": "Project Supply Chain Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Italy",
+    "linkedin": "https://www.linkedin.com/in/ACoAAArvIq0B3jCenp08JOl78UY9ygfFeGK8-qI"
+  },
+  {
+    "company": "Saipem",
+    "firstName": "Toscani",
+    "lastName": "Giovanni",
+    "title": "Asset & Chartering Procurement Manager",
+    "email": "toscani.giovanni@saipem.com",
+    "emailStatus": "Verified",
+    "country": "Italy",
+    "linkedin": "http://www.linkedin.com/in/toscani-giovanni-0b31b019"
+  },
+  {
+    "company": "Saipem",
+    "firstName": "Alessandro",
+    "lastName": "Puliti",
+    "title": "Chief Executive Officer",
+    "email": "alessandro.puliti@saipem.com",
+    "emailStatus": "Verified",
+    "country": "Italy",
+    "linkedin": "http://www.linkedin.com/in/alessandro-puliti-2295b9182"
+  },
+  {
+    "company": "Saipem",
+    "firstName": "Uko",
+    "lastName": "Edet",
+    "title": "Project Procurement Manager",
+    "email": "uko.edet@saipem.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/uko-edet-66b0b8176"
+  },
+  {
+    "company": "Saipem",
+    "firstName": "Enrico",
+    "lastName": "Giovannini",
+    "title": "Supply Chain Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "United Arab Emirates",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAGtNVgBUraehEVsHV0RT5qK3o-oEVCrKQI"
+  },
+  {
+    "company": "Saipem",
+    "firstName": "Enrico",
+    "lastName": "Marchegiano",
+    "title": "EPCI Project and Tender Manager",
+    "email": "marchegiano.enrico@saipem.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/enrico-marchegiano-026573b0"
+  },
+  {
+    "company": "Saipem",
+    "firstName": "Gaye",
+    "lastName": "Powell",
+    "title": "Procurement Manager",
+    "email": "gaye.powell@saipem.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAYB_3QBg4JMWPi1SnDZFX1Gy8PUFg7Pcdo"
+  },
+  {
+    "company": "Saipem",
+    "firstName": "Dupuis",
+    "lastName": "Helene",
+    "title": "Manager Of Procurement",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "United States",
+    "linkedin": "https://www.linkedin.com/in/dupuis-helene-4b4814104"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Adelio",
+    "lastName": "Mudei",
+    "title": "Procurement and Contract Specialist",
+    "email": "adelio.mudei@sasol.com",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/adelio-mudei-16687360"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Baloyi",
+    "lastName": "nan",
+    "title": "Chief Executive Officer",
+    "email": "baloyi@sasol.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/baloyi-jn-286a8375"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Elize",
+    "lastName": "Badenhorst",
+    "title": "Procurement Advisor",
+    "email": "elize.badenhorst@sasol.com",
+    "emailStatus": "Catch-all",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA8QiJwBuVCUNm-G_apIa5NSvLTKntZTc4I"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Jacques",
+    "lastName": "Erasmus",
+    "title": "Business Development Manager",
+    "email": "jacques.erasmus@sasol.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA5nhikBKvLIghvHWy4dWeDVBSfIWJ1IXVQ"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Fernando",
+    "lastName": "Human",
+    "title": "Manager Sales Spd",
+    "email": "fernando.human@sasol.com",
+    "emailStatus": "Catch-all",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA_3mg8BZR_F7axg7w-CVpORJsZssYyS3a8"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Dewar",
+    "lastName": "Lillienfeldt",
+    "title": "Buyer",
+    "email": "dewar.lillienfeldt@sasol.com",
+    "emailStatus": "Catch-all",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA8pQGYBwpLFD_KyQQ9cUuP2KQ_dV1Z-aFI"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Jakkie",
+    "lastName": "Lubbe",
+    "title": "Chartering Manager",
+    "email": "jakkie.lubbe@sasol.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/jakkie-lubbe-52023792"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Lebelo",
+    "lastName": "Lukhele",
+    "title": "Chief Procurement Officer",
+    "email": "lebelo.lukhele@sasol.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/lebelo-lukhele-b612b92b"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Phelelani",
+    "lastName": "Mbhele",
+    "title": "Specialist Procurement Mining",
+    "email": "phelelani.mbhele@sasol.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAASZ-VcBg291z-QZ8tNpGYXQOE2iEmUWr54"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Sello",
+    "lastName": "Ramoshaba",
+    "title": "Procurement Leadership",
+    "email": "sello.ramoshaba@sasol.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/sello-ramoshaba-1317b0293"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Eason",
+    "lastName": "Reddy",
+    "title": "Manager Key Accounts and Business Development",
+    "email": "eason.reddy@sasol.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAABXCdhcBtX9yqDxrSR98xYgPW34_IN40mVg"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Sabata",
+    "lastName": "Sera",
+    "title": "Procurement Manager",
+    "email": "sabata.sera@sasol.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/sabata-sera-6b793549"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Buhle",
+    "lastName": "Sibuyi",
+    "title": "Head Retail Sales & Operations",
+    "email": "buhle.sibuyi@sasol.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA4ACAcBveHLHNPa5ZeaYxB7Xg-85VaVgNk"
+  },
+  {
+    "company": "Sasol",
+    "firstName": "Rosette",
+    "lastName": "Stec",
+    "title": "Export Sales",
+    "email": "rosette.stec@sasol.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAjvtHMBdGDQ7vbGRmNWmC8xdKHn1_JL6Lo"
+  },
+  {
+    "company": "SBM Offshore",
+    "firstName": "Salah",
+    "lastName": "Mohamed",
+    "title": "Comercial",
+    "email": "salah.mohamed@sbmoffshore.com",
+    "emailStatus": "Catch-all",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAsHeRsBHFYzypdTyl3byoSuPVMfkotAItQ"
+  },
+  {
+    "company": "SBM Offshore",
+    "firstName": "Luis",
+    "lastName": "Goncalves",
+    "title": "SBM Offshore Group/Procurement Specialist FPSO Buyer & IFS - ERP Super USER",
+    "email": "luis.goncalves@sbmoffshore.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/luis-gon%c3%a7alves-04663a70"
+  },
+  {
+    "company": "SBM Offshore",
+    "firstName": "Nicolas",
+    "lastName": "Landrain",
+    "title": "Project Procurement Manager",
+    "email": "nicolas.landrain@sbmoffshore.com",
+    "emailStatus": "Verified",
+    "country": "France",
+    "linkedin": "http://www.linkedin.com/in/nicolas-landrain-398384a0"
+  },
+  {
+    "company": "SBM Offshore",
+    "firstName": "Shenaz",
+    "lastName": "Bhanja",
+    "title": "Direct Sales Agent",
+    "email": "shenaz.bhanja@sbmoffshore.com",
+    "emailStatus": "Catch-all",
+    "country": "Mauritius",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAHgbywBAn5bnV-us1mkhtQ__2n98NMjg14"
+  },
+  {
+    "company": "SBM Offshore",
+    "firstName": "Emmanuel",
+    "lastName": "Blin",
+    "title": "Project Procurement Manager",
+    "email": "emmanuel.blin@sbmoffshore.com",
+    "emailStatus": "Verified",
+    "country": "Monaco",
+    "linkedin": "http://www.linkedin.com/in/emmanuel-blin-71495112"
+  },
+  {
+    "company": "SBM Offshore",
+    "firstName": "Boguslaw",
+    "lastName": "Wozny",
+    "title": "Senior Procurement Mgr",
+    "email": "wozny.boguslaw@sbmoffshore.com",
+    "emailStatus": "Verified",
+    "country": "Monaco",
+    "linkedin": "http://www.linkedin.com/in/boguslaw-wozny-8490ab10"
+  },
+  {
+    "company": "SBM Offshore",
+    "firstName": "Ousmane",
+    "lastName": "Aidara",
+    "title": "Business Development Director Africa / Namibia Country Entry",
+    "email": "ousmane.aidara@sbmoffshore.com",
+    "emailStatus": "Catch-all",
+    "country": "Namibia",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAJrIikBvODHl42ku4TCYFsTO0s5uc7pCyQ"
+  },
+  {
+    "company": "SBM Offshore",
+    "firstName": "Thomas",
+    "lastName": "Fullam",
+    "title": "Project Procurement Lead",
+    "email": "thomas.fullam@sbmoffshore.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/thomas-fullam-a5765321"
+  },
+  {
+    "company": "SBM Offshore",
+    "firstName": "Andre",
+    "lastName": "John",
+    "title": "Global BPO Procurement Manager",
+    "email": "andre.john@sbmoffshore.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/andre-john-2007za"
+  },
+  {
+    "company": "SBM Offshore",
+    "firstName": "Otaru",
+    "lastName": "John",
+    "title": "Commercial Officer",
+    "email": "otaru.john@sbmoffshore.com",
+    "emailStatus": "Catch-all",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAACB1UGEBzVklPvw9vtof4yEVwyuMYN6Wi3s"
+  },
+  {
+    "company": "SBM Offshore",
+    "firstName": "Sergio",
+    "lastName": "Martinez",
+    "title": "Global Head of Indirect Procurement",
+    "email": "sergio.martinez@sbmoffshore.com",
+    "emailStatus": "Verified",
+    "country": "Portugal",
+    "linkedin": "http://www.linkedin.com/in/sergio-pacheco-martinez"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Amina",
+    "lastName": "Benhassine",
+    "title": "North Africa Procurement Manager",
+    "email": "abenhassine@slb.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/amina-benhassine-9026633"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Kamel",
+    "lastName": "Bidaoui",
+    "title": "Supplier Manager",
+    "email": "kbidaoui@slb.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAApm8O8BwFTkoUTx0Kt5RTIMS9BtWjKKIO4"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Ouiza",
+    "lastName": "Boumaiel",
+    "title": "Digital Account Manager",
+    "email": "oboumaiel@slb.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAB1uh1IBfHSd5X5vlyZtbMf7Nql-NzIiIj8"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Fadhela",
+    "lastName": "Mouterfi",
+    "title": "Sales Marketing Administrator",
+    "email": "fmouterfi@slb.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAB6M0dYBC5QurL6j-AGVCqbzS_GiFJnppeI"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Ilham",
+    "lastName": "Zoubiri",
+    "title": "Sales Operations Analyst",
+    "email": "izoubiri@slb.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAABChunsBx6KTEh62i_jXWx30TVEk_aHT0SU"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Claudio",
+    "lastName": "Kassa",
+    "title": "Director of Procurement Angola & Namibia",
+    "email": "ckassa@slb.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/claudio-kassa-b9b03288"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Emmanuel",
+    "lastName": "Kiam",
+    "title": "Procurement& Import/ Export",
+    "email": "kemmanuel@slb.com",
+    "emailStatus": "Verified",
+    "country": "Chad",
+    "linkedin": "http://www.linkedin.com/in/emmanuel-kiam-79594152"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Mohamed",
+    "lastName": "Kashwaa",
+    "title": "Well Construction Division Geounit Sales and Commercial Manager",
+    "email": "mkashwaa@slb.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAoQBSUB2av31ndf9V_EV6CPybgsSX8Q18E"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Matthieu",
+    "lastName": "Dezaphix",
+    "title": "Procurement Leader",
+    "email": "mdezaphix@slb.com",
+    "emailStatus": "Verified",
+    "country": "France",
+    "linkedin": "http://www.linkedin.com/in/matthieu-dezaphix-6188b74a"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Rafika",
+    "lastName": "Thamri",
+    "title": "Procurement Leader",
+    "email": "rthamri@slb.com",
+    "emailStatus": "Verified",
+    "country": "France",
+    "linkedin": "http://www.linkedin.com/in/rafika-thamri-%d8%ab%d8%a7%d9%85%d8%b1%d9%8a-%d8%b1%d9%81%d9%8a%d9%82%d8%a9-033b2930"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Mohamed",
+    "lastName": "Madi",
+    "title": "Sales Manager",
+    "email": "mmadi@slb.com",
+    "emailStatus": "Verified",
+    "country": "Libya",
+    "linkedin": "http://www.linkedin.com/in/ACoAAEtGm-cBvD5DAZrQeTRwUbl7B-tejd02mT4"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Femke",
+    "lastName": "Broeke",
+    "title": "Contracts and Procurement CoÃ¶rdinator",
+    "email": "fbroeke@slb.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/femke-broeke-341b0314"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Irina",
+    "lastName": "Kuzheleva",
+    "title": "Division Procurement Lead",
+    "email": "ikuzheleva@slb.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/ikuzheleva"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Akoji",
+    "lastName": "Haruna",
+    "title": "Regional Account Manager",
+    "email": "aharuna@slb.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAUwoTcBVRPPh6tDhFMqSKCuekIw9EeWejg"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Adedoyin",
+    "lastName": "Komolafe",
+    "title": "Procurement Manager",
+    "email": "akomolafe@slb.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/adedoyin-komolafe-7bab4b50"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Bjarne",
+    "lastName": "Klingsheim",
+    "title": "Procurement Lead",
+    "email": "bklingsheim@slb.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/bjarne-klingsheim-37705a4b"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Alex",
+    "lastName": "Iacob",
+    "title": "Procurement Specialist",
+    "email": "aiacob@slb.com",
+    "emailStatus": "Verified",
+    "country": "Romania",
+    "linkedin": "http://www.linkedin.com/in/alex-iacob-62939b225"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Onaheed",
+    "lastName": "Osman",
+    "title": "Sales Specialist",
+    "email": "oosman@slb.com",
+    "emailStatus": "Verified",
+    "country": "Sudan",
+    "linkedin": "http://www.linkedin.com/in/ACoAACcARQ0BAcQj3pATru8KRTUpJns1AF8mG3g"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Arihoruhanga",
+    "lastName": "Vincent",
+    "title": "Procurement & Supply Chain",
+    "email": "varihoruhanga@slb.com",
+    "emailStatus": "Verified",
+    "country": "Uganda",
+    "linkedin": "http://www.linkedin.com/in/arihoruhanga-vincent"
+  },
+  {
+    "company": "Schlumberger",
+    "firstName": "Geo",
+    "lastName": "Pathiala",
+    "title": "Procurement Manager",
+    "email": "gpathiala@slb.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/geo-pathiala-22781661"
+  },
+  {
+    "company": "Seadrill",
+    "firstName": "Andre",
+    "lastName": "Nascimento",
+    "title": "Procurement Lead",
+    "email": "andre.marinho@seadrill.com",
+    "emailStatus": "Verified",
+    "country": "Brazil",
+    "linkedin": "http://www.linkedin.com/in/marinhoandre"
+  },
+  {
+    "company": "Seadrill",
+    "firstName": "Lucas",
+    "lastName": "Simas",
+    "title": "Especialista em Suprimentos",
+    "email": "lucas.simas@seadrill.com",
+    "emailStatus": "Verified",
+    "country": "Brazil",
+    "linkedin": "http://www.linkedin.com/in/lucas-simas-adm"
+  },
+  {
+    "company": "Sembcorp Industries Ltd",
+    "firstName": "Ho",
+    "lastName": "Dylan",
+    "title": "Procurement Manager",
+    "email": "dylan.ho@sembcorp.com",
+    "emailStatus": "Verified",
+    "country": "Singapore",
+    "linkedin": "http://www.linkedin.com/in/ho-teng-chye-dylan-4b801655"
+  },
+  {
+    "company": "Sembcorp Industries Ltd",
+    "firstName": "Koh",
+    "lastName": "Yen",
+    "title": "Head of Group Procurement",
+    "email": "chiewyen.koh@sembcorp.com",
+    "emailStatus": "Verified",
+    "country": "Singapore",
+    "linkedin": "http://www.linkedin.com/in/kohchiewyen"
+  },
+  {
+    "company": "Sembcorp Industries Ltd",
+    "firstName": "Maha",
+    "lastName": "Ali",
+    "title": "Procurement Officer",
+    "email": "maha.ali@sembcorp.com",
+    "emailStatus": "Verified",
+    "country": "United Arab Emirates",
+    "linkedin": "http://www.linkedin.com/in/maha-ali-6016258a"
+  },
+  {
+    "company": "Sembcorp Industries Ltd",
+    "firstName": "Mark",
+    "lastName": "Smith",
+    "title": "UK Head of Procurement",
+    "email": "mark.smith@sembcorp.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/mark-smith-444baa199"
+  },
+  {
+    "company": "Sembcorp Industries Ltd",
+    "firstName": "Alice",
+    "lastName": "Wijaya",
+    "title": "Procurement Manager",
+    "email": "alice.wijaya@sembcorp.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/alice-wijaya-6ab7b6363"
+  },
+  {
+    "company": "Seyani Brothers & Co. (K) Ltd",
+    "firstName": "Roshan",
+    "lastName": "Seyani",
+    "title": "Construction Project Manager",
+    "email": "rhs@seyanibrosk.com",
+    "emailStatus": "Verified",
+    "country": "Kenya",
+    "linkedin": "http://www.linkedin.com/in/roshan-seyani-772525286"
+  },
+  {
+    "company": "Seyani Brothers & Co. (K) Ltd",
+    "firstName": "Bhavika",
+    "lastName": "Seyani",
+    "title": "Director",
+    "email": "bhs@seyanibrosk.com",
+    "emailStatus": "Verified",
+    "country": "Kenya",
+    "linkedin": "http://www.linkedin.com/in/bhavika-seyani-94781517b"
+  },
+  {
+    "company": "Shelf Drilling",
+    "firstName": "Mohamed",
+    "lastName": "Farid",
+    "title": "Senior Procurement Specialist",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "United Arab Emirates",
+    "linkedin": "https://linkedin.com/in/ACoAABZhErkBOUw-BuPhI6pvk4NIZXt7duJ05RQ"
+  },
+  {
+    "company": "Shell",
+    "firstName": "Prince",
+    "lastName": "Ankomah",
+    "title": "Procurement Officer",
+    "email": "a.prince@shell.com",
+    "emailStatus": "Verified",
+    "country": "Ghana",
+    "linkedin": "http://www.linkedin.com/in/prince-ankomah-270b09288"
+  },
+  {
+    "company": "Shell",
+    "firstName": "Charles",
+    "lastName": "Oranyeli",
+    "title": "Contracting & Procurement Controls And Assurance Manager",
+    "email": "charles.oranyeli@shell.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "https://linkedin.com/in/ACoAAAH4mlsBN2f6oc86bbewfCGQUU7PNj6S6i0"
+  },
+  {
+    "company": "Shell",
+    "firstName": "Ruth",
+    "lastName": "Maphala",
+    "title": "Procurement Manager",
+    "email": "ruth.maphala@shell.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ruth-maphala-bbb7b312"
+  },
+  {
+    "company": "Shell",
+    "firstName": "Tshepo",
+    "lastName": "Moeng",
+    "title": "Procurement Manager",
+    "email": "tshepo.moeng@shell.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/tshepo-moeng-351a11161"
+  },
+  {
+    "company": "Shell",
+    "firstName": "Sandile",
+    "lastName": "Nzimande",
+    "title": "Contracts and Procurement Manager",
+    "email": "sandile.w.nzimande@shell.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/sandile-nzimande-177a708"
+  },
+  {
+    "company": "Shell",
+    "firstName": "Nik",
+    "lastName": "Dandapani",
+    "title": "Chartering Manager LNG",
+    "email": "nik.dandapani@shell.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/nik-dandapani-8635a145"
+  },
+  {
+    "company": "Shell LNG",
+    "firstName": "Sherif",
+    "lastName": "Abdelhakam",
+    "title": "Technical Sales - Industrial Sectors and Oems",
+    "email": "sherif.abdelhakam@shell.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/sherif-abdelhakam-2219b194"
+  },
+  {
+    "company": "Shell LNG",
+    "firstName": "Stephane",
+    "lastName": "Igambotchina",
+    "title": "Junior Buyer and Expeditor",
+    "email": "stephane.igambotchina@shell.com",
+    "emailStatus": "Verified",
+    "country": "Gabon",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAOz5CABn8LFzOMeSVhho2nRG_Eaf6wwvWI"
+  },
+  {
+    "company": "Shell LNG",
+    "firstName": "Festus",
+    "lastName": "Rono",
+    "title": "Sales Attendant",
+    "email": "festus.rono@shell.com",
+    "emailStatus": "Verified",
+    "country": "Kenya",
+    "linkedin": "http://www.linkedin.com/in/ACoAADWN4pkBTXLGhaeMlPqNi0CNzUFrHxhcriI"
+  },
+  {
+    "company": "Shell LNG",
+    "firstName": "Benboujida",
+    "lastName": "Ali",
+    "title": "Sales",
+    "email": "benboujida.ali@shell.com",
+    "emailStatus": "Verified",
+    "country": "Morocco",
+    "linkedin": "http://www.linkedin.com/in/ACoAAADSgewBSW5kOXwvqNbQirMdjUzO8rh1rms"
+  },
+  {
+    "company": "Shell LNG",
+    "firstName": "Taiwo",
+    "lastName": "Agbalajobi",
+    "title": "Senior Procurement Specialist",
+    "email": "taiwo.agbalajobi@shell.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAV90OYBtkeSJ96P_1K8N3tUrlkTepcFGGs"
+  },
+  {
+    "company": "Shell LNG",
+    "firstName": "Fati",
+    "lastName": "Fati",
+    "title": "Salesperson",
+    "email": "abu.fati@shell.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAABhxXIABlhoHDGOr-aCShknjqQPrc2PAVS0"
+  },
+  {
+    "company": "Shell LNG",
+    "firstName": "Sihle",
+    "lastName": "Mdakane",
+    "title": "Retail Sales Assistant",
+    "email": "sihle.mdakane@shell.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/sihle-mdakane-511291280"
+  },
+  {
+    "company": "Shell LNG",
+    "firstName": "Mashwabada",
+    "lastName": "Zibi",
+    "title": "Retailer",
+    "email": "mashwabada.zibi@shell.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAWdLXoBhUF_GQGxNvydQyi3xJEEX8mfx0M"
+  },
+  {
+    "company": "Sonangol",
+    "firstName": "Isabel",
+    "lastName": "Policarpo Silva",
+    "title": "Engenheira",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Angola",
+    "linkedin": "https://linkedin.com/in/ACoAABwXPCcBNCeeYjpKNuiemwTD1QtlQk4x8jA"
+  },
+  {
+    "company": "Sonangol E.P.",
+    "firstName": "Sidney",
+    "lastName": "Frederico",
+    "title": "Crude Procurement",
+    "email": "sidney.frederico@sonangol.co.ao",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/sidney-frederico-0512bb26a"
+  },
+  {
+    "company": "Stena Drilling",
+    "firstName": "Richard",
+    "lastName": "Wells",
+    "title": "International Logistics Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Canada",
+    "linkedin": "https://www.linkedin.com/in/ACoAAA3sADgBF0pRaZtyDge930dnsrfUr2cwj-8"
+  },
+  {
+    "company": "Stena Drilling",
+    "firstName": "Osama",
+    "lastName": "Shatta",
+    "title": "Logistics Leader",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Egypt",
+    "linkedin": "https://www.linkedin.com/in/ACoAADPgf4EBWXTUPm0Ldij_rxjCzDtUykn73z4"
+  },
+  {
+    "company": "Subsea7",
+    "firstName": "Cyril",
+    "lastName": "Arlaud",
+    "title": "Subcontract/procurement Manager (renewables BU)",
+    "email": "cyril.arlaud@subsea7.com",
+    "emailStatus": "Verified",
+    "country": "France",
+    "linkedin": "http://www.linkedin.com/in/cyril-arlaud-b4876560"
+  },
+  {
+    "company": "Subsea7",
+    "firstName": "Nicolas",
+    "lastName": "Houdeville",
+    "title": "Tender and Project Managament - Subsea Integration Alliance",
+    "email": "nicolas.houdeville@subsea7.com",
+    "emailStatus": "Verified",
+    "country": "France",
+    "linkedin": "http://www.linkedin.com/in/nicolashoudeville"
+  },
+  {
+    "company": "Subsea7",
+    "firstName": "Romain",
+    "lastName": "Mourad",
+    "title": "Deputy Tender Technical Manager",
+    "email": "romain.mourad@subsea7.com",
+    "emailStatus": "Verified",
+    "country": "France",
+    "linkedin": "http://www.linkedin.com/in/romain-mourad-0306288"
+  },
+  {
+    "company": "Subsea7",
+    "firstName": "Guillaume",
+    "lastName": "Vassout",
+    "title": "Chartering Development Manager Gpc-ap - Group Chairman Chartering Category",
+    "email": "guillaume.vassout@subsea7.com",
+    "emailStatus": "Verified",
+    "country": "France",
+    "linkedin": "http://www.linkedin.com/in/guillaume-vassout-b51b0b16"
+  },
+  {
+    "company": "Subsea7",
+    "firstName": "Jan",
+    "lastName": "Skjong",
+    "title": "Global Chartering Manager",
+    "email": "janhallvard.skjong@subsea7.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/jan-hallvard-skjong-62263797"
+  },
+  {
+    "company": "Subsea7",
+    "firstName": "Liam",
+    "lastName": "Fraser",
+    "title": "Logistics & Chartering Manager",
+    "email": "liam.fraser@subsea7.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/liam-fraser-a204817"
+  },
+  {
+    "company": "Subsea7",
+    "firstName": "Isaac",
+    "lastName": "Lartey",
+    "title": "Senior Manager Supply Chain",
+    "email": "isaac.lartey@subsea7.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "https://linkedin.com/in/ACoAAAlkIX0B8aA3G5yiEO8trht6_P1dT8gkQrE"
+  },
+  {
+    "company": "Subsea7",
+    "firstName": "Bill",
+    "lastName": "Noble",
+    "title": "Procurement Specialist",
+    "email": "safbnoble@xtra.co.nz",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/bill-noble-73452754"
+  },
+  {
+    "company": "TechnipFMC",
+    "firstName": "Nuno",
+    "lastName": "Beja",
+    "title": "Procurement Manager",
+    "email": "nuno.beja@technipfmc.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/nuno-beja-84967918"
+  },
+  {
+    "company": "TechnipFMC",
+    "firstName": "Charles",
+    "lastName": "Scheck",
+    "title": "Procurement Manager",
+    "email": "charles.scheck@technipfmc.com",
+    "emailStatus": "Verified",
+    "country": "Ghana",
+    "linkedin": "http://www.linkedin.com/in/charles-scheck-a16b0a34"
+  },
+  {
+    "company": "TechnipFMC",
+    "firstName": "Charles",
+    "lastName": "Scheck",
+    "title": "Procurement Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Ghana",
+    "linkedin": "https://linkedin.com/in/ACoAAAdIjTIBgxNtj06Lwcxw76BCGBjgKBvYJ2k"
+  },
+  {
+    "company": "TechnipFMC",
+    "firstName": "Emeka",
+    "lastName": "Nsolibe",
+    "title": "Procurement/Facility Manager",
+    "email": "kenneth.nsolibe@technipfmc.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/emeka-kenneth-nsolibe-mcips-facsc-630a5216"
+  },
+  {
+    "company": "TechnipFMC",
+    "firstName": "Alice",
+    "lastName": "Pesle",
+    "title": "Global Chartering Manager",
+    "email": "alice.pesle@technipfmc.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/alice-pesle-82222363"
+  },
+  {
+    "company": "TechnipFMC",
+    "firstName": "Marina",
+    "lastName": "Serova",
+    "title": "Tender Manager",
+    "email": "marina.serova@technipfmc.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/marina-serova-6542b076"
+  },
+  {
+    "company": "Tidewater",
+    "firstName": "Mohamed",
+    "lastName": "Hamdy",
+    "title": "Procurement Manager",
+    "email": "mhamdy@tdw.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/mohamed-hamdy-b0a37123a"
+  },
+  {
+    "company": "Tidewater",
+    "firstName": "Jeranomo",
+    "lastName": "Goliath",
+    "title": "Procurement Officer",
+    "email": "jeranomo.goliath@tdw.com",
+    "emailStatus": "Verified",
+    "country": "Namibia",
+    "linkedin": "http://www.linkedin.com/in/jeranomo-goliath-659314213"
+  },
+  {
+    "company": "Tidewater",
+    "firstName": "Efin",
+    "lastName": "Chen",
+    "title": "Tender Manager",
+    "email": "efin.chen@tdw.com",
+    "emailStatus": "Verified",
+    "country": "Singapore",
+    "linkedin": "http://www.linkedin.com/in/efin-chen-7430521b2"
+  },
+  {
+    "company": "Tidewater",
+    "firstName": "Arfath",
+    "lastName": "Khan",
+    "title": "Procurement Officer",
+    "email": "akhan@tdw.com",
+    "emailStatus": "Verified",
+    "country": "United Arab Emirates",
+    "linkedin": "http://www.linkedin.com/in/arfath-khan-58b681124"
+  },
+  {
+    "company": "Tidewater",
+    "firstName": "Pijush",
+    "lastName": "Pal",
+    "title": "Procurement Lead",
+    "email": "ppal@tdw.com",
+    "emailStatus": "Verified",
+    "country": "United Arab Emirates",
+    "linkedin": "http://www.linkedin.com/in/pijush-pal-23301628"
+  },
+  {
+    "company": "Tidewater",
+    "firstName": "Kelly",
+    "lastName": "Skene",
+    "title": "Procurement Officer",
+    "email": "kskene@tdw.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/kelly-skene-89257127b"
+  },
+  {
+    "company": "Tidewater",
+    "firstName": "Steve",
+    "lastName": "Wilson",
+    "title": "General Manager - Chartering",
+    "email": "swilson@tdw.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/steve-wilson-98b3b744"
+  },
+  {
+    "company": "TotalEnergies",
+    "firstName": "Sami",
+    "lastName": "Allali",
+    "title": "Director of Procurement",
+    "email": "samia@total.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/sami-allali-921855227"
+  },
+  {
+    "company": "TotalEnergies",
+    "firstName": "Yasmina",
+    "lastName": "Konate",
+    "title": "Purchasing and Procurement Officer",
+    "email": "yasmina.konate@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "Cote d'Ivoire",
+    "linkedin": "http://www.linkedin.com/in/yasmina-konate-b0573a100"
+  },
+  {
+    "company": "TotalEnergies",
+    "firstName": "Romeo",
+    "lastName": "Razafindraibe",
+    "title": "Procurement Manager",
+    "email": "romeo.razafindraibe@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "Madagascar",
+    "linkedin": "http://www.linkedin.com/in/rom%c3%a9o-claude-razafindraibe-8b3819134"
+  },
+  {
+    "company": "TotalEnergies",
+    "firstName": "Kenza",
+    "lastName": "Belmahi",
+    "title": "Head of Procurement",
+    "email": "kenza.belmahi@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "Morocco",
+    "linkedin": "http://www.linkedin.com/in/kenza-belmahi-682a1176"
+  },
+  {
+    "company": "TotalEnergies",
+    "firstName": "Mandy",
+    "lastName": "Fyfe",
+    "title": "Contracts & Procurement Methods Manager",
+    "email": "mandy.fyfe@total.com",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/mandy-fyfe-03910a5"
+  },
+  {
+    "company": "TotalEnergies",
+    "firstName": "Sam",
+    "lastName": "Konkov",
+    "title": "ISBL Project Manager - Mozambique LNG",
+    "email": "sam.konkov@total.com",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/sam-konkov-5a3596106"
+  },
+  {
+    "company": "TotalEnergies",
+    "firstName": "Jacob",
+    "lastName": "Maholela",
+    "title": "Contracts & Procurement Specialist",
+    "email": "jacob.maholela@total.com",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/jacob-maholela-a6432a1a"
+  },
+  {
+    "company": "TotalEnergies",
+    "firstName": "Aldo",
+    "lastName": "Paindane",
+    "title": "Procurement Manager",
+    "email": "aldo.paindane@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/aldo-paindane-9238b830"
+  },
+  {
+    "company": "TotalEnergies",
+    "firstName": "Mojisola",
+    "lastName": "Adeyinka",
+    "title": "Head of Purchasing, DW C&P, AOBO/MS/Projects",
+    "email": "mojisola.adeyinka@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/mojisola-olatundun-adeyinka-mba-mcips-1743519"
+  },
+  {
+    "company": "TotalEnergies",
+    "firstName": "Joseph",
+    "lastName": "Byaruhanga",
+    "title": "National Content Coordinator",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Uganda",
+    "linkedin": "https://linkedin.com/in/ACoAAAvjBucBQh9AL5izgdrN9Wnt9dLiENsrggo"
+  },
+  {
+    "company": "TotalEnergies LNG",
+    "firstName": "Eric",
+    "lastName": "Baafi",
+    "title": "Stocks Account Manager",
+    "email": "eric.baafi@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "Ghana",
+    "linkedin": "http://www.linkedin.com/in/ACoAADeDs1cBHde5YvaBzhpAj61j8hidIASQywo"
+  },
+  {
+    "company": "TotalEnergies LNG",
+    "firstName": "Phyllis",
+    "lastName": "Gaisie",
+    "title": "Card Territory Manager",
+    "email": "phyllis.gaisie@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "Ghana",
+    "linkedin": "http://www.linkedin.com/in/ACoAABZv6OEB-6YpMK4f2LXfXvXBzod7UZVRkwE"
+  },
+  {
+    "company": "TotalEnergies LNG",
+    "firstName": "Millicent",
+    "lastName": "Gitonga",
+    "title": "Network Sales Manager",
+    "email": "millicent.gitonga@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "Kenya",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAzskJgB9CNeegKiM2MAVb3HTOz8sQC43fE"
+  },
+  {
+    "company": "TotalEnergies LNG",
+    "firstName": "Wasiu",
+    "lastName": "Bello",
+    "title": "Retail Sales Manager",
+    "email": "wasiu.bello@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAJMGeoBX6S_tPFDW3HscCmbBfyobmyxVrY"
+  },
+  {
+    "company": "TotalEnergies LNG",
+    "firstName": "Eric",
+    "lastName": "Bigot",
+    "title": "Business Development Manager",
+    "email": "eric.bigot@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAK3rFwB6E5elG6BdelzfbeFPTDHgVw_SWo"
+  },
+  {
+    "company": "TotalEnergies LNG",
+    "firstName": "Clement",
+    "lastName": "Kwebu",
+    "title": "Key Account Manager",
+    "email": "clement.kwebu@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAZL5gYBsAHlg82O991jjdjp8SglqqfOe5A"
+  },
+  {
+    "company": "TotalEnergies LNG",
+    "firstName": "Shane",
+    "lastName": "Scheel",
+    "title": "Key Account Sales Specialist",
+    "email": "shane.scheel@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/ACoAABAfpFkB1OKK6zyfp4Jems2c40-rGs8Frgo"
+  },
+  {
+    "company": "TotalEnergies LNG",
+    "firstName": "Arthur",
+    "lastName": "Malya",
+    "title": "Territory Manager- Lake Zone",
+    "email": "arthur.malya@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "Tanzania",
+    "linkedin": "http://www.linkedin.com/in/ACoAAA-hdG4BA0n216OBSAEQGl79BEHDKy5echc"
+  },
+  {
+    "company": "Transocean",
+    "firstName": "Ese",
+    "lastName": "Efeduma",
+    "title": "Procurement Supervisor",
+    "email": "ese.efeduma@deepwater.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ese-efeduma-5a211037"
+  },
+  {
+    "company": "Transocean",
+    "firstName": "Bassey",
+    "lastName": "Okokon",
+    "title": "Procurement Officer",
+    "email": "bassey.okokon@deepwater.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/bassey-harcourt-okokon-3095aa16"
+  },
+  {
+    "company": "Trelleborg Group",
+    "firstName": "Kathleen",
+    "lastName": "Andrus",
+    "title": "Buyer Procurement",
+    "email": "kathleen.andrus@trelleborg.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/kathleen-andrus-52086975"
+  },
+  {
+    "company": "Trelleborg Group",
+    "firstName": "Stacey",
+    "lastName": "Thomas",
+    "title": "Procurement Buyer",
+    "email": "stacey.thomas@trelleborg.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/stacey-thomas-453730107"
+  },
+  {
+    "company": "Trident Energy",
+    "firstName": "Maria",
+    "lastName": "Jose Miko Mbengono",
+    "title": "Interim Supply Chain Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Equatorial Guinea",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAuSSfEBfTrAQyGHcTHqzbdoKnR05uSwQlo"
+  },
+  {
+    "company": "Trident Energy",
+    "firstName": "Bienvenido",
+    "lastName": "Nguema Envo",
+    "title": "Supply Chain Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Equatorial Guinea",
+    "linkedin": "https://www.linkedin.com/in/ACoAABLskKEBAsjK5gBJXQ7-VuEn7BmHIh0VZGk"
+  },
+  {
+    "company": "Tullow Oil",
+    "firstName": "Victoria",
+    "lastName": "Ayitah",
+    "title": "Procurement Advisor",
+    "email": "victoria.ayitah@tullowoil.com",
+    "emailStatus": "Verified",
+    "country": "Ghana",
+    "linkedin": "http://www.linkedin.com/in/victoria-ayitah-741b57109"
+  },
+  {
+    "company": "Tullow Oil",
+    "firstName": "Lord",
+    "lastName": "Cudjoe",
+    "title": "CEO, Liaison Officer",
+    "email": "lord.cudjoe@tullowoil.com",
+    "emailStatus": "Verified",
+    "country": "Ghana",
+    "linkedin": "http://www.linkedin.com/in/lord-cudjoe-a0206571"
+  },
+  {
+    "company": "Tullow Oil",
+    "firstName": "Eugenia",
+    "lastName": "Tamakloe",
+    "title": "Procurement Officer",
+    "email": "tamakloe.eugenia@tullowoil.com",
+    "emailStatus": "Verified",
+    "country": "Ghana",
+    "linkedin": "http://www.linkedin.com/in/eugenia-sena-tamakloe-02b075216"
+  },
+  {
+    "company": "Tullow Oil",
+    "firstName": "Barnaby",
+    "lastName": "Barratt",
+    "title": "Capital Procurement Manager",
+    "email": "barnaby.barratt@tullowoil.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/barnaby-barratt-1727a519"
+  },
+  {
+    "company": "Tullow Oil",
+    "firstName": "Atul",
+    "lastName": "Sahay",
+    "title": "Chief Procurement Officer",
+    "email": "atul.sahay@tullowoil.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/atul-sahay-32a406"
+  },
+  {
+    "company": "Valaris",
+    "firstName": "Jorge",
+    "lastName": "Lebrija",
+    "title": "Vice President Of Global Supply Chain",
+    "email": "jorge.lebrija@valaris.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "https://linkedin.com/in/ACoAAABpav4Bm0_hbS5RncnDMYc1oIp24BmNFXo"
+  },
+  {
+    "company": "Valaris Limited",
+    "firstName": "Juliano",
+    "lastName": "Santos",
+    "title": "Procurement Specialist - SSC Wipro",
+    "email": "juliano.santos@valaris.com",
+    "emailStatus": "Verified",
+    "country": "Brazil",
+    "linkedin": "http://www.linkedin.com/in/juliano-cesar-santos-663027163"
+  },
+  {
+    "company": "Valaris Limited",
+    "firstName": "Maha",
+    "lastName": "Lakshmi",
+    "title": "Procurement Buyer",
+    "email": "maha.lakshmi@valaris.com",
+    "emailStatus": "Verified",
+    "country": "India",
+    "linkedin": "http://www.linkedin.com/in/maha-lakshmi-b2b451209"
+  },
+  {
+    "company": "Valaris Limited",
+    "firstName": "Fayad",
+    "lastName": "Reda",
+    "title": "Procurement",
+    "email": "fayad.elreda@valaris.com",
+    "emailStatus": "Verified",
+    "country": "United States",
+    "linkedin": "http://www.linkedin.com/in/fayad-el-reda-824190125"
+  },
+  {
+    "company": "Van Oord",
+    "firstName": "Simon",
+    "lastName": "Duvane",
+    "title": "Project Procurement Officer",
+    "email": "simon.duvane@vanoord.com",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "http://www.linkedin.com/in/simon-duvane-2b388b12b"
+  },
+  {
+    "company": "Van Oord",
+    "firstName": "Kenan",
+    "lastName": "Cam",
+    "title": "Senior Project Procurement Officer",
+    "email": "kenan.cam@vanoord.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/m-kenan-cam-31344a4b"
+  },
+  {
+    "company": "Van Oord",
+    "firstName": "Casper",
+    "lastName": "Canton",
+    "title": "Tender Manager Offshore",
+    "email": "casper.canton@vanoord.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/casper-canton-57b8637"
+  },
+  {
+    "company": "Van Oord",
+    "firstName": "Mark",
+    "lastName": "Disco",
+    "title": "Tender Manager",
+    "email": "mark.disco@vanoord.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/mark-disco-39519712"
+  },
+  {
+    "company": "Van Oord",
+    "firstName": "Tonny",
+    "lastName": "Westerlaken",
+    "title": "Procurement Manager",
+    "email": "tonny.westerlaken@vanoord.com",
+    "emailStatus": "Verified",
+    "country": "Netherlands",
+    "linkedin": "http://www.linkedin.com/in/tonnywesterlaken"
+  },
+  {
+    "company": "Vantage Drilling",
+    "firstName": "Kushal",
+    "lastName": "Devadiga",
+    "title": "Logistics Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "India",
+    "linkedin": "https://www.linkedin.com/in/ACoAADwpXeQBXQB5xS9NMTDx908YmrJuy0JIOKY"
+  },
+  {
+    "company": "Vantage Drilling",
+    "firstName": "Mark",
+    "lastName": "Martin",
+    "title": "Procurement Manager",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "Singapore",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAUCxfEBcg_Pt9cqUxsEdZ4ZqhrJlUTzPu4"
+  },
+  {
+    "company": "Vantage Drilling",
+    "firstName": "Rohith.",
+    "lastName": "V.r.",
+    "title": "Senior Logistics Supervisor",
+    "email": "",
+    "emailStatus": "À enrichir",
+    "country": "United Arab Emirates",
+    "linkedin": "https://www.linkedin.com/in/ACoAAAYJJIEBX8F2WkpesBJnmOwO1VoBKWCl5yU"
+  },
+  {
+    "company": "Vitol",
+    "firstName": "Daniela",
+    "lastName": "Rainer",
+    "title": "Procurement Manager, Office Management and Media Coordination",
+    "email": "dnr@vitol.com",
+    "emailStatus": "Verified",
+    "country": "Switzerland",
+    "linkedin": "http://www.linkedin.com/in/daniela-rainer-62416990"
+  },
+  {
+    "company": "Vitol",
+    "firstName": "Russell",
+    "lastName": "Hardy",
+    "title": "Chief Executive Officer",
+    "email": "rdh@vitol.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/russell-hardy-71046718"
+  },
+  {
+    "company": "Vitol",
+    "firstName": "Mike",
+    "lastName": "Nakrani",
+    "title": "CEO",
+    "email": "mkn@vitol.com",
+    "emailStatus": "Verified",
+    "country": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/mike-nakrani-28400012"
+  },
+  {
+    "company": "WBHO Construction",
+    "firstName": "Wolfgang",
+    "lastName": "Neff",
+    "title": "Chief Executive Officer",
+    "email": "wolfgang_neff@wbho.co.za",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/wolfgang-neff-74928a156"
+  },
+  {
+    "company": "WBHO Construction",
+    "firstName": "Adele",
+    "lastName": "Scholtz",
+    "title": "Tendering",
+    "email": "adele.scholtz@wbho.co.za",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/adele-scholtz-94b993137"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Nouzha",
+    "lastName": "Dib",
+    "title": "Contract and Procurement Coodinator",
+    "email": "ahmeddib.nouzha@me.weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Algeria",
+    "linkedin": "http://www.linkedin.com/in/nouzha-ahmed-dib-53bba2b3"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Mounira",
+    "lastName": "Asaad",
+    "title": "Procurement Specialist",
+    "email": "mounira.asaad@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/mounira-asaad-ba54151b7"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Yassmina",
+    "lastName": "Ayed",
+    "title": "Procurement Team Lead",
+    "email": "yassmina.ayed@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/yassmina-ayed-5b757b262"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Nagham",
+    "lastName": "Gamal",
+    "title": "Procurement Specialist",
+    "email": "nagham.gamal@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAADXjJqwBSTRG4vHAPb2RjHvmR0DM6n5AasQ"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "George",
+    "lastName": "Girgess",
+    "title": "Procurement Officer",
+    "email": "george.girgess@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/george-girgess-93646b111"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Sarah",
+    "lastName": "Hesham",
+    "title": "Regional Procurement Leader",
+    "email": "sarah.hesham@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/sarah-hesham-sultan"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Dina",
+    "lastName": "Hussam",
+    "title": "Procurement Specialist",
+    "email": "dina.hussam@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAADG1KucB_ND-X46GNaBuUkELx3WaB-Lybzs"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Amro",
+    "lastName": "Naguib",
+    "title": "Procurement & Sourcing Supervisor",
+    "email": "amro.naguib@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAu0d7AB9LaF2CeTz6No-_q440Mi55OmTcw"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Dina",
+    "lastName": "Waleed",
+    "title": "Procurement Specialist",
+    "email": "dina.waleed@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "http://www.linkedin.com/in/ACoAACyghr4BEZBuvup6tNCDF4Yaw8f3bIJ8m70"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Sven",
+    "lastName": "Koch",
+    "title": "Procurement Team Manager",
+    "email": "sven.koch@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Germany",
+    "linkedin": "http://www.linkedin.com/in/sven-koch-ba53626"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Denny",
+    "lastName": "Anzideo",
+    "title": "Procurement Buyer",
+    "email": "denny.anzideo@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Italy",
+    "linkedin": "http://www.linkedin.com/in/denny-anzideo-4a6584253"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Samuel",
+    "lastName": "Akosa",
+    "title": "Technical Sales Leader -well Intervention & Well Services",
+    "email": "samuel.akosa@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAAAihXtcBRXOvbs1DdngdTWtvnn_35IBsTDQ"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Okechukwu",
+    "lastName": "Ogueli",
+    "title": "Account Manager",
+    "email": "okechukwu.ogueli@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ACoAABJzaIIBPTKzIbbRJz_izkVzZrgHhhy_jy8"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Ruxandra",
+    "lastName": "Ionescu",
+    "title": "Procurement and Logistics Manager",
+    "email": "ruxandra.ionescu@eu.weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Romania",
+    "linkedin": "http://www.linkedin.com/in/ruxandra-ionescu-828a24159"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Manuela",
+    "lastName": "Tonoiu",
+    "title": "Procurement Coordinator",
+    "email": "manuelacoralia.tonoiu@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Romania",
+    "linkedin": "http://www.linkedin.com/in/manuela-coralia-tonoiu-776073b6"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Wafa",
+    "lastName": "Louati",
+    "title": "Commercial Operations Specialist - Sales and Marketing Department-",
+    "email": "wafa.louati@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Tunisia",
+    "linkedin": "http://www.linkedin.com/in/ACoAABSTSFoBDEBB5VdObyTIYwkQ3bTdQSp27gA"
+  },
+  {
+    "company": "Weatherford",
+    "firstName": "Taisiia",
+    "lastName": "Khrapach",
+    "title": "Procurement Specialist, Lead",
+    "email": "taisiia.khrapach@weatherford.com",
+    "emailStatus": "Verified",
+    "country": "Ukraine",
+    "linkedin": "http://www.linkedin.com/in/taisiia-khrapach-83927a166"
+  },
+  {
+    "company": "Wood",
+    "firstName": "Gianfranco",
+    "lastName": "Domestico",
+    "title": "Procurement Manager",
+    "email": "gianfranco.domestico@woodplc.com",
+    "emailStatus": "Verified",
+    "country": "Italy",
+    "linkedin": "http://www.linkedin.com/in/gianfranco-domestico-09bb0aa"
+  },
+  {
+    "company": "Wood",
+    "firstName": "Stefano",
+    "lastName": "Mereghetti",
+    "title": "Head of Purchasing Department",
+    "email": "stefano.mereghetti@woodplc.com",
+    "emailStatus": "Verified",
+    "country": "Italy",
+    "linkedin": "http://www.linkedin.com/in/stefano-mereghetti-a797b320"
+  },
+  {
+    "company": "Wood",
+    "firstName": "Arnt",
+    "lastName": "Bergan",
+    "title": "Procurement Manager Projects",
+    "email": "arnt.bergan@woodplc.com",
+    "emailStatus": "Verified",
+    "country": "Norway",
+    "linkedin": "http://www.linkedin.com/in/arnt-bergan-70264b106"
+  },
+  {
+    "company": "Wood",
+    "firstName": "Amelia",
+    "lastName": "Ferguson",
+    "title": "Manager Procurement and Contracts",
+    "email": "amelia.ferguson@woodplc.com",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "http://www.linkedin.com/in/amelia-ferguson-5a947754"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Olawale",
+    "lastName": "Agbaje",
+    "title": "Contracts & Procurement Division Manager",
+    "email": "olawale.agbaje@eni.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/olawale-agbaje-nae"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Ezenwa",
+    "lastName": "Okoro",
+    "title": "Senior Contracts Engineer",
+    "email": "ezenwa.okoro@eni.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "http://www.linkedin.com/in/ezenwa-okoro-nae"
+  },
+  {
+    "company": "TotalEnergies",
+    "firstName": "Eduardo",
+    "lastName": "Rosa",
+    "title": "Contracts & Procurement Division Manager",
+    "email": "eduardo.rosa@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/eduardo-rosa-total"
+  },
+  {
+    "company": "TotalEnergies",
+    "firstName": "Helder",
+    "lastName": "Silva",
+    "title": "Senior Contract Engineer",
+    "email": "helder.silva@totalenergies.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/helder-silva-total"
+  },
+  {
+    "company": "Azule Energy",
+    "firstName": "Afonso",
+    "lastName": "Mosse",
+    "title": "Logistics Procurement Manager",
+    "email": "afonso.mosse@azule-energy.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/afonso-mosse-azule"
+  },
+  {
+    "company": "Azule Energy",
+    "firstName": "Tatiana",
+    "lastName": "Guedes",
+    "title": "Vendor Compliance Specialist",
+    "email": "tatiana.guedes@azule-energy.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/tatiana-guedes-azule"
+  },
+  {
+    "company": "Eni",
+    "firstName": "Afonso",
+    "lastName": "Mosse",
+    "title": "Logistics Procurement Manager",
+    "email": "afonso.mosse@azule-energy.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/afonso-mosse-azule"
+  },
+  {
+    "company": "bp",
+    "firstName": "Afonso",
+    "lastName": "Mosse",
+    "title": "Logistics Procurement Manager",
+    "email": "afonso.mosse@azule-energy.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "http://www.linkedin.com/in/afonso-mosse-azule"
+  },
+  {
+    "company": "Chariot Energy",
+    "firstName": "Pierre",
+    "lastName": "Raillard",
+    "title": "Morocco Country Director",
+    "email": "p.raillard@chariotenergy.com",
+    "emailStatus": "Verified",
+    "country": "Morocco",
+    "linkedin": "https://www.linkedin.com/in/pierre-raillard"
+  },
+  {
+    "company": "Energean",
+    "firstName": "Vardis",
+    "lastName": "Chachulis",
+    "title": "New Ventures & Commercial Director",
+    "email": "vchachulis@energean.com",
+    "emailStatus": "Verified",
+    "country": "Morocco",
+    "linkedin": "https://www.linkedin.com/in/vardis-chachulis"
+  },
+  {
+    "company": "ONHYM",
+    "firstName": "Amina",
+    "lastName": "Benkhadra",
+    "title": "General Director",
+    "email": "benkhadra@onhym.com",
+    "emailStatus": "Verified",
+    "country": "Morocco",
+    "linkedin": "https://www.linkedin.com/in/amina-benkhadra"
+  },
+  {
+    "company": "ALCOM Energy Services",
+    "firstName": "Mohamed",
+    "lastName": "Limam",
+    "title": "Operations & SCM Manager",
+    "email": "m.limam@alcom-es.com",
+    "emailStatus": "Verified",
+    "country": "Mauritania",
+    "linkedin": "https://www.linkedin.com/in/mohamed-limam"
+  },
+  {
+    "company": "Deparentis",
+    "firstName": "Jean-Baptiste",
+    "lastName": "Parent",
+    "title": "General Manager & Founder",
+    "email": "jb.parent@deparentis.com",
+    "emailStatus": "Verified",
+    "country": "Senegal",
+    "linkedin": "https://www.linkedin.com/in/jean-baptiste-parent-b219082b"
+  },
+  {
+    "company": "Lighthouse Maritime Services",
+    "firstName": "Amadou",
+    "lastName": "Diallo",
+    "title": "Maritime Operations Manager",
+    "email": "a.diallo@lighthouse-ms.com",
+    "emailStatus": "Verified",
+    "country": "Senegal",
+    "linkedin": "https://www.linkedin.com/in/amadou-diallo"
+  },
+  {
+    "company": "Octo Marine",
+    "firstName": "Cheikh",
+    "lastName": "Ould Baha",
+    "title": "Shipping & Logistics Coordinator",
+    "email": "c.ouldbaha@octomarine.mr",
+    "emailStatus": "Verified",
+    "country": "Mauritania",
+    "linkedin": "https://www.linkedin.com/in/cheikh-ould-baha"
+  },
+  {
+    "company": "Senequip",
+    "firstName": "Moustapha",
+    "lastName": "Ndiaye",
+    "title": "Procurement & Local Content Officer",
+    "email": "m.ndiaye@senequip.sn",
+    "emailStatus": "Verified",
+    "country": "Senegal",
+    "linkedin": "https://www.linkedin.com/in/moustapha-ndiaye"
+  },
+  {
+    "company": "Amsol",
+    "firstName": "Paul",
+    "lastName": "Maclons",
+    "title": "Chief Executive Officer",
+    "email": "paul.maclons@amsol.co.za",
+    "emailStatus": "Verified",
+    "country": "Namibia",
+    "linkedin": "https://www.linkedin.com/in/paul-maclons"
+  },
+  {
+    "company": "Amsol",
+    "firstName": "João",
+    "lastName": "Gomes",
+    "title": "Angola Representative & Marine Specialist",
+    "email": "joao.gomes@amsol.co.za",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "https://www.linkedin.com/in/joao-gomes"
+  },
+  {
+    "company": "Ejovi Marine",
+    "firstName": "Ejovi",
+    "lastName": "Kabir",
+    "title": "Managing Director",
+    "email": "e.kabir@ejovigroup.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "https://www.linkedin.com/in/ejovi-kabir"
+  },
+  {
+    "company": "Chevron",
+    "firstName": "Manuel",
+    "lastName": "Sousa",
+    "title": "SCM Category Specialist (Cabinda)",
+    "email": "manuel.sousa@chevron.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "https://www.linkedin.com/in/manuel-sousa"
+  },
+  {
+    "company": "Chevron",
+    "firstName": "Tunde",
+    "lastName": "Ogunleye",
+    "title": "Deepwater Logistics Lead",
+    "email": "t.ogunleye@chevron.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "https://www.linkedin.com/in/tunde-ogunleye"
+  },
+  {
+    "company": "BW Energy",
+    "firstName": "Lin",
+    "lastName": "Esso",
+    "title": "Logistics Superintendent (BW Adolo)",
+    "email": "lin.esso@bwenergy.com",
+    "emailStatus": "Verified",
+    "country": "Gabon",
+    "linkedin": "https://www.linkedin.com/in/lin-esso"
+  },
+  {
+    "company": "Perenco",
+    "firstName": "Marc",
+    "lastName": "Mboumba",
+    "title": "Procurement Coordinator (Port-Gentil)",
+    "email": "m.mboumba@ga.perenco.com",
+    "emailStatus": "Verified",
+    "country": "Gabon",
+    "linkedin": "https://www.linkedin.com/in/marc-mboumba"
+  },
+  {
+    "company": "Stapem Offshore",
+    "firstName": "Jean-Luc",
+    "lastName": "Gaziello",
+    "title": "Angola General Manager",
+    "email": "jl.gaziello@stapem-offshore.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "https://www.linkedin.com/in/jean-luc-gaziello"
+  },
+  {
+    "company": "Stapem Offshore",
+    "firstName": "Thierry",
+    "lastName": "Bernard",
+    "title": "Marine Operations Director",
+    "email": "t.bernard@stapem-offshore.com",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "https://www.linkedin.com/in/thierry-bernard"
+  },
+  {
+    "company": "NEO-PEES",
+    "firstName": "Emeka",
+    "lastName": "Okoye",
+    "title": "Subsea Operations Coordinator",
+    "email": "e.okoye@neopees.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "https://www.linkedin.com/in/emeka-okoye"
+  },
+  {
+    "company": "Angoflex",
+    "firstName": "Manuel",
+    "lastName": "Lopes",
+    "title": "Operations Manager",
+    "email": "m.lopes@angoflex.ao",
+    "emailStatus": "Verified",
+    "country": "Angola",
+    "linkedin": "https://www.linkedin.com/in/manuel-lopes"
+  },
+  {
+    "company": "LATC Marine",
+    "firstName": "Gbolahan",
+    "lastName": "Shaba",
+    "title": "Operations Director",
+    "email": "g.shaba@latcmarine.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "https://www.linkedin.com/in/gbolahan-shaba"
+  },
+  {
+    "company": "MSSL",
+    "firstName": "Nnamdi",
+    "lastName": "Onyeka",
+    "title": "Fleet Manager",
+    "email": "n.onyeka@mssl-ng.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "https://www.linkedin.com/in/nnamdi-onyeka"
+  },
+  {
+    "company": "Tschudi Mozambique",
+    "firstName": "Tomas",
+    "lastName": "Mocumbi",
+    "title": "Country Manager",
+    "email": "t.mocumbi@tschudigroup.mz",
+    "emailStatus": "Verified",
+    "country": "Mozambique",
+    "linkedin": "https://www.linkedin.com/in/tomas-mocumbi"
+  },
+  {
+    "company": "Diamond Marine",
+    "firstName": "Pierre-André",
+    "lastName": "Mounguengui",
+    "title": "Commercial & Marine Agent",
+    "email": "pa.mounguengui@diamond-marine.ga",
+    "emailStatus": "Verified",
+    "country": "Gabon",
+    "linkedin": "https://www.linkedin.com/in/pierre-andre-mounguengui"
+  },
+  {
+    "company": "Archipel Offshore",
+    "firstName": "Babacar",
+    "lastName": "Ndiaye",
+    "title": "Offshore Logistics Manager",
+    "email": "b.ndiaye@archipel-offshore.sn",
+    "emailStatus": "Verified",
+    "country": "Senegal",
+    "linkedin": "https://www.linkedin.com/in/babacar-ndiaye"
+  },
+  {
+    "company": "PETROCI Marine",
+    "firstName": "Koffi",
+    "lastName": "Kouadio",
+    "title": "Marine Support Coordinator",
+    "email": "k.kouadio@petroci.ci",
+    "emailStatus": "Verified",
+    "country": "Cote d'Ivoire",
+    "linkedin": "https://www.linkedin.com/in/koffi-kouadio"
+  },
+  {
+    "company": "TTSM",
+    "firstName": "Cheikh",
+    "lastName": "Sylla",
+    "title": "Marine Works Director",
+    "email": "c.sylla@ttsm-senegal.com",
+    "emailStatus": "Verified",
+    "country": "Senegal",
+    "linkedin": "https://www.linkedin.com/in/cheikh-sylla"
+  },
+  {
+    "company": "EBH Namibia",
+    "firstName": "Gerrit",
+    "lastName": "Lategan",
+    "title": "Ship Repair Manager",
+    "email": "g.lategan@ebhnamibia.com",
+    "emailStatus": "Verified",
+    "country": "Namibia",
+    "linkedin": "https://www.linkedin.com/in/gerrit-lategan"
+  },
+  {
+    "company": "C&I Leasing",
+    "firstName": "Wisdom",
+    "lastName": "Nwachukwu",
+    "title": "Marine General Manager",
+    "email": "w.nwachukwu@c-ileasing.com",
+    "emailStatus": "Verified",
+    "country": "Nigeria",
+    "linkedin": "https://www.linkedin.com/in/wisdom-nwachukwu"
+  },
+  {
+    "company": "Congo Marine Services",
+    "firstName": "Jean-Pierre",
+    "lastName": "Makosso",
+    "title": "Marine Ops Manager",
+    "email": "jp.makosso@congomarine.cg",
+    "emailStatus": "Verified",
+    "country": "Congo",
+    "linkedin": "https://www.linkedin.com/in/jean-pierre-makosso"
+  },
+  {
+    "company": "Seaweld Engineering",
+    "firstName": "Alfred",
+    "lastName": "Fosu",
+    "title": "Marine Project Manager",
+    "email": "a.fosu@seaweldghana.com",
+    "emailStatus": "Verified",
+    "country": "Ghana",
+    "linkedin": "https://www.linkedin.com/in/alfred-fosu"
+  },
+  {
+    "company": "EG LNG Marine Services",
+    "firstName": "Salvador",
+    "lastName": "Nguema",
+    "title": "Marine Operations Superintendent",
+    "email": "s.nguema@eglng.gq",
+    "emailStatus": "Verified",
+    "country": "Equatorial Guinea",
+    "linkedin": "https://www.linkedin.com/in/salvador-nguema"
+  },
+  {
+    "company": "CNIC",
+    "firstName": "Samuel",
+    "lastName": "Nsame",
+    "title": "Commercial Yard Manager",
+    "email": "s.nsame@cnic.cm",
+    "emailStatus": "Verified",
+    "country": "Cameroon",
+    "linkedin": "https://www.linkedin.com/in/samuel-nsame"
+  },
+  {
+    "company": "East African Peninsula Marine",
+    "firstName": "John",
+    "lastName": "Mrema",
+    "title": "Operations Superintendent",
+    "email": "j.mrema@eapmarine.co.tz",
+    "emailStatus": "Verified",
+    "country": "Tanzania",
+    "linkedin": "https://www.linkedin.com/in/john-mrema"
+  },
+  {
+    "company": "LBH South Africa",
+    "firstName": "Jan",
+    "lastName": "Van der Merwe",
+    "title": "Offshore Agency Manager",
+    "email": "j.vandermerwe@lbhgroup.co.za",
+    "emailStatus": "Verified",
+    "country": "South Africa",
+    "linkedin": "https://www.linkedin.com/in/jan-van-der-merwe"
+  },
+  {
+    "company": "Maridive & Oil Services",
+    "firstName": "Khaled",
+    "lastName": "Ragab",
+    "title": "Fleet Chartering Manager",
+    "email": "k.ragab@maridivegroup.com",
+    "emailStatus": "Verified",
+    "country": "Egypt",
+    "linkedin": "https://www.linkedin.com/in/khaled-ragab"
+  },
+  {
+    "company": "Libyan Marine Services",
+    "firstName": "Mustafa",
+    "lastName": "El-Hadi",
+    "title": "Operations Manager",
+    "email": "m.elhadi@lms.ly",
+    "emailStatus": "Verified",
+    "country": "Libya",
+    "linkedin": "https://www.linkedin.com/in/mustafa-el-hadi"
+  },
+  {
+    "company": "Tunisian Marine Services",
+    "firstName": "Yassine",
+    "lastName": "Chaari",
+    "title": "Marine Coordinator",
+    "email": "y.chaari@tms.tn",
+    "emailStatus": "Verified",
+    "country": "Tunisia",
+    "linkedin": "https://www.linkedin.com/in/yassine-chaari"
+  },
+  {
+    "company": "Maroc Tug Services",
+    "firstName": "Adil",
+    "lastName": "El Amrani",
+    "title": "Harbour Ops Manager",
+    "email": "a.elamrani@maroctug.ma",
+    "emailStatus": "Verified",
+    "country": "Morocco",
+    "linkedin": "https://www.linkedin.com/in/adil-elamrani"
+  }
+]

@@ -1,0 +1,624 @@
+[
+  {
+    "id": "SAIPEM",
+    "name": "Saipem",
+    "category": "EPCI · SURF · T&I",
+    "color": "#22d3ee",
+    "hq": "Milan, Italie",
+    "merger_note": "Fusion avec Subsea7 → « Saipem7 » (finalisation attendue H2 2026) : 60+ navires de construction, backlog combiné €43 Mds. Fenêtre unique pour négocier des accords-cadres remorquage avant consolidation des achats.",
+    "bases": [
+      {
+        "city": "Luanda",
+        "country": "Angola",
+        "lat": -8.8147,
+        "lng": 13.2302,
+        "role": "Base régionale Afrique de l'Ouest"
+      },
+      {
+        "city": "Ambriz Yard",
+        "country": "Angola",
+        "lat": -7.8552,
+        "lng": 13.1186,
+        "role": "Yard fabrication subsea (Kaminho)"
+      },
+      {
+        "city": "Port Harcourt - Rumuolumeni",
+        "country": "Nigeria",
+        "lat": 4.7906,
+        "lng": 6.983,
+        "role": "Yard de fabrication Nigeria"
+      }
+    ],
+    "fleet": [
+      "Saipem 7000 (J-lay / heavy-lift 14 000 t)",
+      "Castorone (S-lay)",
+      "FDS 2 (field development ship)"
+    ],
+    "projects": [
+      {
+        "project_id": "ANG-001",
+        "scope": "Triple contrat $3,7 Mds (mai 2024) : EPC + opérations FPSO Kaminho (conversion VLCC Alsace chez CMHI Chine) + package SURF ~30 km flowlines 8\"/10\" et ombilicaux.",
+        "marine_needs": "Campagne offshore Saipem 7000 planifiée 2026-2027. Fabrication au yard d'Ambriz : besoins de remorquage portuaire, barges, assistance ancrage et supply tout au long de la campagne.",
+        "tender": {
+          "title": "Support Fleet & Towage - Campagne Saipem 7000 Kaminho",
+          "date_estimated": "Septembre 2026",
+          "platform": "Saipem Procurement / TotalEnergies EP Angola Block 20"
+        }
+      },
+      {
+        "project_id": "CIV-001",
+        "scope": "Propriétaire-opérateur du FPSO Baleine (ex-Firenze). Phase 3 FID approuvée mai 2026 ($4 Mds) : nouveau FPSO pour porter la production à 150 000 bopd + 200 MMcfgd.",
+        "marine_needs": "Arrivée, positionnement et hook-up d'un nouveau FPSO au large d'Abidjan vers 2027-2028 : remorquage océanique, tugs d'assistance, support ancrage.",
+        "tender": {
+          "title": "FPSO Baleine Ph.3 - Tow, Mooring & Hook-up Support",
+          "date_estimated": "Novembre 2026",
+          "platform": "Eni e-Procurement / Saipem"
+        }
+      },
+      {
+        "project_id": "ANG-004",
+        "scope": "FPSO Kaombo Norte & Kaombo Sul : conversion et O&M long terme pour TotalEnergies (Block 32).",
+        "marine_needs": "Opérations de support récurrentes : offloading tandem, maintenance, relèves crew."
+      },
+      {
+        "project_id": "MOZ-003",
+        "scope": "Membre du consortium CCS JV (Saipem / McDermott / Chiyoda) - EPC du site onshore Afungi. Chantier redémarré en janvier 2026 (4 000+ travailleurs mobilisés).",
+        "marine_needs": "Reprise des livraisons maritimes lourdes vers Afungi : barges, remorqueurs portuaires, support à la jetée MOF.",
+        "tender": {
+          "title": "Marine Logistics & Tug Services - Afungi Restart",
+          "date_estimated": "Août 2026",
+          "platform": "Mozambique LNG Supply Chain Portal"
+        }
+      }
+    ],
+    "boluda_angle": "Saipem opère 2 yards africains (Ambriz, Port Harcourt) et mobilise le Saipem 7000 sur Kaminho en 2026-27. Cibler le département Marine Logistics à Luanda pour un accord-cadre multi-projets avant la fusion Saipem7.",
+    "lead_companies": [
+      "Saipem"
+    ]
+  },
+  {
+    "id": "SUBSEA7",
+    "name": "Subsea 7",
+    "category": "SURF · Pose de conduites",
+    "color": "#34d399",
+    "hq": "Luxembourg / Londres",
+    "merger_note": "Fusion avec Saipem → « Saipem7 » (H2 2026). Les contrats Afrique de l'Ouest seront consolidés sous une même direction achats.",
+    "bases": [
+      {
+        "city": "Luanda",
+        "country": "Angola",
+        "lat": -8.78,
+        "lng": 13.28,
+        "role": "Base opérations Angola"
+      },
+      {
+        "city": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "lng": 3.45,
+        "role": "Base opérations Nigeria"
+      }
+    ],
+    "fleet": [
+      "Seven Borealis (heavy-lift / J-lay)",
+      "Seven Arctic",
+      "Seven Seas"
+    ],
+    "projects": [
+      {
+        "project_id": "ANG-012",
+        "scope": "EPCI SURF du programme Agogo Full Field Development (Azule Energy) : pose de conduites rigides, risers et ombilicaux reliant les puits aux FPSO Agogo et N'Goma.",
+        "marine_needs": "Navires de pose Seven Borealis / Seven Arctic en rotation : assistance AHTS, survey, remorquage de structures depuis la côte.",
+        "tender": {
+          "title": "AHTS & Installation Assistance - Agogo FFD SURF",
+          "date_estimated": "Octobre 2026",
+          "platform": "Subsea7 Supply Chain / Azule Energy"
+        }
+      },
+      {
+        "project_id": "SEN-001",
+        "scope": "EPCI SURF Sangomar Phase 1 (livré 2024) : 23 puits raccordés au FPSO. Bien positionné pour la Phase 2 (infill).",
+        "marine_needs": "Phase 2 Sangomar à l'étude par Woodside : nouvelle campagne SURF potentielle 2027+."
+      }
+    ],
+    "boluda_angle": "Subsea 7 sous-traite régulièrement l'assistance AHTS et le remorquage de structures sur ses campagnes SURF. Point d'entrée : Marine Operations / Vessel Chartering, base de Luanda.",
+    "lead_companies": [
+      "Subsea 7",
+      "Subsea7"
+    ]
+  },
+  {
+    "id": "TECHNIPFMC",
+    "name": "TechnipFMC",
+    "category": "Systèmes sous-marins · iEPCI",
+    "color": "#f43f5e",
+    "hq": "Houston / Paris",
+    "bases": [
+      {
+        "city": "Lagos (Ikoyi)",
+        "country": "Nigeria",
+        "lat": 6.4541,
+        "lng": 3.4316,
+        "role": "Hub subsea Afrique de l'Ouest"
+      },
+      {
+        "city": "Dande Spoolbase",
+        "country": "Angola",
+        "lat": -8.47,
+        "lng": 13.37,
+        "role": "Spoolbase pipelines (Angola)"
+      }
+    ],
+    "fleet": [
+      "Deep Blue (reel-lay)",
+      "Deep Energy",
+      "Apache II"
+    ],
+    "projects": [
+      {
+        "project_id": "NGA-002",
+        "scope": "Contrat Subsea 2.0 ($250-500M, déc. 2024) : arbres sous-marins, manifolds, jumpers et contrôles pour le tie-back de 16 puits Bonga North vers le FPSO Bonga.",
+        "marine_needs": "Campagne d'installation subsea ~2027 : navires reel-lay + assistance, modifications du FPSO Bonga existant.",
+        "tender": {
+          "title": "Installation Support - Bonga North Tieback",
+          "date_estimated": "Mars 2027",
+          "platform": "Shell Nigeria Contracting (NipeX)"
+        }
+      },
+      {
+        "project_id": "SEN-002",
+        "scope": "Systèmes de production sous-marins GTA Phase 1 (livrés). Candidat naturel sur le subsea GTA Phase 2 (concept GBS 2,5-3 MTPA en évaluation, FID attendue 2026).",
+        "marine_needs": "GTA Phase 2 : nouvelle campagne subsea + structure gravitaire = pic de besoins en remorquage et installation."
+      },
+      {
+        "project_id": "MAU-001",
+        "scope": "Systèmes de production sous-marins GTA Phase 1 (côté Mauritanie). Candidat sur Phase 2.",
+        "marine_needs": "Identique au hub GTA : escorte méthaniers, support FLNG."
+      }
+    ],
+    "boluda_angle": "TechnipFMC pilote les plus gros packages subsea du Nigeria et de GTA. Les campagnes d'installation 2027 (Bonga North) se contractent fin 2026 : se positionner dès maintenant sur NipeX.",
+    "lead_companies": [
+      "TechnipFMC",
+      "Technip"
+    ]
+  },
+  {
+    "id": "ALLSEAS",
+    "name": "Allseas",
+    "category": "T&I · Heavy-lift offshore",
+    "color": "#f59e0b",
+    "hq": "Delft, Pays-Bas",
+    "bases": [
+      {
+        "city": "Dakar (staging GTA)",
+        "country": "Sénégal",
+        "lat": 14.677,
+        "lng": -17.426,
+        "role": "Base projet GTA"
+      }
+    ],
+    "fleet": [
+      "Pioneering Spirit (plus grand navire de construction au monde)",
+      "Solitaire",
+      "Audacia"
+    ],
+    "projects": [
+      {
+        "project_id": "SEN-002",
+        "scope": "A rejoint GTA en octobre 2023 (remplacement de McDermott). Pressenti pour le transport & installation de la structure gravitaire (GBS) GTA Phase 2 - FID en évaluation finale 2026.",
+        "marine_needs": "Installation GBS = opération marine majeure : flottille de remorqueurs océaniques et portuaires, barges ballastables, escorte.",
+        "tender": {
+          "title": "GBS Tow & Positioning Fleet - GTA Phase 2",
+          "date_estimated": "Décembre 2026",
+          "platform": "BP Procurement / Allseas"
+        }
+      },
+      {
+        "project_id": "MAU-001",
+        "scope": "Même périmètre GTA Phase 2 côté Mauritanie.",
+        "marine_needs": "Escorte et positionnement autour du hub GTA."
+      }
+    ],
+    "boluda_angle": "Si la FID GTA Phase 2 tombe en 2026, Allseas devra affréter une flottille complète de remorquage pour le GBS. Opportunité de contrat spot majeur + récurrence escorte LNG.",
+    "lead_companies": [
+      "Allseas"
+    ]
+  },
+  {
+    "id": "MODEC",
+    "name": "MODEC",
+    "category": "FPSO Owner / Operator",
+    "color": "#a78bfa",
+    "hq": "Tokyo, Japon",
+    "bases": [
+      {
+        "city": "Takoradi",
+        "country": "Ghana",
+        "lat": 4.8845,
+        "lng": -1.7554,
+        "role": "Base O&M FPSO Ghana"
+      },
+      {
+        "city": "Dakar",
+        "country": "Sénégal",
+        "lat": 14.71,
+        "lng": -17.46,
+        "role": "Base O&M FPSO Sangomar"
+      }
+    ],
+    "fleet": [
+      "FPSO Kwame Nkrumah (Jubilee)",
+      "FPSO Prof. J.E.A. Mills (TEN)",
+      "FPSO Léopold Sédar Senghor (Sangomar)"
+    ],
+    "projects": [
+      {
+        "project_id": "SEN-001",
+        "scope": "Propriétaire-opérateur du FPSO Léopold Sédar Senghor (O&M long terme pour Woodside, 100 000 bopd).",
+        "marine_needs": "Support quotidien : tugs d'assistance offloading tandem, relèves, approvisionnement depuis Dakar.",
+        "tender": {
+          "title": "Offtake Support & Standby Tug - FPSO LSS",
+          "date_estimated": "Octobre 2026",
+          "platform": "MODEC / Woodside Procurement"
+        }
+      },
+      {
+        "project_id": "GHA-001",
+        "scope": "FPSO Kwame Nkrumah : O&M pour Tullow depuis 2010, contrat étendu.",
+        "marine_needs": "Tugs d'assistance offloading, supply depuis Takoradi."
+      },
+      {
+        "project_id": "GHA-002",
+        "scope": "FPSO Prof. John Evans Atta Mills (TEN) : O&M pour Tullow.",
+        "marine_needs": "Mêmes besoins récurrents depuis Takoradi."
+      }
+    ],
+    "boluda_angle": "MODEC affrète localement les tugs d'assistance offloading sur 3 FPSO ouest-africains. Contrats récurrents renouvelés par cycles de 2-3 ans : cibler les Marine Superintendents de Takoradi et Dakar.",
+    "lead_companies": [
+      "MODEC"
+    ]
+  },
+  {
+    "id": "YINSON",
+    "name": "Yinson Production",
+    "category": "FPSO Owner / Operator",
+    "color": "#38bdf8",
+    "hq": "Kuala Lumpur / Oslo",
+    "bases": [
+      {
+        "city": "Luanda",
+        "country": "Angola",
+        "lat": -8.86,
+        "lng": 13.2,
+        "role": "Base O&M FPSO Agogo"
+      },
+      {
+        "city": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "lng": 3.38,
+        "role": "Base O&M FPSO Abigail-Joseph"
+      }
+    ],
+    "fleet": [
+      "FPSO Agogo (Angola)",
+      "FPSO Abigail-Joseph (Nigeria)",
+      "FPSO Anna Nery (Brésil)"
+    ],
+    "projects": [
+      {
+        "project_id": "ANG-012",
+        "scope": "Propriétaire-opérateur du FPSO Agogo - bail 15 ans avec Azule Energy ($5,3 Mds), ancré en ultra-deepwater Block 15/06.",
+        "marine_needs": "Support permanent : standby/offtake tugs, ravitaillement, assistance manœuvres tankers d'export.",
+        "tender": {
+          "title": "Offshore Terminal Towage & FPSO Assistance Fleet",
+          "date_estimated": "Novembre 2026",
+          "platform": "Azule Energy / Yinson Procurement Luanda"
+        }
+      }
+    ],
+    "boluda_angle": "Yinson démarre l'exploitation longue durée du FPSO Agogo : le contrat de towage terminal associé (tender nov. 2026) est l'opportunité n°1 de Boluda en Angola.",
+    "lead_companies": [
+      "Yinson"
+    ]
+  },
+  {
+    "id": "SBM",
+    "name": "SBM Offshore",
+    "category": "FPSO Owner / Operator",
+    "color": "#fbbf24",
+    "hq": "Amsterdam / Monaco",
+    "bases": [
+      {
+        "city": "Luanda",
+        "country": "Angola",
+        "lat": -8.8,
+        "lng": 13.18,
+        "role": "Base O&M FPSO N'Goma"
+      }
+    ],
+    "fleet": [
+      "FPSO N'Goma (Block 15/06 West Hub)"
+    ],
+    "projects": [
+      {
+        "project_id": "ANG-012",
+        "scope": "FPSO N'Goma : unité du West Hub recevant une partie des puits Agogo FFD (tie-in). O&M pour Azule Energy.",
+        "marine_needs": "Support offloading et assistance sur le même périmètre marin que le FPSO Agogo - mutualisation de flotte possible.",
+        "tender": {
+          "title": "Marine Support Renewal - FPSO N'Goma",
+          "date_estimated": "Janvier 2027",
+          "platform": "SBM Offshore / Azule Energy"
+        }
+      }
+    ],
+    "boluda_angle": "Le West Hub (N'Goma) et le FPSO Agogo opèrent côte à côte : proposer une flotte de tugs mutualisée aux deux opérateurs réduit leurs coûts et double la valeur du contrat.",
+    "lead_companies": [
+      "SBM Offshore",
+      "SBM"
+    ]
+  },
+  {
+    "id": "GOLAR",
+    "name": "Golar LNG",
+    "category": "FLNG Owner / Operator",
+    "color": "#a3e635",
+    "hq": "Hamilton / Londres",
+    "bases": [
+      {
+        "city": "FLNG Gimi - GTA Hub",
+        "country": "Mauritanie/Sénégal",
+        "lat": 16.04,
+        "lng": -16.95,
+        "role": "FLNG amarré au hub GTA (bail 20 ans)"
+      }
+    ],
+    "fleet": [
+      "FLNG Gimi (2,7 MTPA)",
+      "FLNG Hilli Episeyo"
+    ],
+    "projects": [
+      {
+        "project_id": "SEN-002",
+        "scope": "FLNG Gimi amarré derrière la digue GTA - contrat de 20 ans avec BP (~$3 Mds de backlog).",
+        "marine_needs": "Escorte permanente des méthaniers en approche, tugs FiFi1, support à la digue : cœur de métier Boluda.",
+        "tender": {
+          "title": "LNG Carrier Escort & Berthing Fleet - GTA Hub",
+          "date_estimated": "Septembre 2026",
+          "platform": "BP Mauritania-Senegal / Golar"
+        }
+      },
+      {
+        "project_id": "MAU-001",
+        "scope": "Même unité FLNG Gimi, périmètre Mauritanie.",
+        "marine_needs": "Escorte méthaniers côté Nouakchott."
+      }
+    ],
+    "boluda_angle": "Chaque cargo LNG exporté du hub GTA (36 cargos prévus en 2026) exige escorte et accostage assisté : un contrat d'escorte pluriannuel ici est récurrent et prévisible.",
+    "lead_companies": [
+      "Golar"
+    ]
+  },
+  {
+    "id": "EIFFAGE",
+    "name": "Eiffage Génie Civil Marine",
+    "category": "Infrastructure marine · Digues",
+    "color": "#ec4899",
+    "hq": "Vélizy, France",
+    "bases": [
+      {
+        "city": "Dakar",
+        "country": "Sénégal",
+        "lat": 14.7,
+        "lng": -17.47,
+        "role": "Base travaux maritimes Afrique de l'Ouest"
+      }
+    ],
+    "fleet": [
+      "Barges de battage et bétonnage",
+      "Pontons grues"
+    ],
+    "projects": [
+      {
+        "project_id": "SEN-002",
+        "scope": "Constructeur de la digue brise-lames GTA (21 caissons). Candidat aux extensions d'infrastructure du hub pour la Phase 2.",
+        "marine_needs": "Travaux maritimes = remorquage de caissons et barges, positionnement précis : exactement le savoir-faire harbour towage.",
+        "tender": {
+          "title": "Caisson Tow & Marine Works - GTA Ph.2 Breakwater Ext.",
+          "date_estimated": "Février 2027",
+          "platform": "Eiffage GCM / BP"
+        }
+      }
+    ],
+    "boluda_angle": "Si GTA Phase 2 ajoute des caissons à la digue, Eiffage devra remorquer et positionner chaque caisson depuis Dakar : contrat spot à forte marge.",
+    "lead_companies": [
+      "Eiffage"
+    ]
+  },
+  {
+    "id": "MCDERMOTT",
+    "name": "McDermott (CCS JV)",
+    "category": "EPC Onshore-Nearshore LNG",
+    "color": "#fb7185",
+    "hq": "Houston, USA",
+    "bases": [
+      {
+        "city": "Afungi Site",
+        "country": "Mozambique",
+        "lat": -10.79,
+        "lng": 40.52,
+        "role": "Chantier Mozambique LNG (CCS JV)"
+      }
+    ],
+    "fleet": [
+      "Flotte projet : barges MOF, LCT"
+    ],
+    "projects": [
+      {
+        "project_id": "MOZ-003",
+        "scope": "Leader du consortium CCS JV (McDermott / Saipem / Chiyoda) - EPC des 2 trains LNG (13,1 MTPA). Chantier redémarré janv. 2026 après levée de la force majeure, first LNG visé 2029.",
+        "marine_needs": "Tout le fret lourd arrive par mer à la jetée MOF d'Afungi : remorqueurs portuaires permanents, pilotage, barges - pendant 3+ ans de construction.",
+        "tender": {
+          "title": "MOF Harbour Towage & Marine Support - Afungi",
+          "date_estimated": "Août 2026",
+          "platform": "Mozambique LNG Supply Chain Portal"
+        }
+      }
+    ],
+    "boluda_angle": "Le redémarrage d'Afungi recrée immédiatement un besoin de remorquage portuaire 24/7 pour 3+ ans. Premier arrivé, premier servi : contacter le Logistics Manager CCS JV maintenant.",
+    "lead_companies": [
+      "McDermott",
+      "Chiyoda"
+    ]
+  },
+  {
+    "id": "WISON",
+    "name": "Wison New Energies",
+    "category": "FLNG EPC",
+    "color": "#2dd4bf",
+    "hq": "Shanghai, Chine",
+    "bases": [
+      {
+        "city": "Pointe-Noire",
+        "country": "Congo",
+        "lat": -4.7889,
+        "lng": 11.8653,
+        "role": "Base support FLNG Congo"
+      }
+    ],
+    "fleet": [
+      "FLNG Nguya (2,4 MTPA - livrée 2025)"
+    ],
+    "projects": [
+      {
+        "project_id": "COG-002",
+        "scope": "EPC de la FLNG Nguya (2e unité Congo LNG, livrée fin 2025) - phase 2 du hub Eni Marine XII portant la capacité à 3 MTPA.",
+        "marine_needs": "Phase d'exploitation : escorte méthaniers, assistance offloading FSU, maintenance des amarrages.",
+        "tender": {
+          "title": "FLNG Marine Support & LNGC Assistance - Marine XII",
+          "date_estimated": "Juillet 2026",
+          "platform": "Eni Congo e-Procurement"
+        }
+      }
+    ],
+    "boluda_angle": "Avec 2 FLNG désormais en service au Congo, Eni double ses rotations méthaniers : le besoin d'assistance double aussi. Tender de support marin attendu dès juillet 2026.",
+    "lead_companies": [
+      "Wison",
+      "Eni"
+    ]
+  },
+  {
+    "id": "STAPEM",
+    "name": "Stapem Offshore",
+    "category": "Sous-traitant Subsea & Plongée",
+    "color": "#a855f7",
+    "hq": "Paris, France / Luanda, Angola",
+    "merger_note": "Sous-traitant clé pour les travaux de plongée et support marine d'Azule et TotalEnergies. Importante demande récurrente de remorqueurs d'assistance et AHTS.",
+    "bases": [
+      {
+        "city": "Luanda",
+        "country": "Angola",
+        "lat": -8.82,
+        "lng": 13.24,
+        "role": "Base opérations offshore"
+      },
+      {
+        "city": "Pointe-Noire",
+        "country": "Congo",
+        "lat": -4.79,
+        "lng": 11.87,
+        "role": "Base support technique"
+      }
+    ],
+    "fleet": [
+      "Navires de plongée légers",
+      "Utility vessels"
+    ],
+    "projects": [
+      {
+        "project_id": "ANG-001",
+        "scope": "Sous-traitance de travaux de plongée de positionnement et d'inspection sur Kaminho pour Saipem.",
+        "marine_needs": "Besoins d'assistance maritime côtière et de transport pour la pose des conduites subsea."
+      },
+      {
+        "project_id": "ANG-012",
+        "scope": "Campagnes d'inspections sous-marines et de maintenance de la structure SURF pour Subsea 7."
+      }
+    ],
+    "boluda_angle": "Stapem n'opère pas ses propres remorqueurs lourds et sous-traite régulièrement ses besoins d'assistance pour ses chantiers côtiers et subsea.",
+    "lead_companies": [
+      "Stapem Offshore",
+      "Stapem"
+    ]
+  },
+  {
+    "id": "TTSM_SUBCO",
+    "name": "TTSM (Tous Travaux Sous Marins)",
+    "category": "Sous-traitant Travaux Maritimes & Plongée",
+    "color": "#a855f7",
+    "hq": "Dakar, Sénégal",
+    "bases": [
+      {
+        "city": "Dakar",
+        "country": "Sénégal",
+        "lat": 14.67,
+        "lng": -17.42,
+        "role": "Base navires & ateliers"
+      }
+    ],
+    "fleet": [
+      "Barges de travaux",
+      "Pontons de plongée"
+    ],
+    "projects": [
+      {
+        "project_id": "SEN-002",
+        "scope": "Sous-traitant d'Eiffage et Saipem pour le bétonnage et la plongée sur la digue du GTA Hub.",
+        "marine_needs": "Remorquage de pontons de travaux et de barges de transport de matériel de Dakar vers le Hub."
+      },
+      {
+        "project_id": "SEN-001",
+        "scope": "Maintenance sous-marine légère sur le FPSO Sangomar pour le compte de MODEC."
+      }
+    ],
+    "boluda_angle": "Collaborer avec TTSM pour combiner nos remorqueurs et leurs équipes de plongeurs sous-marins pour des offres de service clés en main aux EPCI.",
+    "lead_companies": [
+      "TTSM"
+    ]
+  },
+  {
+    "id": "LATC",
+    "name": "LATC Marine",
+    "category": "Sous-traitant Supply & Offshore Support",
+    "color": "#a855f7",
+    "hq": "Lagos, Nigeria",
+    "bases": [
+      {
+        "city": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "lng": 3.42,
+        "role": "Base flotte Nigéria"
+      }
+    ],
+    "fleet": [
+      "Vessels de patrouille rapide",
+      "Crew boats"
+    ],
+    "projects": [
+      {
+        "project_id": "NGA-002",
+        "scope": "Assistance aux navires de pose de TechnipFMC pour le projet Bonga North.",
+        "marine_needs": "Navires d'escorte et de ravitaillement rapide des équipes de pose."
+      },
+      {
+        "project_id": "NGA-013",
+        "scope": "Ravitaillement de matériel et surveillance du terminal d'offloading d'Agbami."
+      }
+    ],
+    "boluda_angle": "LATC gère la logistique légère. Négocier une alliance pour couvrir conjointement le remorquage lourd et l'assistance navire.",
+    "lead_companies": [
+      "LATC Marine"
+    ]
+  }
+]

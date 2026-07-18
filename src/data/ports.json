@@ -1,0 +1,621 @@
+[
+  {
+    "id": "PORT-FRA-DUNKERQUE",
+    "kind": "port",
+    "name": "Port de Dunkerque - Cap 2020/2030",
+    "country": "France",
+    "operator": "Grand Port Maritime de Dunkerque (GPMD)",
+    "status": "Construction",
+    "completion": "2028-2030",
+    "lat": 51.04,
+    "lng": 2.17,
+    "map_popup_interface": {
+      "header_color": "#00f0ff",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Projet d'extension majeur du port ouest de Dunkerque (création d'un nouveau bassin, de nouveaux quais conteneurs et de zones logistiques). Conçu pour accueillir les plus grands porte-conteneurs du monde et soutenir la décarbonation industrielle.",
+          "key_metrics": [
+            "Nouveau bassin: Atlantique (prolongement)",
+            "Linéaire de quai: 2 000 mètres supplémentaires",
+            "Tirant d'eau: 16.5m (post-Panamax)"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug Support",
+            "name": "ASD Tugs 80t BP",
+            "spec": "Besoin accru d'assistance pour le positionnement des pontons et dragues de construction."
+          },
+          {
+            "type": "Barge",
+            "name": "Heavy Deck Cargo Barge",
+            "spec": "Transport de caissons en béton et de matériaux de remblaiement."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 APPELS D'OFFRES TRAVAUX MARITIMES EN COURS",
+          "past_tenders": [
+            {
+              "title": "Dragage du bassin de l'Atlantique et remblaiement",
+              "date": "2024",
+              "duration": "Complété"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Marine Support and Construction Towage Services (2-3 tugs)",
+              "date_estimated": "Septembre 2026",
+              "duration": "24 mois",
+              "platform": "GPMD E-procurement"
+            },
+            {
+              "title": "Mooring & Berth Assistance Services for Heavy Lift Vessels",
+              "date_estimated": "Janvier 2027",
+              "duration": "36 mois",
+              "platform": "GPMD Portal"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Grand Port Maritime de Dunkerque",
+            "Bouygues Travaux Publics",
+            "Dredging International"
+          ],
+          "action": "Proposer une offre intégrée d'assistance maritime avec des remorqueurs basés localement à Dunkerque pour sécuriser le chantier de dragage et de pose de caissons."
+        }
+      }
+    }
+  },
+  {
+    "id": "PORT-FRA-MARSEILLE",
+    "kind": "port",
+    "name": "Marseille Fos - Extensions GPMM",
+    "country": "France",
+    "operator": "Grand Port Maritime de Marseille (GPMM)",
+    "status": "Development",
+    "completion": "2029",
+    "lat": 43.43,
+    "lng": 4.88,
+    "map_popup_interface": {
+      "header_color": "#00f0ff",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Aménagement des bassins de Fos pour accueillir les filières d'énergies vertes (hydrogène, éolien offshore flottant de Fos-sur-Mer) et extension des terminaux à conteneurs existants.",
+          "key_metrics": [
+            "Secteur clé: Bassin de Fos (Darse 2 / Darse 3)",
+            "Usage: Hub d'assemblage éolien offshore & Terminaux GNL/Hydrogène",
+            "Tirant d'eau: 17m"
+          ]
+        },
+        "assets": [
+          {
+            "type": "AHTS",
+            "name": "Boluda Escort Tugs",
+            "spec": "Assistance au remorquage des flotteurs d'éoliennes offshore assemblés."
+          },
+          {
+            "type": "Ponton",
+            "name": "Barge Grue Lourde",
+            "spec": "Opérations de levage pour infrastructures de quai."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🚀 PRE-QUALIFICATION POUR L'ASSEMBLAGE DE L'ÉOLIEN FLOTTANT",
+          "past_tenders": [
+            {
+              "title": "Étude d'impact environnemental et hydrodynamique",
+              "date": "2025",
+              "duration": "Complété"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Marine Logistics Package: Floatation Towage & Harbour Support",
+              "date_estimated": "Novembre 2026",
+              "duration": "48 mois",
+              "platform": "GPMM Marchés Publics"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "GPMM Direction Transition Écologique",
+            "EDF Renouvelables",
+            "Saipem France"
+          ],
+          "action": "Promouvoir les capacités de remorquage lourd de Boluda Marseille/Fos pour le remorquage des flotteurs d'éoliennes flottantes depuis le quai d'assemblage jusqu'au site d'ancrage."
+        }
+      }
+    }
+  },
+  {
+    "id": "PORT-NLD-ROTTERDAM",
+    "kind": "port",
+    "name": "Rotterdam - Maasvlakte 2 Extensions",
+    "country": "Pays-Bas",
+    "operator": "Port of Rotterdam Authority",
+    "status": "Construction",
+    "completion": "2027",
+    "lat": 51.96,
+    "lng": 4.02,
+    "map_popup_interface": {
+      "header_color": "#00f0ff",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Construction de nouveaux terminaux à conteneurs automatisés et d'un hub de carburants alternatifs (méthanol, hydrogène) sur la zone conquise sur la mer de Maasvlakte 2.",
+          "key_metrics": [
+            "Extension de quai: +2.4 km de linéaire de quai",
+            "Capacité accrue: +4 Millions d'EVP / an",
+            "Tirant d'eau: 20m"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Remorqueur ASD",
+            "name": "Rotterdam Port Tugs (Boluda)",
+            "spec": "Assistance de port standard à haut niveau de sécurité (80-90t BP)."
+          },
+          {
+            "type": "Barge",
+            "name": "Barges de soutage GNL / Méthanol",
+            "spec": "Services d'avitaillement en carburants maritimes alternatifs."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "⚠️ CRITICAL DEFENSE HORIZON - EXTENSIONS DE QUAI ACTIVES",
+          "past_tenders": [
+            {
+              "title": "Dredging and Land Reclamation Maasvlakte 2 (Phase 1)",
+              "date": "2022",
+              "duration": "Complété"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Tug Assistance and Escort Services Concession (Rotterdam West)",
+              "date_estimated": "Octobre 2026",
+              "duration": "60 mois",
+              "platform": "Port of Rotterdam Sourcing"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Port of Rotterdam Authority",
+            "APM Terminals Maasvlakte",
+            "Boskalis Marine"
+          ],
+          "action": "Sécuriser le rôle exclusif de Boluda Rotterdam pour l'assistance de port sur les nouvelles darses automatisées. Positionner des remorqueurs hybrides/électriques."
+        }
+      }
+    }
+  },
+  {
+    "id": "PORT-POL-GDANSK",
+    "kind": "port",
+    "name": "Gdansk - Central Port Expansion",
+    "country": "Pologne",
+    "operator": "Port of Gdańsk Authority",
+    "status": "Development",
+    "completion": "2030",
+    "lat": 54.4,
+    "lng": 18.67,
+    "map_popup_interface": {
+      "header_color": "#00f0ff",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Projet d'infrastructure portuaire le plus important de Pologne. Création de 9 terminaux modernes en eau profonde (conteneurs, GNL, vrac) sur une zone de terre-plein de 400 hectares gagnée sur le golfe de Gdansk.",
+          "key_metrics": [
+            "Surface: 410 hectares de terre-plein",
+            "Capacité conteneurs: Doublée pour atteindre 9M EVP",
+            "Tirant d'eau: 17m (sans contraintes de marées)"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Escort Tug",
+            "name": "ASD Escort Tugs",
+            "spec": "Besoin de remorqueurs d'escorte hautement maniables pour les terminaux GNL."
+          },
+          {
+            "type": "Ponton",
+            "name": "Spud Barge / Floating Crane",
+            "spec": "Pontons pour construction de digues de protection."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🚀 INVESTISSEMENT PUBLIC-PRIVE EN COURS DE STRUCTURATION",
+          "past_tenders": [
+            {
+              "title": "Conception technique de la digue de protection extérieure",
+              "date": "2024",
+              "duration": "Complété"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Construction of Outer Breakwaters & Marine Support Towage",
+              "date_estimated": "Décembre 2026",
+              "duration": "36 mois",
+              "platform": "Port of Gdansk Tender Portal"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Port of Gdańsk Authority",
+            "DCT Gdansk",
+            "Jan De Nul Poland"
+          ],
+          "action": "Établir un partenariat avec les entrepreneurs de travaux maritimes pour fournir l'assistance au dragage et au positionnement des blocs de digue."
+        }
+      }
+    }
+  },
+  {
+    "id": "PORT-MAR-TANGERMED3",
+    "kind": "port",
+    "name": "Tanger Med III (Extension)",
+    "country": "Maroc",
+    "operator": "Tanger Med Port Authority (TMSA)",
+    "status": "Pre-FID",
+    "completion": "2030",
+    "lat": 35.89,
+    "lng": -5.5,
+    "map_popup_interface": {
+      "header_color": "#00f0ff",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Nouvelle phase d'expansion majeure du complexe portuaire Tanger Med (Détroit de Gibraltar). Vise à consolider le leadership du Maroc comme premier hub de transbordement de conteneurs en Méditerranée et en Afrique.",
+          "key_metrics": [
+            "Linéaire de quai supplémentaire: 1.5 km",
+            "Capacité additionnelle: +3 Millions d'EVP",
+            "Tirant d'eau: 18m"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug",
+            "name": "Boluda Tanger Med Fleet",
+            "spec": "Flotte active de remorqueurs ASD 80t BP sous concession exclusive."
+          },
+          {
+            "type": "Dredger",
+            "name": "Trailing Suction Hopper Dredger",
+            "spec": "Dragage en eau profonde requis pour le nouveau bassin."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 ÉVALUATION DU CONCEPT D'INGÉNIERIE MARITIME",
+          "past_tenders": [
+            {
+              "title": "Études de bathymétrie et de sols sous-marins",
+              "date": "2025",
+              "duration": "Complété"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Tanger Med Phase 3 Dredging & Reclamation Works Towage Support",
+              "date_estimated": "Mars 2027",
+              "duration": "30 mois",
+              "platform": "TMSA Procurement Portal"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Tanger Med Port Authority (TMSA)",
+            "APM Terminals Tangier",
+            "Eurogate Tanger"
+          ],
+          "action": "S'appuyer sur la position historique de Boluda Tanger Med pour étendre automatiquement la concession de remorquage aux nouveaux quais de la Phase 3."
+        }
+      }
+    }
+  },
+  {
+    "id": "PORT-CMR-KRIBI2",
+    "kind": "port",
+    "name": "Port de Kribi - Phase 2",
+    "country": "Cameroun",
+    "operator": "Port Autonome de Kribi (PAK) / China Harbour Engineering Co. (CHEC)",
+    "status": "Construction",
+    "completion": "2027",
+    "lat": 2.94,
+    "lng": 9.9,
+    "map_popup_interface": {
+      "header_color": "#00f0ff",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Construction de la Phase 2 du port en eau profonde de Kribi (prolongement de la digue de protection de 675 mètres, nouveau terminal à conteneurs de 700 mètres, darses supplémentaires). CHEC est l'entrepreneur principal.",
+          "key_metrics": [
+            "Quai conteneurs: 700 mètres de linéaire",
+            "Digue: Prolongement de 675m",
+            "Financement: Exim Bank of China (85%) et CHEC"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug ASD",
+            "name": "Kribi Port Support Tugs",
+            "spec": "Besoins d'assistance maritime permanents pour les manœuvres de dragage et de remblai."
+          },
+          {
+            "type": "Barge",
+            "name": "Split Hopper Barges",
+            "spec": "Transport et déchargement de roches pour le breakwater."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "⚠️ PHASES DE CHANTIER CRITIQUES EN COURS",
+          "past_tenders": [
+            {
+              "title": "Kribi Deep Sea Port Phase 1 Construction",
+              "date": "2018",
+              "duration": "Complété"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Harbour Towage, Escort & Marine Services Concession (Phase 2 expansion)",
+              "date_estimated": "Novembre 2026",
+              "duration": "120 mois",
+              "platform": "Port Autonome de Kribi / CHEC"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Port Autonome de Kribi",
+            "China Harbour Engineering Company (CHEC) Cameroon",
+            "Bolloré Africa Logistics Kribi"
+          ],
+          "action": "Négocier avec CHEC et le PAK l'octroi d'une concession de remorquage exclusive pour le nouveau terminal à conteneurs en s'appuyant sur l'implantation de Boluda en Afrique de l'Ouest."
+        }
+      }
+    }
+  },
+  {
+    "id": "PORT-MOZ-MAPUTO",
+    "kind": "port",
+    "name": "Port of Maputo (Expansion)",
+    "country": "Mozambique",
+    "operator": "Maputo Port Development Company (MPDC)",
+    "status": "Development",
+    "completion": "2028-2030",
+    "lat": -25.97,
+    "lng": 32.56,
+    "map_popup_interface": {
+      "header_color": "#00f0ff",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Projet de modernisation et d'extension majeure (investissement de 2 milliards USD) visant à doubler la capacité de traitement du terminal à conteneurs et à accroître le terminal à charbon/chrome de Matola.",
+          "key_metrics": [
+            "Capacité EVP: Portée de 170k à 530k EVP/an",
+            "Capacité vrac: Portée de 26M à 54M tonnes/an",
+            "Tirant d'eau: Dragage d'approfondissement du canal d'accès à 16m"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Escort Tug",
+            "name": "High Bollard Pull ASD Tugs",
+            "spec": "Assistance requise pour l'accueil des navires de type Post-Panamax dans le canal de Matola."
+          },
+          {
+            "type": "Suction Dredger",
+            "name": "Cutter Suction Dredger",
+            "spec": "Maintenance permanente et élargissement du canal."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔒 CONCESSION MARITIME LONG TERME VERROUILLEE PAR P&O (DP WORLD)",
+          "past_tenders": [
+            {
+              "title": "Maputo Access Channel Dredging Campaign (Phase 3)",
+              "date": "2023",
+              "duration": "Complété"
+            },
+            {
+              "title": "Concession de remorquage portuaire & services maritimes MPDC",
+              "date": "Renouvelée en 2023 pour 10+ ans (P&O Maritime Logistics)",
+              "duration": "Active",
+              "source_url": "https://www.google.com/search?q=P%26O+Maritime+Logistics+Maputo+concession+renewal+2023"
+            }
+          ],
+          "future_tenders": []
+        },
+        "leads": {
+          "target_companies": [
+            "Maputo Port Development Company (Grindrod / DP World / CFM)",
+            "Mozambique Ministry of Transport"
+          ],
+          "action": "Aucune opportunité de tender direct à court terme suite au renouvellement de concession de P&O en 2023. Stratégie : surveiller d'éventuels besoins de sous-traitance ou de salvage d'urgence."
+        }
+      }
+    }
+  },
+  {
+    "id": "PORT-SEN-NDAYANE",
+    "kind": "port",
+    "name": "Port de Ndayane (Dakar-Marine)",
+    "country": "Sénégal",
+    "operator": "DP World / Port Autonome de Dakar",
+    "status": "Construction",
+    "completion": "2029",
+    "lat": 14.6,
+    "lng": -17.2,
+    "map_popup_interface": {
+      "header_color": "#00f0ff",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Construction du nouveau port géant en eau profonde de Ndayane, situé à 50 km au sud de Dakar. Destiné à désengorger le port de Dakar et à devenir l'un des principaux terminaux à conteneurs d'Afrique de l'Ouest (DP World investi 1 milliard USD).",
+          "key_metrics": [
+            "Investissement: 1.1 Milliard USD (Phase 1)",
+            "Tirant d'eau: 18m (bassin) et 16.5m (canal)",
+            "Quai conteneurs: 840 mètres (Phase 1) + digues de protection"
+          ]
+        },
+        "assets": [
+          {
+            "type": "ASD Tug",
+            "name": "Escort Tugs 75-80t BP",
+            "spec": "Assistance de port exclusive requise pour les grands porte-conteneurs océaniques."
+          },
+          {
+            "type": "Barge",
+            "name": "Rock Dumping Barges",
+            "spec": "Chantier de pose des enrochements de la digue de protection."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 CHANTIER MARITIME PHASE 1 EN COURS",
+          "past_tenders": [
+            {
+              "title": "Conception technique et terrassements préliminaires",
+              "date": "2023",
+              "duration": "Complété"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Exclusive Harbour Towage & Marine Services Licence (30-year concession)",
+              "date_estimated": "Décembre 2026",
+              "duration": "360 mois",
+              "platform": "DP World Dakar / ANAM Sénégal"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "DP World Dakar",
+            "Port Autonome de Dakar (PAD)",
+            "Agence Nationale des Affaires Maritimes (ANAM)"
+          ],
+          "action": "Capitaliser sur les relations solides de Boluda à Dakar pour obtenir la concession exclusive de remorquage à Ndayane dès son inauguration."
+        }
+      }
+    }
+  },
+  {
+    "id": "PORT-NGA-LEKKI2",
+    "kind": "port",
+    "name": "Port de Lekki - Phase 2",
+    "country": "Nigeria",
+    "operator": "Lekki Port LFTZ Enterprise Limited / China Harbour Engineering",
+    "status": "Development",
+    "completion": "2028",
+    "lat": 6.22,
+    "lng": 3.96,
+    "map_popup_interface": {
+      "header_color": "#00f0ff",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Développement de la Phase 2 du port en eau profonde de Lekki, comprenant de nouveaux terminaux pour le vrac liquide (produits pétroliers de la raffinerie Dangote voisine) et le vrac sec.",
+          "key_metrics": [
+            "Usage principal: Vrac Liquide (dangereux) et Vrac Sec",
+            "Tirant d'eau: 16.5m",
+            "Localisation: Zone Franche de Lekki, Lagos State"
+          ]
+        },
+        "assets": [
+          {
+            "type": "ASD Tug",
+            "name": "Lekki Port Support Tugs",
+            "spec": "Remorqueurs d'assistance requis pour la sécurité incendie et escorte des tankers."
+          },
+          {
+            "type": "Bunker Vessel",
+            "name": "Barge de soutage",
+            "spec": "Avitaillement maritime à quai et en rade."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🚀 PLANIFICATION TECHNIQUE DES TERMINAUX PETROLIERS",
+          "past_tenders": [
+            {
+              "title": "Lekki Port Phase 1 Container Terminal Construction",
+              "date": "2022",
+              "duration": "Complété"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Marine Terminal Operations: Liquid Bulk Tug & Escort Services Package",
+              "date_estimated": "Août 2026",
+              "duration": "120 mois",
+              "platform": "Lekki Port LFTZ Procurement"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Lekki Port LFTZ Enterprise Limited",
+            "Dangote Refinery Group Logistics",
+            "Nigerian Ports Authority (NPA)"
+          ],
+          "action": "Proposer des services spécialisés de remorquage d'escorte de tankers de produits pétroliers et de sécurité maritime avec des remorqueurs équipés FiFi 1 et rideau d'eau."
+        }
+      }
+    }
+  },
+  {
+    "id": "PORT-KEN-MOMBASA",
+    "kind": "port",
+    "name": "Port of Mombasa (KPA)",
+    "country": "Kenya",
+    "operator": "Kenya Ports Authority (KPA)",
+    "status": "Production",
+    "completion": "Opérations actives & Tenders en cours",
+    "lat": -4.062,
+    "lng": 39.664,
+    "map_popup_interface": {
+      "header_color": "#00f0ff",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Mombasa est le principal hub maritime d'Afrique de l'Est (passerelle vers l'Ouganda, le Rwanda et le Sud-Soudan). Modernisation continue des terminaux et extension de la flotte de remorqueurs portuaires.",
+          "key_metrics": [
+            "Volume annuel: Plus de 35 millions de tonnes",
+            "Tirant d'eau: Dragage à 15m complété au terminal à conteneurs",
+            "Flotte KPA: Remorqueurs ASD gérés en propre, mais demande d'affrètement complémentaire régulière"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Harbour Tug",
+            "name": "ASD Escort Tugs (70-80t BP)",
+            "spec": "Besoins de remorqueurs d'assistance ASD en renfort de la flotte KPA."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 APPEL D'OFFRES DE LEASING ACTIF (MOMBASA)",
+          "past_tenders": [
+            {
+              "title": "Acquisition de 2 nouveaux remorqueurs de port (KPA)",
+              "date": "2021",
+              "duration": "Livré"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Framework Agreement: Lease of Marine Support Equipment & Operating Services (KPA/218/CO)",
+              "date_estimated": "En cours (Clôture H2 2026)",
+              "duration": "36 mois",
+              "platform": "Kenya Ports Authority E-Procurement Portal",
+              "source_url": "https://www.kpa.co.ke"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Kenya Ports Authority (KPA)",
+            "Kenya Ministry of Transport & Infrastructure"
+          ],
+          "action": "Se positionner en direct sur le portail KPA pour répondre au tender de leasing de remorqueurs en cours (intitulé sous 'Lease of Equipment' pour des raisons administratives)."
+        }
+      }
+    }
+  }
+]

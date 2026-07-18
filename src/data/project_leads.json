@@ -1,0 +1,3110 @@
+[
+  {
+    "project_id": "NAM-001",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Venus"
+      },
+      {
+        "company_name": "QatarEnergy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=QatarEnergy+Venus+offshore"
+      },
+      {
+        "company_name": "Impact Oil & Gas",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Impact Oil & Gas+Venus+offshore"
+      },
+      {
+        "company_name": "Odfjell Drilling",
+        "role": "Drilling Rig Owner / Contractor",
+        "contact_scope": "Rig Move Towage, Anchor Handling (AHTS) & Supply Vessels",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Odfjell+drilling+rig+operations"
+      },
+      {
+        "company_name": "Amsol",
+        "role": "Local Content Marine Solutions Giant (Namibie/Angola)",
+        "contact_scope": "Anchor handling tugs (AHTS), oil terminal operations, salvage & offshore logistics",
+        "relevance_score": 8,
+        "source_url": "https://www.amsol.co.za"
+      },
+      {
+        "company_name": "Ejovi Marine",
+        "role": "Local Tug & Dredging Contractor",
+        "contact_scope": "Offshore vessel rental, anchor handling support, coastal towing",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Ejovi+Marine+Nigeria"
+      },
+      {
+        "company_name": "EBH Namibia",
+        "role": "Ship & Rig Repairs Walvis Bay Support",
+        "contact_scope": "Tug drydocking, emergency repairs, hull maintenance",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=EBH+Namibia+Venus"
+      }
+    ]
+  },
+  {
+    "project_id": "NAM-002",
+    "leads": [
+      {
+        "company_name": "Galp",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Galp+Mopane+offshore"
+      },
+      {
+        "company_name": "Custos Energy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Custos Energy+Mopane+offshore"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "EBH Namibia",
+        "role": "Ship & Rig Repairs Walvis Bay Support",
+        "contact_scope": "Tug drydocking, emergency repairs, hull maintenance",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=EBH+Namibia+Mopane"
+      }
+    ]
+  },
+  {
+    "project_id": "NAM-003",
+    "leads": [
+      {
+        "company_name": "Shell",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.shell.com/media/news-and-media-releases.html"
+      },
+      {
+        "company_name": "QatarEnergy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=QatarEnergy+Graff+offshore"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "EBH Namibia",
+        "role": "Ship & Rig Repairs Walvis Bay Support",
+        "contact_scope": "Tug drydocking, emergency repairs, hull maintenance",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=EBH+Namibia+Graff"
+      }
+    ]
+  },
+  {
+    "project_id": "NAM-004",
+    "leads": [
+      {
+        "company_name": "Shell",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.shell.com/media/news-and-media-releases.html"
+      },
+      {
+        "company_name": "QatarEnergy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=QatarEnergy+Jonker+offshore"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "EBH Namibia",
+        "role": "Ship & Rig Repairs Walvis Bay Support",
+        "contact_scope": "Tug drydocking, emergency repairs, hull maintenance",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=EBH+Namibia+Jonker"
+      }
+    ]
+  },
+  {
+    "project_id": "NAM-005",
+    "leads": [
+      {
+        "company_name": "Galp",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Galp+Nara+offshore"
+      },
+      {
+        "company_name": "Custos Energy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Custos Energy+Nara+offshore"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "EBH Namibia",
+        "role": "Ship & Rig Repairs Walvis Bay Support",
+        "contact_scope": "Tug drydocking, emergency repairs, hull maintenance",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=EBH+Namibia+Nara"
+      }
+    ]
+  },
+  {
+    "project_id": "NAM-006",
+    "leads": [
+      {
+        "company_name": "BW Energy",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=BW Energy+Kudu+offshore"
+      },
+      {
+        "company_name": "SBM Offshore",
+        "role": "Pre-FID FLNG Engineering",
+        "contact_scope": "FLNG Mooring & Hook-up Services",
+        "relevance_score": 8,
+        "source_url": "https://www.sbmoffshore.com"
+      },
+      {
+        "company_name": "EBH Namibia",
+        "role": "Ship & Rig Repairs Walvis Bay Support",
+        "contact_scope": "Tug drydocking, emergency repairs, hull maintenance",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=EBH+Namibia+Kudu"
+      }
+    ]
+  },
+  {
+    "project_id": "ANG-001",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Kaminho"
+      },
+      {
+        "company_name": "Petronas",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Petronas+Kaminho+offshore"
+      },
+      {
+        "company_name": "Sonangol",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sonangol+Kaminho+offshore"
+      },
+      {
+        "company_name": "Saipem",
+        "role": "EPCI Tier-1 Contractor (Triple contrat $3,7 Mds (mai 2024) )",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 10,
+        "source_url": "https://www.saipem.com/en/media/press-releases"
+      },
+      {
+        "company_name": "Amsol",
+        "role": "Local Content Marine Solutions Giant (Namibie/Angola)",
+        "contact_scope": "Anchor handling tugs (AHTS), oil terminal operations, salvage & offshore logistics",
+        "relevance_score": 8,
+        "source_url": "https://www.amsol.co.za"
+      },
+      {
+        "company_name": "Ejovi Marine",
+        "role": "Local Tug & Dredging Contractor",
+        "contact_scope": "Offshore vessel rental, anchor handling support, coastal towing",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Ejovi+Marine+Nigeria"
+      },
+      {
+        "company_name": "Stapem Offshore",
+        "role": "Subsea Diving & Installation Subcontractor",
+        "contact_scope": "Marine Logistics & Diving Services",
+        "relevance_score": 8,
+        "source_url": "https://www.stapem-offshore.com"
+      },
+      {
+        "company_name": "Angoflex",
+        "role": "Subsea Spool & Umbilical Subcontractor",
+        "contact_scope": "Logistics & Spoolbase Coordination",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Angoflex+Angola"
+      }
+    ]
+  },
+  {
+    "project_id": "ANG-012",
+    "leads": [
+      {
+        "company_name": "Azule Energy",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Azule Energy+Agogo FFD+offshore"
+      },
+      {
+        "company_name": "Yinson Production",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Yinson Production+Agogo FFD+offshore"
+      },
+      {
+        "company_name": "Subsea 7",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.subsea7.com/en/media/news.html"
+      },
+      {
+        "company_name": "Baker Hughes",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Baker Hughes+Agogo FFD+offshore"
+      },
+      {
+        "company_name": "SBM Offshore",
+        "role": "EPCI Tier-1 Contractor (FPSO N'Goma )",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=SBM Offshore+Agogo FFD+offshore"
+      },
+      {
+        "company_name": "Valaris Drilling",
+        "role": "Drilling Rig Owner / Contractor",
+        "contact_scope": "Rig Move Towage, Anchor Handling (AHTS) & Supply Vessels",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Valaris+drilling+rig+operations"
+      },
+      {
+        "company_name": "Amsol",
+        "role": "Local Content Marine Solutions Giant (Namibie/Angola)",
+        "contact_scope": "Anchor handling tugs (AHTS), oil terminal operations, salvage & offshore logistics",
+        "relevance_score": 8,
+        "source_url": "https://www.amsol.co.za"
+      },
+      {
+        "company_name": "Ejovi Marine",
+        "role": "Local Tug & Dredging Contractor",
+        "contact_scope": "Offshore vessel rental, anchor handling support, coastal towing",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Ejovi+Marine+Nigeria"
+      },
+      {
+        "company_name": "Stapem Offshore",
+        "role": "Subsea O&M and Inspection Subcontractor",
+        "contact_scope": "Offshore vessel chartering & subsea ops",
+        "relevance_score": 8,
+        "source_url": "https://www.stapem-offshore.com"
+      },
+      {
+        "company_name": "Angoflex",
+        "role": "Umbilical & SURF Subcontractor",
+        "contact_scope": "Offshore installation logistics",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Angoflex+Angola"
+      }
+    ]
+  },
+  {
+    "project_id": "ANG-002",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Agogo"
+      },
+      {
+        "company_name": "Sonangol P&P",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sonangol P&P+Agogo+offshore"
+      },
+      {
+        "company_name": "Equinor",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Equinor+Agogo+offshore"
+      },
+      {
+        "company_name": "ExxonMobil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Agogo+offshore"
+      },
+      {
+        "company_name": "Yinson Production",
+        "role": "FPSO/FLNG Owner-Operator",
+        "contact_scope": "Standby Tugs, Tandem Offloading Escort, and Marine O&M Support",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=Yinson Production+Agogo+FPSO"
+      },
+      {
+        "company_name": "Stapem Offshore",
+        "role": "Deepwater Diving & Subsea Operations Partner",
+        "contact_scope": "Rig support, subsea inspection, ROV and diving services",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Stapem+Offshore+Agogo"
+      }
+    ]
+  },
+  {
+    "project_id": "ANG-003",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Ndungu"
+      },
+      {
+        "company_name": "Sonangol P&P",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sonangol P&P+Ndungu+offshore"
+      },
+      {
+        "company_name": "Equinor",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Equinor+Ndungu+offshore"
+      },
+      {
+        "company_name": "ExxonMobil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Ndungu+offshore"
+      },
+      {
+        "company_name": "Stapem Offshore",
+        "role": "Deepwater Diving & Subsea Operations Partner",
+        "contact_scope": "Rig support, subsea inspection, ROV and diving services",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Stapem+Offshore+Ndungu"
+      }
+    ]
+  },
+  {
+    "project_id": "ANG-004",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Kaombo"
+      },
+      {
+        "company_name": "Sonangol P&P",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sonangol P&P+Kaombo+offshore"
+      },
+      {
+        "company_name": "Equinor",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Equinor+Kaombo+offshore"
+      },
+      {
+        "company_name": "ExxonMobil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Kaombo+offshore"
+      },
+      {
+        "company_name": "Galp",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Galp+Kaombo+offshore"
+      },
+      {
+        "company_name": "Saipem",
+        "role": "EPCI Tier-1 Contractor (FPSO Kaombo Norte & Kaombo Sul )",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 10,
+        "source_url": "https://www.saipem.com/en/media/press-releases"
+      },
+      {
+        "company_name": "Stapem Offshore",
+        "role": "Deepwater Diving & Subsea Operations Partner",
+        "contact_scope": "Rig support, subsea inspection, ROV and diving services",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Stapem+Offshore+Kaombo"
+      }
+    ]
+  },
+  {
+    "project_id": "ANG-005",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=CLOV"
+      },
+      {
+        "company_name": "Sonangol P&P",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sonangol P&P+CLOV+offshore"
+      },
+      {
+        "company_name": "ENI",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.eni.com/en-IT/operations/clov.html"
+      },
+      {
+        "company_name": "Statoil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Statoil+CLOV+offshore"
+      },
+      {
+        "company_name": "Stapem Offshore",
+        "role": "Deepwater Diving & Subsea Operations Partner",
+        "contact_scope": "Rig support, subsea inspection, ROV and diving services",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Stapem+Offshore+CLOV"
+      }
+    ]
+  },
+  {
+    "project_id": "ANG-006",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Dalia"
+      },
+      {
+        "company_name": "Sonangol P&P",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sonangol P&P+Dalia+offshore"
+      },
+      {
+        "company_name": "ExxonMobil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Dalia+offshore"
+      },
+      {
+        "company_name": "BP",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.bp.com/en/global/corporate/news-and-insights.html"
+      },
+      {
+        "company_name": "Statoil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Statoil+Dalia+offshore"
+      },
+      {
+        "company_name": "Stapem Offshore",
+        "role": "Deepwater Diving & Subsea Operations Partner",
+        "contact_scope": "Rig support, subsea inspection, ROV and diving services",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Stapem+Offshore+Dalia"
+      }
+    ]
+  },
+  {
+    "project_id": "ANG-007",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Girassol"
+      },
+      {
+        "company_name": "Sonangol P&P",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sonangol P&P+Girassol+offshore"
+      },
+      {
+        "company_name": "ExxonMobil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Girassol+offshore"
+      },
+      {
+        "company_name": "BP",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.bp.com/en/global/corporate/news-and-insights.html"
+      },
+      {
+        "company_name": "Statoil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Statoil+Girassol+offshore"
+      },
+      {
+        "company_name": "Galp",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Galp+Girassol+offshore"
+      },
+      {
+        "company_name": "Stapem Offshore",
+        "role": "Deepwater Diving & Subsea Operations Partner",
+        "contact_scope": "Rig support, subsea inspection, ROV and diving services",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Stapem+Offshore+Girassol"
+      }
+    ]
+  },
+  {
+    "project_id": "ANG-008",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Pazflor"
+      },
+      {
+        "company_name": "Sonangol P&P",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sonangol P&P+Pazflor+offshore"
+      },
+      {
+        "company_name": "ExxonMobil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Pazflor+offshore"
+      },
+      {
+        "company_name": "BP",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.bp.com/en/global/corporate/news-and-insights.html"
+      },
+      {
+        "company_name": "Statoil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Statoil+Pazflor+offshore"
+      },
+      {
+        "company_name": "Stapem Offshore",
+        "role": "Deepwater Diving & Subsea Operations Partner",
+        "contact_scope": "Rig support, subsea inspection, ROV and diving services",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Stapem+Offshore+Pazflor"
+      }
+    ]
+  },
+  {
+    "project_id": "ANG-009",
+    "leads": [
+      {
+        "company_name": "Esso Exploration Angola",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Esso Exploration Angola+Cinguvu+offshore"
+      },
+      {
+        "company_name": "Sonangol P&P",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sonangol P&P+Cinguvu+offshore"
+      },
+      {
+        "company_name": "BP",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.bp.com/en/global/corporate/news-and-insights.html"
+      },
+      {
+        "company_name": "ENI",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.eni.com/en-IT/operations/cinguvu.html"
+      },
+      {
+        "company_name": "Stapem Offshore",
+        "role": "Deepwater Diving & Subsea Operations Partner",
+        "contact_scope": "Rig support, subsea inspection, ROV and diving services",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Stapem+Offshore+Cinguvu"
+      }
+    ]
+  },
+  {
+    "project_id": "NGA-001",
+    "leads": [
+      {
+        "company_name": "Shell",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.shell.com/media/news-and-media-releases.html"
+      },
+      {
+        "company_name": "TotalEnergies",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://totalenergies.com/search?q=Bonga"
+      },
+      {
+        "company_name": "ENI",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.eni.com/en-IT/operations/bonga.html"
+      },
+      {
+        "company_name": "ExxonMobil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Bonga+offshore"
+      },
+      {
+        "company_name": "C&I Leasing (Marine Division)",
+        "role": "Offshore Support Vessels (OSV) & AHTS Operator",
+        "contact_scope": "Drilling rig towage, PSV support, anchor handling",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=C&I+Leasing+(Marine+Division)+Bonga"
+      }
+    ]
+  },
+  {
+    "project_id": "NGA-002",
+    "leads": [
+      {
+        "company_name": "Shell",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.shell.com/media/news-and-media-releases.html"
+      },
+      {
+        "company_name": "TotalEnergies",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://totalenergies.com/search?q=Bonga North"
+      },
+      {
+        "company_name": "ENI",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.eni.com/en-IT/operations/bonga north.html"
+      },
+      {
+        "company_name": "ExxonMobil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Bonga North+offshore"
+      },
+      {
+        "company_name": "TechnipFMC",
+        "role": "EPCI Tier-1 Contractor (Contrat Subsea 2.0 ($250-500M, déc. 2024) )",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 10,
+        "source_url": "https://www.technipfmc.com/en/investors/news-and-events"
+      },
+      {
+        "company_name": "LATC Marine",
+        "role": "Offshore Patrol & Crew Transport Subcontractor",
+        "contact_scope": "Marine logistics and crew logistics",
+        "relevance_score": 7,
+        "source_url": "https://www.latcmarine.com"
+      },
+      {
+        "company_name": "NEO-PEES",
+        "role": "Subsea Installation Subcontractor",
+        "contact_scope": "Subsea manifolds and flowlines",
+        "relevance_score": 8,
+        "source_url": "https://www.neopeesoilandgas.com"
+      },
+      {
+        "company_name": "C&I Leasing (Marine Division)",
+        "role": "Offshore Support Vessels (OSV) & AHTS Operator",
+        "contact_scope": "Drilling rig towage, PSV support, anchor handling",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=C&I+Leasing+(Marine+Division)+Bonga North"
+      }
+    ]
+  },
+  {
+    "project_id": "NGA-003",
+    "leads": [
+      {
+        "company_name": "Shell",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.shell.com/media/news-and-media-releases.html"
+      },
+      {
+        "company_name": "TotalEnergies",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://totalenergies.com/search?q=Bonga Southwest"
+      },
+      {
+        "company_name": "ENI",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.eni.com/en-IT/operations/bonga southwest.html"
+      },
+      {
+        "company_name": "ExxonMobil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Bonga Southwest+offshore"
+      },
+      {
+        "company_name": "C&I Leasing (Marine Division)",
+        "role": "Offshore Support Vessels (OSV) & AHTS Operator",
+        "contact_scope": "Drilling rig towage, PSV support, anchor handling",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=C&I+Leasing+(Marine+Division)+Bonga Southwest"
+      }
+    ]
+  },
+  {
+    "project_id": "NGA-004",
+    "leads": [
+      {
+        "company_name": "ExxonMobil",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Owowo+offshore"
+      },
+      {
+        "company_name": "NNPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=NNPC+Owowo+offshore"
+      },
+      {
+        "company_name": "Shell",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.shell.com/media/news-and-media-releases.html"
+      },
+      {
+        "company_name": "C&I Leasing (Marine Division)",
+        "role": "Offshore Support Vessels (OSV) & AHTS Operator",
+        "contact_scope": "Drilling rig towage, PSV support, anchor handling",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=C&I+Leasing+(Marine+Division)+Owowo"
+      }
+    ]
+  },
+  {
+    "project_id": "NGA-005",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Usan"
+      },
+      {
+        "company_name": "Chevron",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Chevron+Usan+offshore"
+      },
+      {
+        "company_name": "ExxonMobil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Usan+offshore"
+      },
+      {
+        "company_name": "Nexen",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Nexen+Usan+offshore"
+      },
+      {
+        "company_name": "C&I Leasing (Marine Division)",
+        "role": "Offshore Support Vessels (OSV) & AHTS Operator",
+        "contact_scope": "Drilling rig towage, PSV support, anchor handling",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=C&I+Leasing+(Marine+Division)+Usan"
+      }
+    ]
+  },
+  {
+    "project_id": "NGA-006",
+    "leads": [
+      {
+        "company_name": "ExxonMobil",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Erha+offshore"
+      },
+      {
+        "company_name": "Shell",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.shell.com/media/news-and-media-releases.html"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "C&I Leasing (Marine Division)",
+        "role": "Offshore Support Vessels (OSV) & AHTS Operator",
+        "contact_scope": "Drilling rig towage, PSV support, anchor handling",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=C&I+Leasing+(Marine+Division)+Erha"
+      }
+    ]
+  },
+  {
+    "project_id": "NGA-007",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Akpo"
+      },
+      {
+        "company_name": "CNOOC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=CNOOC+Akpo+offshore"
+      },
+      {
+        "company_name": "Petrobras",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Petrobras+Akpo+offshore"
+      },
+      {
+        "company_name": "Sapetro",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sapetro+Akpo+offshore"
+      },
+      {
+        "company_name": "C&I Leasing (Marine Division)",
+        "role": "Offshore Support Vessels (OSV) & AHTS Operator",
+        "contact_scope": "Drilling rig towage, PSV support, anchor handling",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=C&I+Leasing+(Marine+Division)+Akpo"
+      }
+    ]
+  },
+  {
+    "project_id": "NGA-008",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Egina"
+      },
+      {
+        "company_name": "CNOOC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=CNOOC+Egina+offshore"
+      },
+      {
+        "company_name": "Petrobras",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Petrobras+Egina+offshore"
+      },
+      {
+        "company_name": "Sapetro",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sapetro+Egina+offshore"
+      },
+      {
+        "company_name": "C&I Leasing (Marine Division)",
+        "role": "Offshore Support Vessels (OSV) & AHTS Operator",
+        "contact_scope": "Drilling rig towage, PSV support, anchor handling",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=C&I+Leasing+(Marine+Division)+Egina"
+      }
+    ]
+  },
+  {
+    "project_id": "NGA-009",
+    "leads": [
+      {
+        "company_name": "ENI",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.eni.com/en-IT/operations/zabazaba-etan.html"
+      },
+      {
+        "company_name": "Esso Exploration Nigeria",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Esso Exploration Nigeria+Zabazaba-Etan+offshore"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "C&I Leasing (Marine Division)",
+        "role": "Offshore Support Vessels (OSV) & AHTS Operator",
+        "contact_scope": "Drilling rig towage, PSV support, anchor handling",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=C&I+Leasing+(Marine+Division)+Zabazaba-Etan"
+      }
+    ]
+  },
+  {
+    "project_id": "NGA-010",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Preowei"
+      },
+      {
+        "company_name": "CNOOC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=CNOOC+Preowei+offshore"
+      },
+      {
+        "company_name": "Petrobras",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Petrobras+Preowei+offshore"
+      },
+      {
+        "company_name": "Sapetro",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sapetro+Preowei+offshore"
+      },
+      {
+        "company_name": "C&I Leasing (Marine Division)",
+        "role": "Offshore Support Vessels (OSV) & AHTS Operator",
+        "contact_scope": "Drilling rig towage, PSV support, anchor handling",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=C&I+Leasing+(Marine+Division)+Preowei"
+      }
+    ]
+  },
+  {
+    "project_id": "SEN-001",
+    "leads": [
+      {
+        "company_name": "Woodside",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=Woodside+Sangomar+offshore"
+      },
+      {
+        "company_name": "Petrosen",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Petrosen+Sangomar+offshore"
+      },
+      {
+        "company_name": "FAR",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=FAR+Sangomar+offshore"
+      },
+      {
+        "company_name": "Subsea 7",
+        "role": "EPCI Tier-1 Contractor (EPCI SURF Sangomar Phase 1 (livré 2024) )",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 10,
+        "source_url": "https://www.subsea7.com/en/media/news.html"
+      },
+      {
+        "company_name": "MODEC",
+        "role": "EPCI Tier-1 Contractor (Propriétaire-opérateur du FPSO Léopold Sédar Senghor (O&M long terme pour Woodside, 100 000 bopd).)",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=MODEC+Sangomar+offshore"
+      },
+      {
+        "company_name": "ALCOM Energy Services",
+        "role": "Local Content Partner (Mauritanie/Senegal)",
+        "contact_scope": "Offshore Logistics, Bunkering, Supply of Gases & Chemical Products",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=ALCOM+Energy+Services+Mauritania"
+      },
+      {
+        "company_name": "Deparentis",
+        "role": "Hydrography & Subsea Survey Contractor (Senegal)",
+        "contact_scope": "Bathymetric and geotechnical surveys for pipeline / terminal monitoring",
+        "relevance_score": 8,
+        "source_url": "https://www.deparentis.com"
+      },
+      {
+        "company_name": "Lighthouse Maritime Services",
+        "role": "Local Marine Partner / Competitor (Senegal/Mauritanie)",
+        "contact_scope": "Hydrographic surveys, environmental studies, shipping agency",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Lighthouse+Maritime+Services+Senegal"
+      },
+      {
+        "company_name": "Octo Marine",
+        "role": "Local Port Agency & Marine Support (Mauritanie)",
+        "contact_scope": "Logistics agency, ship chandlery, offshore crew change support",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Octo+Marine+Mauritania"
+      },
+      {
+        "company_name": "Senequip",
+        "role": "Drilling Logistics & Equipment Service Provider (Senegal)",
+        "contact_scope": "Drilling equipment maintenance, logistics services, bunkering coordination",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Senequip+Senegal"
+      },
+      {
+        "company_name": "TTSM",
+        "role": "FPSO Maintenance Subcontractor",
+        "contact_scope": "Subsea hull inspection & diving",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=TTSM+Senegal"
+      },
+      {
+        "company_name": "Archipel Offshore",
+        "role": "Supply Base Logistics Subcontractor",
+        "contact_scope": "Offshore cargo runs & warehousing",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Archipel+Offshore+Senegal"
+      }
+    ]
+  },
+  {
+    "project_id": "SEN-002",
+    "leads": [
+      {
+        "company_name": "BP",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.bp.com/en/global/corporate/news-and-insights.html"
+      },
+      {
+        "company_name": "Kosmos Energy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Kosmos Energy+GTA Phase 1+offshore"
+      },
+      {
+        "company_name": "Petrosen",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Petrosen+GTA Phase 1+offshore"
+      },
+      {
+        "company_name": "SMHPM",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=SMHPM+GTA Phase 1+offshore"
+      },
+      {
+        "company_name": "TechnipFMC",
+        "role": "EPCI Tier-1 Contractor (Systèmes de production sous-marins GTA Phase 1 (livrés). Candidat naturel sur le subsea GTA Phase 2 (concept GBS 2,5-3 MTPA en évaluation, FID attendue 2026).)",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 10,
+        "source_url": "https://www.technipfmc.com/en/investors/news-and-events"
+      },
+      {
+        "company_name": "Allseas",
+        "role": "EPCI Tier-1 Contractor (A rejoint GTA en octobre 2023 (remplacement de McDermott). Pressenti pour le transport & installation de la structure gravitaire (GBS) GTA Phase 2 - FID en évaluation finale 2026.)",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 10,
+        "source_url": "https://www.google.com/search?q=Allseas+GTA Phase 1+offshore"
+      },
+      {
+        "company_name": "Golar LNG",
+        "role": "EPCI Tier-1 Contractor (FLNG Gimi amarré derrière la digue GTA - contrat de 20 ans avec BP (~$3 Mds de backlog).)",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Golar LNG+GTA Phase 1+offshore"
+      },
+      {
+        "company_name": "Eiffage Génie Civil Marine",
+        "role": "EPCI Tier-1 Contractor (Constructeur de la digue brise-lames GTA (21 caissons). Candidat aux extensions d'infrastructure du hub pour la Phase 2.)",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Eiffage Génie Civil Marine+GTA Phase 1+offshore"
+      },
+      {
+        "company_name": "ALCOM Energy Services",
+        "role": "Local Content Partner (Mauritanie/Senegal)",
+        "contact_scope": "Offshore Logistics, Bunkering, Supply of Gases & Chemical Products",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=ALCOM+Energy+Services+Mauritania"
+      },
+      {
+        "company_name": "Deparentis",
+        "role": "Hydrography & Subsea Survey Contractor (Senegal)",
+        "contact_scope": "Bathymetric and geotechnical surveys for pipeline / terminal monitoring",
+        "relevance_score": 8,
+        "source_url": "https://www.deparentis.com"
+      },
+      {
+        "company_name": "Lighthouse Maritime Services",
+        "role": "Local Marine Partner / Competitor (Senegal/Mauritanie)",
+        "contact_scope": "Hydrographic surveys, environmental studies, shipping agency",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Lighthouse+Maritime+Services+Senegal"
+      },
+      {
+        "company_name": "Octo Marine",
+        "role": "Local Port Agency & Marine Support (Mauritanie)",
+        "contact_scope": "Logistics agency, ship chandlery, offshore crew change support",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Octo+Marine+Mauritania"
+      },
+      {
+        "company_name": "Senequip",
+        "role": "Drilling Logistics & Equipment Service Provider (Senegal)",
+        "contact_scope": "Drilling equipment maintenance, logistics services, bunkering coordination",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Senequip+Senegal"
+      },
+      {
+        "company_name": "TTSM",
+        "role": "Coastal Towage & Marine Works Subcontractor",
+        "contact_scope": "Barge towing & subsea diving",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=TTSM+Senegal"
+      },
+      {
+        "company_name": "Archipel Offshore",
+        "role": "Offshore Logistics & Supply Subcontractor",
+        "contact_scope": "Crew transfer, shipping agency & bunkering",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Archipel+Offshore+Senegal"
+      }
+    ]
+  },
+  {
+    "project_id": "SEN-003",
+    "leads": [
+      {
+        "company_name": "Kosmos Energy",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Kosmos Energy+Yakaar-Teranga+offshore"
+      },
+      {
+        "company_name": "BP",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.bp.com/en/global/corporate/news-and-insights.html"
+      },
+      {
+        "company_name": "PETROSEN",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=PETROSEN+Yakaar-Teranga+offshore"
+      },
+      {
+        "company_name": "ALCOM Energy Services",
+        "role": "Local Content Partner (Mauritanie/Senegal)",
+        "contact_scope": "Offshore Logistics, Bunkering, Supply of Gases & Chemical Products",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=ALCOM+Energy+Services+Mauritania"
+      },
+      {
+        "company_name": "Deparentis",
+        "role": "Hydrography & Subsea Survey Contractor (Senegal)",
+        "contact_scope": "Bathymetric and geotechnical surveys for pipeline / terminal monitoring",
+        "relevance_score": 8,
+        "source_url": "https://www.deparentis.com"
+      },
+      {
+        "company_name": "Lighthouse Maritime Services",
+        "role": "Local Marine Partner / Competitor (Senegal/Mauritanie)",
+        "contact_scope": "Hydrographic surveys, environmental studies, shipping agency",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Lighthouse+Maritime+Services+Senegal"
+      },
+      {
+        "company_name": "Octo Marine",
+        "role": "Local Port Agency & Marine Support (Mauritanie)",
+        "contact_scope": "Logistics agency, ship chandlery, offshore crew change support",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Octo+Marine+Mauritania"
+      },
+      {
+        "company_name": "Senequip",
+        "role": "Drilling Logistics & Equipment Service Provider (Senegal)",
+        "contact_scope": "Drilling equipment maintenance, logistics services, bunkering coordination",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Senequip+Senegal"
+      },
+      {
+        "company_name": "TTSM",
+        "role": "Local Diving & Coastal Towage Partner",
+        "contact_scope": "Barge towing, marine works, subsea diving",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=TTSM+Yakaar-Teranga"
+      }
+    ]
+  },
+  {
+    "project_id": "MAU-001",
+    "leads": [
+      {
+        "company_name": "BP",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.bp.com/en/global/corporate/news-and-insights.html"
+      },
+      {
+        "company_name": "Kosmos Energy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Kosmos Energy+GTA Phase 1+offshore"
+      },
+      {
+        "company_name": "PETROSEN",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=PETROSEN+GTA Phase 1+offshore"
+      },
+      {
+        "company_name": "SMHPM",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=SMHPM+GTA Phase 1+offshore"
+      },
+      {
+        "company_name": "TechnipFMC",
+        "role": "EPCI Tier-1 Contractor (Systèmes de production sous-marins GTA Phase 1 (côté Mauritanie). Candidat sur Phase 2.)",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 10,
+        "source_url": "https://www.technipfmc.com/en/investors/news-and-events"
+      },
+      {
+        "company_name": "Allseas",
+        "role": "EPCI Tier-1 Contractor (Même périmètre GTA Phase 2 côté Mauritanie.)",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 10,
+        "source_url": "https://www.google.com/search?q=Allseas+GTA Phase 1+offshore"
+      },
+      {
+        "company_name": "Golar LNG",
+        "role": "EPCI Tier-1 Contractor (Même unité FLNG Gimi, périmètre Mauritanie.)",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Golar LNG+GTA Phase 1+offshore"
+      },
+      {
+        "company_name": "ALCOM Energy Services",
+        "role": "Local Content Partner (Mauritanie/Senegal)",
+        "contact_scope": "Offshore Logistics, Bunkering, Supply of Gases & Chemical Products",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=ALCOM+Energy+Services+Mauritania"
+      },
+      {
+        "company_name": "Deparentis",
+        "role": "Hydrography & Subsea Survey Contractor (Senegal)",
+        "contact_scope": "Bathymetric and geotechnical surveys for pipeline / terminal monitoring",
+        "relevance_score": 8,
+        "source_url": "https://www.deparentis.com"
+      },
+      {
+        "company_name": "Lighthouse Maritime Services",
+        "role": "Local Marine Partner / Competitor (Senegal/Mauritanie)",
+        "contact_scope": "Hydrographic surveys, environmental studies, shipping agency",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Lighthouse+Maritime+Services+Senegal"
+      },
+      {
+        "company_name": "Octo Marine",
+        "role": "Local Port Agency & Marine Support (Mauritanie)",
+        "contact_scope": "Logistics agency, ship chandlery, offshore crew change support",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Octo+Marine+Mauritania"
+      },
+      {
+        "company_name": "Senequip",
+        "role": "Drilling Logistics & Equipment Service Provider (Senegal)",
+        "contact_scope": "Drilling equipment maintenance, logistics services, bunkering coordination",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Senequip+Senegal"
+      },
+      {
+        "company_name": "TTSM",
+        "role": "Subsea Works Subcontractor",
+        "contact_scope": "Marine construction support",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=TTSM+Senegal"
+      }
+    ]
+  },
+  {
+    "project_id": "CIV-001",
+    "leads": [
+      {
+        "company_name": "ENI",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.eni.com/en-IT/operations/baleine.html"
+      },
+      {
+        "company_name": "Vitol",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Vitol+Baleine+offshore"
+      },
+      {
+        "company_name": "Petroci",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Petroci+Baleine+offshore"
+      },
+      {
+        "company_name": "Saipem",
+        "role": "EPCI Tier-1 Contractor (Propriétaire-opérateur du FPSO Baleine (ex-Firenze). Phase 3 FID approuvée mai 2026 ($4 Mds) )",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 10,
+        "source_url": "https://www.saipem.com/en/media/press-releases"
+      },
+      {
+        "company_name": "SBM Offshore",
+        "role": "FPSO/FLNG Owner-Operator",
+        "contact_scope": "Standby Tugs, Tandem Offloading Escort, and Marine O&M Support",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=SBM Offshore+Baleine+FPSO"
+      },
+      {
+        "company_name": "PETROCI Marine",
+        "role": "Local Shipping Agency & Support Partner",
+        "contact_scope": "Port logistics, vessel clearing & fuel supply",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=PETROCI+Marine"
+      },
+      {
+        "company_name": "PETROCI Marine Support",
+        "role": "Local Content Shipping Agency & Logistics Partner",
+        "contact_scope": "Vessel agency, customs clearing, offshore supply",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=PETROCI+Marine+Support+Baleine"
+      }
+    ]
+  },
+  {
+    "project_id": "COG-001",
+    "leads": [
+      {
+        "company_name": "ENI",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.eni.com/en-IT/operations/marine xii.html"
+      },
+      {
+        "company_name": "SNPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=SNPC+Marine XII+offshore"
+      },
+      {
+        "company_name": "Congo Marine Services",
+        "role": "Integrated Port Supply & Vessel Support Partner",
+        "contact_scope": "Offshore agency, cargo barge towing, standby coordination",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Congo+Marine+Services+Marine XII"
+      }
+    ]
+  },
+  {
+    "project_id": "COG-002",
+    "leads": [
+      {
+        "company_name": "Eni Congo",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.eni.com/en-IT/operations/congo lng.html"
+      },
+      {
+        "company_name": "SNPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=SNPC+Congo LNG+offshore"
+      },
+      {
+        "company_name": "Wison New Energies",
+        "role": "EPCI Tier-1 Contractor (EPC de la FLNG Nguya (2e unité Congo LNG, livrée fin 2025) - phase 2 du hub Eni Marine XII portant la capacité à 3 MTPA.)",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Wison New Energies+Congo LNG+offshore"
+      },
+      {
+        "company_name": "Eni",
+        "role": "FPSO/FLNG Owner-Operator",
+        "contact_scope": "Standby Tugs, Tandem Offloading Escort, and Marine O&M Support",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=Eni+Congo LNG+FPSO"
+      },
+      {
+        "company_name": "Congo Marine Services",
+        "role": "Integrated Port Supply & Vessel Support Partner",
+        "contact_scope": "Offshore agency, cargo barge towing, standby coordination",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Congo+Marine+Services+Congo LNG"
+      }
+    ]
+  },
+  {
+    "project_id": "COG-003",
+    "leads": [
+      {
+        "company_name": "ENI",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.eni.com/en-IT/operations/nene.html"
+      },
+      {
+        "company_name": "SNPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=SNPC+Nene+offshore"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "Congo Marine Services",
+        "role": "Integrated Port Supply & Vessel Support Partner",
+        "contact_scope": "Offshore agency, cargo barge towing, standby coordination",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Congo+Marine+Services+Nene"
+      }
+    ]
+  },
+  {
+    "project_id": "COG-004",
+    "leads": [
+      {
+        "company_name": "ENI",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.eni.com/en-IT/operations/litchendjili.html"
+      },
+      {
+        "company_name": "SNPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=SNPC+Litchendjili+offshore"
+      },
+      {
+        "company_name": "SBM Offshore",
+        "role": "Pre-FID FLNG Engineering",
+        "contact_scope": "FLNG Mooring & Hook-up Services",
+        "relevance_score": 8,
+        "source_url": "https://www.sbmoffshore.com"
+      },
+      {
+        "company_name": "Congo Marine Services",
+        "role": "Integrated Port Supply & Vessel Support Partner",
+        "contact_scope": "Offshore agency, cargo barge towing, standby coordination",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Congo+Marine+Services+Litchendjili"
+      }
+    ]
+  },
+  {
+    "project_id": "MOZ-001",
+    "leads": [
+      {
+        "company_name": "ENI",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.eni.com/en-IT/operations/coral south flng.html"
+      },
+      {
+        "company_name": "ExxonMobil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Coral South FLNG+offshore"
+      },
+      {
+        "company_name": "CNPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=CNPC+Coral South FLNG+offshore"
+      },
+      {
+        "company_name": "Galp",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Galp+Coral South FLNG+offshore"
+      },
+      {
+        "company_name": "Kogas",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Kogas+Coral South FLNG+offshore"
+      },
+      {
+        "company_name": "ENH",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ENH+Coral South FLNG+offshore"
+      },
+      {
+        "company_name": "Tschudi Mozambique",
+        "role": "Jetty & Material Offloading Facility (MOF) Support Partner",
+        "contact_scope": "Port agency, vessel customs clearance, barge support",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Tschudi+Mozambique+Coral South FLNG"
+      }
+    ]
+  },
+  {
+    "project_id": "MOZ-002",
+    "leads": [
+      {
+        "company_name": "ENI",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.eni.com/en-IT/operations/coral north flng.html"
+      },
+      {
+        "company_name": "ExxonMobil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Coral North FLNG+offshore"
+      },
+      {
+        "company_name": "CNPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=CNPC+Coral North FLNG+offshore"
+      },
+      {
+        "company_name": "Galp",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Galp+Coral North FLNG+offshore"
+      },
+      {
+        "company_name": "Kogas",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Kogas+Coral North FLNG+offshore"
+      },
+      {
+        "company_name": "ENH",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ENH+Coral North FLNG+offshore"
+      },
+      {
+        "company_name": "Tschudi Mozambique",
+        "role": "Jetty & Material Offloading Facility (MOF) Support Partner",
+        "contact_scope": "Port agency, vessel customs clearance, barge support",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Tschudi+Mozambique+Coral North FLNG"
+      }
+    ]
+  },
+  {
+    "project_id": "MOZ-003",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Mozambique LNG"
+      },
+      {
+        "company_name": "ENH",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ENH+Mozambique LNG+offshore"
+      },
+      {
+        "company_name": "Mitsui",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Mitsui+Mozambique LNG+offshore"
+      },
+      {
+        "company_name": "ONGC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ONGC+Mozambique LNG+offshore"
+      },
+      {
+        "company_name": "Bharat Petroleum",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Bharat Petroleum+Mozambique LNG+offshore"
+      },
+      {
+        "company_name": "PTTEP",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=PTTEP+Mozambique LNG+offshore"
+      },
+      {
+        "company_name": "Saipem",
+        "role": "EPCI Tier-1 Contractor (Membre du consortium CCS JV (Saipem / McDermott / Chiyoda) - EPC du site onshore Afungi. Chantier redémarré en janvier 2026 (4 000+ travailleurs mobilisés).)",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 10,
+        "source_url": "https://www.saipem.com/en/media/press-releases"
+      },
+      {
+        "company_name": "McDermott (CCS JV)",
+        "role": "EPCI Tier-1 Contractor (Leader du consortium CCS JV (McDermott / Saipem / Chiyoda) - EPC des 2 trains LNG (13,1 MTPA). Chantier redémarré janv. 2026 après levée de la force majeure, first LNG visé 2029.)",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=McDermott (CCS JV)+Mozambique LNG+offshore"
+      },
+      {
+        "company_name": "Tschudi Mozambique",
+        "role": "MOF Logistics & Clearing Subcontractor",
+        "contact_scope": "Ship clearance, port agency & cargo runs",
+        "relevance_score": 8,
+        "source_url": "https://www.tschudigroup.com"
+      }
+    ]
+  },
+  {
+    "project_id": "MOZ-004",
+    "leads": [
+      {
+        "company_name": "ExxonMobil",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Rovuma LNG+offshore"
+      },
+      {
+        "company_name": "ENI",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.eni.com/en-IT/operations/rovuma lng.html"
+      },
+      {
+        "company_name": "CNPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=CNPC+Rovuma LNG+offshore"
+      },
+      {
+        "company_name": "Galp",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Galp+Rovuma LNG+offshore"
+      },
+      {
+        "company_name": "Kogas",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Kogas+Rovuma LNG+offshore"
+      },
+      {
+        "company_name": "ENH",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ENH+Rovuma LNG+offshore"
+      },
+      {
+        "company_name": "Tschudi Mozambique",
+        "role": "Jetty & Material Offloading Facility (MOF) Support Partner",
+        "contact_scope": "Port agency, vessel customs clearance, barge support",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Tschudi+Mozambique+Rovuma LNG"
+      }
+    ]
+  },
+  {
+    "project_id": "GAB-001",
+    "leads": [
+      {
+        "company_name": "Panoro Energy",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Panoro Energy+Hibiscus-Ruche+offshore"
+      },
+      {
+        "company_name": "Assala Energy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Assala Energy+Hibiscus-Ruche+offshore"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "Diamond S.A. Marine",
+        "role": "Offshore Logistics & Mooring Support Partner",
+        "contact_scope": "Tanker mooring, ship agency, crew logistics",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Diamond+S.A.+Marine+Hibiscus-Ruche"
+      }
+    ]
+  },
+  {
+    "project_id": "GAB-002",
+    "leads": [
+      {
+        "company_name": "Panoro Energy",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Panoro Energy+Ruche NE Ext.+offshore"
+      },
+      {
+        "company_name": "Assala Energy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Assala Energy+Ruche NE Ext.+offshore"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "Diamond S.A. Marine",
+        "role": "Offshore Logistics & Mooring Support Partner",
+        "contact_scope": "Tanker mooring, ship agency, crew logistics",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Diamond+S.A.+Marine+Ruche NE Ext."
+      }
+    ]
+  },
+  {
+    "project_id": "GHA-001",
+    "leads": [
+      {
+        "company_name": "Tullow Oil",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Tullow Oil+Jubilee+offshore"
+      },
+      {
+        "company_name": "Aker BP",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.bp.com/en/global/corporate/news-and-insights.html"
+      },
+      {
+        "company_name": "Ghana National Petroleum",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Ghana National Petroleum+Jubilee+offshore"
+      },
+      {
+        "company_name": "Kosmos Energy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Kosmos Energy+Jubilee+offshore"
+      },
+      {
+        "company_name": "MODEC",
+        "role": "EPCI Tier-1 Contractor (FPSO Kwame Nkrumah )",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=MODEC+Jubilee+offshore"
+      },
+      {
+        "company_name": "Seaweld Engineering",
+        "role": "Offshore Maintenance & Steel Fabrication Partner",
+        "contact_scope": "Offshore platform repairs, rig maintenance support",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Seaweld+Engineering+Jubilee"
+      }
+    ]
+  },
+  {
+    "project_id": "GHA-002",
+    "leads": [
+      {
+        "company_name": "Tullow Oil",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Tullow Oil+TEN+offshore"
+      },
+      {
+        "company_name": "Aker BP",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.bp.com/en/global/corporate/news-and-insights.html"
+      },
+      {
+        "company_name": "Ghana National Petroleum",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Ghana National Petroleum+TEN+offshore"
+      },
+      {
+        "company_name": "MODEC",
+        "role": "EPCI Tier-1 Contractor (FPSO Prof. John Evans Atta Mills (TEN) )",
+        "contact_scope": "Offshore Installation, SURF, Pipe-lay & Anchor Handling Tugs",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=MODEC+TEN+offshore"
+      },
+      {
+        "company_name": "Seaweld Engineering",
+        "role": "Offshore Maintenance & Steel Fabrication Partner",
+        "contact_scope": "Offshore platform repairs, rig maintenance support",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Seaweld+Engineering+TEN"
+      }
+    ]
+  },
+  {
+    "project_id": "GHA-003",
+    "leads": [
+      {
+        "company_name": "Aker Energy",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Aker Energy+Pecan+offshore"
+      },
+      {
+        "company_name": "GNPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=GNPC+Pecan+offshore"
+      },
+      {
+        "company_name": "Lukoil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Lukoil+Pecan+offshore"
+      },
+      {
+        "company_name": "TotalEnergies",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://totalenergies.com/search?q=Pecan"
+      },
+      {
+        "company_name": "Seaweld Engineering",
+        "role": "Offshore Maintenance & Steel Fabrication Partner",
+        "contact_scope": "Offshore platform repairs, rig maintenance support",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Seaweld+Engineering+Pecan"
+      }
+    ]
+  },
+  {
+    "project_id": "GEQ-001",
+    "leads": [
+      {
+        "company_name": "Marathon Oil",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Marathon Oil+Gas Mega Hub+offshore"
+      },
+      {
+        "company_name": "GEPetrol",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=GEPetrol+Gas Mega Hub+offshore"
+      },
+      {
+        "company_name": "Sonagas",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sonagas+Gas Mega Hub+offshore"
+      },
+      {
+        "company_name": "EG LNG Marine Services",
+        "role": "LNGC Escort & Pilotage Coordinator Punta Europa",
+        "contact_scope": "LNG carrier mooring assistance, marine security",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=EG+LNG+Marine+Services+Gas Mega Hub"
+      }
+    ]
+  },
+  {
+    "project_id": "GEQ-002",
+    "leads": [
+      {
+        "company_name": "Trident Energy",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Trident Energy+Yoyo-Yolanda+offshore"
+      },
+      {
+        "company_name": "GEPetrol",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=GEPetrol+Yoyo-Yolanda+offshore"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "EG LNG Marine Services",
+        "role": "LNGC Escort & Pilotage Coordinator Punta Europa",
+        "contact_scope": "LNG carrier mooring assistance, marine security",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=EG+LNG+Marine+Services+Yoyo-Yolanda"
+      }
+    ]
+  },
+  {
+    "project_id": "GEQ-003",
+    "leads": [
+      {
+        "company_name": "Noble Energy",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Noble Energy+Alen+offshore"
+      },
+      {
+        "company_name": "GEPetrol",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=GEPetrol+Alen+offshore"
+      },
+      {
+        "company_name": "Atlas Petroleum",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Atlas Petroleum+Alen+offshore"
+      },
+      {
+        "company_name": "EG LNG Marine Services",
+        "role": "LNGC Escort & Pilotage Coordinator Punta Europa",
+        "contact_scope": "LNG carrier mooring assistance, marine security",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=EG+LNG+Marine+Services+Alen"
+      }
+    ]
+  },
+  {
+    "project_id": "GEQ-004",
+    "leads": [
+      {
+        "company_name": "Noble Energy",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Noble Energy+Aseng+offshore"
+      },
+      {
+        "company_name": "GEPetrol",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=GEPetrol+Aseng+offshore"
+      },
+      {
+        "company_name": "Atlas Petroleum",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Atlas Petroleum+Aseng+offshore"
+      },
+      {
+        "company_name": "EG LNG Marine Services",
+        "role": "LNGC Escort & Pilotage Coordinator Punta Europa",
+        "contact_scope": "LNG carrier mooring assistance, marine security",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=EG+LNG+Marine+Services+Aseng"
+      }
+    ]
+  },
+  {
+    "project_id": "CAM-001",
+    "leads": [
+      {
+        "company_name": "NewAge",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=NewAge+Etinde+offshore"
+      },
+      {
+        "company_name": "ENI",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.eni.com/en-IT/operations/etinde.html"
+      },
+      {
+        "company_name": "Bowleven",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Bowleven+Etinde+offshore"
+      },
+      {
+        "company_name": "NHPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=NHPC+Etinde+offshore"
+      },
+      {
+        "company_name": "CNIC (Cameroon Shipyard)",
+        "role": "Ship Repair & Marine Construction Partner Limbe",
+        "contact_scope": "Barge maintenance, offshore deck repairs, steelworks",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=CNIC+(Cameroon+Shipyard)+Etinde"
+      }
+    ]
+  },
+  {
+    "project_id": "TAN-001",
+    "leads": [
+      {
+        "company_name": "Shell",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.shell.com/media/news-and-media-releases.html"
+      },
+      {
+        "company_name": "Equinor",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Equinor+Tanzania LNG+offshore"
+      },
+      {
+        "company_name": "Pavilion Energy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Pavilion Energy+Tanzania LNG+offshore"
+      },
+      {
+        "company_name": "TPDC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=TPDC+Tanzania LNG+offshore"
+      },
+      {
+        "company_name": "East African Peninsula Marine",
+        "role": "Coastal Logistics & Supply Vessel Coordinator",
+        "contact_scope": "Crew transfer, tug bunkering, coastal freight",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=East+African+Peninsula+Marine+Tanzania LNG"
+      }
+    ]
+  },
+  {
+    "project_id": "ZAF-001",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Brulpadda"
+      },
+      {
+        "company_name": "Qatar Petroleum",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Qatar Petroleum+Brulpadda+offshore"
+      },
+      {
+        "company_name": "CNR International",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=CNR International+Brulpadda+offshore"
+      },
+      {
+        "company_name": "Main Street",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Main Street+Brulpadda+offshore"
+      },
+      {
+        "company_name": "LBH South Africa",
+        "role": "Dry Bulk & Offshore Marine Agency Partner",
+        "contact_scope": "Port agency, bunkering support, tug mooring coordination",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=LBH+South+Africa+Brulpadda"
+      }
+    ]
+  },
+  {
+    "project_id": "ZAF-002",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Luiperd"
+      },
+      {
+        "company_name": "Qatar Petroleum",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Qatar Petroleum+Luiperd+offshore"
+      },
+      {
+        "company_name": "CNR International",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=CNR International+Luiperd+offshore"
+      },
+      {
+        "company_name": "Main Street",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Main Street+Luiperd+offshore"
+      },
+      {
+        "company_name": "LBH South Africa",
+        "role": "Dry Bulk & Offshore Marine Agency Partner",
+        "contact_scope": "Port agency, bunkering support, tug mooring coordination",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=LBH+South+Africa+Luiperd"
+      }
+    ]
+  },
+  {
+    "project_id": "EGY-001",
+    "leads": [
+      {
+        "company_name": "ENI",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.eni.com/en-IT/operations/zohr.html"
+      },
+      {
+        "company_name": "Rosneft",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Rosneft+Zohr+offshore"
+      },
+      {
+        "company_name": "BP",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.bp.com/en/global/corporate/news-and-insights.html"
+      },
+      {
+        "company_name": "Mubadala Petroleum",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Mubadala Petroleum+Zohr+offshore"
+      },
+      {
+        "company_name": "Maridive & Oil Services",
+        "role": "EPCI Subsea Construction & Heavy Towage Partner",
+        "contact_scope": "Offshore barge towing, anchor handling, pipe laying",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Maridive+&+Oil+Services+Zohr"
+      }
+    ]
+  },
+  {
+    "project_id": "EGY-002",
+    "leads": [
+      {
+        "company_name": "ENI",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.eni.com/en-IT/operations/nour.html"
+      },
+      {
+        "company_name": "EGPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=EGPC+Nour+offshore"
+      },
+      {
+        "company_name": "SBM Offshore",
+        "role": "Pre-FID FLNG Engineering",
+        "contact_scope": "FLNG Mooring & Hook-up Services",
+        "relevance_score": 8,
+        "source_url": "https://www.sbmoffshore.com"
+      },
+      {
+        "company_name": "Maridive & Oil Services",
+        "role": "EPCI Subsea Construction & Heavy Towage Partner",
+        "contact_scope": "Offshore barge towing, anchor handling, pipe laying",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Maridive+&+Oil+Services+Nour"
+      }
+    ]
+  },
+  {
+    "project_id": "LIB-001",
+    "leads": [
+      {
+        "company_name": "ENI",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.eni.com/en-IT/operations/bouri.html"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "Libyan Marine Services",
+        "role": "Marine Agency & Harbour Towage Coordinator",
+        "contact_scope": "Vessel agency, logistics clearance, mooring support",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Libyan+Marine+Services+Bouri"
+      }
+    ]
+  },
+  {
+    "project_id": "TUN-001",
+    "leads": [
+      {
+        "company_name": "BG Group / Shell",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.shell.com/media/news-and-media-releases.html"
+      },
+      {
+        "company_name": "ETAP",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ETAP+Hasdrubal+offshore"
+      },
+      {
+        "company_name": "SBM Offshore",
+        "role": "Pre-FID FLNG Engineering",
+        "contact_scope": "FLNG Mooring & Hook-up Services",
+        "relevance_score": 8,
+        "source_url": "https://www.sbmoffshore.com"
+      },
+      {
+        "company_name": "Tunisian Marine Services",
+        "role": "Offshore Crew Transfer & Marine Supply Partner",
+        "contact_scope": "Crew boat runs, bunkering logistics, light towing",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Tunisian+Marine+Services+Hasdrubal"
+      }
+    ]
+  },
+  {
+    "project_id": "MAU-002",
+    "leads": [
+      {
+        "company_name": "BP",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.bp.com/en/global/corporate/news-and-insights.html"
+      },
+      {
+        "company_name": "Kosmos Energy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Kosmos Energy+GTA Phase 2+offshore"
+      },
+      {
+        "company_name": "PETROSEN",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=PETROSEN+GTA Phase 2+offshore"
+      },
+      {
+        "company_name": "SMHPM",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=SMHPM+GTA Phase 2+offshore"
+      },
+      {
+        "company_name": "ALCOM Energy Services",
+        "role": "Local Content Partner (Mauritanie/Senegal)",
+        "contact_scope": "Offshore Logistics, Bunkering, Supply of Gases & Chemical Products",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=ALCOM+Energy+Services+Mauritania"
+      },
+      {
+        "company_name": "Deparentis",
+        "role": "Hydrography & Subsea Survey Contractor (Senegal)",
+        "contact_scope": "Bathymetric and geotechnical surveys for pipeline / terminal monitoring",
+        "relevance_score": 8,
+        "source_url": "https://www.deparentis.com"
+      },
+      {
+        "company_name": "Lighthouse Maritime Services",
+        "role": "Local Marine Partner / Competitor (Senegal/Mauritanie)",
+        "contact_scope": "Hydrographic surveys, environmental studies, shipping agency",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Lighthouse+Maritime+Services+Senegal"
+      },
+      {
+        "company_name": "Octo Marine",
+        "role": "Local Port Agency & Marine Support (Mauritanie)",
+        "contact_scope": "Logistics agency, ship chandlery, offshore crew change support",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Octo+Marine+Mauritania"
+      },
+      {
+        "company_name": "Senequip",
+        "role": "Drilling Logistics & Equipment Service Provider (Senegal)",
+        "contact_scope": "Drilling equipment maintenance, logistics services, bunkering coordination",
+        "relevance_score": 7,
+        "source_url": "https://www.google.com/search?q=Senequip+Senegal"
+      }
+    ]
+  },
+  {
+    "project_id": "ANG-010",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Platina"
+      },
+      {
+        "company_name": "Sonangol P&P",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sonangol P&P+Platina+offshore"
+      },
+      {
+        "company_name": "ENI",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.eni.com/en-IT/operations/platina.html"
+      },
+      {
+        "company_name": "Equinor",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Equinor+Platina+offshore"
+      },
+      {
+        "company_name": "Stapem Offshore",
+        "role": "Deepwater Diving & Subsea Operations Partner",
+        "contact_scope": "Rig support, subsea inspection, ROV and diving services",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Stapem+Offshore+Platina"
+      }
+    ]
+  },
+  {
+    "project_id": "NGA-011",
+    "leads": [
+      {
+        "company_name": "ENI",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.eni.com/en-IT/operations/nnwa-doro.html"
+      },
+      {
+        "company_name": "NNPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=NNPC+Nnwa-Doro+offshore"
+      },
+      {
+        "company_name": "ExxonMobil",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ExxonMobil+Nnwa-Doro+offshore"
+      },
+      {
+        "company_name": "C&I Leasing (Marine Division)",
+        "role": "Offshore Support Vessels (OSV) & AHTS Operator",
+        "contact_scope": "Drilling rig towage, PSV support, anchor handling",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=C&I+Leasing+(Marine+Division)+Nnwa-Doro"
+      }
+    ]
+  },
+  {
+    "project_id": "SEN-004",
+    "leads": [
+      {
+        "company_name": "Woodside",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=Woodside+Sangomar Phase 2+offshore"
+      },
+      {
+        "company_name": "Petrosen",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Petrosen+Sangomar Phase 2+offshore"
+      },
+      {
+        "company_name": "MODEC",
+        "role": "FPSO/FLNG Owner-Operator",
+        "contact_scope": "Standby Tugs, Tandem Offloading Escort, and Marine O&M Support",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=MODEC+Sangomar Phase 2+FPSO"
+      },
+      {
+        "company_name": "TTSM",
+        "role": "Local Diving & Coastal Towage Partner",
+        "contact_scope": "Barge towing, marine works, subsea diving",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=TTSM+Sangomar Phase 2"
+      }
+    ]
+  },
+  {
+    "project_id": "NGA-012",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Chukwu"
+      },
+      {
+        "company_name": "NNPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=NNPC+Chukwu+offshore"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "C&I Leasing (Marine Division)",
+        "role": "Offshore Support Vessels (OSV) & AHTS Operator",
+        "contact_scope": "Drilling rig towage, PSV support, anchor handling",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=C&I+Leasing+(Marine+Division)+Chukwu"
+      }
+    ]
+  },
+  {
+    "project_id": "GAB-003",
+    "leads": [
+      {
+        "company_name": "Panoro Energy",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Panoro Energy+Gnondo+offshore"
+      },
+      {
+        "company_name": "Assala Energy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Assala Energy+Gnondo+offshore"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "Diamond S.A. Marine",
+        "role": "Offshore Logistics & Mooring Support Partner",
+        "contact_scope": "Tanker mooring, ship agency, crew logistics",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Diamond+S.A.+Marine+Gnondo"
+      }
+    ]
+  },
+  {
+    "project_id": "KEN-001",
+    "leads": [
+      {
+        "company_name": "Shell",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.shell.com/media/news-and-media-releases.html"
+      },
+      {
+        "company_name": "ENI",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.eni.com/en-IT/operations/lamu basin.html"
+      },
+      {
+        "company_name": "FAR",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=FAR+Lamu Basin+offshore"
+      },
+      {
+        "company_name": "East African Peninsula Marine",
+        "role": "Mombasa Port & Offshore Supply Coordinator",
+        "contact_scope": "Ship chandlery, bunkering, logistics liaison",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=East+African+Peninsula+Marine+Lamu Basin"
+      }
+    ]
+  },
+  {
+    "project_id": "ANG-011",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Baobab"
+      },
+      {
+        "company_name": "Sonangol P&P",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sonangol P&P+Baobab+offshore"
+      },
+      {
+        "company_name": "Tidewater Marine",
+        "role": "Logistics Supply Vessel Provider",
+        "contact_scope": "Supply Vessels (PSV/OSV) Operations",
+        "relevance_score": 7,
+        "source_url": "https://www.tdw.com"
+      },
+      {
+        "company_name": "Stapem Offshore",
+        "role": "Deepwater Diving & Subsea Operations Partner",
+        "contact_scope": "Rig support, subsea inspection, ROV and diving services",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Stapem+Offshore+Baobab"
+      }
+    ]
+  },
+  {
+    "project_id": "MOZ-005",
+    "leads": [
+      {
+        "company_name": "TotalEnergies",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://totalenergies.com/search?q=Area 1 Gas"
+      },
+      {
+        "company_name": "ENH",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ENH+Area 1 Gas+offshore"
+      },
+      {
+        "company_name": "Mitsui",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Mitsui+Area 1 Gas+offshore"
+      },
+      {
+        "company_name": "ONGC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ONGC+Area 1 Gas+offshore"
+      },
+      {
+        "company_name": "Bharat",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Bharat+Area 1 Gas+offshore"
+      },
+      {
+        "company_name": "PTTEP",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=PTTEP+Area 1 Gas+offshore"
+      },
+      {
+        "company_name": "Tschudi Mozambique",
+        "role": "Jetty & Material Offloading Facility (MOF) Support Partner",
+        "contact_scope": "Port agency, vessel customs clearance, barge support",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Tschudi+Mozambique+Area 1 Gas"
+      }
+    ]
+  },
+  {
+    "project_id": "MAR-001",
+    "leads": [
+      {
+        "company_name": "Chariot Energy",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=Chariot Energy+Anchois+offshore"
+      },
+      {
+        "company_name": "Energean",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Energean+Anchois+offshore"
+      },
+      {
+        "company_name": "ONHYM",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=ONHYM+Anchois+offshore"
+      },
+      {
+        "company_name": "ONHYM (Maroc)",
+        "role": "State Partner (Morocco)",
+        "contact_scope": "Local Content Regulations & Approvals",
+        "relevance_score": 7,
+        "source_url": "https://www.onhym.com"
+      },
+      {
+        "company_name": "Lighthouse Maritime Maroc",
+        "role": "Local Maritime Survey Partner (similar to Deparentis)",
+        "contact_scope": "Local Hydrographic Surveys & Marine Clearance",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Lighthouse+Maritime+Morocco"
+      },
+      {
+        "company_name": "Maroc Tug Services",
+        "role": "Local Tug & Mooring Subcontractor",
+        "contact_scope": "Harbour towage, escort and mooring operations",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Maroc+Tug+Services+Anchois"
+      }
+    ]
+  },
+  {
+    "project_id": "GAB-004",
+    "leads": [
+      {
+        "company_name": "BW Energy",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=BW Energy+Dussafu+offshore"
+      },
+      {
+        "company_name": "Panoro Energy",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Panoro Energy+Dussafu+offshore"
+      },
+      {
+        "company_name": "Gabon Oil Company",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Gabon Oil Company+Dussafu+offshore"
+      },
+      {
+        "company_name": "BW Energy (FSO Ops)",
+        "role": "FPSO Owner-Operator",
+        "contact_scope": "Standby Tugs, Tandem Offloading Escort, and Marine O&M Support",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=BW+Energy+FPSO+BW+Adolo"
+      },
+      {
+        "company_name": "Amsol Gabon",
+        "role": "Local Marine Partner / Competitor",
+        "contact_scope": "Supply Vessels & Local Tug Assistance",
+        "relevance_score": 7,
+        "source_url": "https://www.amsol.co.za"
+      },
+      {
+        "company_name": "Diamond Marine",
+        "role": "Offloading Mooring & Standby Subcontractor",
+        "contact_scope": "Ship agency & chartering support",
+        "relevance_score": 8,
+        "source_url": "https://www.diamondsamarine.com"
+      },
+      {
+        "company_name": "Diamond S.A. Marine",
+        "role": "Offshore Logistics & Mooring Support Partner",
+        "contact_scope": "Tanker mooring, ship agency, crew logistics",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Diamond+S.A.+Marine+Dussafu"
+      }
+    ]
+  },
+  {
+    "project_id": "GAB-005",
+    "leads": [
+      {
+        "company_name": "Perenco",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=Perenco+Ogooué mature fields+offshore"
+      },
+      {
+        "company_name": "Gabon Oil Company",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Gabon Oil Company+Ogooué mature fields+offshore"
+      },
+      {
+        "company_name": "R-Logistic Gabon",
+        "role": "Local Marine Partner & Competitor",
+        "contact_scope": "Marine Logistics, Ship Agency & Port Operations",
+        "relevance_score": 8,
+        "source_url": "https://www.r-logisticgroup.com"
+      },
+      {
+        "company_name": "Orion Marine Gabon",
+        "role": "Local Hydrography Partner (similar to Deparentis)",
+        "contact_scope": "Bathymetric Surveys & Coastal Geotechnical Studies",
+        "relevance_score": 7,
+        "source_url": "https://www.orion-marine.com"
+      },
+      {
+        "company_name": "Diamond S.A. Marine",
+        "role": "Offshore Logistics & Mooring Support Partner",
+        "contact_scope": "Tanker mooring, ship agency, crew logistics",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Diamond+S.A.+Marine+Ogooué mature fields"
+      }
+    ]
+  },
+  {
+    "project_id": "ANG-013",
+    "leads": [
+      {
+        "company_name": "Chevron",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=Chevron+Mafumeira Sul+offshore"
+      },
+      {
+        "company_name": "Sonangol",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Sonangol+Mafumeira Sul+offshore"
+      },
+      {
+        "company_name": "TotalEnergies",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=TotalEnergies+Mafumeira Sul+offshore"
+      },
+      {
+        "company_name": "Eni",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Eni+Mafumeira Sul+offshore"
+      },
+      {
+        "company_name": "Stapem Offshore",
+        "role": "Deepwater Diving & Subsea Operations Partner",
+        "contact_scope": "Rig support, subsea inspection, ROV and diving services",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=Stapem+Offshore+Mafumeira Sul"
+      }
+    ]
+  },
+  {
+    "project_id": "NGA-013",
+    "leads": [
+      {
+        "company_name": "Chevron",
+        "role": "Project Operator (Block Owner)",
+        "contact_scope": "Drilling & Production Marine Logistics Chartering",
+        "relevance_score": 9,
+        "source_url": "https://www.google.com/search?q=Chevron+Agbami+offshore"
+      },
+      {
+        "company_name": "Equinor",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Equinor+Agbami+offshore"
+      },
+      {
+        "company_name": "Prime 127",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=Prime 127+Agbami+offshore"
+      },
+      {
+        "company_name": "NNPC",
+        "role": "Joint Venture Partner",
+        "contact_scope": "JV Procurement Review & Approvals",
+        "relevance_score": 6,
+        "source_url": "https://www.google.com/search?q=NNPC+Agbami+offshore"
+      },
+      {
+        "company_name": "LATC Marine",
+        "role": "Tanker Security & Standby Subcontractor",
+        "contact_scope": "Standby vessel chartering",
+        "relevance_score": 7,
+        "source_url": "https://www.latcmarine.com"
+      },
+      {
+        "company_name": "MSSL",
+        "role": "AHTS Offloading Support Subcontractor",
+        "contact_scope": "Mooring assistance & vessel support",
+        "relevance_score": 8,
+        "source_url": "http://www.mssl-ng.com"
+      },
+      {
+        "company_name": "C&I Leasing (Marine Division)",
+        "role": "Offshore Support Vessels (OSV) & AHTS Operator",
+        "contact_scope": "Drilling rig towage, PSV support, anchor handling",
+        "relevance_score": 8,
+        "source_url": "https://www.google.com/search?q=C&I+Leasing+(Marine+Division)+Agbami"
+      }
+    ]
+  }
+]

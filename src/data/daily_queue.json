@@ -1,0 +1,530 @@
+{
+  "project_id": "ANG-006",
+  "leads": [
+    {
+      "first_name": "Nashwa",
+      "last_name": "Elshabrawy",
+      "company_raw": "bp",
+      "company_norm": "BP",
+      "title": "Chief Procurement Officer",
+      "email": "nashwa.elshabrawy@bp.com",
+      "email_status": "Verified",
+      "country": "Egypt",
+      "linkedin": "http://www.linkedin.com/in/nashwa-elshabrawy-9908615",
+      "source": "leads.json, angola_prospecting_emails.json",
+      "specific_project": "Dalia",
+      "related_projects": [
+        {
+          "project_id": "ANG-006",
+          "project_name": "Dalia",
+          "project_country": "Angola",
+          "company_role": "Direct Project Target"
+        },
+        {
+          "project_id": "ANG-007",
+          "project_name": "Girassol",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "ANG-008",
+          "project_name": "Pazflor",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "ANG-009",
+          "project_name": "Cinguvu",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "SEN-002",
+          "project_name": "GTA Phase 1",
+          "project_country": "Senegal",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "SEN-003",
+          "project_name": "Yakaar-Teranga",
+          "project_country": "Senegal",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "MAU-001",
+          "project_name": "GTA Phase 1",
+          "project_country": "Mauritania",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "EGY-001",
+          "project_name": "Zohr",
+          "project_country": "Egypt",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "MAU-002",
+          "project_name": "GTA Phase 2",
+          "project_country": "Mauritania",
+          "company_role": "Operator"
+        }
+      ]
+    },
+    {
+      "first_name": "Philippe",
+      "last_name": "Gerard",
+      "company_raw": "ExxonMobil",
+      "company_norm": "EXXONMOBIL",
+      "title": "Procurement Project Manager",
+      "email": "philippe.gerard@exxonmobil.com",
+      "email_status": "Verified",
+      "country": "Czechia",
+      "linkedin": "http://www.linkedin.com/in/philippe-gerard-2ba486145",
+      "source": "leads.json, angola_prospecting_emails.json",
+      "specific_project": "Agogo",
+      "related_projects": [
+        {
+          "project_id": "ANG-002",
+          "project_name": "Agogo",
+          "project_country": "Angola",
+          "company_role": "Direct Project Target"
+        },
+        {
+          "project_id": "ANG-003",
+          "project_name": "Ndungu",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "ANG-004",
+          "project_name": "Kaombo",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "ANG-006",
+          "project_name": "Dalia",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "ANG-007",
+          "project_name": "Girassol",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "ANG-008",
+          "project_name": "Pazflor",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "NGA-001",
+          "project_name": "Bonga",
+          "project_country": "Nigeria",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "NGA-003",
+          "project_name": "Bonga Southwest",
+          "project_country": "Nigeria",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "NGA-004",
+          "project_name": "Owowo",
+          "project_country": "Nigeria",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "NGA-005",
+          "project_name": "Usan",
+          "project_country": "Nigeria",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "NGA-006",
+          "project_name": "Erha",
+          "project_country": "Nigeria",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "MOZ-001",
+          "project_name": "Coral South FLNG",
+          "project_country": "Mozambique",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "MOZ-002",
+          "project_name": "Coral North FLNG",
+          "project_country": "Mozambique",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "MOZ-004",
+          "project_name": "Rovuma LNG",
+          "project_country": "Mozambique",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "NGA-011",
+          "project_name": "Nnwa-Doro",
+          "project_country": "Nigeria",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "NGA-002",
+          "project_name": "Bonga North",
+          "project_country": "Nigeria",
+          "company_role": "Contractor/EPCI (Joint Venture Partner)"
+        }
+      ]
+    },
+    {
+      "first_name": "Joseph",
+      "last_name": "Byaruhanga",
+      "company_raw": "TotalEnergies",
+      "company_norm": "TOTALENERGIES",
+      "title": "National Content Coordinator",
+      "email": "joseph.byaruhanga@totalenergies.com",
+      "email_status": "Enriched (Heuristic)",
+      "country": "Uganda",
+      "linkedin": "https://linkedin.com/in/ACoAAAvjBucBQh9AL5izgdrN9Wnt9dLiENsrggo",
+      "source": "leads.json, Enriched",
+      "specific_project": null,
+      "related_projects": [
+        {
+          "project_id": "NAM-001",
+          "project_name": "Venus",
+          "project_country": "Namibia",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "ANG-001",
+          "project_name": "Kaminho",
+          "project_country": "Angola",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "ANG-002",
+          "project_name": "Agogo",
+          "project_country": "Angola",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "ANG-003",
+          "project_name": "Ndungu",
+          "project_country": "Angola",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "ANG-004",
+          "project_name": "Kaombo",
+          "project_country": "Angola",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "ANG-005",
+          "project_name": "CLOV",
+          "project_country": "Angola",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "ANG-006",
+          "project_name": "Dalia",
+          "project_country": "Angola",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "ANG-007",
+          "project_name": "Girassol",
+          "project_country": "Angola",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "ANG-008",
+          "project_name": "Pazflor",
+          "project_country": "Angola",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "NGA-001",
+          "project_name": "Bonga",
+          "project_country": "Nigeria",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "NGA-003",
+          "project_name": "Bonga Southwest",
+          "project_country": "Nigeria",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "NGA-005",
+          "project_name": "Usan",
+          "project_country": "Nigeria",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "NGA-007",
+          "project_name": "Akpo",
+          "project_country": "Nigeria",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "NGA-008",
+          "project_name": "Egina",
+          "project_country": "Nigeria",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "NGA-010",
+          "project_name": "Preowei",
+          "project_country": "Nigeria",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "MOZ-003",
+          "project_name": "Mozambique LNG",
+          "project_country": "Mozambique",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "GHA-003",
+          "project_name": "Pecan",
+          "project_country": "Ghana",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "ZAF-001",
+          "project_name": "Brulpadda",
+          "project_country": "South Africa",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "ZAF-002",
+          "project_name": "Luiperd",
+          "project_country": "South Africa",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "ANG-010",
+          "project_name": "Platina",
+          "project_country": "Angola",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "NGA-012",
+          "project_name": "Chukwu",
+          "project_country": "Nigeria",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "ANG-011",
+          "project_name": "Baobab",
+          "project_country": "Angola",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "MOZ-005",
+          "project_name": "Area 1 Gas",
+          "project_country": "Mozambique",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "ANG-013",
+          "project_name": "Mafumeira Sul",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "NGA-002",
+          "project_name": "Bonga North",
+          "project_country": "Nigeria",
+          "company_role": "Contractor/EPCI (Joint Venture Partner)"
+        }
+      ]
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Altendeitering",
+      "company_raw": "bp",
+      "company_norm": "BP",
+      "title": "Head of Procurement",
+      "email": "thomas.altendeitering@bp.com",
+      "email_status": "Verified",
+      "country": "Germany",
+      "linkedin": "http://www.linkedin.com/in/thomas-altendeitering-3771781a2",
+      "source": "leads.json, angola_prospecting_emails.json",
+      "specific_project": "Dalia",
+      "related_projects": [
+        {
+          "project_id": "ANG-006",
+          "project_name": "Dalia",
+          "project_country": "Angola",
+          "company_role": "Direct Project Target"
+        },
+        {
+          "project_id": "ANG-007",
+          "project_name": "Girassol",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "ANG-008",
+          "project_name": "Pazflor",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "ANG-009",
+          "project_name": "Cinguvu",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "SEN-002",
+          "project_name": "GTA Phase 1",
+          "project_country": "Senegal",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "SEN-003",
+          "project_name": "Yakaar-Teranga",
+          "project_country": "Senegal",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "MAU-001",
+          "project_name": "GTA Phase 1",
+          "project_country": "Mauritania",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "EGY-001",
+          "project_name": "Zohr",
+          "project_country": "Egypt",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "MAU-002",
+          "project_name": "GTA Phase 2",
+          "project_country": "Mauritania",
+          "company_role": "Operator"
+        }
+      ]
+    },
+    {
+      "first_name": "Nelsa",
+      "last_name": "Machenguana",
+      "company_raw": "ExxonMobil",
+      "company_norm": "EXXONMOBIL",
+      "title": "Procurement and Payable Team Lead",
+      "email": "nelsa.machenguana@exxonmobil.com",
+      "email_status": "Verified",
+      "country": "Mozambique",
+      "linkedin": "http://www.linkedin.com/in/nelsa-mualeite-machenguana-21957286",
+      "source": "leads.json, angola_prospecting_emails.json",
+      "specific_project": "Agogo",
+      "related_projects": [
+        {
+          "project_id": "ANG-002",
+          "project_name": "Agogo",
+          "project_country": "Angola",
+          "company_role": "Direct Project Target"
+        },
+        {
+          "project_id": "ANG-003",
+          "project_name": "Ndungu",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "ANG-004",
+          "project_name": "Kaombo",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "ANG-006",
+          "project_name": "Dalia",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "ANG-007",
+          "project_name": "Girassol",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "ANG-008",
+          "project_name": "Pazflor",
+          "project_country": "Angola",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "NGA-001",
+          "project_name": "Bonga",
+          "project_country": "Nigeria",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "NGA-003",
+          "project_name": "Bonga Southwest",
+          "project_country": "Nigeria",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "NGA-004",
+          "project_name": "Owowo",
+          "project_country": "Nigeria",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "NGA-005",
+          "project_name": "Usan",
+          "project_country": "Nigeria",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "NGA-006",
+          "project_name": "Erha",
+          "project_country": "Nigeria",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "MOZ-001",
+          "project_name": "Coral South FLNG",
+          "project_country": "Mozambique",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "MOZ-002",
+          "project_name": "Coral North FLNG",
+          "project_country": "Mozambique",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "MOZ-004",
+          "project_name": "Rovuma LNG",
+          "project_country": "Mozambique",
+          "company_role": "Operator"
+        },
+        {
+          "project_id": "NGA-011",
+          "project_name": "Nnwa-Doro",
+          "project_country": "Nigeria",
+          "company_role": "Partner"
+        },
+        {
+          "project_id": "NGA-002",
+          "project_name": "Bonga North",
+          "project_country": "Nigeria",
+          "company_role": "Contractor/EPCI (Joint Venture Partner)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1955 @@
+[
+  {
+    "id": "NAM-001",
+    "name": "Venus",
+    "country": "Namibia",
+    "operator": "TotalEnergies",
+    "partners": "QatarEnergy, Impact Oil & Gas, NAMCOR (Subco: EBH Namibia)",
+    "type": "Oil",
+    "status": "Pre-FID",
+    "firstOil": "2029-2030",
+    "water_depth_meters": 3000,
+    "status_detail": "FID attendue mi-2026. Concept : FPSO 150 000 bopd + ~40 puits sous-marins. Le semi-sub Deepsea Mira poursuit les forages d'appréciation dans le Block 2913B.",
+    "description": "Giant deepwater oil discovery in the Orange Basin (Block 2913B). Estimated recoverable resources of 2-3 billion barrels. One of the largest oil discoveries globally in the last decade.",
+    "marine_assets": [
+      {
+        "type": "FPSO",
+        "name": "Venus FPSO (concept)",
+        "spec": "Unité 150 000 bopd en définition - appel d'offres FPSO post-FID mi-2026."
+      },
+      {
+        "type": "Semi-sub",
+        "name": "Deepsea Mira",
+        "spec": "Rig Odfjell sous contrat multi-pays TotalEnergies, forage Orange Basin."
+      },
+      {
+        "type": "AHTS / PSV",
+        "name": "Support Fleet Walvis Bay",
+        "spec": "Rotations logistiques depuis Walvis Bay & Lüderitz - hub en structuration."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "🔥 FID MI-2026 - CONTRATS MAJEURS IMMINENTS",
+      "future_tenders": [
+        {
+          "title": "Drilling Support & AHTS Fleet - Venus Development",
+          "date_estimated": "Décembre 2026",
+          "duration": "36 mois",
+          "platform": "TotalEnergies E&P Namibia"
+        },
+        {
+          "title": "Walvis Bay Shore Base & Harbour Towage",
+          "date_estimated": "Mars 2027",
+          "duration": "60 mois",
+          "platform": "TotalEnergies / Namport"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "TotalEnergies",
+        "QatarEnergy",
+        "NAMCOR"
+      ],
+      "action": "Se positionner à Walvis Bay avant la FID : le cluster Venus/Mopane fera de la Namibie le prochain hub deepwater africain."
+    },
+    "lat": -28.0,
+    "lng": 10.8,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Venus - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Venus Oil project in Namibia.\n\nWe understand that TotalEnergies is currently in the Pre-FID stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with marine logistics, rig moves, and pre-commissioning support as you progress towards the Final Investment Decision (FID) for the Venus field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Venus.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NAM-002",
+    "name": "Mopane",
+    "country": "Namibia",
+    "operator": "Galp",
+    "partners": "NAMCOR, Custos Energy (Subco: EBH Namibia)",
+    "type": "Oil",
+    "status": "Appraisal",
+    "firstOil": "2030+",
+    "description": "Major oil discovery in Block PEL 83 of the Orange Basin. Galp announced significant oil finds in 2024. Estimated over 10 billion barrels of oil in place.",
+    "lat": -27.2,
+    "lng": 11.3,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Mopane - Galp",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Mopane Oil project in Namibia.\n\nWe understand that Galp is currently in the Appraisal stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with offshore towing, rig move assistance, and marine support operations regarding upcoming marine activities for the Mopane field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Galp on Mopane.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NAM-003",
+    "name": "Graff",
+    "country": "Namibia",
+    "operator": "Shell",
+    "partners": "QatarEnergy, Namcor (Subco: EBH Namibia)",
+    "type": "Oil",
+    "status": "Exploration",
+    "firstOil": "TBD",
+    "description": "Deepwater oil discovery in Block 2913A (PEL 39), Orange Basin. Drilled in 2022 as part of Shell's active exploration campaign in Namibia.",
+    "lat": -28.5,
+    "lng": 10.3,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Graff - Shell",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Graff Oil project in Namibia.\n\nWe understand that Shell is currently in the Exploration stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with offshore towing, rig move assistance, and marine support operations regarding upcoming marine activities for the Graff field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Shell on Graff.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NAM-004",
+    "name": "Jonker",
+    "country": "Namibia",
+    "operator": "Shell",
+    "partners": "QatarEnergy, Namcor (Subco: EBH Namibia)",
+    "type": "Oil",
+    "status": "Exploration",
+    "firstOil": "TBD",
+    "description": "Deepwater exploration well in Block 2913B (PEL 39), Orange Basin. Drilled in 2022, contributing to the overall Orange Basin exploration programme.",
+    "lat": -29.0,
+    "lng": 10.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Jonker - Shell",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Jonker Oil project in Namibia.\n\nWe understand that Shell is currently in the Exploration stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with offshore towing, rig move assistance, and marine support operations regarding upcoming marine activities for the Jonker field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Shell on Jonker.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NAM-005",
+    "name": "Nara",
+    "country": "Namibia",
+    "operator": "Galp",
+    "partners": "NAMCOR, Custos Energy (Subco: EBH Namibia)",
+    "type": "Oil",
+    "status": "Exploration",
+    "firstOil": "TBD",
+    "description": "Exploration prospect in Block PEL 83, Orange Basin. Part of Galp's broader exploration campaign following the Mopane discovery.",
+    "lat": -27.8,
+    "lng": 11.0,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Nara - Galp",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Nara Oil project in Namibia.\n\nWe understand that Galp is currently in the Exploration stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with offshore towing, rig move assistance, and marine support operations regarding upcoming marine activities for the Nara field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Galp on Nara.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NAM-006",
+    "name": "Kudu",
+    "country": "Namibia",
+    "operator": "BW Energy",
+    "partners": "Namcor (Subco: EBH Namibia)",
+    "type": "Gas",
+    "status": "Pre-FID",
+    "firstOil": "TBD",
+    "description": "Stranded deepwater gas field discovered in 1974. Located on the Namibian shelf in the south. Various development concepts studied over decades, including a power generation facility. BW Energy is the current operator.",
+    "lat": -27.8,
+    "lng": 14.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Kudu - BW Energy",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Kudu Gas project in Namibia.\n\nWe understand that BW Energy is currently in the Pre-FID stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with marine logistics, rig moves, and pre-commissioning support as you progress towards the Final Investment Decision (FID) for the Kudu field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist BW Energy on Kudu.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ANG-001",
+    "name": "Kaminho",
+    "country": "Angola",
+    "block_location": "Block 20/11 - Bassin de la Kwanza",
+    "operator": "TotalEnergies",
+    "partners": "Sonangol, TotalEnergies, Petronas (Subco: Stapem Offshore, Angoflex)",
+    "type": "Oil",
+    "status": "Development",
+    "firstOil": "2028",
+    "water_depth_meters": 1700,
+    "status_detail": "Phase d'ingénierie et de fabrication lourde active en 2026, First Oil prévu pour 2028",
+    "description": "Premier grand projet deepwater dans le bassin de la Kwanza. FPSO All-Electric converti à partir d'un VLCC sans torchage de routine. Target: 70,000 bj.",
+    "marine_assets": [
+      {
+        "type": "FPSO",
+        "name": "FPSO Kaminho",
+        "spec": "Conversion VLCC All-Electric sans torchage de routine."
+      },
+      {
+        "type": "Drillship",
+        "name": "TotalEnergies Target Rig",
+        "spec": "Forage DP3 planifié pour fin 2026."
+      },
+      {
+        "type": "Heavy Transport",
+        "name": "BOKA Vanguard Type",
+        "spec": "Barges de transport lourd pour Topstages."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "🚀 HIGH-PROBABILITY DRILLING & TOWAGE TENDERS",
+      "past_tenders": [
+        {
+          "title": "Global EPCI Umbrella Contract (SPS+SURF)",
+          "date": "Mai 2024",
+          "duration": "48 mois (Saipem)"
+        }
+      ],
+      "future_tenders": [
+        {
+          "title": "Subsea Drilling Support (PSV & Standby Tugs)",
+          "date_estimated": "Septembre 2026",
+          "duration": "24 mois",
+          "platform": "TotalEnergies Universo / Saipem"
+        },
+        {
+          "title": "Oceanic Towage & Mooring Installation Package",
+          "date_estimated": "Mars 2027",
+          "duration": "6 mois",
+          "platform": "Saipem Vendor Portal"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "TotalEnergies",
+        "Saipem",
+        "Aker Solutions",
+        "Baker Hughes"
+      ],
+      "action": "Cible prioritaire: Équipes Procurement de Saipem (titulaire du contrat global)."
+    },
+    "lat": -8.2,
+    "lng": 11.8,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Kaminho - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Kaminho Oil project in Angola.\n\nWe understand that TotalEnergies is currently in the Development stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with hook-up assistance, FPSO/FLNG positioning, towage, and cargo barge escort as you advance construction and installation activities on the Kaminho field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Kaminho.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ANG-012",
+    "name": "Agogo FFD",
+    "country": "Angola",
+    "block_location": "Block 15/06",
+    "operator": "Azule Energy",
+    "partners": "Azule Energy, Equinor, Sonangol (Subco: Stapem Offshore, Angoflex)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2025",
+    "water_depth_meters": 1600,
+    "status_detail": "Production active (First Oil), phase de raccordement subsea finalisée début 2026.",
+    "description": "Mégaprojet Deepwater en production de pointe sur Block 15/06. Focus réduction carbone via capture CO2 sur le FPSO. Target: 175,000 boepd.",
+    "marine_assets": [
+      {
+        "type": "FPSO",
+        "name": "FPSO Agogo",
+        "spec": "Ancrage permanent ultra-deepwater, capture CO2 intégrée."
+      },
+      {
+        "type": "Drillship",
+        "name": "Valaris DS-12",
+        "spec": "Campagne active de complétion de puits sous-marins."
+      },
+      {
+        "type": "PLSV",
+        "name": "Seven Borealis / Arctic",
+        "spec": "Navires de pose de conduites lourdes (Subsea 7)."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "⚠️ CRITICAL RE-TENDER HORIZON",
+      "past_tenders": [
+        {
+          "title": "Long-Term AHTS Vessels Charter",
+          "date": "Mai 2023",
+          "duration": "36 mois + 12m option"
+        }
+      ],
+      "future_tenders": [
+        {
+          "title": "Marine Provisions & Catering Support",
+          "date_estimated": "Novembre 2026",
+          "duration": "24 mois",
+          "platform": "Eni e-Procurement"
+        },
+        {
+          "title": "Re-tender Anchor Handling Fleet (AHTS/PSV)",
+          "date_estimated": "Mai 2027",
+          "duration": "36 mois",
+          "platform": "ANPG Angola / Ariba"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "Azule Energy",
+        "Yinson Production",
+        "Subsea 7",
+        "Baker Hughes"
+      ],
+      "action": "Ouvrir le Tracker de prospection pour filtrer ces 4 entreprises."
+    },
+    "map_popup_interface": {
+      "header_color": "#FF4500",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Mégaprojet Deepwater. Raccordement subsea finalisé début 2026. Focus réduction carbone avec capture CO2 sur le FPSO Agogo. Forte activité de complétion de puits sous-marins demandant un support logistique lourd en mer.",
+          "key_metrics": [
+            "Profondeur: 1600m",
+            "Target: 175,000 boepd",
+            "First Oil: Attendu fin 2026 / début 2027"
+          ]
+        },
+        "assets": [
+          {
+            "type": "FPSO",
+            "name": "FPSO Agogo (Yinson)",
+            "spec": "Ancrage permanent ultra-deepwater."
+          },
+          {
+            "type": "Drillship",
+            "name": "Valaris DS-12 / West Gemini",
+            "spec": "Campagne active de forage et complétion."
+          },
+          {
+            "type": "AHTS / PSV",
+            "name": "Support Vessels Fleet",
+            "spec": "Besoin critique de forte puissance de traction pour positionnement et manutention d'ancres."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 CRITICAL OFFSHORE MARINE UPGRADE (HORIZON Q4 2026)",
+          "past_tenders": [
+            {
+              "title": "Long-Term AHTS Vessels Charter",
+              "date": "Mai 2023",
+              "duration": "36 mois"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Offshore Terminal Towage & FPSO Assistance Fleet",
+              "date_estimated": "Novembre 2026",
+              "duration": "48 mois",
+              "platform": "Eni e-Procurement / Azule Portal"
+            },
+            {
+              "title": "Emergency Towage & Standby Vessel (ERRV) Package",
+              "date_estimated": "Février 2027",
+              "duration": "36 mois",
+              "platform": "ANPG Angola"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Azule Energy",
+            "Yinson Production",
+            "Sonangol P&P"
+          ],
+          "action": "Contacter le Marine Operations Manager d'Azule Energy à Luanda. Positionner l'offre de remorquage offshore de Boluda pour la sécurisation du FPSO à l'approche du First Oil."
+        }
+      }
+    },
+    "lat": -6.45,
+    "lng": 11.2,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Agogo FFD - Azule Energy",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Agogo FFD Oil project in Angola.\n\nWe understand that Azule Energy is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Agogo FFD.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Azule Energy on Agogo FFD.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ANG-002",
+    "name": "Agogo",
+    "country": "Angola",
+    "operator": "TotalEnergies",
+    "partners": "Sonangol P&P, Equinor, ExxonMobil (Subco: Stapem Offshore)",
+    "type": "Oil",
+    "status": "Development",
+    "firstOil": "2026",
+    "description": "Deep water development on Block 32. Agogo IOR (Improved Oil Recovery) project. Tied back to the existing Kaombo Norte FPSO.",
+    "lat": -5.5,
+    "lng": 9.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Agogo - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Agogo Oil project in Angola.\n\nWe understand that TotalEnergies is currently in the Development stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with hook-up assistance, FPSO/FLNG positioning, towage, and cargo barge escort as you advance construction and installation activities on the Agogo field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Agogo.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ANG-003",
+    "name": "Ndungu",
+    "country": "Angola",
+    "operator": "TotalEnergies",
+    "partners": "Sonangol P&P, Equinor, ExxonMobil (Subco: Stapem Offshore)",
+    "type": "Oil",
+    "status": "Appraisal",
+    "firstOil": "2028+",
+    "description": "Deep water oil field on Block 32. Being appraised as part of the wider Block 32 development programme.",
+    "lat": -5.8,
+    "lng": 9.8,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Ndungu - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Ndungu Oil project in Angola.\n\nWe understand that TotalEnergies is currently in the Appraisal stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with offshore towing, rig move assistance, and marine support operations regarding upcoming marine activities for the Ndungu field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Ndungu.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ANG-004",
+    "name": "Kaombo",
+    "country": "Angola",
+    "operator": "TotalEnergies",
+    "partners": "Sonangol P&P, Equinor, ExxonMobil, Galp (Subco: Stapem Offshore)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2018",
+    "description": "Major deepwater development on Block 32 using two FPSOs (Kaombo Norte and Kaombo Sul). Production capacity of 230,000 bopd combined.",
+    "lat": -6.0,
+    "lng": 10.0,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Kaombo - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Kaombo Oil project in Angola.\n\nWe understand that TotalEnergies is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Kaombo.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Kaombo.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ANG-005",
+    "name": "CLOV",
+    "country": "Angola",
+    "operator": "TotalEnergies",
+    "partners": "Sonangol P&P, ENI, Statoil (Subco: Stapem Offshore)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2014",
+    "description": "Deepwater development on Block 17 comprising four fields: Cravo, Lirio, Orquidea and Violeta. Production of around 160,000 bopd via a dedicated FPSO.",
+    "lat": -7.5,
+    "lng": 11.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / CLOV - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the CLOV Oil project in Angola.\n\nWe understand that TotalEnergies is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on CLOV.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on CLOV.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ANG-006",
+    "name": "Dalia",
+    "country": "Angola",
+    "operator": "TotalEnergies",
+    "partners": "Sonangol P&P, ExxonMobil, BP, Statoil (Subco: Stapem Offshore)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2006",
+    "description": "Deepwater oil field on Block 17. Produces from one of Angola's most prolific FPSO vessels. Phase 1A extension was completed to boost recovery.",
+    "lat": -7.0,
+    "lng": 11.2,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Dalia - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Dalia Oil project in Angola.\n\nWe understand that TotalEnergies is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Dalia.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Dalia.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ANG-007",
+    "name": "Girassol",
+    "country": "Angola",
+    "operator": "TotalEnergies",
+    "partners": "Sonangol P&P, ExxonMobil, BP, Statoil, Galp (Subco: Stapem Offshore)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2001",
+    "description": "Angola's first deepwater oil field on Block 17. Pioneered deepwater development in the country. Production peak of 200,000 bopd. Multiple satellite fields developed.",
+    "lat": -6.5,
+    "lng": 11.0,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Girassol - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Girassol Oil project in Angola.\n\nWe understand that TotalEnergies is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Girassol.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Girassol.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ANG-008",
+    "name": "Pazflor",
+    "country": "Angola",
+    "operator": "TotalEnergies",
+    "partners": "Sonangol P&P, ExxonMobil, BP, Statoil (Subco: Stapem Offshore)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2011",
+    "description": "Deepwater development on Block 17. Unique gas-lift assisted development concept. Produces from four fields: Perpetua, Acacia, Zinia and Hortensia.",
+    "lat": -7.2,
+    "lng": 11.3,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Pazflor - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Pazflor Oil project in Angola.\n\nWe understand that TotalEnergies is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Pazflor.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Pazflor.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ANG-009",
+    "name": "Cinguvu",
+    "country": "Angola",
+    "operator": "Esso Exploration Angola",
+    "partners": "Sonangol P&P, BP, ENI (Subco: Stapem Offshore)",
+    "type": "Oil",
+    "status": "Exploration",
+    "firstOil": "TBD",
+    "description": "Exploration block in Angola's deepwater zone. Part of ExxonMobil's portfolio for potential future development.",
+    "lat": -6.8,
+    "lng": 10.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Cinguvu - Esso Exploration Angola",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Cinguvu Oil project in Angola.\n\nWe understand that Esso Exploration Angola is currently in the Exploration stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with offshore towing, rig move assistance, and marine support operations regarding upcoming marine activities for the Cinguvu field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Esso Exploration Angola on Cinguvu.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NGA-001",
+    "name": "Bonga",
+    "country": "Nigeria",
+    "operator": "Shell",
+    "partners": "TotalEnergies, ENI, ExxonMobil (Subco: C&I Leasing (Marine Division))",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2005",
+    "description": "Nigeria's first deepwater oil field on OML 118. Produces from a FPSO with capacity of 225,000 bopd. A landmark project for Nigerian deepwater development.",
+    "lat": 3.8,
+    "lng": 4.8,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Bonga - Shell",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Bonga Oil project in Nigeria.\n\nWe understand that Shell is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Bonga.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Shell on Bonga.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NGA-002",
+    "name": "Bonga North",
+    "country": "Nigeria",
+    "operator": "Shell",
+    "partners": "Shell SNEPCO, NNPC (Subco: LATC Marine, NEO-PEES) (Subco: C&I Leasing (Marine Division))",
+    "type": "Oil",
+    "status": "Development",
+    "firstOil": "2028+",
+    "water_depth_meters": 1000,
+    "status_detail": "FID prise déc. 2024. Tie-back de 16 puits (8 prod + 8 injection) vers le FPSO Bonga existant, peak 110 000 bopd. TechnipFMC fournit les systèmes Subsea 2.0 ($250-500M).",
+    "description": "Extension project on OML 118 north of the existing Bonga field. Recovers additional reserves through a subsea tieback to the existing Bonga FPSO, with FPSO modifications.",
+    "marine_assets": [
+      {
+        "type": "FPSO",
+        "name": "FPSO Bonga (existant)",
+        "spec": "Modifications topsides pour accueillir le tie-back Bonga North (225 000 bopd)."
+      },
+      {
+        "type": "Subsea",
+        "name": "TechnipFMC Subsea 2.0 Package",
+        "spec": "Arbres, manifolds, jumpers et contrôles - 16 puits."
+      },
+      {
+        "type": "Installation",
+        "name": "Reel-lay & Support Vessels",
+        "spec": "Campagne d'installation flowlines/risers prévue ~2027."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "📦 EXECUTION PHASE - CONTRATS D'INSTALLATION À VENIR",
+      "past_tenders": [
+        {
+          "title": "Subsea Production Systems (Subsea 2.0)",
+          "date": "Décembre 2024",
+          "duration": "Attribué - TechnipFMC ($250-500M)"
+        }
+      ],
+      "future_tenders": [
+        {
+          "title": "Installation Support & AHTS - Bonga North Tieback",
+          "date_estimated": "Mars 2027",
+          "duration": "18 mois",
+          "platform": "Shell Nigeria Contracting (NipeX)"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "Shell",
+        "TechnipFMC"
+      ],
+      "action": "S'enregistrer sur NipeX et cibler le Contracting & Procurement de SNEPCo Lagos avant le tender d'installation 2027."
+    },
+    "lat": 4.0,
+    "lng": 4.6,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Bonga North - Shell",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Bonga North Oil project in Nigeria.\n\nWe understand that Shell is currently in the Development stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with hook-up assistance, FPSO/FLNG positioning, towage, and cargo barge escort as you advance construction and installation activities on the Bonga North field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Shell on Bonga North.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NGA-003",
+    "name": "Bonga Southwest",
+    "country": "Nigeria",
+    "operator": "Shell",
+    "partners": "TotalEnergies, ENI, ExxonMobil (Subco: C&I Leasing (Marine Division))",
+    "type": "Oil",
+    "status": "Pre-FID",
+    "firstOil": "2029+",
+    "description": "Standalone deepwater development on OML 132. Requires a new FPSO. Long-delayed project with significant reserves of approximately 600 million barrels.",
+    "lat": 3.3,
+    "lng": 5.3,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Bonga Southwest - Shell",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Bonga Southwest Oil project in Nigeria.\n\nWe understand that Shell is currently in the Pre-FID stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with marine logistics, rig moves, and pre-commissioning support as you progress towards the Final Investment Decision (FID) for the Bonga Southwest field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Shell on Bonga Southwest.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NGA-004",
+    "name": "Owowo",
+    "country": "Nigeria",
+    "operator": "ExxonMobil",
+    "partners": "NNPC, Shell (Subco: C&I Leasing (Marine Division))",
+    "type": "Oil",
+    "status": "Development",
+    "firstOil": "2028",
+    "description": "Deepwater oil development on OML 139. Sanctioned in 2022 with estimated resources of 500 million barrels. Will use a new FPSO vessel.",
+    "lat": 4.0,
+    "lng": 5.8,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Owowo - ExxonMobil",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Owowo Oil project in Nigeria.\n\nWe understand that ExxonMobil is currently in the Development stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with hook-up assistance, FPSO/FLNG positioning, towage, and cargo barge escort as you advance construction and installation activities on the Owowo field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ExxonMobil on Owowo.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NGA-005",
+    "name": "Usan",
+    "country": "Nigeria",
+    "operator": "TotalEnergies",
+    "partners": "Chevron, ExxonMobil, Nexen (Subco: C&I Leasing (Marine Division))",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2012",
+    "description": "Deepwater development on OML 138. Uses a spread-moored FPSO with capacity of 180,000 bopd. Located approximately 100 km offshore.",
+    "lat": 3.5,
+    "lng": 5.7,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Usan - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Usan Oil project in Nigeria.\n\nWe understand that TotalEnergies is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Usan.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Usan.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NGA-006",
+    "name": "Erha",
+    "country": "Nigeria",
+    "operator": "ExxonMobil",
+    "partners": "Shell (Subco: C&I Leasing (Marine Division))",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2006",
+    "description": "Deepwater development on OML 133. Erha and Erha North produce from a turret-moored FPSO. Total production capacity around 210,000 bopd.",
+    "lat": 3.0,
+    "lng": 6.0,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Erha - ExxonMobil",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Erha Oil project in Nigeria.\n\nWe understand that ExxonMobil is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Erha.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ExxonMobil on Erha.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NGA-007",
+    "name": "Akpo",
+    "country": "Nigeria",
+    "operator": "TotalEnergies",
+    "partners": "CNOOC, Petrobras, Sapetro (Subco: C&I Leasing (Marine Division))",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2009",
+    "description": "Deepwater oil and condensate field on OML 130. A significant reservoir producing predominantly condensate alongside oil. FPSO capacity of 175,000 bopd.",
+    "lat": 3.2,
+    "lng": 5.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Akpo - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Akpo Oil project in Nigeria.\n\nWe understand that TotalEnergies is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Akpo.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Akpo.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NGA-008",
+    "name": "Egina",
+    "country": "Nigeria",
+    "operator": "TotalEnergies",
+    "partners": "CNOOC, Petrobras, Sapetro (Subco: C&I Leasing (Marine Division))",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2018",
+    "description": "Deepwater oil field on OML 130. Uses a giant FPSO built in South Korea and Nigeria. Capacity of 200,000 bopd. First major FID with local content requirements.",
+    "lat": 3.0,
+    "lng": 5.3,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Egina - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Egina Oil project in Nigeria.\n\nWe understand that TotalEnergies is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Egina.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Egina.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NGA-009",
+    "name": "Zabazaba-Etan",
+    "country": "Nigeria",
+    "operator": "ENI",
+    "partners": "Esso Exploration Nigeria (Subco: C&I Leasing (Marine Division))",
+    "type": "Oil",
+    "status": "Pre-FID",
+    "firstOil": "2027+",
+    "description": "Deepwater development on OML 135. Two fields combined into one development concept. Long-delayed project with significant reserves.",
+    "lat": 2.8,
+    "lng": 6.2,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Zabazaba-Etan - ENI",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Zabazaba-Etan Oil project in Nigeria.\n\nWe understand that ENI is currently in the Pre-FID stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with marine logistics, rig moves, and pre-commissioning support as you progress towards the Final Investment Decision (FID) for the Zabazaba-Etan field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ENI on Zabazaba-Etan.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NGA-010",
+    "name": "Preowei",
+    "country": "Nigeria",
+    "operator": "TotalEnergies",
+    "partners": "CNOOC, Petrobras, Sapetro (Subco: C&I Leasing (Marine Division))",
+    "type": "Oil",
+    "status": "Development",
+    "firstOil": "2026",
+    "description": "Satellite deepwater oil development on OML 130, adjacent to the Egina field. Will be tied back to the existing Egina FPSO.",
+    "lat": 3.1,
+    "lng": 5.1,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Preowei - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Preowei Oil project in Nigeria.\n\nWe understand that TotalEnergies is currently in the Development stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with hook-up assistance, FPSO/FLNG positioning, towage, and cargo barge escort as you advance construction and installation activities on the Preowei field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Preowei.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "SEN-001",
+    "name": "Sangomar",
+    "country": "Senegal",
+    "operator": "Woodside",
+    "partners": "Woodside Energy, Petrosen (Subco: TTSM, Archipel)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2024",
+    "water_depth_meters": 800,
+    "status_detail": "Phase 1 en production plateau (100 000 bopd). Phase 2 (infill + gaz) en évaluation par Woodside - décision attendue 2026-2027.",
+    "description": "Senegal's first oil development on the RSSD block. Phase 1 produces from 23 wells via a FPSO. Capacity of 100,000 bopd. Marks Senegal's entry into oil production.",
+    "marine_assets": [
+      {
+        "type": "FPSO",
+        "name": "FPSO Léopold Sédar Senghor",
+        "spec": "Propriété/O&M MODEC pour Woodside - amarrage permanent, 100 000 bopd."
+      },
+      {
+        "type": "SURF",
+        "name": "Subsea 7 Phase 1 Package",
+        "spec": "23 puits raccordés (campagne livrée 2024)."
+      },
+      {
+        "type": "Support",
+        "name": "Dakar Supply & Standby Fleet",
+        "spec": "Rotations PSV + tug standby/offtake depuis le port de Dakar."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "📦 OPÉRATIONS + PHASE 2 EN PRÉPARATION",
+      "future_tenders": [
+        {
+          "title": "Offtake Support & Standby Tug - FPSO LSS",
+          "date_estimated": "Octobre 2026",
+          "duration": "24 mois",
+          "platform": "MODEC / Woodside Procurement"
+        },
+        {
+          "title": "Sangomar Phase 2 SURF & Installation",
+          "date_estimated": "Juin 2027",
+          "duration": "24 mois",
+          "platform": "Woodside Energy Contracting"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "Woodside",
+        "MODEC",
+        "Petrosen"
+      ],
+      "action": "Le renouvellement du tug standby FPSO LSS (oct. 2026) est une porte d'entrée directe : cibler le Marine Superintendent MODEC à Dakar."
+    },
+    "lat": 13.2,
+    "lng": -17.3,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Sangomar - Woodside",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Sangomar Oil project in Senegal.\n\nWe understand that Woodside is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Sangomar.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Woodside on Sangomar.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "SEN-002",
+    "name": "GTA Phase 1",
+    "country": "Senegal",
+    "block_location": "Bassin MSGBC - Frontière maritime Sénégal/Mauritanie",
+    "operator": "BP",
+    "partners": "BP, Kosmos Energy, Petrosen, SMH (Subco: TTSM, Archipel)",
+    "type": "LNG",
+    "status": "Production",
+    "firstOil": "2024",
+    "water_depth_meters": 2800,
+    "status_detail": "Infrastructures pleinement opérationnelles début 2026, premiers exports de GNL réguliers.",
+    "description": "Hub gazier transfrontalier de classe mondiale. Utilisation combinée de FPSO et FLNG protégés par une digue brise-lames. Target: 2.3 MTPA GNL.",
+    "marine_assets": [
+      {
+        "type": "FLNG",
+        "name": "Gimi FLNG",
+        "spec": "Unité flottante de liquéfaction de GNL protégée par digue brise-lames."
+      },
+      {
+        "type": "FPSO",
+        "name": "FPSO Tortue",
+        "spec": "Prétraitement du gaz brut à 40km des côtes."
+      },
+      {
+        "type": "ASD Tugs",
+        "name": "Boluda / Svitzer Fleet",
+        "spec": "Remorqueurs d'escorte permanente à forte traction pour méthaniers."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "🔄 PHASE 2 EXPANSION UPCOMING",
+      "past_tenders": [
+        {
+          "title": "Terminal Towage and Escort Services",
+          "date": "Juillet 2021",
+          "duration": "60 mois fermes"
+        }
+      ],
+      "future_tenders": [
+        {
+          "title": "Marine Equipment Maintenance & Deck Provisions",
+          "date_estimated": "Juillet 2026",
+          "duration": "12 mois",
+          "platform": "BP Pulse / Achilles"
+        },
+        {
+          "title": "Phase 2 EPCI Support Pack (Barges & Heavy Lift)",
+          "date_estimated": "Décembre 2026",
+          "duration": "18 mois",
+          "platform": "BP Purchases / local content"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "BP",
+        "Eiffage",
+        "Technip Energies",
+        "Golar LNG"
+      ],
+      "action": "Filtrer les Tender & Procurement Managers de BP et Eiffage sur l'Excel."
+    },
+    "map_popup_interface": {
+      "header_color": "#008000",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Hub gazier transfrontalier majeur. Infrastructures pleinement opérationnelles en 2026, premiers exports de GNL en cours. Utilisation combinée de FPSO et FLNG protégés par une digue brise-lames offshore. Extension vers la Phase 2 en préparation.",
+          "key_metrics": [
+            "Profondeur: 2800m",
+            "Target: 2.3 MTPA GNL",
+            "Status: Phase 1 Stable / Phase 2 sanctionnée"
+          ]
+        },
+        "assets": [
+          {
+            "type": "FLNG",
+            "name": "Gimi FLNG (Golar LNG)",
+            "spec": "Unité flottante de liquéfaction protégée par la digue."
+          },
+          {
+            "type": "FPSO",
+            "name": "FPSO Tortue",
+            "spec": "Prétraitement du gaz brut à 40km des côtes."
+          },
+          {
+            "type": "Escort Tugs",
+            "name": "Svitzer/Boluda Shared Fleet",
+            "spec": "Remorqueurs d'escorte permanente à forte traction (FiFi 1 / Escort) pour méthaniers."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔄 PHASE 2 EXPANSION & MARINE OPERATIONS REVIEW",
+          "past_tenders": [
+            {
+              "title": "Terminal Towage and Escort Services (Phase 1)",
+              "date": "Juillet 2021",
+              "duration": "60 mois"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "LNG Carrier Terminal Towage, Mooring & Escort Contract (Phase 1 Renewal + Phase 2 Expansion)",
+              "date_estimated": "Juillet 2026",
+              "duration": "60 mois fermes",
+              "platform": "BP Pulse / Achilles"
+            },
+            {
+              "title": "Phase 2 Support Pack (Barges, Utility Boats & Heavy Lift Support)",
+              "date_estimated": "Décembre 2026",
+              "duration": "24 mois",
+              "platform": "BP Purchases"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "BP Region West Africa",
+            "Golar LNG",
+            "Technip Energies"
+          ],
+          "action": "OPPORTUNITÉ HISTORIQUE : Contrat initial de 2021 arrivant à terme. Boluda doit soumettre une offre agressive pour le renouvellement et l'extension du remorquage d'escorte des méthaniers de BP."
+        }
+      }
+    },
+    "lat": 16.0125,
+    "lng": -16.821,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / GTA Phase 1 - BP",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the GTA Phase 1 LNG project in Senegal.\n\nWe understand that BP is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on GTA Phase 1.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist BP on GTA Phase 1.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "SEN-003",
+    "name": "Yakaar-Teranga",
+    "country": "Senegal",
+    "operator": "Kosmos Energy",
+    "partners": "BP, PETROSEN (Subco: TTSM)",
+    "type": "Gas",
+    "status": "Pre-FID",
+    "firstOil": "2029+",
+    "description": "Large deepwater gas discovery offshore Senegal. Multiple options under study including LNG, domestic gas supply, and power generation. Combined resources estimated at over 15 TCF.",
+    "lat": 14.5,
+    "lng": -17.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Yakaar-Teranga - Kosmos Energy",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Yakaar-Teranga Gas project in Senegal.\n\nWe understand that Kosmos Energy is currently in the Pre-FID stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with marine logistics, rig moves, and pre-commissioning support as you progress towards the Final Investment Decision (FID) for the Yakaar-Teranga field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Kosmos Energy on Yakaar-Teranga.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "MAU-001",
+    "name": "GTA Phase 1",
+    "country": "Mauritania",
+    "operator": "BP",
+    "partners": "BP, Kosmos Energy, SMH, Petrosen (Subco: TTSM, ALCOM) (Subco: ALCOM Energy Services)",
+    "type": "LNG",
+    "status": "Production",
+    "firstOil": "2024",
+    "description": "Greater Tortue Ahmeyim (GTA) FLNG project on the Mauritania-Senegal maritime border. The Mauritanian portion of this cross-border LNG development. 2.5 MTPA Phase 1.",
+    "lat": 21.0,
+    "lng": -17.9,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / GTA Phase 1 - BP",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the GTA Phase 1 LNG project in Mauritania.\n\nWe understand that BP is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on GTA Phase 1.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist BP on GTA Phase 1.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "CIV-001",
+    "name": "Baleine",
+    "country": "Cote d'Ivoire",
+    "operator": "ENI",
+    "partners": "Eni, Petroci (Subco: PETROCI Marine) (Subco: PETROCI Marine Support)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2023",
+    "water_depth_meters": 1200,
+    "status_detail": "🔥 FID Phase 3 approuvée en mai 2026 ($4 Mds) : nouveau FPSO pour passer de 60 000 à 150 000 bopd et de 80 à 200 MMcfgd (gaz 100% marché domestique).",
+    "description": "Significant offshore oil and gas discovery on Block CI-101 off the coast of Abidjan. Phase 1 (2023) + Phase 2 (2024) en production. Phase 3 sanctionnée mai 2026 avec un FPSO additionnel.",
+    "marine_assets": [
+      {
+        "type": "FPSO",
+        "name": "FPSO Baleine (ex-Firenze)",
+        "spec": "Conversion Saipem, production Phase 1-2, O&M Saipem."
+      },
+      {
+        "type": "FSO",
+        "name": "FSO Yamoussoukro",
+        "spec": "Stockage-export couplé au FPSO Baleine."
+      },
+      {
+        "type": "FPSO",
+        "name": "Baleine Ph.3 FPSO (nouveau)",
+        "spec": "Unité additionnelle sanctionnée mai 2026 - arrivée/hook-up prévus 2027-2028."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "🔥 POST-FID PHASE 3 - FENÊTRE CRITIQUE",
+      "past_tenders": [
+        {
+          "title": "FPSO Baleine Conversion & Tow (Dubai→Abidjan)",
+          "date": "2022-2023",
+          "duration": "Livré (Saipem)"
+        }
+      ],
+      "future_tenders": [
+        {
+          "title": "Tow, Mooring & Hook-up Support - FPSO Baleine Ph.3",
+          "date_estimated": "Novembre 2026",
+          "duration": "12 mois",
+          "platform": "Eni e-Procurement / Saipem"
+        },
+        {
+          "title": "Terminal & Offtake Tug Services - Baleine Field",
+          "date_estimated": "Avril 2027",
+          "duration": "36 mois",
+          "platform": "Eni Côte d'Ivoire"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "Eni",
+        "Saipem",
+        "Vitol",
+        "Petroci"
+      ],
+      "action": "FID signée le mois dernier : contacter immédiatement le Marine & Logistics dept d'Eni CI à Abidjan avant l'attribution des packages marins Phase 3."
+    },
+    "lat": 4.8,
+    "lng": -4.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Baleine - ENI",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Baleine Oil project in Cote d'Ivoire.\n\nWe understand that ENI is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Baleine.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ENI on Baleine.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "COG-001",
+    "name": "Marine XII",
+    "country": "Congo",
+    "operator": "ENI",
+    "partners": "SNPC (Subco: Congo Marine Services)",
+    "type": "Gas",
+    "status": "Production",
+    "firstOil": "2017",
+    "description": "Major offshore gas development in Marine XII block off the Republic of Congo. Supplies gas for domestic power generation and LNG export via the Congo LNG facility.",
+    "lat": -4.2,
+    "lng": 9.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Marine XII - ENI",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Marine XII Gas project in Congo.\n\nWe understand that ENI is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Marine XII.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ENI on Marine XII.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "COG-002",
+    "name": "Congo LNG",
+    "country": "Congo",
+    "block_location": "Permis Marine XII",
+    "operator": "Eni Congo",
+    "partners": "SNPC (Subco: Congo Marine Services)",
+    "type": "LNG",
+    "status": "Production",
+    "firstOil": "2017",
+    "water_depth_meters": 50,
+    "status_detail": "Phase 2 démarrée début 2026, montée en puissance des volumes d'exportation GNL.",
+    "description": "Projet de GNL fast-track en eau peu profonde utilisant deux unités FLNG interconnectées et une unité de stockage flottante (FSU). Capacity: 3 MTPA.",
+    "marine_assets": [
+      {
+        "type": "FLNG",
+        "name": "Tango + Wison FLNG",
+        "spec": "Double unité flottante de liquéfaction côtière."
+      },
+      {
+        "type": "FSU",
+        "name": "Marine XII Storage Unit",
+        "spec": "Ex-pétrolier converti ancré à demeure."
+      },
+      {
+        "type": "Jack-up",
+        "name": "Borr Drilling Rig Fleet",
+        "spec": "Plateforme auto-élévatrice pour forage shallow."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "📦 OPERATIONAL & LOGISTICS TENDERS",
+      "past_tenders": [
+        {
+          "title": "Shallow Water Pipe-lay Contract",
+          "date": "Février 2023",
+          "duration": "36 mois (Saipem)"
+        }
+      ],
+      "future_tenders": [
+        {
+          "title": "Marine Provisions, Catering & Bunkering for FLNG",
+          "date_estimated": "Juillet 2026",
+          "duration": "24 mois",
+          "platform": "Eni e-Procurement"
+        },
+        {
+          "title": "Coastal Support & Maintenance Workboat Charters",
+          "date_estimated": "Janvier 2027",
+          "duration": "12 mois",
+          "platform": "Eni Congo / Saipem Partner"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "Eni",
+        "Wison New Energies",
+        "Saipem",
+        "Jifmar"
+      ],
+      "action": "Cibler les services de proximité (Catering, Provisions, Bunkering) via Eni Congo."
+    },
+    "lat": -4.3,
+    "lng": 9.6,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Congo LNG - Eni Congo",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Congo LNG LNG project in Congo.\n\nWe understand that Eni Congo is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Congo LNG.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Eni Congo on Congo LNG.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "COG-003",
+    "name": "Nene",
+    "country": "Congo",
+    "operator": "ENI",
+    "partners": "SNPC (Subco: Congo Marine Services)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2015",
+    "description": "Offshore oil development in the Marine XII block. Part of the broader Marine XII development including the associated gas facilities.",
+    "lat": -4.5,
+    "lng": 9.3,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Nene - ENI",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Nene Oil project in Congo.\n\nWe understand that ENI is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Nene.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ENI on Nene.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "COG-004",
+    "name": "Litchendjili",
+    "country": "Congo",
+    "operator": "ENI",
+    "partners": "SNPC (Subco: Congo Marine Services)",
+    "type": "Gas",
+    "status": "Development",
+    "firstOil": "2025",
+    "description": "New offshore gas field development in Marine XII. Planned as an extension project to increase gas supply for the LNG facility and domestic power.",
+    "lat": -4.0,
+    "lng": 9.8,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Litchendjili - ENI",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Litchendjili Gas project in Congo.\n\nWe understand that ENI is currently in the Development stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with hook-up assistance, FPSO/FLNG positioning, towage, and cargo barge escort as you advance construction and installation activities on the Litchendjili field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ENI on Litchendjili.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "MOZ-001",
+    "name": "Coral South FLNG",
+    "country": "Mozambique",
+    "operator": "ENI",
+    "partners": "ExxonMobil, CNPC, Galp, Kogas, ENH (Subco: Tschudi Mozambique)",
+    "type": "LNG",
+    "status": "Production",
+    "firstOil": "2022",
+    "description": "First LNG production from Mozambique and the first FLNG in Africa. Located on Area 4 (Rovuma Basin). Capacity of 3.4 MTPA. Coral South FLNG vessel moored offshore Inhambane Province.",
+    "lat": -12.8,
+    "lng": 40.7,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Coral South FLNG - ENI",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Coral South FLNG LNG project in Mozambique.\n\nWe understand that ENI is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Coral South FLNG.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ENI on Coral South FLNG.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "MOZ-002",
+    "name": "Coral North FLNG",
+    "country": "Mozambique",
+    "operator": "ENI",
+    "partners": "ExxonMobil, CNPC, Galp, Kogas, ENH (Subco: Tschudi Mozambique)",
+    "type": "LNG",
+    "status": "Development",
+    "firstOil": "2028",
+    "status_detail": "Projet en exécution - jalons de construction franchis début 2026. Portera la capacité d'export FLNG du Mozambique à ~7 MTPA d'ici 2028.",
+    "description": "Follow-on FLNG project on Area 4 to develop additional Coral gas resources. Second FLNG vessel in construction, twin of Coral Sul. First gas expected 2028.",
+    "marine_assets": [
+      {
+        "type": "FLNG",
+        "name": "Coral Norte FLNG",
+        "spec": "Jumelle de Coral Sul (3,4 MTPA) - construction en cours, tow & mooring Rovuma prévu 2027-2028."
+      },
+      {
+        "type": "Support",
+        "name": "Pemba Marine Base Fleet",
+        "spec": "Support offshore depuis Pemba pour les 2 unités FLNG Area 4."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "📦 EXECUTION - TOW & HOOK-UP À CONTRACTER",
+      "future_tenders": [
+        {
+          "title": "FLNG Coral Norte Tow, Mooring & Hook-up Fleet",
+          "date_estimated": "Mai 2027",
+          "duration": "9 mois",
+          "platform": "Eni e-Procurement"
+        },
+        {
+          "title": "LNG Carrier Escort Duo-FLNG (Sul + Norte)",
+          "date_estimated": "Janvier 2028",
+          "duration": "60 mois",
+          "platform": "Eni Rovuma Basin"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "Eni",
+        "ExxonMobil",
+        "ENH"
+      ],
+      "action": "Anticiper le doublement de l'activité méthaniers Area 4 : proposer une flotte d'escorte mutualisée Coral Sul + Norte."
+    },
+    "lat": -12.5,
+    "lng": 40.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Coral North FLNG - ENI",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Coral North FLNG LNG project in Mozambique.\n\nWe understand that ENI is currently in the Development stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with hook-up assistance, FPSO/FLNG positioning, towage, and cargo barge escort as you advance construction and installation activities on the Coral North FLNG field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ENI on Coral North FLNG.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "MOZ-003",
+    "name": "Mozambique LNG",
+    "country": "Mozambique",
+    "operator": "TotalEnergies",
+    "partners": "TotalEnergies, ENH, Mitsui, ONGC (Subco: Tschudi Mozambique)",
+    "type": "LNG",
+    "status": "Construction",
+    "firstOil": "2029",
+    "status_detail": "🔥 REDÉMARRAGE TOTAL janvier 2026 (force majeure levée nov. 2025). 4 000+ travailleurs mobilisés à Afungi, projet ~40% complet, first LNG visé 2029. Coût total >$24,5 Mds.",
+    "description": "Onshore LNG plant fed by Area 1 offshore wells in the Rovuma Basin. Two LNG trains with combined capacity of 13.1 MTPA. Chantier intégralement relancé en janvier 2026 après 4 ans de suspension.",
+    "marine_assets": [
+      {
+        "type": "MOF Fleet",
+        "name": "Afungi Materials Offloading Facility",
+        "spec": "Jetée recevant tout le fret lourd du chantier par mer - besoin tugs portuaires 24/7."
+      },
+      {
+        "type": "Subsea",
+        "name": "Area 1 Subsea Wells & Flowlines",
+        "spec": "Campagne d'installation offshore à relancer (gathering vers l'usine)."
+      },
+      {
+        "type": "LCT / Barges",
+        "name": "CCS JV Logistics Fleet",
+        "spec": "Rotations barges et LCT Pemba↔Afungi pendant 3+ ans de construction."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "🔥 RESTART - TENDERS LOGISTIQUE MARINE EN COURS",
+      "future_tenders": [
+        {
+          "title": "MOF Harbour Towage & Marine Support - Afungi",
+          "date_estimated": "Août 2026",
+          "duration": "36 mois",
+          "platform": "Mozambique LNG Supply Chain Portal"
+        },
+        {
+          "title": "Offshore Installation Support - Area 1 Subsea Restart",
+          "date_estimated": "Février 2027",
+          "duration": "24 mois",
+          "platform": "TotalEnergies EP Mozambique"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "TotalEnergies",
+        "McDermott",
+        "Saipem",
+        "Chiyoda",
+        "Mitsui"
+      ],
+      "action": "Le redémarrage recrée un besoin immédiat de remorquage portuaire à la jetée MOF pour 3+ ans : contacter le Logistics Manager CCS JV et TotalEnergies EP Mozambique à Maputo."
+    },
+    "lat": -13.0,
+    "lng": 40.3,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Mozambique LNG - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Mozambique LNG LNG project in Mozambique.\n\nWe understand that TotalEnergies is currently in the Construction stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with hook-up assistance, FPSO/FLNG positioning, towage, and cargo barge escort as you advance construction and installation activities on the Mozambique LNG field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Mozambique LNG.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "MOZ-004",
+    "name": "Rovuma LNG",
+    "country": "Mozambique",
+    "operator": "ExxonMobil",
+    "partners": "ENI, CNPC, Galp, Kogas, ENH (Subco: Tschudi Mozambique)",
+    "type": "LNG",
+    "status": "Pre-FID",
+    "firstOil": "2030+",
+    "description": "Onshore LNG development on Area 4 (Rovuma Basin) by ExxonMobil. Three LNG trains planned with capacity of ~15 MTPA. FID delayed; awaiting security stabilisation and market conditions.",
+    "lat": -12.6,
+    "lng": 40.9,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Rovuma LNG - ExxonMobil",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Rovuma LNG LNG project in Mozambique.\n\nWe understand that ExxonMobil is currently in the Pre-FID stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with marine logistics, rig moves, and pre-commissioning support as you progress towards the Final Investment Decision (FID) for the Rovuma LNG field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ExxonMobil on Rovuma LNG.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "GAB-001",
+    "name": "Hibiscus-Ruche",
+    "country": "Gabon",
+    "operator": "Panoro Energy",
+    "partners": "Assala Energy (Subco: Diamond S.A. Marine)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2022",
+    "description": "Offshore oil development consisting of Hibiscus and Ruche fields on the Dussafu Marin block offshore Gabon. Phased development using a leased FPSO.",
+    "lat": -2.8,
+    "lng": 8.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Hibiscus-Ruche - Panoro Energy",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Hibiscus-Ruche Oil project in Gabon.\n\nWe understand that Panoro Energy is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Hibiscus-Ruche.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Panoro Energy on Hibiscus-Ruche.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "GAB-002",
+    "name": "Ruche NE Ext.",
+    "country": "Gabon",
+    "operator": "Panoro Energy",
+    "partners": "Assala Energy (Subco: Diamond S.A. Marine)",
+    "type": "Oil",
+    "status": "Development",
+    "firstOil": "2025",
+    "description": "Northeast extension of the Ruche field on Dussafu Marin block. Additional development wells tieback to the existing FPSO to sustain and increase production.",
+    "lat": -2.6,
+    "lng": 8.7,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Ruche NE Ext. - Panoro Energy",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Ruche NE Ext. Oil project in Gabon.\n\nWe understand that Panoro Energy is currently in the Development stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with hook-up assistance, FPSO/FLNG positioning, towage, and cargo barge escort as you advance construction and installation activities on the Ruche NE Ext. field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Panoro Energy on Ruche NE Ext..\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "GHA-001",
+    "name": "Jubilee",
+    "country": "Ghana",
+    "operator": "Tullow Oil",
+    "partners": "Aker BP, Ghana National Petroleum, Kosmos Energy (Subco: Seaweld Engineering)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2010",
+    "description": "Ghana's flagship offshore oil field on the Deepwater Tano/Cape Three Points block. Production of approximately 80,000 bopd via a FPSO. Phase 2 Life of Field enhancement ongoing.",
+    "lat": 4.7,
+    "lng": -2.7,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Jubilee - Tullow Oil",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Jubilee Oil project in Ghana.\n\nWe understand that Tullow Oil is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Jubilee.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Tullow Oil on Jubilee.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "GHA-002",
+    "name": "TEN",
+    "country": "Ghana",
+    "operator": "Tullow Oil",
+    "partners": "Aker BP, Ghana National Petroleum (Subco: Seaweld Engineering)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2016",
+    "description": "Tweneboa-Enyenra-Ntomme (TEN) deepwater development on the Deepwater Tano block. Dedicated FPSO with capacity of 80,000 bopd.",
+    "lat": 4.5,
+    "lng": -3.2,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / TEN - Tullow Oil",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the TEN Oil project in Ghana.\n\nWe understand that Tullow Oil is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on TEN.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Tullow Oil on TEN.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "GHA-003",
+    "name": "Pecan",
+    "country": "Ghana",
+    "operator": "Aker Energy",
+    "partners": "GNPC, Lukoil, TotalEnergies (Subco: Seaweld Engineering)",
+    "type": "Oil",
+    "status": "Pre-FID",
+    "firstOil": "2027+",
+    "description": "Deepwater oil development on the Deepwater Tano block. FID delayed multiple times. Revised development concept being evaluated with a new FPSO.",
+    "lat": 5.2,
+    "lng": -3.3,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Pecan - Aker Energy",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Pecan Oil project in Ghana.\n\nWe understand that Aker Energy is currently in the Pre-FID stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with marine logistics, rig moves, and pre-commissioning support as you progress towards the Final Investment Decision (FID) for the Pecan field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Aker Energy on Pecan.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "GEQ-001",
+    "name": "Gas Mega Hub",
+    "country": "Equatorial Guinea",
+    "operator": "Marathon Oil",
+    "partners": "GEPetrol, Sonagas (Subco: EG LNG Marine Services)",
+    "type": "LNG",
+    "status": "Pre-FID",
+    "firstOil": "2028+",
+    "description": "Proposed hub to aggregate gas from multiple Equatorial Guinea fields and third-party suppliers (including neighboring countries) to supply the EG LNG plant and expand regional gas processing.",
+    "lat": 3.5,
+    "lng": 8.0,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Gas Mega Hub - Marathon Oil",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Gas Mega Hub LNG project in Equatorial Guinea.\n\nWe understand that Marathon Oil is currently in the Pre-FID stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with marine logistics, rig moves, and pre-commissioning support as you progress towards the Final Investment Decision (FID) for the Gas Mega Hub field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Marathon Oil on Gas Mega Hub.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "GEQ-002",
+    "name": "Yoyo-Yolanda",
+    "country": "Equatorial Guinea",
+    "operator": "Trident Energy",
+    "partners": "GEPetrol (Subco: EG LNG Marine Services)",
+    "type": "Oil",
+    "status": "Appraisal",
+    "firstOil": "2027+",
+    "description": "Offshore oil discovery on Block EG-01 in Equatorial Guinea. Trident Energy is evaluating a development concept. Potential tieback or standalone FPSO.",
+    "lat": 3.3,
+    "lng": 8.2,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Yoyo-Yolanda - Trident Energy",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Yoyo-Yolanda Oil project in Equatorial Guinea.\n\nWe understand that Trident Energy is currently in the Appraisal stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with offshore towing, rig move assistance, and marine support operations regarding upcoming marine activities for the Yoyo-Yolanda field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Trident Energy on Yoyo-Yolanda.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "GEQ-003",
+    "name": "Alen",
+    "country": "Equatorial Guinea",
+    "operator": "Noble Energy",
+    "partners": "GEPetrol, Atlas Petroleum (Subco: EG LNG Marine Services)",
+    "type": "Gas",
+    "status": "Production",
+    "firstOil": "2013",
+    "description": "Deepwater gas condensate field on Block O in Equatorial Guinea. Gas is exported to the Punta Europa processing complex for LNG production and methanol.",
+    "lat": 3.0,
+    "lng": 8.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Alen - Noble Energy",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Alen Gas project in Equatorial Guinea.\n\nWe understand that Noble Energy is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Alen.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Noble Energy on Alen.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "GEQ-004",
+    "name": "Aseng",
+    "country": "Equatorial Guinea",
+    "operator": "Noble Energy",
+    "partners": "GEPetrol, Atlas Petroleum (Subco: EG LNG Marine Services)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2011",
+    "description": "Non-associated oil production on Block I in Equatorial Guinea. Production via a turret-moored FPSO. Has maintained steady production since first oil.",
+    "lat": 3.2,
+    "lng": 8.3,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Aseng - Noble Energy",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Aseng Oil project in Equatorial Guinea.\n\nWe understand that Noble Energy is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Aseng.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Noble Energy on Aseng.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "CAM-001",
+    "name": "Etinde",
+    "country": "Cameroon",
+    "operator": "NewAge",
+    "partners": "ENI, Bowleven, NHPC (Subco: CNIC (Cameroon Shipyard))",
+    "type": "Gas",
+    "status": "Pre-FID",
+    "firstOil": "2028+",
+    "description": "Offshore gas development in the Douala basin, southwest Cameroon. Gas resources will be monetized through domestic supply and potential LNG/LPG exports. Complex negotiations have delayed FID.",
+    "lat": 4.0,
+    "lng": 8.7,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Etinde - NewAge",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Etinde Gas project in Cameroon.\n\nWe understand that NewAge is currently in the Pre-FID stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with marine logistics, rig moves, and pre-commissioning support as you progress towards the Final Investment Decision (FID) for the Etinde field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist NewAge on Etinde.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "TAN-001",
+    "name": "Tanzania LNG",
+    "country": "Tanzania",
+    "operator": "Shell",
+    "partners": "Equinor, Pavilion Energy, TPDC (Subco: East African Peninsula Marine)",
+    "type": "LNG",
+    "status": "Pre-FID",
+    "firstOil": "2030+",
+    "description": "Onshore LNG export terminal to monetize vast offshore deepwater gas resources in Block 1, 2, and 4 (offshore Lindi). Potential capacity of 10 MTPA. Host government agreement signed in 2023.",
+    "lat": -10.5,
+    "lng": 40.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Tanzania LNG - Shell",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Tanzania LNG LNG project in Tanzania.\n\nWe understand that Shell is currently in the Pre-FID stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with marine logistics, rig moves, and pre-commissioning support as you progress towards the Final Investment Decision (FID) for the Tanzania LNG field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Shell on Tanzania LNG.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ZAF-001",
+    "name": "Brulpadda",
+    "country": "South Africa",
+    "operator": "TotalEnergies",
+    "partners": "Qatar Petroleum, CNR International, Main Street (Subco: LBH South Africa)",
+    "type": "Oil",
+    "status": "Appraisal",
+    "firstOil": "2030+",
+    "description": "Major deepwater discovery on Block 11B/12B in the Outeniqua Basin, southern South Africa. Announced in 2019. Significant oil and gas potential. Appraisal program ongoing.",
+    "lat": -34.0,
+    "lng": 22.0,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Brulpadda - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Brulpadda Oil project in South Africa.\n\nWe understand that TotalEnergies is currently in the Appraisal stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with offshore towing, rig move assistance, and marine support operations regarding upcoming marine activities for the Brulpadda field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Brulpadda.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ZAF-002",
+    "name": "Luiperd",
+    "country": "South Africa",
+    "operator": "TotalEnergies",
+    "partners": "Qatar Petroleum, CNR International, Main Street (Subco: LBH South Africa)",
+    "type": "Gas",
+    "status": "Appraisal",
+    "firstOil": "2030+",
+    "description": "Gas condensate discovery on Block 11B/12B in the Outeniqua Basin. Announced in 2020 as the second major discovery on the block after Brulpadda. Potential for domestic gas supply.",
+    "lat": -34.2,
+    "lng": 22.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Luiperd - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Luiperd Gas project in South Africa.\n\nWe understand that TotalEnergies is currently in the Appraisal stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with offshore towing, rig move assistance, and marine support operations regarding upcoming marine activities for the Luiperd field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Luiperd.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "EGY-001",
+    "name": "Zohr",
+    "country": "Egypt",
+    "operator": "ENI",
+    "partners": "Rosneft, BP, Mubadala Petroleum (Subco: Maridive & Oil Services)",
+    "type": "Gas",
+    "status": "Production",
+    "firstOil": "2017",
+    "description": "Egypt's largest ever natural gas discovery, located in the Shorouk block in the Eastern Mediterranean. Total resources of 30 TCF. Peak production of approximately 2.7 billion cubic feet per day.",
+    "lat": 31.5,
+    "lng": 28.2,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Zohr - ENI",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Zohr Gas project in Egypt.\n\nWe understand that ENI is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Zohr.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ENI on Zohr.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "EGY-002",
+    "name": "Nour",
+    "country": "Egypt",
+    "operator": "ENI",
+    "partners": "EGPC (Subco: Maridive & Oil Services)",
+    "type": "Gas",
+    "status": "Appraisal",
+    "firstOil": "2027+",
+    "description": "Deepwater gas discovery offshore North Egypt in the North Sinai block. Discovered in 2023. Potential resources of 1-2 TCF. Being appraised ahead of a potential development decision.",
+    "lat": 31.8,
+    "lng": 31.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Nour - ENI",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Nour Gas project in Egypt.\n\nWe understand that ENI is currently in the Appraisal stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with offshore towing, rig move assistance, and marine support operations regarding upcoming marine activities for the Nour field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ENI on Nour.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "LIB-001",
+    "name": "Bouri",
+    "country": "Libya",
+    "operator": "ENI",
+    "partners": "NOC (Subco: Libyan Marine Services)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "1988",
+    "description": "Largest offshore oil field in the Mediterranean Sea, located in Libya's shallow offshore. Produces from a series of fixed platforms via a floating storage unit. Capacity of approximately 60,000 bopd.",
+    "lat": 33.0,
+    "lng": 12.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Bouri - ENI",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Bouri Oil project in Libya.\n\nWe understand that ENI is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Bouri.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ENI on Bouri.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "TUN-001",
+    "name": "Hasdrubal",
+    "country": "Tunisia",
+    "operator": "BG Group / Shell",
+    "partners": "ETAP (Subco: Tunisian Marine Services)",
+    "type": "Gas",
+    "status": "Production",
+    "firstOil": "2009",
+    "description": "Offshore gas condensate development in the Gulf of Gabes, Tunisia. Gas is processed onshore at La Skhira. Supplies domestic gas and condensate export.",
+    "lat": 34.0,
+    "lng": 11.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Hasdrubal - BG Group / Shell",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Hasdrubal Gas project in Tunisia.\n\nWe understand that BG Group / Shell is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Hasdrubal.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist BG Group / Shell on Hasdrubal.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "MAU-002",
+    "name": "GTA Phase 2",
+    "country": "Mauritania",
+    "operator": "BP",
+    "partners": "Kosmos Energy, PETROSEN, SMHPM (Subco: ALCOM Energy Services)",
+    "type": "LNG",
+    "status": "Pre-FID",
+    "firstOil": "2030+",
+    "description": "Phase 2 expansion of the Greater Tortue Ahmeyim LNG project. Would add an additional FLNG vessel doubling capacity. Timing depends on Phase 1 performance and market conditions.",
+    "lat": 21.3,
+    "lng": -17.6,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / GTA Phase 2 - BP",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the GTA Phase 2 LNG project in Mauritania.\n\nWe understand that BP is currently in the Pre-FID stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with marine logistics, rig moves, and pre-commissioning support as you progress towards the Final Investment Decision (FID) for the GTA Phase 2 field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist BP on GTA Phase 2.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ANG-010",
+    "name": "Platina",
+    "country": "Angola",
+    "operator": "TotalEnergies",
+    "partners": "Sonangol P&P, ENI, Equinor (Subco: Stapem Offshore)",
+    "type": "Oil",
+    "status": "Development",
+    "firstOil": "2026",
+    "description": "Deep water oil development on Block 20/11 (Cameia area). Tieback to the existing FPSO infrastructure. Part of the broader Cameia/Golfinho development.",
+    "lat": -8.5,
+    "lng": 12.2,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Platina - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Platina Oil project in Angola.\n\nWe understand that TotalEnergies is currently in the Development stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with hook-up assistance, FPSO/FLNG positioning, towage, and cargo barge escort as you advance construction and installation activities on the Platina field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Platina.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NGA-011",
+    "name": "Nnwa-Doro",
+    "country": "Nigeria",
+    "operator": "ENI",
+    "partners": "NNPC, ExxonMobil (Subco: C&I Leasing (Marine Division))",
+    "type": "Gas",
+    "status": "Pre-FID",
+    "firstOil": "2028+",
+    "description": "Major deepwater gas development on OML 135. Would be Nigeria's first deepwater gas-to-LNG project. Significant resources estimated at over 5 TCF.",
+    "lat": 2.5,
+    "lng": 6.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Nnwa-Doro - ENI",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Nnwa-Doro Gas project in Nigeria.\n\nWe understand that ENI is currently in the Pre-FID stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with marine logistics, rig moves, and pre-commissioning support as you progress towards the Final Investment Decision (FID) for the Nnwa-Doro field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist ENI on Nnwa-Doro.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "SEN-004",
+    "name": "Sangomar Phase 2",
+    "country": "Senegal",
+    "operator": "Woodside",
+    "partners": "Petrosen (Subco: TTSM)",
+    "type": "Oil",
+    "status": "Development",
+    "firstOil": "2027",
+    "description": "Phase 2 expansion of Sangomar, adding additional producers and water injectors to increase production from approximately 100,000 to 130,000 bopd.",
+    "lat": 13.0,
+    "lng": -17.1,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Sangomar Phase 2 - Woodside",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Sangomar Phase 2 Oil project in Senegal.\n\nWe understand that Woodside is currently in the Development stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with hook-up assistance, FPSO/FLNG positioning, towage, and cargo barge escort as you advance construction and installation activities on the Sangomar Phase 2 field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Woodside on Sangomar Phase 2.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "NGA-012",
+    "name": "Chukwu",
+    "country": "Nigeria",
+    "operator": "TotalEnergies",
+    "partners": "NNPC (Subco: C&I Leasing (Marine Division))",
+    "type": "Oil",
+    "status": "Exploration",
+    "firstOil": "TBD",
+    "description": "Deepwater exploration target on OML 130 being evaluated by TotalEnergies as a potential future development.",
+    "lat": 2.8,
+    "lng": 5.0,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Chukwu - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Chukwu Oil project in Nigeria.\n\nWe understand that TotalEnergies is currently in the Exploration stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with offshore towing, rig move assistance, and marine support operations regarding upcoming marine activities for the Chukwu field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Chukwu.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "GAB-003",
+    "name": "Gnondo",
+    "country": "Gabon",
+    "operator": "Panoro Energy",
+    "partners": "Assala Energy (Subco: Diamond S.A. Marine)",
+    "type": "Oil",
+    "status": "Exploration",
+    "firstOil": "TBD",
+    "description": "Exploration prospect on the Dussafu Marin block offshore Gabon being evaluated following the success of Hibiscus and Ruche.",
+    "lat": -3.2,
+    "lng": 8.3,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Gnondo - Panoro Energy",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Gnondo Oil project in Gabon.\n\nWe understand that Panoro Energy is currently in the Exploration stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with offshore towing, rig move assistance, and marine support operations regarding upcoming marine activities for the Gnondo field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Panoro Energy on Gnondo.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "KEN-001",
+    "name": "Lamu Basin",
+    "country": "Kenya",
+    "operator": "Shell",
+    "partners": "ENI, FAR (Subco: East African Peninsula Marine)",
+    "type": "Oil",
+    "status": "Exploration",
+    "firstOil": "TBD",
+    "description": "Deepwater exploration programme in the Lamu Basin offshore Kenya. Several wells drilled. Gas discoveries made but further appraisal required.",
+    "lat": -2.5,
+    "lng": 42.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Lamu Basin - Shell",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Lamu Basin Oil project in Kenya.\n\nWe understand that Shell is currently in the Exploration stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with offshore towing, rig move assistance, and marine support operations regarding upcoming marine activities for the Lamu Basin field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist Shell on Lamu Basin.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "ANG-011",
+    "name": "Baobab",
+    "country": "Angola",
+    "operator": "TotalEnergies",
+    "partners": "Sonangol P&P (Subco: Stapem Offshore)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2004",
+    "description": "Shallow-to-deepwater oil field on Block 14 offshore Angola. Has produced steadily with gas reinjection to maintain reservoir pressure.",
+    "lat": -10.5,
+    "lng": 12.3,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Baobab - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Baobab Oil project in Angola.\n\nWe understand that TotalEnergies is currently in the Production stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with terminal support, tanker escort, line handling, and regular supply runs to support ongoing production operations and terminal operations on Baobab.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Baobab.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "MOZ-005",
+    "name": "Area 1 Gas",
+    "country": "Mozambique",
+    "operator": "TotalEnergies",
+    "partners": "ENH, Mitsui, ONGC, Bharat, PTTEP (Subco: Tschudi Mozambique)",
+    "type": "Gas",
+    "status": "Development",
+    "firstOil": "2028",
+    "description": "Deepwater gas development wells for the Mozambique LNG project feeding the onshore liquefaction plant. Multi-billion dollar offshore production infrastructure.",
+    "lat": -13.5,
+    "lng": 40.6,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Marine Support Services / Area 1 Gas - TotalEnergies",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage's Offshore Division regarding the Area 1 Gas Gas project in Mozambique.\n\nWe understand that TotalEnergies is currently in the Development stage, and we would like to offer our specialized marine support services. Boluda Towage operates a state-of-the-art fleet of high-bollard-pull AHTS, escort tugs, and multipurpose support vessels in Africa, making us uniquely positioned to assist with hook-up assistance, FPSO/FLNG positioning, towage, and cargo barge escort as you advance construction and installation activities on the Area 1 Gas field.\n\nWe would welcome the opportunity to introduce our capabilities and discuss how we can assist TotalEnergies on Area 1 Gas.\n\nBest regards,\n\nWael FACHATE | International Commercial Manager\nBOLUDA TOWAGE FRANCE"
+    }
+  },
+  {
+    "id": "MAR-001",
+    "name": "Anchois",
+    "country": "Morocco",
+    "operator": "Chariot Energy",
+    "partners": "Energean, ONHYM (Subco: Maroc Tug Services)",
+    "type": "Gas",
+    "status": "Pre-FID",
+    "firstOil": "2027-2028",
+    "water_depth_meters": 380,
+    "status_detail": "Ingénierie d'avant-projet détaillée (FEED) validée. Concept de raccordement subsea direct vers le réseau de gazoduc national marocain. Décision d'investissement attendue fin 2026.",
+    "description": "Morocco's landmark offshore gas development project in the Lixus licence, off Larache. Estimated resources of 1 Tcf. Strategically positioned to supply the domestic industrial market.",
+    "marine_assets": [
+      {
+        "type": "Rig",
+        "name": "Shallow water rig (concept)",
+        "spec": "Forage de puits de développement et complétion subsea."
+      },
+      {
+        "type": "AHTS / Tug",
+        "name": "Boluda Larache support",
+        "spec": "Besoins d'assistance maritime côtière et remorquage de pipeline."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "🔥 PRE-FID - CONTRATS LOGISTIQUES FIN 2026",
+      "future_tenders": [
+        {
+          "title": "Subsea Installation & Coastal Towage - Anchois",
+          "date_estimated": "Octobre 2026",
+          "duration": "18 mois",
+          "platform": "Chariot Energy e-Procurement / ONHYM"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "Chariot Energy",
+        "Energean"
+      ],
+      "action": "Négocier l'accord d'escorte et de logistique côtière depuis les ports de Tanger et Nador."
+    },
+    "lat": 35.2,
+    "lng": -6.8,
+    "prospecting_email": {
+      "subject": "Boluda Towage / Support Maritime et Assistance Offshore / Projet Anchois (Maroc)",
+      "body": "Cher Partenaire,\n\nJe vous contacte de la part de la division Offshore de Boluda Towage concernant le développement du projet gazier Anchois au large de Larache.\n\nBoluda Towage est l'acteur de référence pour le remorquage portuaire et l'assistance maritime au Maroc (déjà présent sur les hubs stratégiques de Tanger Med et Nador). Nous serions ravis de mettre à disposition notre flotte locale de remorqueurs ASD de dernière génération pour soutenir vos futures opérations d'installation subsea et de logistique marine pour le projet Anchois.\n\nNous restons à votre entière disposition pour une présentation technique.\n\nCordialement,\n\nWael FACHATE\nInternational Commercial Manager\nBOLUDA TOWAGE"
+    }
+  },
+  {
+    "id": "GAB-004",
+    "name": "Dussafu",
+    "country": "Gabon",
+    "operator": "BW Energy",
+    "partners": "Panoro Energy, Gabon Oil Company (Subco: Diamond Marine) (Subco: Diamond S.A. Marine)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2018",
+    "water_depth_meters": 116,
+    "status_detail": "Production en cours via le FPSO BW Adolo (capacité 40 000 bopd). Campagne d'infill drilling active avec le jack-up Norve de Borr Drilling.",
+    "description": "Shallow water oil development offshore Gabon, encompassing the Tortue, Ruche, and Hibiscus fields. Steady production growth supported by ongoing development wells.",
+    "marine_assets": [
+      {
+        "type": "FPSO",
+        "name": "BW Adolo",
+        "spec": "FPSO de stockage et production ancré sur zone Dussafu."
+      },
+      {
+        "type": "Jack-up",
+        "name": "Borr Norve",
+        "spec": "Jack-up contracté pour les campagnes d'infill."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "🟢 EXPLOITATION ACTIVE - SUPPORT CHARTERING SPOT",
+      "future_tenders": [
+        {
+          "title": "AHTS standby & Tanker mooring assistance - Dussafu",
+          "date_estimated": "Novembre 2026",
+          "duration": "24 mois",
+          "platform": "BW Energy Portal / Gabon Oil Company"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "BW Energy",
+        "Panoro Energy"
+      ],
+      "action": "Sécuriser le contrat d'assistance offloading tandem du FPSO BW Adolo."
+    },
+    "lat": -3.8,
+    "lng": 10.5,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Standby Vessel Services / Dussafu field - BW Energy",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage regarding the ongoing operations at the Dussafu block offshore Gabon.\n\nWe understand that BW Energy is continuously developing the Hibiscus and Ruche fields connected to the FPSO BW Adolo. Boluda operates a robust regional fleet of anchor handling tug supply (AHTS) vessels and ASD tugs perfectly suited for offshore standby, tandem tanker export assistance, and cargo run services in West Africa.\n\nWe would welcome the opportunity to submit our credentials.\n\nBest regards,\n\nWael FACHATE\nInternational Commercial Manager\nBOLUDA TOWAGE"
+    }
+  },
+  {
+    "id": "GAB-005",
+    "name": "Ogooué mature fields",
+    "country": "Gabon",
+    "operator": "Perenco",
+    "partners": "Gabon Oil Company (Subco: Diamond S.A. Marine)",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "1995",
+    "water_depth_meters": 45,
+    "status_detail": "Plus de 20 plateformes fixes interconnectées. Logistique côtière lourde basée à Port-Gentil. Réduction des coûts opératoires et maintenance constante des pipelines.",
+    "description": "Mature shallow-water oil and gas fields spanning the offshore Ogooué Delta licences. Operated using simplified platforms and high-frequency local logistics.",
+    "marine_assets": [
+      {
+        "type": "FSO",
+        "name": "Fernan Vaz (FSO)",
+        "spec": "FSO d'exportation de brut de Perenco ancré près de Port-Gentil."
+      },
+      {
+        "type": "Tugs / Barges",
+        "name": "Port-Gentil Barging Fleet",
+        "spec": "Flottille de navires de servitude côtiers pour le transport de matériel."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "🟢 EXPLOITATION CONTRACTS CADRES CONTINUS",
+      "future_tenders": [
+        {
+          "title": "Barging & Coastal Marine Logistics Services - Perenco Gabon",
+          "date_estimated": "Août 2026",
+          "duration": "36 mois",
+          "platform": "Perenco Local Procurement Portal"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "Perenco"
+      ],
+      "action": "Proposer des remorqueurs ASD et des barges de transport pour les navettes matérielles de Port-Gentil."
+    },
+    "lat": -1.2,
+    "lng": 9.1,
+    "prospecting_email": {
+      "subject": "Offshore Tugs & Cargo Barging Support / Ogooué delta - Perenco",
+      "body": "Dear Procurement Team,\n\nI am reaching out from Boluda Towage regarding Perenco's extensive shallow water activities offshore Gabon.\n\nBoluda Towage has a strong operational presence in West Africa. We specialize in providing highly reliable and cost-effective coastal logistics support, including ASD port/terminal tugs, cargo barge towing, and offshore structure maintenance assistance. We would be pleased to participate in your upcoming tenders for marine services out of Port-Gentil.\n\nBest regards,\n\nWael FACHATE\nInternational Commercial Manager\nBOLUDA TOWAGE"
+    }
+  },
+  {
+    "id": "ANG-013",
+    "name": "Mafumeira Sul",
+    "country": "Angola",
+    "operator": "Chevron",
+    "partners": "Sonangol, TotalEnergies, Eni (Subco: Stapem Offshore)",
+    "type": "Oil/Gas",
+    "status": "Production",
+    "firstOil": "2016",
+    "water_depth_meters": 60,
+    "status_detail": "Production active depuis les plateformes fixes Mafumeira Sul Link. Export de gaz associé vers Angola LNG à Soyo. Mooring tanker actif sur zone.",
+    "description": "Shallow water oil and gas field located in Block 0 offshore Cabinda. Large infrastructure comprising central processing platforms and drilling platforms.",
+    "marine_assets": [
+      {
+        "type": "Platform",
+        "name": "Mafumeira Sul CPP",
+        "spec": "Central Processing Platform for block 0 shallow water operations."
+      },
+      {
+        "type": "AHTS",
+        "name": "Cabinda Mooring Fleet",
+        "spec": "Remorqueurs d'assistance offloading et d'escorte pétroliers."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "🟢 CONTRATS MAINTENANCE ET ASSISTANCE ACTIFS",
+      "future_tenders": [
+        {
+          "title": "Cabinda Block 0 Marine Mooring & Mooring Tugs Support",
+          "date_estimated": "Septembre 2026",
+          "duration": "48 mois",
+          "platform": "Chevron e-Procurement Portal (Ariba) / ANPG"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "Chevron",
+        "Sonangol"
+      ],
+      "action": "Participer à l'appel d'offres de renouvellement pour l'assistance Mooring de Cabinda."
+    },
+    "lat": -5.6,
+    "lng": 11.8,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Tanker Assistance / Mafumeira Sul - Chevron",
+      "body": "Dear Procurement Team,\n\nI am contacting you from Boluda Towage's Offshore Division regarding your Block 0 marine logistics requirements at Mafumeira Sul, offshore Cabinda.\n\nWe would like to introduce our high-bollard-pull ASD escort fleet and AHTS capabilities. Boluda is highly experienced in terminal mooring operations, cargo barge moves, and safe offshore tanker escorts. We would be pleased to register Boluda Towage in Chevron's supplier network for upcoming marine tenders in Angola.\n\nBest regards,\n\nWael FACHATE\nInternational Commercial Manager\nBOLUDA TOWAGE"
+    }
+  },
+  {
+    "id": "NGA-013",
+    "name": "Agbami",
+    "country": "Nigeria",
+    "operator": "Chevron",
+    "partners": "Chevron, Equinor, Prime 127, NNPC (Subco: LATC Marine, MSSL) (Subco: C&I Leasing (Marine Division))",
+    "type": "Oil",
+    "status": "Production",
+    "firstOil": "2008",
+    "water_depth_meters": 1460,
+    "status_detail": "Production continue via l'Agbami FPSO (250 000 bopd de capacité). Un des plus grands FPSO au monde. Campagnes de forages d'infill régulières pour ralentir le déclin.",
+    "description": "Giant deepwater oil field located in OML 127 and OML 128, approximately 110 km off the Nigerian coast. Developed using subsea wells tied back to the Agbami FPSO.",
+    "marine_assets": [
+      {
+        "type": "FPSO",
+        "name": "Agbami FPSO",
+        "spec": "Unité de stockage et production géante ancrée en offshore profond."
+      },
+      {
+        "type": "AHTS / PSV",
+        "name": "Agbami Logistics Fleet",
+        "spec": "Support logistique offshore lourd basé à Onne et Lagos."
+      }
+    ],
+    "tender_tracker": {
+      "status_indicator": "🟢 EXPLOITATION ROUTINE - TENDERS DE SUPPLEANCE",
+      "future_tenders": [
+        {
+          "title": "Agbami FPSO Moorings & Offloading Support Tugs",
+          "date_estimated": "Janvier 2027",
+          "duration": "36 mois",
+          "platform": "NipeX Portal Nigeria / Chevron Procurement"
+        }
+      ]
+    },
+    "contacts_pipeline": {
+      "target_companies": [
+        "Chevron",
+        "Equinor",
+        "NNPC"
+      ],
+      "action": "Se positionner sur le portail NipeX pour l'appel d'offres des remorqueurs d'offloading du FPSO Agbami."
+    },
+    "lat": 4.8,
+    "lng": 5.6,
+    "prospecting_email": {
+      "subject": "Offshore Towage & Tandem Offloading Support / Agbami FPSO - Chevron",
+      "body": "Dear Procurement Team,\n\nI am contacting you from Boluda Towage regarding the marine operations at the Agbami FPSO in deepwater Nigeria.\n\nBoluda Towage operates high-bollard-pull AHTS and ASD escort tugs capable of managing large offshore offloading campaigns safely. We would be pleased to propose our fleet and technical support for Chevron's deepwater operations, ensuring optimal tanker escorts during offloading operations. We are fully registered on the NipeX platform.\n\nBest regards,\n\nWael FACHATE\nInternational Commercial Manager\nBOLUDA TOWAGE"
+    }
+  }
+]

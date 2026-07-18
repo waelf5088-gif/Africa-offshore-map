@@ -1,0 +1,376 @@
+[
+  {
+    "id": "SVITZER",
+    "name": "Svitzer",
+    "parent": "Groupe indépendant (ex-Maersk)",
+    "color": "#ef4444",
+    "threat_level": "ÉLEVÉ",
+    "bases": [
+      {
+        "city": "Dakar / GTA Hub",
+        "country": "Sénégal-Mauritanie",
+        "lat": 14.66,
+        "lng": -17.41,
+        "contract": "Titulaire de l'escorte méthaniers GTA Phase 1 (flotte partagée)",
+        "threat": "Position installée sur LE hub LNG ouest-africain - verrouille l'escorte si Ph.2 reconduite"
+      },
+      {
+        "city": "Maputo",
+        "country": "Mozambique",
+        "lat": -25.97,
+        "lng": 32.57,
+        "contract": "Remorquage portuaire Maputo (entrée ~2023)",
+        "threat": "Tête de pont pour viser Afungi/Pemba au restart Mozambique LNG"
+      },
+      {
+        "city": "Port-Saïd / Suez",
+        "country": "Égypte",
+        "lat": 31.26,
+        "lng": 32.3,
+        "contract": "Hub historique canal de Suez",
+        "threat": "Capacité de redéploiement rapide vers l'Afrique de l'Est"
+      },
+      {
+        "city": "Felixstowe / Londres",
+        "country": "Royaume-Uni",
+        "lat": 51.96,
+        "lng": 1.35,
+        "contract": "Towage portuaire UK + services éolien offshore mer du Nord",
+        "threat": "Positionné sur les ports de marshalling est-anglais (Hornsea, EA3)"
+      },
+      {
+        "city": "Göteborg",
+        "country": "Suède",
+        "lat": 57.7,
+        "lng": 11.95,
+        "contract": "Hub Scandinavie/Baltique",
+        "threat": "Porte d'entrée vers le marché éolien balte (Pologne, Danemark)"
+      }
+    ],
+    "boluda_positioning": "Svitzer est le concurrent n°1 sur les contrats LNG africains. Contre-attaque : surenchérir en qualité sur le renouvellement GTA et verrouiller Baleine Ph.3 + Congo LNG avant qu'ils n'y arrivent."
+  },
+  {
+    "id": "SMIT",
+    "name": "SMIT Towage (Boskalis)",
+    "parent": "Boskalis",
+    "color": "#fb923c",
+    "threat_level": "MOYEN",
+    "bases": [
+      {
+        "city": "Le Cap (station salvage)",
+        "country": "Afrique du Sud",
+        "lat": -33.91,
+        "lng": 18.43,
+        "contract": "Station de sauvetage SMIT Salvage - couverture route du Cap",
+        "threat": "Présence salvage convertible en towage terminal"
+      },
+      {
+        "city": "Soyo",
+        "country": "Angola",
+        "lat": -6.13,
+        "lng": 12.37,
+        "contract": "Towage terminal Angola LNG (présence historique)",
+        "threat": "Référence locale pour tout renouvellement Angola LNG / Congo River"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "Pays-Bas",
+        "lat": 51.95,
+        "lng": 4.14,
+        "contract": "Cœur historique SMIT/Boskalis - towage portuaire + offshore wind T&I",
+        "threat": "Domine le hub de Rotterdam, frontal sur IJmuiden Ver et Princess Elisabeth"
+      }
+    ],
+    "boluda_positioning": "SMIT reste fort en salvage mais sa couverture towage terminal en Afrique de l'Ouest s'est réduite : fenêtre pour reprendre Soyo et bloquer leur retour."
+  },
+  {
+    "id": "KOTUG",
+    "name": "KOTUG International",
+    "parent": "KOTUG",
+    "color": "#facc15",
+    "threat_level": "ÉLEVÉ",
+    "bases": [
+      {
+        "city": "Pemba / Afungi",
+        "country": "Mozambique",
+        "lat": -12.96,
+        "lng": 40.55,
+        "contract": "Contrat marine services Mozambique LNG signé pré-suspension (2020) - repositionnement attendu au restart 2026",
+        "threat": "Si le contrat est réactivé tel quel, le towage MOF Afungi est verrouillé pour 3+ ans"
+      },
+      {
+        "city": "Kribi",
+        "country": "Cameroun",
+        "lat": 2.94,
+        "lng": 9.91,
+        "contract": "Opérations de remorquage port en eau profonde de Kribi (JV locale)",
+        "threat": "Base pivot golfe de Guinée Sud - proche Congo LNG et Gabon"
+      },
+      {
+        "city": "Rotterdam (HQ)",
+        "country": "Pays-Bas",
+        "lat": 51.91,
+        "lng": 4.48,
+        "contract": "Siège KOTUG - towage offshore wind, LNG terminals, long-distance tows",
+        "threat": "Leader européen du tow flotteurs éolien (références flottant) - rival direct sur AO6 Méditerranée"
+      }
+    ],
+    "boluda_positioning": "URGENT : vérifier le statut du contrat KOTUG-Mozambique LNG post-force-majeure. S'il est renégocié, Boluda doit déposer une offre alternative dès le tender d'août 2026."
+  },
+  {
+    "id": "AMSOL",
+    "name": "AMSOL",
+    "parent": "African Marine Solutions (RSA)",
+    "color": "#f87171",
+    "threat_level": "MOYEN",
+    "bases": [
+      {
+        "city": "Le Cap",
+        "country": "Afrique du Sud",
+        "lat": -33.92,
+        "lng": 18.39,
+        "contract": "Towage, bunkering support et standby - flotte RSA",
+        "threat": "Champion local protégé par le contenu sud-africain (B-BBEE)"
+      },
+      {
+        "city": "Saldanha Bay",
+        "country": "Afrique du Sud",
+        "lat": -33.03,
+        "lng": 17.95,
+        "contract": "Support au terminal minerai de fer de Saldanha",
+        "threat": "⚠ Directement sur notre cible terminal minier ZAF-SALDANHA : compétiteur installé"
+      },
+      {
+        "city": "Durban",
+        "country": "Afrique du Sud",
+        "lat": -29.87,
+        "lng": 31.03,
+        "contract": "Base towage & salvage côte est RSA",
+        "threat": "Couverture du corridor Mozambique Sud"
+      }
+    ],
+    "boluda_positioning": "En RSA, jouer le partenariat plutôt que la confrontation : une JV avec un acteur local B-BBEE est la seule voie d'entrée crédible sur Saldanha et Richards Bay."
+  },
+  {
+    "id": "POMARITIME",
+    "name": "P&O Maritime Logistics",
+    "parent": "DP World",
+    "color": "#fda4af",
+    "threat_level": "MOYEN",
+    "bases": [
+      {
+        "city": "Maputo (MPDC)",
+        "country": "Mozambique",
+        "lat": -25.99,
+        "lng": 32.6,
+        "contract": "Services maritimes du port de Maputo via concession DP World",
+        "threat": "Adossé à DP World : capacité à bundler port + towage dans les concessions"
+      },
+      {
+        "city": "Beira",
+        "country": "Mozambique",
+        "lat": -19.83,
+        "lng": 34.84,
+        "contract": "Support portuaire corridor de Beira",
+        "threat": "Couverture du corridor minier Moatize (charbon/graphite)"
+      }
+    ],
+    "boluda_positioning": "P&O gagne par les concessions portuaires DP World. Riposte : cibler les terminaux où DP World n'est PAS concessionnaire (Pemba, Nacala, Toamasina)."
+  },
+  {
+    "id": "ALCOM",
+    "name": "ALCOM Energy Services",
+    "parent": "Partenaire Local Content (Mauritanie)",
+    "color": "#10b981",
+    "threat_level": "PARTENAIRE (Logistique & Ravitaillement)",
+    "bases": [
+      {
+        "city": "Nouakchott",
+        "country": "Mauritanie",
+        "lat": 18.09,
+        "lng": -15.98,
+        "contract": "Base logistique portuaire et approvisionnement offshore",
+        "threat": "Fournisseur local clé pour le contenu local obligatoire MSGBC"
+      },
+      {
+        "city": "Dakar",
+        "country": "Sénégal",
+        "lat": 14.69,
+        "lng": -17.44,
+        "contract": "Support logistique et distribution de gaz industriels",
+        "threat": "Synergie possible pour la logistique de démarrage de projets"
+      }
+    ],
+    "boluda_positioning": "S'appuyer sur ALCOM comme partenaire local de choix pour la logistique portuaire et le stockage lors des phases de mobilisation sur GTA et Yakaar-Teranga."
+  },
+  {
+    "id": "DEPARENTIS",
+    "name": "Deparentis",
+    "parent": "Partenaire Local Content (Sénégal)",
+    "color": "#10b981",
+    "threat_level": "PARTENAIRE (Levés Subsea & Hydrographie)",
+    "bases": [
+      {
+        "city": "Dakar",
+        "country": "Sénégal",
+        "lat": 14.68,
+        "lng": -17.45,
+        "contract": "Levés bathymétriques, géophysique côtière et monitoring subsea",
+        "threat": "Partenaire technologique local accrédité par l'État du Sénégal"
+      }
+    ],
+    "boluda_positioning": "Collaborer activement avec Deparentis sur les contrats d'installation subsea et d'inspection de pipelines (GTA, Sangomar) pour satisfaire aux exigences de contenu local sénégalais."
+  },
+  {
+    "id": "MAURILOG",
+    "name": "Maurilog",
+    "parent": "Groupe local / DB Schenker Partner (Mauritanie)",
+    "color": "#3b82f6",
+    "threat_level": "RIVAL SUPPORT (Bases logistiques)",
+    "bases": [
+      {
+        "city": "Nouakchott",
+        "country": "Mauritanie",
+        "lat": 18.02,
+        "lng": -15.97,
+        "contract": "Gestion de la base logistique BP GTA et stockage offshore",
+        "threat": "Contrôle l'accès logistique terrestre et portuaire majeur de Nouakchott"
+      },
+      {
+        "city": "Nouadhibou",
+        "country": "Mauritanie",
+        "lat": 20.93,
+        "lng": -17.03,
+        "contract": "Transit douanier et services portuaires généraux",
+        "threat": "Capacité à capter les tenders d'agence maritime intégrés"
+      }
+    ],
+    "boluda_positioning": "Maurilog domine la manutention terrestre. Boluda doit se positionner comme le partenaire maritime exclusif pour leurs besoins de remorquage lourd et d'assistance aux terminaux."
+  },
+  {
+    "id": "TTSM",
+    "name": "TTSM (Tous Travaux Sous Marins)",
+    "parent": "Acteur local historique (Sénégal)",
+    "color": "#3b82f6",
+    "threat_level": "RIVAL SUPPORT (Travaux subsea)",
+    "bases": [
+      {
+        "city": "Dakar",
+        "country": "Sénégal",
+        "lat": 14.67,
+        "lng": -17.42,
+        "contract": "Travaux de plongée, pose de câbles et inspections sous-marines",
+        "threat": "Installé depuis 1965 avec une flotte de support côtier opérationnelle"
+      }
+    ],
+    "boluda_positioning": "Suivre de près leurs contrats de sous-traitance avec Eiffage et Saipem sur le Hub GTA. Proposer une offre conjointe combinant remorquage Boluda et plongée TTSM."
+  },
+  {
+    "id": "TECNOAMBIENTE",
+    "name": "Tecnoambiente",
+    "parent": "Acteur International (Espagne/Sénégal)",
+    "color": "#3b82f6",
+    "threat_level": "RIVAL SUPPORT (Levés environnementaux)",
+    "bases": [
+      {
+        "city": "Dakar (Hub)",
+        "country": "Sénégal",
+        "lat": 14.681,
+        "lng": -17.452,
+        "contract": "Études d'impact environnemental et caractérisation de sites subsea",
+        "threat": "Forte présence technique européenne projetée sur les projets offshore sénégalais"
+      }
+    ],
+    "boluda_positioning": "Surveiller leurs campagnes océanographiques sur Sangomar et GTA. Proposer l'affrètement de nos remorqueurs locaux comme plateformes d'études pour leurs missions."
+  },
+  {
+    "id": "OCTOMARINE",
+    "name": "Octo Marine",
+    "parent": "Acteur Local (Mauritanie)",
+    "color": "#10b981",
+    "threat_level": "PARTENAIRE (Logistique & Consignation)",
+    "bases": [
+      {
+        "city": "Nouakchott",
+        "country": "Mauritanie",
+        "lat": 18.1,
+        "lng": -15.99,
+        "contract": "Consignation de navires, logistique équipage, transit et avitaillement",
+        "threat": "Agent local agile avec de bonnes relations portuaires"
+      }
+    ],
+    "boluda_positioning": "Utiliser comme agent de consignation local privilégié pour nos mouvements de flotte et escales techniques en Mauritanie."
+  },
+  {
+    "id": "SENEQUIP",
+    "name": "Senequip",
+    "parent": "Acteur Local (Sénégal)",
+    "color": "#10b981",
+    "threat_level": "PARTENAIRE (Logistique & Equipement)",
+    "bases": [
+      {
+        "city": "Dakar",
+        "country": "Sénégal",
+        "lat": 14.71,
+        "lng": -17.45,
+        "contract": "Maintenance d'équipements de forage et logistique de pont",
+        "threat": "Accréditation locale de haut niveau dans la chaîne de valeur forage"
+      }
+    ],
+    "boluda_positioning": "Partenaire technique potentiel pour l'approvisionnement en pièces de rechange et la maintenance mécanique légère de notre flotte à Dakar."
+  },
+  {
+    "id": "LIGHTHOUSE_MAR",
+    "name": "Lighthouse Maritime Services",
+    "parent": "Acteur local (Sénégal/Mauritanie)",
+    "color": "#3b82f6",
+    "threat_level": "RIVAL SUPPORT (Services maritimes)",
+    "bases": [
+      {
+        "city": "Dakar",
+        "country": "Sénégal",
+        "lat": 14.69,
+        "lng": -17.43,
+        "contract": "Services d'agence maritime, hydrographie légère et assistance portuaire",
+        "threat": "Acteur agile positionné sur la liaison maritime Dakar-Nouakchott"
+      }
+    ],
+    "boluda_positioning": "Surveiller leurs activités d'assistance maritime de petite taille. Maintenir nos standards opérationnels élevés pour capter les gros tenders."
+  },
+  {
+    "id": "LADOL",
+    "name": "LADOL (Lagos Deep Offshore Logistics)",
+    "parent": "Acteur Local Content (Nigeria)",
+    "color": "#10b981",
+    "threat_level": "PARTENAIRE (Zone Franche & Base Logistique)",
+    "bases": [
+      {
+        "city": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "lng": 3.37,
+        "contract": "Intégration FPSO (ex. Egina), réparations de navires, base offshore",
+        "threat": "Seule base logistique à haut tirant d'eau et zone franche intégrée à Lagos"
+      }
+    ],
+    "boluda_positioning": "Utiliser la base LADOL pour les escales de maintenance et réparations navales de notre flotte de remorqueurs ASD opérant dans le golfe de Guinée."
+  },
+  {
+    "id": "INTELS_NGA",
+    "name": "Intels Nigeria",
+    "parent": "Acteur Logistique Majeur (Nigeria)",
+    "color": "#3b82f6",
+    "threat_level": "RIVAL SUPPORT (Bases portuaires pétrolières)",
+    "bases": [
+      {
+        "city": "Onne (Port)",
+        "country": "Nigeria",
+        "lat": 4.72,
+        "lng": 7.15,
+        "contract": "Bases logistiques dédiées à l'oil & gas à Onne, Warri et Port Harcourt",
+        "threat": "Quasi-monopole historique sur la logistique portuaire pétrolière au Nigeria"
+      }
+    ],
+    "boluda_positioning": "Collaborer avec Intels pour garantir l'accès aux postes à quai à Onne pour nos navires d'assistance en contrat offshore profond (ex. Agbami, Egina)."
+  }
+]

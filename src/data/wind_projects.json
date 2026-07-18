@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "WIND-UK-001",
+    "kind": "wind",
+    "name": "Dogger Bank A/B/C",
+    "country": "Royaume-Uni",
+    "operator": "SSE Renewables / Equinor / Vårgrønn",
+    "capacity_mw": 3600,
+    "status": "Construction",
+    "first_power": "2025-2027 (phases)",
+    "lat": 54.75,
+    "lng": 2.0,
+    "subcontractors": [
+      {
+        "name": "Jan De Nul",
+        "role": "T&I Turbines",
+        "scope": "WTIV Voltaire / installation des 277 Haliade-X."
+      },
+      {
+        "name": "Seaway7",
+        "role": "Fondations",
+        "scope": "Transport & installation monopiles phases A/B."
+      },
+      {
+        "name": "NKT / Prysmian",
+        "role": "Câbles",
+        "scope": "Câbles export HVDC vers Teesside."
+      },
+      {
+        "name": "North Star",
+        "role": "SOV O&M",
+        "scope": "3 SOV hybrides en charter 10 ans."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#38bdf8",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Plus grand parc offshore au monde (3,6 GW). Phase A en production, B/C en installation jusqu'à 2027 depuis Able Seaton (Teesside).",
+          "key_metrics": [
+            "3 600 MW / 277 turbines Haliade-X",
+            "Tug & AHTS: marshalling Teesside + escorte barges"
+          ]
+        },
+        "assets": [
+          {
+            "type": "WTIV",
+            "name": "Voltaire (Jan De Nul)",
+            "spec": "Jack-up géant, jambes 130 m."
+          },
+          {
+            "type": "Tug / AHTS",
+            "name": "Marshalling & Escort Fleet",
+            "spec": "Remorquage fondations Able Seaton → site à chaque rotation."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 PHASE C / DERNIERS PACKAGES MARINS",
+          "future_tenders": [
+            {
+              "title": "Harbour & Escort Towage / Dogger Bank C",
+              "date_estimated": "Octobre 2026",
+              "duration": "14 mois",
+              "platform": "SSE Procurement"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "SSE Renewables",
+            "Equinor",
+            "Jan De Nul"
+          ],
+          "action": "Cibler le Marine Coordinator SSE pour la campagne finale Phase C."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-UK-002",
+    "kind": "wind",
+    "name": "Hornsea 3",
+    "country": "Royaume-Uni",
+    "operator": "Ørsted",
+    "capacity_mw": 2900,
+    "status": "Construction",
+    "first_power": "2027",
+    "lat": 53.9,
+    "lng": 1.9,
+    "subcontractors": [
+      {
+        "name": "DEME Offshore",
+        "role": "Fondations",
+        "scope": "Installation monopiles 2026."
+      },
+      {
+        "name": "NKT",
+        "role": "Câbles export",
+        "scope": "Câbles HVDC Norwich."
+      },
+      {
+        "name": "Siemens Gamesa",
+        "role": "Turbines",
+        "scope": "SG 14-236 DD."
+      },
+      {
+        "name": "Van Oord",
+        "role": "Câbles array",
+        "scope": "Pose inter-éoliennes."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#38bdf8",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "3e phase du cluster Hornsea (2,9 GW), COD 2027 / pic d'installation 2026-2027.",
+          "key_metrics": [
+            "2 900 MW",
+            "Tow-out monopiles + support installation"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Installation Support Fleet",
+            "spec": "Positionnement barges, escorte convois est-anglais."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 PIC D'INSTALLATION",
+          "future_tenders": [
+            {
+              "title": "Towage & Barge Assist / Foundation Campaign",
+              "date_estimated": "Septembre 2026",
+              "duration": "18 mois",
+              "platform": "Ørsted Marine Procurement"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Ørsted",
+            "DEME",
+            "Van Oord"
+          ],
+          "action": "La fenêtre fondations 2026-27 se contracte maintenant."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-UK-003",
+    "kind": "wind",
+    "name": "Sofia",
+    "country": "Royaume-Uni",
+    "operator": "RWE",
+    "capacity_mw": 1400,
+    "status": "Construction",
+    "first_power": "2026",
+    "lat": 55.1,
+    "lng": 2.5,
+    "subcontractors": [
+      {
+        "name": "Cadeler",
+        "role": "T&I Turbines",
+        "scope": "Wind Osprey / 100 turbines SG 14-222."
+      },
+      {
+        "name": "Seaway7",
+        "role": "Fondations",
+        "scope": "Monopiles + câbles array."
+      },
+      {
+        "name": "Prysmian",
+        "role": "Câbles export",
+        "scope": "Liaison HVDC 220 km."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#38bdf8",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "1,4 GW sur Dogger Bank Sud, commissioning progressif 2026.",
+          "key_metrics": [
+            "100 × SG 14-222",
+            "Assistance jack-up + O&M Teesside"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Teesside Support Fleet",
+            "spec": "Assistance portuaire continue commissioning."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 COMMISSIONING 2026",
+          "future_tenders": [
+            {
+              "title": "Commissioning Marine Support / Sofia",
+              "date_estimated": "Août 2026",
+              "duration": "10 mois",
+              "platform": "RWE Procurement"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "RWE",
+            "Cadeler"
+          ],
+          "action": "Accord-cadre RWE mer du Nord (Sofia + Thor + Norfolk)."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-UK-004",
+    "kind": "wind",
+    "name": "East Anglia THREE",
+    "country": "Royaume-Uni",
+    "operator": "ScottishPower Renewables (Iberdrola)",
+    "capacity_mw": 1400,
+    "status": "Construction",
+    "first_power": "2026",
+    "lat": 52.7,
+    "lng": 2.4,
+    "subcontractors": [
+      {
+        "name": "Jan De Nul",
+        "role": "T&I",
+        "scope": "Les Alizés / fondations & turbines."
+      },
+      {
+        "name": "Navantia-Windar",
+        "role": "Jackets (Espagne)",
+        "scope": "Fabrication jackets à Fene/Avilés / lien espagnol direct."
+      },
+      {
+        "name": "Siemens Gamesa",
+        "role": "Turbines",
+        "scope": "SG 14-236."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#38bdf8",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "1,4 GW au large du Suffolk, COD fin 2026. Iberdrola : passerelle naturelle Boluda (Espagne).",
+          "key_metrics": [
+            "Jackets fabriqués en Galice (Navantia-Windar)",
+            "Relation Iberdrola-Boluda à activer"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Lowestoft Support Fleet",
+            "spec": "Base O&M Lowestoft."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 FIN D'INSTALLATION",
+          "future_tenders": [
+            {
+              "title": "O&M Marine Services / EA3",
+              "date_estimated": "Janvier 2027",
+              "duration": "60 mois",
+              "platform": "Iberdrola Procurement"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Iberdrola",
+            "ScottishPower"
+          ],
+          "action": "Activer la relation groupe Iberdrola en Espagne."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-UK-005",
+    "kind": "wind",
+    "name": "Berwick Bank",
+    "country": "Royaume-Uni (Écosse)",
+    "operator": "SSE Renewables",
+    "capacity_mw": 4100,
+    "status": "Pre-FID",
+    "first_power": "2030+",
+    "lat": 56.2,
+    "lng": -1.9,
+    "subcontractors": [
+      {
+        "name": "Packages en attribution",
+        "role": "EPCI",
+        "scope": "Consentement obtenu 2025 / fondations, câbles et T&I à contracter 2026-2027."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#38bdf8",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "4,1 GW / l'un des plus grands projets consentis au monde. FID attendue 2026-27, CfD AR7.",
+          "key_metrics": [
+            "4 100 MW",
+            "Tout le marin reste à contracter"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Forth Ports Marshalling",
+            "spec": "Leith/Dundee comme hubs probables."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 PRÉ-FID",
+          "future_tenders": [
+            {
+              "title": "Marine Spread Pre-Qualification",
+              "date_estimated": "Mars 2027",
+              "duration": "Qualification",
+              "platform": "SSE Procurement"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "SSE Renewables"
+          ],
+          "action": "Se pré-qualifier dès l'ouverture du registre fournisseurs."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-UK-006",
+    "kind": "wind",
+    "name": "Green Volt (flottant)",
+    "country": "Royaume-Uni (Écosse)",
+    "operator": "Flotation Energy / Vårgrønn",
+    "capacity_mw": 560,
+    "status": "Development",
+    "first_power": "2029",
+    "lat": 57.7,
+    "lng": -0.5,
+    "subcontractors": [
+      {
+        "name": "Port d'Ardersier",
+        "role": "Assemblage flotteurs",
+        "scope": "Hub d'intégration des semi-subs."
+      },
+      {
+        "name": "Flotteurs acier (TBD)",
+        "role": "Fabrication",
+        "scope": "Attribution 2026 / chaque flotteur remorqué sur site."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#e879f9",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Premier flottant commercial d'Europe (INTOG, alim. plateformes O&G). CfD obtenu, COD 2029.",
+          "key_metrics": [
+            "560 MW flottant",
+            "Tow-out de CHAQUE flotteur = cœur de métier AHTS"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Float Tow & Mooring Fleet",
+            "spec": "Remorquage Ardersier → site + anchor handling."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 PACKAGES FLOTTANT EN ATTRIBUTION",
+          "future_tenders": [
+            {
+              "title": "Tow-out & Hook-up Fleet / Green Volt",
+              "date_estimated": "Décembre 2026",
+              "duration": "24 mois",
+              "platform": "Flotation Energy"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Flotation Energy",
+            "Vårgrønn"
+          ],
+          "action": "Référence flottant à construire ici pour gagner ensuite ScotWind."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-UK-007",
+    "kind": "wind",
+    "name": "Moray West",
+    "country": "Royaume-Uni (Écosse)",
+    "operator": "Ocean Winds",
+    "capacity_mw": 882,
+    "status": "Production",
+    "first_power": "2025",
+    "lat": 58.1,
+    "lng": -2.9,
+    "subcontractors": [
+      {
+        "name": "DEME (Orion)",
+        "role": "Fondations",
+        "scope": "Monopiles XXL installés 2023-24."
+      },
+      {
+        "name": "Siemens Gamesa",
+        "role": "Turbines",
+        "scope": "SG 14.7-222 / premières 14,7 MW au monde."
+      },
+      {
+        "name": "NKT",
+        "role": "Câbles",
+        "scope": "Export 220 kV."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#38bdf8",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "882 MW pleinement en service (Ocean Winds = JV EDPR/ENGIE).",
+          "key_metrics": [
+            "O&M 25 ans depuis Buckie",
+            "Porte d'entrée Ocean Winds (aussi sur AO6 France & WindFloat)"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Invergordon Support",
+            "spec": "Interventions lourdes Cromarty Firth."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 O&M RÉCURRENT",
+          "future_tenders": [
+            {
+              "title": "Heavy Maintenance Marine Support",
+              "date_estimated": "Mai 2027",
+              "duration": "36 mois",
+              "platform": "Ocean Winds"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Ocean Winds",
+            "EDPR",
+            "ENGIE"
+          ],
+          "action": "Compte global Ocean Winds : Moray + AO6 + WindFloat en un accord."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-DE-001",
+    "kind": "wind",
+    "name": "He Dreiht",
+    "country": "Allemagne",
+    "operator": "EnBW",
+    "capacity_mw": 960,
+    "status": "Construction",
+    "first_power": "2026",
+    "lat": 54.3,
+    "lng": 6.1,
+    "subcontractors": [
+      {
+        "name": "Cadeler",
+        "role": "T&I Turbines",
+        "scope": "Wind Orca / 64 × Vestas V236."
+      },
+      {
+        "name": "EEW SPC",
+        "role": "Monopiles",
+        "scope": "Fabrication Rostock."
+      },
+      {
+        "name": "NKT",
+        "role": "Câbles",
+        "scope": "Inter-array + export."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#818cf8",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "960 MW sans subvention, marshalling Eemshaven, COD 2026.",
+          "key_metrics": [
+            "64 × V236-15MW",
+            "Marshalling Eemshaven + assistance jack-up"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Eemshaven Marshalling Fleet",
+            "spec": "Remorquage composants + assistance WTIV."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 COMMISSIONING 2026",
+          "future_tenders": [
+            {
+              "title": "Commissioning & O&M Port Towage",
+              "date_estimated": "Septembre 2026",
+              "duration": "12 mois",
+              "platform": "EnBW Procurement"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "EnBW",
+            "Cadeler",
+            "Vestas"
+          ],
+          "action": "Package marin O&M avant mise en service complète."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-DE-002",
+    "kind": "wind",
+    "name": "Borkum Riffgrund 3",
+    "country": "Allemagne",
+    "operator": "Ørsted / Glennmont",
+    "capacity_mw": 913,
+    "status": "Construction",
+    "first_power": "2026",
+    "lat": 53.96,
+    "lng": 6.55,
+    "subcontractors": [
+      {
+        "name": "Siemens Gamesa",
+        "role": "Turbines",
+        "scope": "83 × SG 11.0-200."
+      },
+      {
+        "name": "Van Oord",
+        "role": "Fondations",
+        "scope": "Monopiles."
+      },
+      {
+        "name": "Jan De Nul",
+        "role": "Câbles",
+        "scope": "Inter-array."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#818cf8",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "913 MW Ørsted en mer du Nord allemande, COD 2026.",
+          "key_metrics": [
+            "83 turbines",
+            "Cluster Borkum : mutualisation O&M possible"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Norden-Norddeich Support",
+            "spec": "Base O&M cluster Borkum."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 FIN D'INSTALLATION",
+          "future_tenders": [
+            {
+              "title": "Cluster O&M Marine Support / Borkum",
+              "date_estimated": "Février 2027",
+              "duration": "60 mois",
+              "platform": "Ørsted"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Ørsted"
+          ],
+          "action": "Offre cluster (BR1+BR2+BR3+Gode Wind) = volume × 4."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-DE-003",
+    "kind": "wind",
+    "name": "Windanker (Baltique)",
+    "country": "Allemagne",
+    "operator": "Iberdrola",
+    "capacity_mw": 315,
+    "status": "Construction",
+    "first_power": "2026",
+    "lat": 54.88,
+    "lng": 13.85,
+    "subcontractors": [
+      {
+        "name": "Vestas",
+        "role": "Turbines",
+        "scope": "21 × V236-15MW."
+      },
+      {
+        "name": "Windar Renovables",
+        "role": "Monopiles (Espagne)",
+        "scope": "Fabrication Avilés."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#818cf8",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "3e parc baltique d'Iberdrola (cluster avec Wikinger/Baltic Eagle), COD 2026. Hub O&M Mukran.",
+          "key_metrics": [
+            "Cluster Iberdrola Baltique ~1,1 GW",
+            "Monopiles espagnols (Windar)"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Mukran Port Fleet",
+            "spec": "Support cluster baltique."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 COMMISSIONING",
+          "future_tenders": [
+            {
+              "title": "Baltic Cluster Marine Services / Iberdrola",
+              "date_estimated": "Novembre 2026",
+              "duration": "36 mois",
+              "platform": "Iberdrola Procurement"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Iberdrola"
+          ],
+          "action": "Relation Espagne + cluster baltique = double levier."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-NL-001",
+    "kind": "wind",
+    "name": "IJmuiden Ver Alpha",
+    "country": "Pays-Bas",
+    "operator": "Vattenfall / CIP",
+    "capacity_mw": 2000,
+    "status": "Development",
+    "first_power": "2029",
+    "lat": 52.8,
+    "lng": 3.6,
+    "subcontractors": [
+      {
+        "name": "Packages en attribution",
+        "role": "EPCI",
+        "scope": "Fondations & T&I à contracter / Van Oord/Boskalis candidats."
+      },
+      {
+        "name": "Vestas",
+        "role": "Turbines",
+        "scope": "V236 pressenties."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#fb923c",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "2 GW, plus grand site néerlandais. Monopiles dès 2027 depuis Rotterdam/Eemshaven.",
+          "key_metrics": [
+            "Installation 2027-2029",
+            "Rotterdam = fief KOTUG/SMIT : bataille frontale"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Rotterdam Marshalling Fleet",
+            "spec": "Towage monopiles XXL 3 ans."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 PACKAGES EN STRUCTURATION",
+          "future_tenders": [
+            {
+              "title": "Monopile Tow & Installation Assist",
+              "date_estimated": "Décembre 2026",
+              "duration": "30 mois",
+              "platform": "Vattenfall Procurement"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Vattenfall",
+            "CIP",
+            "Copenhagen Offshore Partners"
+          ],
+          "action": "Différencier par flotte espagnole et prix face à KOTUG/SMIT."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-NL-002",
+    "kind": "wind",
+    "name": "Hollandse Kust West VI/VII",
+    "country": "Pays-Bas",
+    "operator": "Ecowende (Shell/Eneco) / RWE",
+    "capacity_mw": 1520,
+    "status": "Construction",
+    "first_power": "2026-2027",
+    "lat": 52.7,
+    "lng": 3.8,
+    "subcontractors": [
+      {
+        "name": "Van Oord",
+        "role": "BoP complet",
+        "scope": "Fondations + câbles + installation (Boreas)."
+      },
+      {
+        "name": "Vestas",
+        "role": "Turbines",
+        "scope": "V236-15MW."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#fb923c",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "2×760 MW « éco-conçus » (lot VI Ecowende, lot VII RWE), installation 2025-2027.",
+          "key_metrics": [
+            "1 520 MW combinés",
+            "Installation Van Oord depuis IJmuiden"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "IJmuiden Support Fleet",
+            "spec": "Assistance Boreas + barges."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 INSTALLATION EN COURS",
+          "future_tenders": [
+            {
+              "title": "O&M Marine Services / HKW",
+              "date_estimated": "Juin 2027",
+              "duration": "60 mois",
+              "platform": "Shell/Eneco"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Shell",
+            "Eneco",
+            "RWE",
+            "Van Oord"
+          ],
+          "action": "Compte Shell : pont vers leurs FPSO africains également."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-BE-001",
+    "kind": "wind",
+    "name": "Princess Elisabeth Zone",
+    "country": "Belgique",
+    "operator": "État belge / Elia",
+    "capacity_mw": 3500,
+    "status": "Pre-FID",
+    "first_power": "2029-2030",
+    "lat": 51.55,
+    "lng": 2.6,
+    "subcontractors": [
+      {
+        "name": "TM Edison (Jan De Nul + DEME)",
+        "role": "Île énergétique",
+        "scope": "23 caissons béton remorqués et coulés / towage majeur en cours."
+      },
+      {
+        "name": "Elia",
+        "role": "HVDC",
+        "scope": "Raccordement île → côte."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#a78bfa",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "3,5 GW en 3 lots + île énergétique artificielle. Attributions 2026-2027.",
+          "key_metrics": [
+            "Île: caissons = réplique du savoir-faire GTA",
+            "3,5 GW à installer 2027-2030"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Ostende/Zeebrugge Fleet",
+            "spec": "Marshalling + remorquage caissons."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 ÎLE + LOTS EN ATTRIBUTION",
+          "future_tenders": [
+            {
+              "title": "Caisson Tow & Ballast Support / Ph.2",
+              "date_estimated": "Novembre 2026",
+              "duration": "12 mois",
+              "platform": "TM Edison"
+            },
+            {
+              "title": "Marine Spread / PEZ Lot 1",
+              "date_estimated": "Juin 2027",
+              "duration": "24 mois",
+              "platform": "Lauréat Lot 1"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Jan De Nul",
+            "DEME",
+            "Elia"
+          ],
+          "action": "Dossier de référence GTA à présenter à TM Edison."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-DK-001",
+    "kind": "wind",
+    "name": "Thor",
+    "country": "Danemark",
+    "operator": "RWE",
+    "capacity_mw": 1080,
+    "status": "Construction",
+    "first_power": "2027",
+    "lat": 56.3,
+    "lng": 7.6,
+    "subcontractors": [
+      {
+        "name": "Cadeler",
+        "role": "T&I",
+        "scope": "Wind Peak / turbines 2026."
+      },
+      {
+        "name": "Siemens Gamesa",
+        "role": "Turbines",
+        "scope": "72 × SG 14-236."
+      },
+      {
+        "name": "Bladt Industries",
+        "role": "TP/monopiles",
+        "scope": "Fabrication danoise."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#fbbf24",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Plus grand parc danois, installation depuis Esbjerg, COD 2027.",
+          "key_metrics": [
+            "1 080 MW",
+            "Esbjerg = capitale éolienne européenne"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Esbjerg Marshalling Fleet",
+            "spec": "Assistance rotations WTIV."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 INSTALLATION",
+          "future_tenders": [
+            {
+              "title": "O&M Marine Support / Thorsminde",
+              "date_estimated": "Mars 2027",
+              "duration": "60 mois",
+              "platform": "RWE"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "RWE",
+            "Cadeler"
+          ],
+          "action": "Coupler avec Sofia (UK) en accord-cadre RWE."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-PL-001",
+    "kind": "wind",
+    "name": "Baltic Power",
+    "country": "Pologne",
+    "operator": "Orlen / Northland Power",
+    "capacity_mw": 1140,
+    "status": "Construction",
+    "first_power": "2026",
+    "lat": 55.0,
+    "lng": 17.8,
+    "subcontractors": [
+      {
+        "name": "Cadeler",
+        "role": "T&I Turbines",
+        "scope": "76 × V236."
+      },
+      {
+        "name": "Van Oord",
+        "role": "Fondations",
+        "scope": "Monopiles 2025."
+      },
+      {
+        "name": "Baltic Towers (Gdańsk)",
+        "role": "Tours",
+        "scope": "Fabrication locale."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#f472b6",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Premier parc polonais, premier courant 2026. Ouvre un marché balte de 6+ GW.",
+          "key_metrics": [
+            "1 140 MW",
+            "Marché vierge en towage offshore"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Gdańsk/Łeba Fleet",
+            "spec": "Marshalling + base O&M Łeba."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 COMMISSIONING + MARCHÉ BALTE",
+          "future_tenders": [
+            {
+              "title": "O&M Port & Standby Towage / Łeba",
+              "date_estimated": "Octobre 2026",
+              "duration": "60 mois",
+              "platform": "Baltic Power JV"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Orlen",
+            "Northland Power",
+            "Baltic Power",
+            "Ørsted"
+          ],
+          "action": "S'implanter via Baltic Power = leadership sur les 6 GW suivants."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-PL-002",
+    "kind": "wind",
+    "name": "Bałtyk II & III",
+    "country": "Pologne",
+    "operator": "Equinor / Polenergia",
+    "capacity_mw": 1440,
+    "status": "Construction",
+    "first_power": "2027-2028",
+    "lat": 55.15,
+    "lng": 16.9,
+    "subcontractors": [
+      {
+        "name": "Vestas",
+        "role": "Turbines",
+        "scope": "V236-15MW, pré-assemblage Świnoujście."
+      },
+      {
+        "name": "Cadeler",
+        "role": "T&I",
+        "scope": "Campagnes 2026-2027."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#f472b6",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "2×720 MW Equinor/Polenergia, installation 2026-2028 depuis Świnoujście.",
+          "key_metrics": [
+            "1 440 MW",
+            "2e vague balte / concurrence towage minimale"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Świnoujście Terminal Fleet",
+            "spec": "Nouveau terminal d'installation."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 PRÉ-INSTALLATION",
+          "future_tenders": [
+            {
+              "title": "Installation Port Towage / Świnoujście",
+              "date_estimated": "Janvier 2027",
+              "duration": "30 mois",
+              "platform": "Equinor Procurement"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Equinor",
+            "Polenergia"
+          ],
+          "action": "Equinor connaît Boluda via l'Afrique : levier de compte global."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-NO-001",
+    "kind": "wind",
+    "name": "Utsira Nord (flottant)",
+    "country": "Norvège",
+    "operator": "Attribution en cours (consortiums)",
+    "capacity_mw": 1500,
+    "status": "Pre-FID",
+    "first_power": "2030+",
+    "lat": 59.3,
+    "lng": 4.5,
+    "subcontractors": [
+      {
+        "name": "Consortiums candidats",
+        "role": "Développeurs",
+        "scope": "Equinor, Vårgrønn, Odfjell Oceanwind…"
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#e879f9",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "1,5 GW flottant norvégien / attribution des 3 zones 2025-26. Référence mondiale flottant à venir.",
+          "key_metrics": [
+            "3 × 500 MW flottant",
+            "Tow-out massif depuis les fjords"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Norwegian Fjord Assembly",
+            "spec": "Chaque flotteur assemblé puis remorqué / volume AHTS énorme."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 ATTRIBUTION ZONES",
+          "future_tenders": [
+            {
+              "title": "Floater Tow & Mooring Pre-Qual",
+              "date_estimated": "Septembre 2027",
+              "duration": "Qualification",
+              "platform": "Lauréats zones"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Equinor",
+            "Vårgrønn",
+            "Odfjell Oceanwind"
+          ],
+          "action": "Se pré-positionner auprès des 3 consortiums avant attribution."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-IE-001",
+    "kind": "wind",
+    "name": "Codling Wind Park",
+    "country": "Irlande",
+    "operator": "EDF Renewables / Fred. Olsen Seawind",
+    "capacity_mw": 1300,
+    "status": "Development",
+    "first_power": "2029+",
+    "lat": 53.05,
+    "lng": -5.7,
+    "subcontractors": [
+      {
+        "name": "Packages en attribution",
+        "role": "EPCI",
+        "scope": "Consenting final / packages marins 2026-27."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#34d399",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "1,3 GW au large de Dublin / plus grand projet irlandais, ORESS 1.",
+          "key_metrics": [
+            "1 300 MW",
+            "Marché irlandais naissant, towage non verrouillé"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Dublin/Wicklow Fleet",
+            "spec": "Base marshalling à définir."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 DÉVELOPPEMENT",
+          "future_tenders": [
+            {
+              "title": "Marine Logistics Pre-Qualification",
+              "date_estimated": "Avril 2027",
+              "duration": "Qualification",
+              "platform": "EDF Renewables"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "EDF Renewables",
+            "Fred. Olsen"
+          ],
+          "action": "Compte EDF transverse : Irlande + France + Afrique."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-001",
+    "kind": "wind",
+    "name": "Courseulles-sur-Mer (Calvados)",
+    "country": "France",
+    "operator": "EDF Renouvelables",
+    "capacity_mw": 450,
+    "status": "Production",
+    "first_power": "2025",
+    "lat": 49.45,
+    "lng": -0.5,
+    "subcontractors": [
+      {
+        "name": "DEME Offshore",
+        "role": "T&I",
+        "scope": "Installation fondations & turbines."
+      },
+      {
+        "name": "Siemens Gamesa",
+        "role": "Turbines",
+        "scope": "64 × SG 7MW (Le Havre)."
+      },
+      {
+        "name": "LDA",
+        "role": "O&M CTV",
+        "scope": "Transferts depuis Ouistreham."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#34d399",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "450 MW normand en service. O&M Caen-Ouistreham 25 ans.",
+          "key_metrics": [
+            "Boluda France au Havre à 1h",
+            "Turbines fabriquées au Havre"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Boluda Le Havre (proximité)",
+            "spec": "Avantage géographique direct interventions."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 O&M RÉCURRENT",
+          "future_tenders": [
+            {
+              "title": "Maintenance Marine Interventions / Calvados",
+              "date_estimated": "Février 2027",
+              "duration": "36 mois",
+              "platform": "EDF Renouvelables"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "EDF Renouvelables"
+          ],
+          "action": "Astreinte interventions lourdes sur les 3 parcs normands EDF."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-002",
+    "kind": "wind",
+    "name": "Provence Grand Large (flottant)",
+    "country": "France",
+    "operator": "EDF Renouvelables",
+    "capacity_mw": 25,
+    "status": "Production",
+    "first_power": "2024",
+    "lat": 43.25,
+    "lng": 4.85,
+    "subcontractors": [
+      {
+        "name": "SBM Offshore",
+        "role": "Flotteurs TLP",
+        "scope": "Technologie TLP / 3 unités."
+      },
+      {
+        "name": "Eiffage Métal",
+        "role": "Fabrication",
+        "scope": "Construction des flotteurs à Fos."
+      },
+      {
+        "name": "Bourbon",
+        "role": "Tow & moorings",
+        "scope": "Remorquage et raccordement / concurrent français à surveiller."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#2dd4bf",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Pilote flottant TLP (3×8,3 MW) en service au large de Fos. Vitrine pour les AO commerciaux.",
+          "key_metrics": [
+            "Tow-back maintenance = besoin récurrent",
+            "Boluda Marseille/Fos = base historique"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Boluda Marseille/Fos Fleet",
+            "spec": "Tow-out, positionnement, anchor handling."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 O&M FLOTTANT",
+          "future_tenders": [
+            {
+              "title": "Heavy Maintenance Tow-back PGL",
+              "date_estimated": "Septembre 2027",
+              "duration": "Spot récurrent",
+              "platform": "EDF Renouvelables"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "EDF Renouvelables",
+            "SBM Offshore",
+            "Bourbon"
+          ],
+          "action": "Déloger Bourbon sur les opérations marines flottant Méditerranée."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-003",
+    "kind": "wind",
+    "name": "Saint-Nazaire",
+    "country": "France",
+    "operator": "EDF Renouvelables / EIH",
+    "capacity_mw": 480,
+    "status": "Production",
+    "first_power": "2022",
+    "lat": 47.15,
+    "lng": -2.65,
+    "subcontractors": [
+      {
+        "name": "GE Vernova",
+        "role": "Turbines",
+        "scope": "80 × Haliade 150-6MW (Montoir)."
+      },
+      {
+        "name": "DEME Offshore",
+        "role": "T&I",
+        "scope": "Installation complète."
+      },
+      {
+        "name": "LDA",
+        "role": "O&M",
+        "scope": "Base La Turballe."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#34d399",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Premier parc offshore français (2022), 480 MW.",
+          "key_metrics": [
+            "80 turbines",
+            "O&M La Turballe / Boluda présent à Saint-Nazaire/Nantes"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Boluda Nantes-Saint-Nazaire",
+            "spec": "Base Boluda France dans l'estuaire même."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 O&M RÉCURRENT",
+          "future_tenders": [
+            {
+              "title": "Interventions lourdes / parc SN",
+              "date_estimated": "Mai 2027",
+              "duration": "Spot",
+              "platform": "EDF Renouvelables"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "EDF Renouvelables",
+            "GE Vernova"
+          ],
+          "action": "Boluda opère déjà l'estuaire : contrat d'assistance naturel."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-004",
+    "kind": "wind",
+    "name": "Fécamp",
+    "country": "France",
+    "operator": "EDF / EIH / wpd",
+    "capacity_mw": 497,
+    "status": "Production",
+    "first_power": "2024",
+    "lat": 49.9,
+    "lng": 0.23,
+    "subcontractors": [
+      {
+        "name": "Bouygues TP / Saipem / Boskalis",
+        "role": "Fondations gravitaires",
+        "scope": "71 GBS construites au Havre et remorquées sur site."
+      },
+      {
+        "name": "Siemens Gamesa",
+        "role": "Turbines",
+        "scope": "SG 7MW (Le Havre)."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#34d399",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "497 MW en service / fondations gravitaires remorquées depuis Le Havre (référence towage!).",
+          "key_metrics": [
+            "71 GBS remorquées = précédent towage majeur",
+            "O&M Fécamp 25 ans"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Le Havre GBS Tow Reference",
+            "spec": "Le remorquage des GBS a déjà créé le modèle d'affaires."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 O&M",
+          "future_tenders": [
+            {
+              "title": "Maintenance marine / Fécamp",
+              "date_estimated": "Juin 2027",
+              "duration": "36 mois",
+              "platform": "EDF Renouvelables"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "EDF Renouvelables",
+            "wpd"
+          ],
+          "action": "Capitaliser sur la référence GBS havraise pour les AO normands suivants."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-005",
+    "kind": "wind",
+    "name": "Saint-Brieuc",
+    "country": "France",
+    "operator": "Iberdrola (Ailes Marines)",
+    "capacity_mw": 496,
+    "status": "Production",
+    "first_power": "2024",
+    "lat": 48.85,
+    "lng": -2.55,
+    "subcontractors": [
+      {
+        "name": "Navantia-Windar",
+        "role": "Jackets (Espagne)",
+        "scope": "62 jackets fabriqués à Fene / lien hispano-breton."
+      },
+      {
+        "name": "Van Oord",
+        "role": "T&I",
+        "scope": "Installation Aeolus."
+      },
+      {
+        "name": "Siemens Gamesa",
+        "role": "Turbines",
+        "scope": "SG 8.0-167."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#34d399",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "496 MW Iberdrola en baie de Saint-Brieuc, O&M Lézardrieux.",
+          "key_metrics": [
+            "Jackets espagnols Navantia",
+            "Compte Iberdrola multi-pays"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Brest/Saint-Malo Support",
+            "spec": "Interventions lourdes Manche Ouest."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 O&M",
+          "future_tenders": [
+            {
+              "title": "Marine Support Renewal / Ailes Marines",
+              "date_estimated": "Avril 2027",
+              "duration": "36 mois",
+              "platform": "Iberdrola"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Iberdrola"
+          ],
+          "action": "Même donneur d'ordre que EA3/Windanker : globaliser."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-006",
+    "kind": "wind",
+    "name": "Îles d'Yeu et Noirmoutier",
+    "country": "France",
+    "operator": "Ocean Winds / Sumitomo",
+    "capacity_mw": 496,
+    "status": "Production",
+    "first_power": "2025",
+    "lat": 46.85,
+    "lng": -2.55,
+    "subcontractors": [
+      {
+        "name": "Eiffage Métal / Smulders",
+        "role": "Jackets",
+        "scope": "62 jackets."
+      },
+      {
+        "name": "Fred. Olsen Windcarrier",
+        "role": "T&I Turbines",
+        "scope": "Brave Tern."
+      },
+      {
+        "name": "Siemens Gamesa",
+        "role": "Turbines",
+        "scope": "SG 8.0-167."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#34d399",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "496 MW vendéen en service 2025, O&M Port-Joinville/La Barre-de-Monts.",
+          "key_metrics": [
+            "Ocean Winds / même compte que Moray West & AO6"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Les Sables/Saint-Nazaire Fleet",
+            "spec": "Support Atlantique."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 O&M",
+          "future_tenders": [
+            {
+              "title": "O&M Marine / Yeu-Noirmoutier",
+              "date_estimated": "Août 2027",
+              "duration": "36 mois",
+              "platform": "Ocean Winds"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Ocean Winds",
+            "Sumitomo"
+          ],
+          "action": "Dossier Ocean Winds global (FR+UK+PT)."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-007",
+    "kind": "wind",
+    "name": "Dieppe / Le Tréport",
+    "country": "France",
+    "operator": "Ocean Winds / Sumitomo",
+    "capacity_mw": 496,
+    "status": "Construction",
+    "first_power": "2026",
+    "lat": 50.13,
+    "lng": 1.0,
+    "subcontractors": [
+      {
+        "name": "Eiffage Métal / Smulders",
+        "role": "Jackets",
+        "scope": "62 jackets Le Havre/Hoboken."
+      },
+      {
+        "name": "DEME Offshore",
+        "role": "T&I",
+        "scope": "Installation 2025-26."
+      },
+      {
+        "name": "Siemens Gamesa",
+        "role": "Turbines",
+        "scope": "SG 8.0-167."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#34d399",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Dernier parc AO1/AO2 en installation, COD 2026. O&M Dieppe.",
+          "key_metrics": [
+            "496 MW",
+            "Commissioning 2026 = besoins marins immédiats"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Dieppe Harbour Support",
+            "spec": "Assistance commissioning + barges."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 COMMISSIONING 2026",
+          "future_tenders": [
+            {
+              "title": "Commissioning Marine Support / Le Tréport",
+              "date_estimated": "Octobre 2026",
+              "duration": "12 mois",
+              "platform": "Ocean Winds"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Ocean Winds"
+          ],
+          "action": "Dernière fenêtre commissioning française avant les AO suivants."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-008",
+    "kind": "wind",
+    "name": "AO4 / Centre Manche 1 (Normandie)",
+    "country": "France",
+    "operator": "EDF Renouvelables / Maple Power",
+    "capacity_mw": 1000,
+    "status": "Development",
+    "first_power": "2031",
+    "lat": 49.9,
+    "lng": -0.85,
+    "subcontractors": [
+      {
+        "name": "Packages en attribution",
+        "role": "EPCI",
+        "scope": "Fondations/T&I/câbles à contracter 2026-2028."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#4ade80",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Premier GW normand (AO4), attribué à EDF/Maple Power. Études en cours, construction ~2028.",
+          "key_metrics": [
+            "1 000 MW",
+            "Ports candidats: Le Havre, Cherbourg / bases Boluda"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Cherbourg/Le Havre Hub",
+            "spec": "Marshalling probable sur ports Boluda."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 DÉVELOPPEMENT",
+          "future_tenders": [
+            {
+              "title": "Marine Logistics Pre-Qual / CM1",
+              "date_estimated": "Septembre 2027",
+              "duration": "Qualification",
+              "platform": "EDF Renouvelables"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "EDF Renouvelables",
+            "Maple Power"
+          ],
+          "action": "Verrouiller Le Havre/Cherbourg comme ports de marshalling = contrat naturel."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-009",
+    "kind": "wind",
+    "name": "AO5 / Bretagne Sud Pennavel (flottant)",
+    "country": "France",
+    "operator": "Pennavel (Elicio / BayWa r.e.)",
+    "capacity_mw": 250,
+    "status": "Development",
+    "first_power": "2031",
+    "lat": 47.45,
+    "lng": -3.5,
+    "subcontractors": [
+      {
+        "name": "Flotteurs (TBD)",
+        "role": "Fabrication",
+        "scope": "Technologie en sélection / assemblage probable Brest/Lorient."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#e879f9",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Premier parc flottant commercial français (AO5, attribué 2024). 250 MW au sud de Groix.",
+          "key_metrics": [
+            "Flottant commercial n°1 en France",
+            "Tow-out depuis Brest/Lorient"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Brest/Lorient Float Fleet",
+            "spec": "Remorquage flotteurs + anchor handling."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 PRÉ-CONSTRUCTION",
+          "future_tenders": [
+            {
+              "title": "Float Tow-out & Mooring / Pennavel",
+              "date_estimated": "Mars 2028",
+              "duration": "24 mois",
+              "platform": "Pennavel"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Elicio",
+            "BayWa r.e."
+          ],
+          "action": "MoU précoce avec Pennavel avant que Bourbon/KOTUG ne se positionnent."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-010",
+    "kind": "wind",
+    "name": "AO6 / Méditerranée flottant (Fos & Narbonnaise)",
+    "country": "France",
+    "operator": "EDF/Maple Power (Fos) · Ocean Winds (Narbonnaise)",
+    "capacity_mw": 500,
+    "status": "Development",
+    "first_power": "2031-2032",
+    "lat": 42.9,
+    "lng": 3.7,
+    "subcontractors": [
+      {
+        "name": "Flotteurs (TBD)",
+        "role": "Fabrication",
+        "scope": "Candidats: Eiffage Fos, SBM, Principle Power."
+      },
+      {
+        "name": "Port-La Nouvelle",
+        "role": "Assemblage",
+        "scope": "Hub flottant Occitanie déjà aménagé."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#e879f9",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "2×250 MW flottants attribués (AO6) : Golfe de Fos (EDF/Maple) et Narbonnaise (Ocean Winds). Construction ~2028-2031.",
+          "key_metrics": [
+            "Tow-out depuis Fos & Port-La Nouvelle",
+            "Boluda Marseille = base sur zone"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Boluda Fos/Marseille Fleet",
+            "spec": "Remorquage flotteurs + moorings / opération récurrente."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 PACKAGES FLOTTANT EN STRUCTURATION",
+          "future_tenders": [
+            {
+              "title": "Float Tow-out & Anchor Handling / AO6",
+              "date_estimated": "Décembre 2026",
+              "duration": "36 mois",
+              "platform": "EDF / Ocean Winds"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "EDF Renouvelables",
+            "Ocean Winds",
+            "Maple Power"
+          ],
+          "action": "PRIORITÉ FRANCE : verrouiller les 2 lots AO6 depuis Marseille avant KOTUG."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-011",
+    "kind": "wind",
+    "name": "Pilotes flottants Occitanie (EolMed + EFGL)",
+    "country": "France",
+    "operator": "Qair (EolMed) / Ocean Winds (EFGL)",
+    "capacity_mw": 60,
+    "status": "Production",
+    "first_power": "2024-2025",
+    "lat": 42.95,
+    "lng": 3.25,
+    "subcontractors": [
+      {
+        "name": "BW Ideol",
+        "role": "Flotteurs EolMed",
+        "scope": "Barges béton damping pool."
+      },
+      {
+        "name": "Principle Power",
+        "role": "Flotteurs EFGL",
+        "scope": "WindFloat acier."
+      },
+      {
+        "name": "Eiffage Métal",
+        "role": "Fabrication",
+        "scope": "Flotteurs EFGL à Fos."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#2dd4bf",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "2 fermes pilotes flottantes (3×10 MW chacune) au large de Gruissan/Leucate.",
+          "key_metrics": [
+            "Vitrine flottant Méditerranée",
+            "Tow-back maintenance récurrent vers Port-La Nouvelle"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Port-La Nouvelle Fleet",
+            "spec": "Maintenance lourde = tow-back périodique."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 O&M FLOTTANT",
+          "future_tenders": [
+            {
+              "title": "Tow-back Maintenance Campaigns",
+              "date_estimated": "Mai 2027",
+              "duration": "Spot récurrent",
+              "platform": "Qair / Ocean Winds"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Qair",
+            "Ocean Winds",
+            "BW Ideol",
+            "EDP Renewables"
+          ],
+          "action": "Petits contrats mais références flottant décisives pour AO6/AO9."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-012",
+    "kind": "wind",
+    "name": "AO7 / Sud-Atlantique (Oléron)",
+    "country": "France",
+    "operator": "Attribution en cours",
+    "capacity_mw": 1200,
+    "status": "Pre-FID",
+    "first_power": "2032+",
+    "lat": 45.7,
+    "lng": -1.9,
+    "subcontractors": [
+      {
+        "name": "Candidats",
+        "role": "Développeurs",
+        "scope": "Consortiums en compétition (EDF, TotalEnergies, Iberdrola…)."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#4ade80",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "1-1,2 GW posé au large d'Oléron / attribution attendue 2026. La Rochelle/Bordeaux en hubs.",
+          "key_metrics": [
+            "AO7 : attribution 2026",
+            "Boluda présent à La Rochelle & Bordeaux"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "La Rochelle-Pallice Hub",
+            "spec": "Base Boluda France sur zone."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 ATTRIBUTION 2026",
+          "future_tenders": [
+            {
+              "title": "Attribution AO7 → packages marins",
+              "date_estimated": "Décembre 2026",
+              "duration": "Attribution",
+              "platform": "DGEC / CRE"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "EDF Renouvelables",
+            "TotalEnergies",
+            "Iberdrola"
+          ],
+          "action": "Approcher TOUS les consortiums candidats avec une offre portuaire La Rochelle."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-013",
+    "kind": "wind",
+    "name": "AO8 / Centre Manche 2",
+    "country": "France",
+    "operator": "Attribution en cours",
+    "capacity_mw": 1500,
+    "status": "Pre-FID",
+    "first_power": "2033+",
+    "lat": 49.75,
+    "lng": -1.2,
+    "subcontractors": [
+      {
+        "name": "Candidats",
+        "role": "Développeurs",
+        "scope": "Attribution 2026-2027 / adjacent à CM1."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#4ade80",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "1,5 GW adjacent à Centre Manche 1. Synergie totale CM1+CM2 (mutualisation ports/flottes).",
+          "key_metrics": [
+            "1 500 MW",
+            "Cherbourg = hub naturel des 2,5 GW Centre Manche"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Cherbourg Hub",
+            "spec": "Mutualisation CM1+CM2."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 ATTRIBUTION",
+          "future_tenders": [
+            {
+              "title": "Attribution AO8",
+              "date_estimated": "Juin 2027",
+              "duration": "Attribution",
+              "platform": "DGEC"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "EDF Renouvelables",
+            "Ocean Winds",
+            "RWE"
+          ],
+          "action": "Offre combinée CM1+CM2 dès maintenant."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-FR-014",
+    "kind": "wind",
+    "name": "AO9 / Extension Méditerranée flottant",
+    "country": "France",
+    "operator": "Attribution en cours",
+    "capacity_mw": 1000,
+    "status": "Pre-FID",
+    "first_power": "2034+",
+    "lat": 42.6,
+    "lng": 3.95,
+    "subcontractors": [
+      {
+        "name": "Candidats",
+        "role": "Développeurs",
+        "scope": "2×500 MW extensions des zones AO6."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#e879f9",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Extensions flottantes des zones AO6 (2×500 MW) / le pipeline méditerranéen passe à 1,5 GW.",
+          "key_metrics": [
+            "1 000 MW flottant additionnel",
+            "Même logistique Fos/Port-La Nouvelle ×3"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Med Float Logistics Scale-up",
+            "spec": "Le gagnant d'AO6 en towage gagnera AO9."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 PIPELINE",
+          "future_tenders": [
+            {
+              "title": "Attribution AO9",
+              "date_estimated": "Décembre 2027",
+              "duration": "Attribution",
+              "platform": "DGEC"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "EDF Renouvelables",
+            "Ocean Winds",
+            "TotalEnergies"
+          ],
+          "action": "AO6 d'abord : la référence créera la rente AO9."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-PT-001",
+    "kind": "wind",
+    "name": "WindFloat Atlantic + enchères PT",
+    "country": "Portugal",
+    "operator": "Ocean Winds (EDPR/ENGIE)",
+    "capacity_mw": 25,
+    "status": "Production",
+    "first_power": "2020",
+    "lat": 41.69,
+    "lng": -9.05,
+    "subcontractors": [
+      {
+        "name": "Principle Power",
+        "role": "Technologie",
+        "scope": "Semi-subs WindFloat."
+      },
+      {
+        "name": "Navantia-Windar",
+        "role": "Coques",
+        "scope": "Fabrication espagnole des flotteurs."
+      },
+      {
+        "name": "Bourbon",
+        "role": "Tow & hook-up",
+        "scope": "Opérations historiques 2019-20."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#2dd4bf",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Pionnier mondial flottant (3×8,4 MW). Enchères PT ~2 GW en préparation (Viana do Castelo hub).",
+          "key_metrics": [
+            "Tow-to-port déjà réalisé 2 fois",
+            "Bases Boluda Galice à 100 nm"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Viana do Castelo Assembly",
+            "spec": "Chaque flotteur remorqué / récurrent."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 ENCHÈRES EN PRÉPARATION",
+          "future_tenders": [
+            {
+              "title": "Tow-to-Port Maintenance / WFA",
+              "date_estimated": "Avril 2027",
+              "duration": "Spot",
+              "platform": "Ocean Winds"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Ocean Winds",
+            "EDP Renewables",
+            "ENGIE",
+            "Principle Power"
+          ],
+          "action": "Mobilisation Galice imbattable en délai."
+        }
+      }
+    }
+  },
+  {
+    "id": "WIND-ES-001",
+    "kind": "wind",
+    "name": "Enchères flottantes Espagne (POEM)",
+    "country": "Espagne",
+    "operator": "MITECO / Iberdrola, Ocean Winds, BlueFloat candidats",
+    "capacity_mw": 3000,
+    "status": "Pre-FID",
+    "first_power": "2030+",
+    "lat": 43.6,
+    "lng": -8.3,
+    "subcontractors": [
+      {
+        "name": "Navantia Seanergies",
+        "role": "Fabrication",
+        "scope": "Coques & jackets / Fene/Ferrol."
+      },
+      {
+        "name": "Windar Renovables",
+        "role": "Structures",
+        "scope": "Avilés / leader monopiles."
+      }
+    ],
+    "map_popup_interface": {
+      "header_color": "#f0a500",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Marché domestique Boluda : ~3 GW flottant (Galice, Canaries, Catalogne). Premières enchères 2026-27.",
+          "key_metrics": [
+            "Tous les ports candidats = bases Boluda",
+            "Industrie navale espagnole alignée"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Tug / AHTS",
+            "name": "Flotte Boluda Espagne",
+            "spec": "Couverture nationale complète."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 ENCHÈRES 2026-2027",
+          "future_tenders": [
+            {
+              "title": "Enchère flottante Galice (NOR-1)",
+              "date_estimated": "Décembre 2026",
+              "duration": "Attribution",
+              "platform": "MITECO"
+            },
+            {
+              "title": "Pilotes Canaries / support marin",
+              "date_estimated": "Juillet 2026",
+              "duration": "24 mois",
+              "platform": "PLOCAN"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Iberdrola",
+            "Ocean Winds",
+            "BlueFloat Energy"
+          ],
+          "action": "MoU d'exclusivité towage avec chaque candidat AVANT les enchères."
+        }
+      }
+    }
+  }
+]

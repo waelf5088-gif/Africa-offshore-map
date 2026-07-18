@@ -1,0 +1,542 @@
+[
+  {
+    "id": "GIN-KAMSAR-001",
+    "kind": "mining",
+    "lat": 10.65,
+    "lng": -14.6,
+    "terminal_name": "Port de Kamsar (CBG & GAC)",
+    "country": "Guinée",
+    "commodity": "Bauxite",
+    "operator": "Compagnie des Bauxites de Guinée (CBG) / Guinea Alumina Corporation (GAC)",
+    "current_status": "Flotte exclusive Boluda opérant sur zone. Re-tender towage prévu Janvier 2027.",
+    "map_popup_interface": {
+      "header_color": "#D2691E",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Premier hub mondial d'exportation de bauxite. Canal d'accès maritime de 17 milles nautiques très encombré et fortement soumis aux marées. Dragage permanent requis et assistance au point d'évitement critique.",
+          "key_metrics": [
+            "Capacité: >25 Millions de tonnes/an",
+            "Tirant d'eau: 13.5m",
+            "Type: Terminal à quai fixe + zones de transbordement"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Bulk Carrier",
+            "name": "Capesize / Newcastlemax",
+            "spec": "Vraquiers géants jusqu'à 200 000 DWT."
+          },
+          {
+            "type": "ASD Tugs",
+            "name": "Boluda Kamsar Towage (Current)",
+            "spec": "Flotte exclusive Boluda opérant sur zone avec des remorqueurs de 70-80t BP."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "⚠️ CONTRACT DEFENSE HORIZON - Q1 2027",
+          "past_tenders": [
+            {
+              "title": "Exclusive Port Towage & Assistance Services Concession",
+              "date": "2021",
+              "duration": "5 ans"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Multi-Year Maintenance Dredging Campaign - Kamsar Channel",
+              "date_estimated": "Septembre 2026",
+              "duration": "36 mois",
+              "platform": "CBG Procurement Portal"
+            },
+            {
+              "title": "Re-tender Port Towage, Berthing & Escort Services (3-4 ASD Tugs)",
+              "date_estimated": "Janvier 2027",
+              "duration": "60 mois",
+              "platform": "GAC e-Sourcing / CBG Portal"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "CBG Guinea",
+            "Emirates Global Aluminium (EGA)",
+            "Ministère des Transports Guinée"
+          ],
+          "action": "STRATÉGIE DE DÉFENSE : Verrouiller les relations avec la direction marine de la CBG à Conakry/Kamsar. Anticiper le re-tender pour bloquer l'entrée de concurrents (Smit/Svitzer)."
+        }
+      }
+    }
+  },
+  {
+    "id": "LBR-BUCHANAN-002",
+    "kind": "mining",
+    "lat": 5.88,
+    "lng": -10.05,
+    "terminal_name": "Port de Buchanan (ArcelorMittal Terminal)",
+    "country": "Liberia",
+    "commodity": "Minerai de fer",
+    "operator": "ArcelorMittal Liberia",
+    "current_status": "Mise en service opérationnelle complète de l'extension Phase 2. Accélération majeure des flux maritimes.",
+    "map_popup_interface": {
+      "header_color": "#B22222",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Mise en service opérationnelle industrielle complète de l'extension de la Phase 2 en 2026 (Usine de concentration géante). Les cadences d'exportation explosent, imposant une rotation de navires en continu malgré une forte houle atlantique.",
+          "key_metrics": [
+            "Capacité: Portée à 15 Millions de tonnes/an",
+            "Type de quai: Ship-loader à haute performance",
+            "Status: Accélération majeure des flux maritimes"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Bulk Carrier",
+            "name": "Panamax / Post-Panamax",
+            "spec": "Navires réguliers de 75 000 à 110 000 DWT."
+          },
+          {
+            "type": "Port Craft",
+            "name": "Buchanan Pilot & Support Boats",
+            "spec": "Vedettes de lamanage et navettes de personnel."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🚀 NEW TERMINAL PORT MARINE SERVICES PACK (UPCOMING)",
+          "past_tenders": [
+            {
+              "title": "Buchanan Port Engineering Upgrade",
+              "date": "2023",
+              "duration": "Complété"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Provision of Terminal Support Tugs, Mooring Launches & Line Handling",
+              "date_estimated": "Octobre 2026",
+              "duration": "36 mois",
+              "platform": "ArcelorMittal Corporate Sourcing"
+            },
+            {
+              "title": "Emergency Standby & Salvage Support Vessel",
+              "date_estimated": "Mars 2027",
+              "duration": "24 mois",
+              "platform": "NPA Liberia / ArcelorMittal"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "ArcelorMittal Liberia Logistics",
+            "National Port Authority of Liberia (NPA)"
+          ],
+          "action": "Se positionner en direct auprès du pôle logistique maritime d'ArcelorMittal à Londres pour proposer un package intégré exclusif : Remorquage + Lamanage + Pilotage."
+        }
+      }
+    }
+  },
+  {
+    "id": "LBR-NIMBA-003",
+    "kind": "mining",
+    "lat": 5.875,
+    "lng": -10.045,
+    "terminal_name": "Port de Buchanan - Extension High-Grade (HPX / Ivanhoe)",
+    "country": "Liberia / Guinée",
+    "commodity": "Minerai de fer (Gisement de Nimba)",
+    "operator": "HPX (High Power Exploration / Ivanhoe Minerals Co-JV)",
+    "current_status": "Projet en phase d'ingénierie terminale. Premier appel d'offres EPCI prévu Août 2026.",
+    "map_popup_interface": {
+      "header_color": "#FF4500",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Projet de rupture logistique transfrontalier. Évacuation du minerai haute teneur des monts Nimba (Guinée) par le rail libérien jusqu'à Buchanan. Phase d'ingénierie et de design du nouveau terminal maritime active en 2026.",
+          "key_metrics": [
+            "Capacité cible: 20 Millions de tonnes/an",
+            "Status: Greenfield Port Design en cours",
+            "Type: Nouvelle jetée minière en eaux profondes + Brise-lames"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Bulk Carrier",
+            "name": "Capesize Ore Carriers",
+            "spec": "Navires planifiés de plus de 150 000 DWT."
+          },
+          {
+            "type": "Marine Workboats",
+            "name": "Construction & Piling Support",
+            "spec": "Barges de travaux et remorqueurs de chantier requis pour la construction portuaire."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 HIGH-VALUE GREENFIELD CONCESSION OPPORTUNITY 2026",
+          "past_tenders": [
+            {
+              "title": "Pre-Feasibility Marine & Bathymetric Studies",
+              "date": "2024",
+              "duration": "Terminé"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "EPCI Marine Terminal Infrastructure & Dredging Works",
+              "date_estimated": "Août 2026",
+              "duration": "36 mois",
+              "platform": "HPX Procurement Portal"
+            },
+            {
+              "title": "Long-Term Exclusive Port Towage, Pilotage & Marine Services Concession (Build-Own-Operate)",
+              "date_estimated": "Février 2027",
+              "duration": "120 mois (10 ans)",
+              "platform": "HPX Marine Operations Desk"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "HPX Ltd",
+            "Ivanhoe Mines Exploration",
+            "Liberia Ministry of Transport"
+          ],
+          "action": "OPPORTUNITÉ MAJEURE À LONG TERME : Entrer immédiatement en contact avec la direction technique de HPX à Londres. Boluda peut proposer un modèle d'investissement partagé pour obtenir la concession exclusive du remorquage sur 10 ans."
+        }
+      }
+    }
+  },
+  {
+    "id": "MDG-EHOALA-004",
+    "kind": "mining",
+    "lat": -25.039,
+    "lng": 46.953,
+    "terminal_name": "Port d'Ehoala (Rio Tinto QMM)",
+    "country": "Madagascar",
+    "commodity": "Ilménite",
+    "operator": "Rio Tinto QIT Madagascar Minerals (QMM)",
+    "current_status": "Terminal deepwater stable. Critères de décarbonation renforcés, appel à l'eco-bunkering 2026.",
+    "map_popup_interface": {
+      "header_color": "#4B0082",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Port moderne en eaux profondes géré par Rio Tinto au sud de Madagascar. Exportation de sable titanifère. Environnement maritime difficile (forte houle cyclonique de l'Océan Indien). Forte politique corporative de décarbonation des services portuaires en 2026.",
+          "key_metrics": [
+            "Tirant d'eau: 15.7m (Eaux profondes)",
+            "Capacité: Vraquiers jusqu'à 60 000 DWT (Supramax/Ultramax)",
+            "Sécurité: Conforme aux normes strictes Rio Tinto HSE"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Bulk Carrier",
+            "name": "Ultramax Fleet",
+            "spec": "Navires équipés de grues haute performance."
+          },
+          {
+            "type": "ASD Tugs",
+            "name": "Ehoala Marine Fleet",
+            "spec": "Remorqueurs d'assistance avec capacités de sauvetage offshore et FiFi 1."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "📦 GREEN PORT INITIATIVES & RENEWALS",
+          "past_tenders": [
+            {
+              "title": "Port Management and Marine Operations Contract",
+              "date": "2022",
+              "duration": "5 ans (Arrive à terme fin 2027)"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Marine Eco-Fuel Supply & Bunkering Services for Port Craft",
+              "date_estimated": "Novembre 2026",
+              "duration": "12 mois",
+              "platform": "Rio Tinto Procurement Portal"
+            },
+            {
+              "title": "Port Infrastructure Structural Integrity & Marine Salvage Framework",
+              "date_estimated": "Mars 2027",
+              "duration": "36 mois",
+              "platform": "Port d'Ehoala SA / Rio Tinto"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Rio Tinto QMM",
+            "Port d'Ehoala S.A.",
+            "Agence Maritime Madagascar"
+          ],
+          "action": "Valoriser l'engagement environnemental de Boluda (Tugs hybrides / réduction d'émissions) auprès du pôle développement durable de Rio Tinto pour préparer l'après-2027."
+        }
+      }
+    }
+  },
+  {
+    "id": "GAB-OWENDO-005",
+    "kind": "mining",
+    "lat": 0.28,
+    "lng": 9.49,
+    "terminal_name": "Port Minier d'Owendo (Comilog / Eramet)",
+    "country": "Gabon",
+    "commodity": "Manganèse",
+    "operator": "Comilog (Eramet) / GSEZ Mining Port",
+    "current_status": "Re-tender transshipment imminent Juillet 2026. Optimisation rotation navires en estuaire.",
+    "map_popup_interface": {
+      "header_color": "#FF8C00",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Hub minier majeur d'Afrique centrale situé en estuaire. Face aux limitations de tirant d'eau à quai, la logistique repose sur un schéma de transbordement massif au large pour charger les navires Panamax et Capesize.",
+          "key_metrics": [
+            "Capacité: >7 Millions de tonnes/an",
+            "Logistique: Flotte continue de barges navettes et grues flottantes",
+            "Focus 2026: Optimisation maximale du temps de rotation (Demurrage reduction)"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Floating Crane",
+            "name": "Transshipment Barges",
+            "spec": "Grues flottantes à haute cadence basées en estuaire."
+          },
+          {
+            "type": "Shuttle Barges",
+            "name": "Manganese Split Barges",
+            "spec": "Barges de navette reliant le quai aux navires au large."
+          },
+          {
+            "type": "Pusher Tugs",
+            "name": "Estuary Towage Fleet",
+            "spec": "Remorqueurs pousseurs à faible tirant d'eau mais forte puissance."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🔥 IMMEDIATE TRANSSHIPMENT FLEET RE-TENDER (JULY 2026)",
+          "past_tenders": [
+            {
+              "title": "Operation & Management of Estuary Barging/Cranes",
+              "date": "2023",
+              "duration": "36 mois"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Integrated Concession for Estuary Towage, Shuttle Barging & Floating Crane Operations",
+              "date_estimated": "Juillet 2026",
+              "duration": "36 mois",
+              "platform": "Eramet Sourcing / Comilog Gabon"
+            },
+            {
+              "title": "Offshore Anchorage Crew Boat & Security Launch Services",
+              "date_estimated": "Décembre 2026",
+              "duration": "12 mois",
+              "platform": "GSEZ Gabon"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Comilog Gabon",
+            "Eramet Group Paris",
+            "GSEZ Mining Port"
+          ],
+          "action": "URGENCE COMMERCIALE MAXIMALE : Le contrat de transbordement d'Eramet à Owendo est remis en jeu en juillet 2026. Lancer immédiatement une offre conjointe via Boluda France / Boluda Afrique pour capter l'activité de remorquage/poussage en estuaire."
+        }
+      }
+    }
+  },
+  {
+    "id": "ZAF-SALDANHA-006",
+    "kind": "mining",
+    "lat": -33.02,
+    "lng": 17.99,
+    "terminal_name": "Port de Saldanha Bay (Iron Ore Terminal)",
+    "country": "Afrique du Sud",
+    "commodity": "Minerai de fer",
+    "operator": "Transnet Port Terminals (TPT)",
+    "current_status": "Modernisation infrastructurelle Transnet active. Appel d'offres dredging Septembre 2026.",
+    "map_popup_interface": {
+      "header_color": "#000000",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Le plus grand port naturel d'Afrique du Sud et l'unique terminal dédié à l'exportation de minerai de fer du pays. Gère les flux géants de Kumba Iron Ore via une jetée minière offshore de 3km. Goulot d'étranglement logistique national en cours de résolution en 2026.",
+          "key_metrics": [
+            "Capacité: >60 Millions de tonnes/an",
+            "Tirant d'eau: 21.5m (Ultra-Deepwater)",
+            "Type: Jetée minière avec double ship-loader géant"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Bulk Carrier",
+            "name": "VLOC / Newcastlemax",
+            "spec": "Vraquiers massifs jusqu'à 300 000 DWT."
+          },
+          {
+            "type": "Escort Tugs",
+            "name": "TNPA Tug Fleet",
+            "spec": "Remorqueurs d'État à propulsion cycloïdale ou ASD de classe 80t BP."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "⚠️ STATE INFRASTRUCTURE MODERNIZATION PLAN 2026",
+          "past_tenders": [
+            {
+              "title": "Refurbishment of Bulk Ship Loader",
+              "date": "2024",
+              "duration": "Complété"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Framework Contract for Port Dredging & Berth Pocket Maintenance",
+              "date_estimated": "Septembre 2026",
+              "duration": "36 mois",
+              "platform": "Transnet Tender Portal"
+            },
+            {
+              "title": "National Procurement: Supply of Next-Gen Escort Tugs (85 Tons Bollard Pull)",
+              "date_estimated": "Janvier 2027",
+              "duration": "48 mois",
+              "platform": "Transnet Corporate SA"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Transnet National Ports Authority (TNPA)",
+            "Anglo American (Kumba Iron Ore)"
+          ],
+          "action": "Axe stratégique : Transnet externalise de plus en plus ses besoins de maintenance navale et d'exploitation. Établir un partenariat avec un chantier naval sud-africain local (ex: Damen Cape Town) pour répondre aux critères stricts de Local Content (B-BBEE) imposés par l'État."
+        }
+      }
+    }
+  },
+  {
+    "id": "SLE-PEPEL-007",
+    "kind": "mining",
+    "lat": 8.58,
+    "lng": -13.06,
+    "terminal_name": "Port de Pepel (Iron Ore Terminal)",
+    "country": "Sierra Leone",
+    "commodity": "Minerai de fer",
+    "operator": "Kingho Mining Company / Leone Rock Metal Group",
+    "current_status": "Montée en puissance des volumes export vers la Chine. Re-tender opérations fluviales prévu Août 2026.",
+    "map_popup_interface": {
+      "header_color": "#708090",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Terminal minier en rivière. Les contraintes sévères de profondeur fluviale interdisent l'accès des Capesize à quai. Tout le minerai est descendu en barges vers l'estuaire puis transbordé au large sur des vraquiers océaniques.",
+          "key_metrics": [
+            "Capacité: 12 Millions de tonnes/an",
+            "Logistique: Flotte de transbordement obligatoire en estuaire",
+            "Focus 2026: Augmentation massive des volumes d'export vers les aciéries chinoises"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Transshipment Vessel",
+            "name": "Shuttle Barges & Floating Cranes",
+            "spec": "Barges de navette fluviale et grues flottantes haute performance."
+          },
+          {
+            "type": "Ocean Bulk Carrier",
+            "name": "Capesize Fleet (Offshore Anchorage)",
+            "spec": "Navires recevant le minerai à l'ancrage extérieur."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "⚠️ CRITICAL TRANSSHIPMENT MANAGEMENT CONTRACT",
+          "past_tenders": [
+            {
+              "title": "River Barging Operations Contract",
+              "date": "2022",
+              "duration": "48 mois"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Re-tender for Integrated Estuary Towage, River Pushing & Floating Crane Operations",
+              "date_estimated": "Août 2026",
+              "duration": "36 mois",
+              "platform": "Leone Rock Procurement Desk"
+            },
+            {
+              "title": "Provision of River Escort Tugs (Shallow Draft / High Power)",
+              "date_estimated": "Janvier 2027",
+              "duration": "24 mois",
+              "platform": "Kingho Sourcing"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Leone Rock Metal Group",
+            "Kingho Mining",
+            "Cosco Shipping Bulk"
+          ],
+          "action": "OPPORTUNITÉ COMPLÉMENTAIRE MAJEURE (Août 2026) : Soumissionner pour le contrat d'exploitation de la flotte de remorquage fluvial et de transbordement. Parfaitement aligné avec le savoir-faire de Boluda en logistique portuaire complexe."
+        }
+      }
+    }
+  },
+  {
+    "id": "SEN-DIOGO-ERAMET",
+    "kind": "mining",
+    "lat": 15.22,
+    "lng": -16.75,
+    "terminal_name": "Grande Côte Operations (GCO - Eramet)",
+    "country": "Sénégal",
+    "commodity": "Zircon & Titane",
+    "operator": "Grande Côte Operations (GCO) / Eramet",
+    "current_status": "Production active. Exploitation majeure de sables minéralisés le long de la côte.",
+    "map_popup_interface": {
+      "header_color": "#f97316",
+      "tabs_content": {
+        "roadmap": {
+          "summary": "Exploitation par drague flottante et usine de concentration humide. Le zircon et l'ilménite sont envoyés par rail au port de Dakar pour exportation mondiale.",
+          "key_metrics": [
+            "Production: ~700 000 tonnes/an de concentrés",
+            "Type: Drague suceuse marcheuse flottante",
+            "Logistique: Usine de séparation à Diogo + Terminal minier de Dakar"
+          ]
+        },
+        "assets": [
+          {
+            "type": "Dredger",
+            "name": "Dredge GCO Yeene",
+            "spec": "Drague suceuse à désagrégateur flottant."
+          },
+          {
+            "type": "Concentrator",
+            "name": "Floating Wet Concentrator Plant",
+            "spec": "Unité de traitement flottante suivant la drague."
+          }
+        ],
+        "tenders": {
+          "status_indicator": "🚀 CONTRATS D'APPROVISIONNEMENT ET MAINTENANCE",
+          "past_tenders": [
+            {
+              "title": "Dakar Port Terminal Upgrade",
+              "date": "2022",
+              "duration": "Complété"
+            }
+          ],
+          "future_tenders": [
+            {
+              "title": "Supply of Dredge Spare Parts & Heavy Slurry Pumps",
+              "date_estimated": "Septembre 2026",
+              "duration": "24 mois",
+              "platform": "GCO Senegal Sourcing"
+            }
+          ]
+        },
+        "leads": {
+          "target_companies": [
+            "Grande Côte Operations",
+            "Eramet Senegal"
+          ],
+          "action": "Se positionner sur le terminal minier de GCO au port de Dakar pour la manutention, le remorquage d'escorte des vraquiers."
+        }
+      }
+    }
+  }
+]
