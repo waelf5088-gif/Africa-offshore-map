@@ -1,7 +1,7 @@
 ﻿{
     "threshold_m":  2.5,
     "source":  "Open-Meteo Marine API",
-    "fetched":  "2026-07-18T05:15:03",
+    "fetched":  "2026-07-18T10:48:01",
     "zones":  [
                   {
                       "zone":  "Baleine P3 (Cote d\u0027Ivoire)",
@@ -9,18 +9,13 @@
                       "lon":  -4.5,
                       "days":  [
                                    {
-                                       "date":  "2026-07-17",
-                                       "wave_max_m":  1.38,
-                                       "window_ok":  true
-                                   },
-                                   {
                                        "date":  "2026-07-18",
                                        "wave_max_m":  1.46,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-19",
-                                       "wave_max_m":  1.42,
+                                       "wave_max_m":  1.36,
                                        "window_ok":  true
                                    },
                                    {
@@ -30,7 +25,12 @@
                                    },
                                    {
                                        "date":  "2026-07-21",
-                                       "wave_max_m":  1.22,
+                                       "wave_max_m":  1.28,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-22",
+                                       "wave_max_m":  1.50,
                                        "window_ok":  true
                                    }
                                ],
@@ -42,28 +42,28 @@
                       "lon":  40.6,
                       "days":  [
                                    {
-                                       "date":  "2026-07-17",
-                                       "wave_max_m":  0.82,
-                                       "window_ok":  true
-                                   },
-                                   {
                                        "date":  "2026-07-18",
-                                       "wave_max_m":  0.80,
+                                       "wave_max_m":  0.78,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-19",
-                                       "wave_max_m":  0.52,
+                                       "wave_max_m":  0.56,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-20",
-                                       "wave_max_m":  0.40,
+                                       "wave_max_m":  0.36,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-21",
                                        "wave_max_m":  0.42,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-22",
+                                       "wave_max_m":  0.52,
                                        "window_ok":  true
                                    }
                                ],
@@ -75,28 +75,28 @@
                       "lon":  12.8,
                       "days":  [
                                    {
-                                       "date":  "2026-07-17",
-                                       "wave_max_m":  1.56,
-                                       "window_ok":  true
-                                   },
-                                   {
                                        "date":  "2026-07-18",
-                                       "wave_max_m":  1.52,
+                                       "wave_max_m":  1.74,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-19",
-                                       "wave_max_m":  1.16,
+                                       "wave_max_m":  1.20,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-20",
-                                       "wave_max_m":  0.92,
+                                       "wave_max_m":  0.96,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-21",
-                                       "wave_max_m":  0.96,
+                                       "wave_max_m":  0.94,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-22",
+                                       "wave_max_m":  0.94,
                                        "window_ok":  true
                                    }
                                ],
@@ -108,28 +108,28 @@
                       "lon":  12,
                       "days":  [
                                    {
-                                       "date":  "2026-07-17",
-                                       "wave_max_m":  2.22,
-                                       "window_ok":  true
-                                   },
-                                   {
                                        "date":  "2026-07-18",
-                                       "wave_max_m":  1.50,
+                                       "wave_max_m":  1.56,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-19",
-                                       "wave_max_m":  1.52,
+                                       "wave_max_m":  1.56,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-20",
-                                       "wave_max_m":  1.54,
+                                       "wave_max_m":  1.58,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-21",
-                                       "wave_max_m":  1.32,
+                                       "wave_max_m":  1.46,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-22",
+                                       "wave_max_m":  1.84,
                                        "window_ok":  true
                                    }
                                ],
@@ -141,18 +141,13 @@
                       "lon":  -16.9,
                       "days":  [
                                    {
-                                       "date":  "2026-07-17",
-                                       "wave_max_m":  1.42,
-                                       "window_ok":  true
-                                   },
-                                   {
                                        "date":  "2026-07-18",
-                                       "wave_max_m":  1.12,
+                                       "wave_max_m":  1.18,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-19",
-                                       "wave_max_m":  1.14,
+                                       "wave_max_m":  1.16,
                                        "window_ok":  true
                                    },
                                    {
@@ -162,7 +157,12 @@
                                    },
                                    {
                                        "date":  "2026-07-21",
-                                       "wave_max_m":  0.98,
+                                       "wave_max_m":  1.00,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-22",
+                                       "wave_max_m":  1.32,
                                        "window_ok":  true
                                    }
                                ],
@@ -174,28 +174,28 @@
                       "lon":  5,
                       "days":  [
                                    {
-                                       "date":  "2026-07-17",
-                                       "wave_max_m":  1.78,
-                                       "window_ok":  true
-                                   },
-                                   {
                                        "date":  "2026-07-18",
-                                       "wave_max_m":  1.58,
+                                       "wave_max_m":  1.60,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-19",
-                                       "wave_max_m":  1.54,
+                                       "wave_max_m":  1.50,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-20",
-                                       "wave_max_m":  1.46,
+                                       "wave_max_m":  1.38,
                                        "window_ok":  true
                                    },
                                    {
                                        "date":  "2026-07-21",
-                                       "wave_max_m":  1.44,
+                                       "wave_max_m":  1.40,
+                                       "window_ok":  true
+                                   },
+                                   {
+                                       "date":  "2026-07-22",
+                                       "wave_max_m":  1.82,
                                        "window_ok":  true
                                    }
                                ],

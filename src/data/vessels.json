@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-15",
+  "updated": "2026-07-18",
   "source": "CSO Shipbrokers + OIOS Fleet Registry",
-  "eurUsd": 1.15,
+  "eurUsd": 1.1435,
   "vessels": [
     {
       "name": "Jascon 66",
@@ -71,10 +71,10 @@
       "imo": "9366316",
       "mmsi": "601890100",
       "aisUrl": "https://www.vesselfinder.com/vessels/NOMASA-IMO-9366316-MMSI-601890100",
-      "lat": -33.9,
-      "lon": 18.4,
+      "lat": -12.97,
+      "lon": 40.52,
       "posSource": "ais_live",
-      "posNote": "AIS (-3 min) : 30°S 31°E, 0.9 kn - zone Durban. Pion clé pour staging Venus/Namibie",
+      "posNote": "AIS (18/07) : a quitté Durban le 11/07 14h42 UTC, en route vers Pemba (Mozambique), ETA 18/07, 8.2 kn. A quitté le pool de staging Venus - à qualifier d'urgence (Amsol)",
       "owner": "Amsol",
       "priceEur": null,
       "priceNote": "Référence zone : 10-11 k€/j"
@@ -207,8 +207,8 @@
       "aisUrl": "https://www.vesselfinder.com/vessels/details/9654983",
       "lat": 5.1,
       "lon": -4.2,
-      "posSource": "ais_live",
-      "posNote": "⚠️ CONFLIT : dataset = Côte d'Ivoire, AIS (-32 h) = Mer Caspienne. Dataset CSO à revalider",
+      "posSource": "conflict",
+      "posNote": "⚠️ CONFLIT confirmé (18/07) : dataset = Côte d'Ivoire, mais le poids des recoupements (VesselFinder/MarineTraffic/MyShipTracking) place le navire en mer de Marmara (Turquie), destination Istanbul - pas Côte d'Ivoire. Dataset CSO à corriger",
       "owner": "DP World",
       "priceEur": null,
       "priceNote": "Hors zone - non mobilisable court terme",
@@ -704,8 +704,8 @@
       "aisUrl": "https://www.vesselfinder.com/vessels/SANTANGELO-IMO-9343948-MMSI-247185800",
       "lat": 14.6,
       "lon": -17.5,
-      "posSource": "ais_live",
-      "posNote": "AIS (-7 min) : en route KAMSAR-GAC (Guinée), ETA 22 juil., 0.4 kn",
+      "posSource": "conflict",
+      "posNote": "⚠️ CONFLIT (18/07) : le MMSI de référence est silencieux depuis le 14/01/2026 (6 mois) - destination Kamsar/GAC NON confirmée. Un autre identifiant sous le même IMO (MMSI 249549000 \"Santangelo Uno\", pavillon Malte) est actif : Dakar→Gibraltar, ETA 19/07. Identité réelle à faire vérifier par l'armateur Cafimar",
       "owner": "Cafimar",
       "priceEur": null,
       "priceNote": "Référence zone : 10-11 k€/j"
@@ -760,13 +760,13 @@
       "imo": "9652143",
       "mmsi": "538010638",
       "aisUrl": "https://www.vesselfinder.com/vessels/LEO-IMO-9652143-MMSI-538010638",
-      "lat": -19.8,
-      "lon": 34.8,
+      "lat": -25.97,
+      "lon": 32.58,
       "posSource": "ais_live",
-      "posNote": "AIS (-3 h) : parti de Cape Town le 8 juin, 6.0 kn - en transit",
+      "posNote": "AIS (-24 h) : a quitté le mouillage de Maputo le 10/07, 5.7 kn, zone \"East Africa\", destination non renseignée. Trajectoire cohérente avec Afungi mais fixture non confirmée",
       "owner": "All Energies",
-      "priceEur": 6915,
-      "priceNote": "8 000 $/j ≈ 6 915 €/j (USD/EUR 0.8644)"
+      "priceEur": 6996,
+      "priceNote": "8 000 $/j ≈ 6 996 €/j (EUR/USD 1.1435 du 18/07)"
     },
     {
       "name": "Red Fox",
@@ -781,8 +781,8 @@
       "aisUrl": "https://www.vesselfinder.com/vessels/details/9319193",
       "lat": 3.6,
       "lon": 8.8,
-      "posSource": "ais_stale",
-      "posNote": "Dernier AIS il y a 73 jours (Afrique de l'Ouest) - position approximative Malabo",
+      "posSource": "ais_live",
+      "posNote": "AIS a repris (18/07) : dernier signal -36 h après 73+ jours de silence. Zone Afrique de l'Ouest, dernier port Punta Europa (Guinée Éq.) le 10/07. Destination affichée (Malabo, ETA 7 oct.) manifestement obsolète",
       "owner": "P&O Repasa",
       "priceEur": 10000,
       "priceNote": "Grille P&O Maritime"
@@ -801,7 +801,7 @@
       "lat": 14.5,
       "lon": -17.6,
       "posSource": "ais_live",
-      "posNote": "AIS (-1 min) : à quai Dakar, amarré",
+      "posNote": "AIS (18/07) : à quai Dakar, arrivé le 16/07 21h21 UTC. Inchangé - disponibilité Sep-26 reconfirmée",
       "owner": "Jifmar",
       "priceEur": null,
       "priceNote": "Armateur JIFMAR - grille à confirmer"
@@ -958,7 +958,7 @@
       "lat": 4.0,
       "lon": 7.4,
       "posSource": "ais_stale",
-      "posNote": "Dernier AIS il y a 73 jours (Afrique de l'Ouest) - position approximative Lagos",
+      "posNote": "Toujours silencieux (18/07) : dernier AIS il y a 64 jours (Afrique de l'Ouest, position connue uniquement) - statut réel toujours inconnu",
       "owner": "Togo Oil & Marine",
       "priceEur": null,
       "priceNote": "Référence zone : 10-11 k€/j"

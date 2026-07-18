@@ -1,8 +1,8 @@
 ﻿{
     "source":  "Google News RSS",
-    "fetched":  "2026-07-18T05:15:06",
+    "fetched":  "2026-07-18T10:48:03",
     "count":  19,
-    "new_count":  null,
+    "new_count":  0,
     "items":  [
                   {
                       "query":  "tug boat charter West Africa offshore",
@@ -107,7 +107,7 @@
                       "title":  "Far Sagaris comes home to Farstad - Upstream Online",
                       "link":  "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuSHI2OEd2N2c2NHg2dHJDa09UaWVqRXpfcHRlalJuZmtvekhaODBheEFrdGZQVXlvd3lsbVRScV80LVFvTXNIOEtSbkluamM3SXhadg?oc=5",
                       "pubDate":  "Tue, 27 Oct 2009 07:00:00 GMT",
-                      "is_new":  true
+                      "is_new":  false
                   },
                   {
                       "query":  "tug boat charter West Africa offshore",
