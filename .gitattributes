@@ -1,0 +1,16 @@
+# Normalisation des fins de ligne — évite les diffs parasites entre
+# machines Windows / macOS / Linux quand plusieurs personnes committent.
+* text=auto
+
+# Scripts natifs Windows : garder les fins de ligne CRLF
+*.ps1  text eol=crlf
+*.bat  text eol=crlf
+*.cmd  text eol=crlf
+
+# Fichiers binaires : ne jamais tenter de convertir
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.pdf  binary

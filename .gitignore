@@ -1,6 +1,8 @@
 # Secrets — NE JAMAIS versionner
 .env
 .env.*
+# ...sauf le modèle sans valeurs, utile aux collaborateurs
+!.env.example
 
 # Dependances / builds
 node_modules

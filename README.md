@@ -49,7 +49,20 @@ powershell ./automation/run-all-agents.ps1
 
 ## 🔐 Configuration
 
-Les agents Python nécessitent des clés d'API placées dans un fichier **`.env`** à la racine (non versionné — voir `.gitignore`). Créez-le localement avec vos propres identifiants ; ne le committez jamais.
+L'**application web ne nécessite aucun secret** : `npm run dev` suffit. Seuls les agents d'automatisation Python ont besoin de clés d'API.
+
+Pour ceux-ci, copiez le modèle fourni et renseignez vos propres identifiants :
+
+```bash
+# Windows
+Copy-Item .env.example .env
+```
+
+Le fichier `.env` réel n'est **jamais** versionné (voir `.gitignore`) ; seul `.env.example` (sans valeurs) l'est.
+
+## 🤝 Collaboration
+
+Le développement se fait par **branche + Pull Request** : on ne pousse jamais directement sur `main`. Voir **[CONTRIBUTING.md](CONTRIBUTING.md)** pour le pas-à-pas.
 
 ## 🛠️ Stack
 
