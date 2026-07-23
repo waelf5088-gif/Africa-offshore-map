@@ -1,3 +1,3 @@
 ﻿Lien Vercel de production : https://africa-offshore-map.vercel.app
-Dernier deploiement       : https://africa-offshore-dcwdbkqo7-mapoffshoreafrica.vercel.app
-Mis a jour le             : 2026-07-17 21:04:00
+Dernier deploiement       : https://africa-offshore-lopy0yim8-mapoffshoreafrica.vercel.app
+Mis a jour le             : 2026-07-23 08:27:12
