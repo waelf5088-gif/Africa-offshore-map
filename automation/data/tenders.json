@@ -1,8 +1,8 @@
 ﻿{
     "source":  "Google News RSS",
-    "fetched":  "2026-07-18T10:48:03",
-    "count":  19,
-    "new_count":  0,
+    "fetched":  "2026-07-23T08:11:34",
+    "count":  17,
+    "new_count":  2,
     "items":  [
                   {
                       "query":  "tug boat charter West Africa offshore",
@@ -12,25 +12,18 @@
                       "is_new":  false
                   },
                   {
-                      "query":  "AHTS charter Angola offshore",
-                      "title":  "Two vessels score long-term bareboat charters - Offshore-Energy.biz",
-                      "link":  "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ21ZMzZZM1R5eklBREZrSzUyRGNsWGwzMDdyVF9qMnpEN0d6QzJRQUxSa18tUzNoSXkwWWxkLXNyZk00UnFXY1N0X2RwZS1XX1lYUC1feDMzelI3YThReG10RnkybFB2T3AzamluQThEX0d0dHU4WmdvcmZQcFBMYkN0ZU4?oc=5",
-                      "pubDate":  "Tue, 14 Mar 2023 07:00:00 GMT",
-                      "is_new":  false
-                  },
-                  {
-                      "query":  "towage services tender Nigeria OR Namibia OR Senegal offshore",
-                      "title":  "XOM Wants MODU, TOTAL Needs Fast Boats - Africa Oil+Gas Report",
-                      "link":  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVlZ5VEFJZm40M3Y5VHBoN3UwdFBVS3A1dGFXMDZlTFhQRkhsWFJTMW5sMHBHNnUza1EzdWV5cFJIaEU3ZDQ2U0ZIX1lWd1FXZlNtYlZ0bFJkNDdGU3psaHFWVWFjcU9pZEhXcE93TWVrN1h0MlRhNFBCWm9mQzV1eVNaeG9ReWhXNkRVejZn?oc=5",
-                      "pubDate":  "Mon, 22 Jul 2019 07:00:00 GMT",
-                      "is_new":  false
-                  },
-                  {
                       "query":  "tug boat charter West Africa offshore",
                       "title":  "Four Solstad vessels land more work in Asia and West Africa - Offshore-Energy.biz",
                       "link":  "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1hRX2FKU3RZMWdwVW56RXNlUW5UazEybzA3MjNWOExyZzMyNk9saVd5N3NUM1hKbGpvU1JqbEJBVmRNVGdhTmZHeXRjXzlPZXNsS2NYYkFUdWxzbXFmUzB5WnI5STYxOWtDLXN5YmlNa3FIdXcweFFHX0hzMDBUajBhYUpfYzlpSU1wZUtlNU9hTFJ1RHBv?oc=5",
                       "pubDate":  "Fri, 03 May 2024 07:00:00 GMT",
                       "is_new":  false
+                  },
+                  {
+                      "query":  "AHTS charter Angola offshore",
+                      "title":  "Kim Heng secures one year time charter for AHTS duo - Marine Log",
+                      "link":  "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDMyTi1SMWZkbGt2TGZpbUlFT1c2ck1FbWd2T0h2WENNOFVmR0U2QVFHMFhJZzgxRkhFWGlKS041NWVHaHBKYzZrVUNkdjhNZWJQc0dMZ0RadlMtVWcyVlBoRkNCTEdkUmlRbEV6WWFMSGpSYmpVa0lmRE02c09vdnNhVm1zNU13amVwSXFBWUhVTkVCT1kybE5nbw?oc=5",
+                      "pubDate":  "Wed, 11 Apr 2018 07:00:00 GMT",
+                      "is_new":  true
                   },
                   {
                       "query":  "towage services tender Nigeria OR Namibia OR Senegal offshore",
@@ -59,6 +52,13 @@
                       "link":  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNfZm5WOEM0bnBGV19NelFERVRkaFBWZUxKWG83ZnF3dGd4VTJGWWQ4d3Z1ZzV1X0ZlYmUzSlFqOUxRZ2dRaXJTM1lUT1ZUNkMtLUZld2R6MEs4VUprNlMzNWI2a0k5M3ZwNDF3bXJrTTc0blJSQnhYald4eHRUQ0N4Z01wZGt1dnlOWmE0TjNXbENURjJJUkx1aDZCTUtwYnc?oc=5",
                       "pubDate":  "Fri, 01 Nov 2024 07:00:00 GMT",
                       "is_new":  false
+                  },
+                  {
+                      "query":  "towage services tender Nigeria OR Namibia OR Senegal offshore",
+                      "title":  "BP hires Petrofac to provide personnel and equipment for GTA project - Offshore-Energy.biz",
+                      "link":  "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGg0UUh0SFRPOWFsSGdBeGdTLVNWa2R1Mmk3RWpWUnRNTnhGdDhtdGZZX3E5WGN4NG14aVhqYUtodzBIU3VNUlczb1JhTTRjWjdzRkgzYklNcFJPYXJ5dzVidVY3LUJsSmpMOFFRcDVldFFtRU5KQnN3cFo1ZkREbEJoVHVXMVVkMkQwWi1iT0FvYmp0a0NvZG5uSVRrSEZmaFZV?oc=5",
+                      "pubDate":  "Wed, 25 May 2022 07:00:00 GMT",
+                      "is_new":  true
                   },
                   {
                       "query":  "offshore towage tender Africa",
@@ -103,13 +103,6 @@
                       "is_new":  false
                   },
                   {
-                      "query":  "towage services tender Nigeria OR Namibia OR Senegal offshore",
-                      "title":  "Far Sagaris comes home to Farstad - Upstream Online",
-                      "link":  "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuSHI2OEd2N2c2NHg2dHJDa09UaWVqRXpfcHRlalJuZmtvekhaODBheEFrdGZQVXlvd3lsbVRScV80LVFvTXNIOEtSbkluamM3SXhadg?oc=5",
-                      "pubDate":  "Tue, 27 Oct 2009 07:00:00 GMT",
-                      "is_new":  false
-                  },
-                  {
                       "query":  "tug boat charter West Africa offshore",
                       "title":  "Work Boat World Offshore Vessel Charters Roundup – January 21, 2022 - Baird Maritime",
                       "link":  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0E4a0FyemJkSWVaVzZNa051NlRET1ZuUlFSVllBbUdlQWgwLUpXUVltb1VSSEVQLU4wV0w4azlNN0NsbTVkcEt6MHN0T1RJQjVZZW1xOTJrX2tfd28wY21NeWVKR3pseDdUU0NDLXVIcnBCODZMREpraEZ6Y09IWU54TjVJOGpsMF9xTEE2YUltUExmMjFsR3ExRmQ1RlB1Y0JTUFRsY1lPQTFMd1hnR1RDMlhkQ3hFbXBrbTNB0gHLAUFVX3lxTE9meWlsOTd1WUt3d3dESXQ0VjB0MklZcXVoY1JHNTlzeEN0Uk1PVWFKNnhZSGZMcHZsUnFmU2lxQkg0MUhpNUZXbExYbXZnU0NJNnMzSkpBbG5WeEdwaDlTVkVtWERPSDgyeHk3X0hiSlZZOXBUbDZkTG5HV0treGw2NS1aMkdPUXpXSTNnWDlZcHYxWlUzdENmdWFPSUo5T09VOGl5dC1aRTNmM1FTekxNaHYyZnFwZV9DTXVFS3NuQ3VScWRkbEo2N0t3?oc=5",
@@ -121,13 +114,6 @@
                       "title":  "News Content Hub - Increased opportunities for OSVs in Angola - rivieramm.com",
                       "link":  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1Rqc2ljWUdQa3hPNldORlJDV096RnMtR3ZXdFgtNlhSZEM1Q3ZHMWJBYTFhQzgycXZRaXBpRU9JdloxUF9kV1JObnJJd01scE1GRHk3VGxnRXJHemdzNWlQY3ZCRmtvalJuTUJENDAxM0w2OWRkTzh3Mk0xejdoNWxSTXNVemFTc3p2Y044MXFfaTVvd3Vja2l5ckEwQWxsYUphZHFHb24tX1hrSjhKSnM4dy1MdjZ4dUdVVzhaQTg?oc=5",
                       "pubDate":  "Thu, 30 Mar 2023 07:00:00 GMT",
-                      "is_new":  false
-                  },
-                  {
-                      "query":  "AHTS charter Angola offshore",
-                      "title":  "News Content Hub - Britoil Offshore Services adds newbuild AHTS 11 years in the making - rivieramm.com",
-                      "link":  "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTllud3ZtZjJNUXhfUkFPRWo4LVZKelZ3WVUzaldWN0lRZkVwRDljMTFRQWFYdFRIcVJSUzJvdnJ4TGNjdTRiWm9DVm1kRXRtcExVQklhUW9ZLTdEUS1vWE8ybGpIWGNlRkRjZUxlTmNtRTRWQ1k4WmFJamwyZUk4cWNlX0tMUllhaDBNX2V2VXMwRmxhX1UwcWE4T2dhU2xPdnVrdFk1cXR1VFRabkJzbjA0ZGdNOFFHNHotZnFIZ1ZoWmpBTVp0ZnBzT05UUQ?oc=5",
-                      "pubDate":  "Tue, 27 Jan 2026 08:00:00 GMT",
                       "is_new":  false
                   },
                   {
