@@ -1,6 +1,6 @@
 ﻿{
     "source":  "Google News RSS",
-    "fetched":  "2026-07-23T08:11:34",
+    "fetched":  "2026-07-28T10:00:21",
     "count":  17,
     "new_count":  2,
     "items":  [
@@ -12,10 +12,10 @@
                       "is_new":  false
                   },
                   {
-                      "query":  "tug boat charter West Africa offshore",
-                      "title":  "Four Solstad vessels land more work in Asia and West Africa - Offshore-Energy.biz",
-                      "link":  "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1hRX2FKU3RZMWdwVW56RXNlUW5UazEybzA3MjNWOExyZzMyNk9saVd5N3NUM1hKbGpvU1JqbEJBVmRNVGdhTmZHeXRjXzlPZXNsS2NYYkFUdWxzbXFmUzB5WnI5STYxOWtDLXN5YmlNa3FIdXcweFFHX0hzMDBUajBhYUpfYzlpSU1wZUtlNU9hTFJ1RHBv?oc=5",
-                      "pubDate":  "Fri, 03 May 2024 07:00:00 GMT",
+                      "query":  "towage services tender Nigeria OR Namibia OR Senegal offshore",
+                      "title":  "XOM Wants MODU, TOTAL Needs Fast Boats - Africa Oil+Gas Report",
+                      "link":  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVlZ5VEFJZm40M3Y5VHBoN3UwdFBVS3A1dGFXMDZlTFhQRkhsWFJTMW5sMHBHNnUza1EzdWV5cFJIaEU3ZDQ2U0ZIX1lWd1FXZlNtYlZ0bFJkNDdGU3psaHFWVWFjcU9pZEhXcE93TWVrN1h0MlRhNFBCWm9mQzV1eVNaeG9ReWhXNkRVejZn?oc=5",
+                      "pubDate":  "Mon, 22 Jul 2019 07:00:00 GMT",
                       "is_new":  false
                   },
                   {
@@ -23,7 +23,7 @@
                       "title":  "Kim Heng secures one year time charter for AHTS duo - Marine Log",
                       "link":  "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDMyTi1SMWZkbGt2TGZpbUlFT1c2ck1FbWd2T0h2WENNOFVmR0U2QVFHMFhJZzgxRkhFWGlKS041NWVHaHBKYzZrVUNkdjhNZWJQc0dMZ0RadlMtVWcyVlBoRkNCTEdkUmlRbEV6WWFMSGpSYmpVa0lmRE02c09vdnNhVm1zNU13amVwSXFBWUhVTkVCT1kybE5nbw?oc=5",
                       "pubDate":  "Wed, 11 Apr 2018 07:00:00 GMT",
-                      "is_new":  true
+                      "is_new":  false
                   },
                   {
                       "query":  "towage services tender Nigeria OR Namibia OR Senegal offshore",
@@ -41,24 +41,17 @@
                   },
                   {
                       "query":  "offshore towage tender Africa",
-                      "title":  "KOTUG vessels bound for West Africa to support BP’s biggest project - Offshore-Energy.biz",
+                      "title":  "KOTUG vessels bound for West Africa to support BP’s biggest project - Offshore Energy",
                       "link":  "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSkVJaTY5dDNabWh5bGZQbU1ySHBGSVpqb3RJVExMaVRsZ0NELVB4YnBRWjhSYkFMei1PbWhHYWJ0c1dxb0pmYmUtcmlZUjExUnNXZFhQUnB3VW8tZnc1d3l6SVBtc3ZzMnhwOUhlWi1Bek9hS3AwcGxLT3RqVkllSEdZZzg3dHU2RzJTa3VPS3J1cDUwR3VDMG9RSW4xeldD?oc=5",
                       "pubDate":  "Tue, 22 Jul 2025 07:00:00 GMT",
                       "is_new":  false
                   },
                   {
                       "query":  "towage services tender Nigeria OR Namibia OR Senegal offshore",
-                      "title":  "BP picks KOTUG and African firm for work at its largest gas project - Offshore-Energy.biz",
+                      "title":  "BP picks KOTUG and African firm for work at its largest gas project - Offshore Energy",
                       "link":  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNfZm5WOEM0bnBGV19NelFERVRkaFBWZUxKWG83ZnF3dGd4VTJGWWQ4d3Z1ZzV1X0ZlYmUzSlFqOUxRZ2dRaXJTM1lUT1ZUNkMtLUZld2R6MEs4VUprNlMzNWI2a0k5M3ZwNDF3bXJrTTc0blJSQnhYald4eHRUQ0N4Z01wZGt1dnlOWmE0TjNXbENURjJJUkx1aDZCTUtwYnc?oc=5",
                       "pubDate":  "Fri, 01 Nov 2024 07:00:00 GMT",
                       "is_new":  false
-                  },
-                  {
-                      "query":  "towage services tender Nigeria OR Namibia OR Senegal offshore",
-                      "title":  "BP hires Petrofac to provide personnel and equipment for GTA project - Offshore-Energy.biz",
-                      "link":  "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGg0UUh0SFRPOWFsSGdBeGdTLVNWa2R1Mmk3RWpWUnRNTnhGdDhtdGZZX3E5WGN4NG14aVhqYUtodzBIU3VNUlczb1JhTTRjWjdzRkgzYklNcFJPYXJ5dzVidVY3LUJsSmpMOFFRcDVldFFtRU5KQnN3cFo1ZkREbEJoVHVXMVVkMkQwWi1iT0FvYmp0a0NvZG5uSVRrSEZmaFZV?oc=5",
-                      "pubDate":  "Wed, 25 May 2022 07:00:00 GMT",
-                      "is_new":  true
                   },
                   {
                       "query":  "offshore towage tender Africa",
@@ -83,10 +76,24 @@
                   },
                   {
                       "query":  "offshore towage tender Africa",
-                      "title":  "Singapore’s POSH on towing duty from Asia to Africa for Eni’s Congo-bound FLNG - Offshore-Energy.biz",
+                      "title":  "Singapore’s POSH on towing duty from Asia to Africa for Eni’s Congo-bound FLNG - Offshore Energy",
                       "link":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSXhMWFdTRjYwWGMyLU9IMm9qeDMwR1c3V1Q2MzVQZllfeXduWTN0TExDNVdWeXVtU21GUnE4T0trNGNyaXJtNDlsT1h4bjc0Q19fQld5SEstWUpQdURQWEpvYWI5NkNyRzhXellFNlpGX2J5a3NZaHhuOUZrLXd6cXRJVWU3TGhYN0ZPa3FWQ21aOUFOUkl0MUVCZU1tQ3h2LVJtS0NybDFKekFnaEE?oc=5",
                       "pubDate":  "Fri, 12 Sep 2025 07:00:00 GMT",
                       "is_new":  false
+                  },
+                  {
+                      "query":  "towage services tender Nigeria OR Namibia OR Senegal offshore",
+                      "title":  "PACC Offshore Services Commences Towage of FPSO for Mauritania-Senegal Offshore Project - Breakbulk.News",
+                      "link":  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelRadkV4LVhGTTBGcUR4dmxnVUZrMDY5TTNVM0FMMnltM2xNbVZzVmk0bW9wRVFtUlJjVEtWN2ZtelhfLUtyLTdoYTlCNVNoY29rWG5SNlZOVUhKa1phYXp2b005dDEtVldTUG1Pa28tSjdhejZXVWVyeUZGN3ZaNkZZR1dMa1l4bURrVjdlOHZHN3JOajRnaG1RcnlsX2FFZ1N0V3BaU2Z5VU15Y1JxZw?oc=5",
+                      "pubDate":  "Wed, 31 May 2023 07:00:00 GMT",
+                      "is_new":  true
+                  },
+                  {
+                      "query":  "tug boat charter West Africa offshore",
+                      "title":  "News Content Hub - Emar invests in tugboat fleet, digitalisation - rivieramm.com",
+                      "link":  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVE1yajJUeU16Nm1VbUNobFZIbFBCSGpVTHcwQzZCV0JKT2NSX2E0U0d5elYxQVAyaUtlX2tzbEwyU3htRW80S3daMlM5RDVBOTBmVVdBNy03cHFBcDlDMEFmejMxbXUxVzVMNjBGUXZUd0d3TEVhUG92aWtqODJnckdqT0NTMUVBZ3g3cjl2NTFUcFVBUE5WSGEyaGtEWlN5eHd1M2pRT3liem1sYWlaVVFCWQ?oc=5",
+                      "pubDate":  "Wed, 14 Jan 2026 08:00:00 GMT",
+                      "is_new":  true
                   },
                   {
                       "query":  "AHTS charter Angola offshore",
@@ -107,13 +114,6 @@
                       "title":  "Work Boat World Offshore Vessel Charters Roundup – January 21, 2022 - Baird Maritime",
                       "link":  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0E4a0FyemJkSWVaVzZNa051NlRET1ZuUlFSVllBbUdlQWgwLUpXUVltb1VSSEVQLU4wV0w4azlNN0NsbTVkcEt6MHN0T1RJQjVZZW1xOTJrX2tfd28wY21NeWVKR3pseDdUU0NDLXVIcnBCODZMREpraEZ6Y09IWU54TjVJOGpsMF9xTEE2YUltUExmMjFsR3ExRmQ1RlB1Y0JTUFRsY1lPQTFMd1hnR1RDMlhkQ3hFbXBrbTNB0gHLAUFVX3lxTE9meWlsOTd1WUt3d3dESXQ0VjB0MklZcXVoY1JHNTlzeEN0Uk1PVWFKNnhZSGZMcHZsUnFmU2lxQkg0MUhpNUZXbExYbXZnU0NJNnMzSkpBbG5WeEdwaDlTVkVtWERPSDgyeHk3X0hiSlZZOXBUbDZkTG5HV0treGw2NS1aMkdPUXpXSTNnWDlZcHYxWlUzdENmdWFPSUo5T09VOGl5dC1aRTNmM1FTekxNaHYyZnFwZV9DTXVFS3NuQ3VScWRkbEo2N0t3?oc=5",
                       "pubDate":  "Fri, 21 Jan 2022 08:00:00 GMT",
-                      "is_new":  false
-                  },
-                  {
-                      "query":  "AHTS charter Angola offshore",
-                      "title":  "News Content Hub - Increased opportunities for OSVs in Angola - rivieramm.com",
-                      "link":  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1Rqc2ljWUdQa3hPNldORlJDV096RnMtR3ZXdFgtNlhSZEM1Q3ZHMWJBYTFhQzgycXZRaXBpRU9JdloxUF9kV1JObnJJd01scE1GRHk3VGxnRXJHemdzNWlQY3ZCRmtvalJuTUJENDAxM0w2OWRkTzh3Mk0xejdoNWxSTXNVemFTc3p2Y044MXFfaTVvd3Vja2l5ckEwQWxsYUphZHFHb24tX1hrSjhKSnM4dy1MdjZ4dUdVVzhaQTg?oc=5",
-                      "pubDate":  "Thu, 30 Mar 2023 07:00:00 GMT",
                       "is_new":  false
                   },
                   {
