@@ -1,22 +1,22 @@
 ﻿{
     "source":  "Google News RSS",
-    "fetched":  "2026-08-02T02:38:26",
+    "fetched":  "2026-08-03T10:00:25",
     "count":  20,
-    "new_count":  6,
+    "new_count":  0,
     "items":  [
                   {
                       "query":  "towage services tender Nigeria OR Namibia OR Senegal offshore",
                       "title":  "AMS Lifting \u0026 Towing Systems in Namibia gears up for anticipated offshore oil and gas boom in the region - Cape Business News",
                       "link":  "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYXA2NnFiX1E1R05DQ1dadDdjTE1YUllxME11UWxjR01XMER3NkZiLUFrM0l2Mkd1aVRuQTloMDNYTEE1ZGtfdEw2cjVFcXd0cnZaM0pJekRucEc1U2FwV1VZRDlzR1Q1WWRrZDNob0lVbVdyaGFoWDVHLWxWaGdVZGsxel9Qakh6UVZ3QjRfQkxiSkxOdzRIOExlcnVMU2NvWS12T1NsYVJJMEc4My1jYkROcEJSVWRDclU5NnI0ZmhBV2Q3ZWxOMDdtLWZEX0RSOG44MWE5cHpKbFhkeWFpRDBfdi1NWGFXS2EzVjhjMEdNVUVBVUE?oc=5",
                       "pubDate":  "Mon, 16 Sep 2024 07:00:00 GMT",
-                      "is_new":  true
+                      "is_new":  false
                   },
                   {
                       "query":  "AHTS charter Angola offshore",
                       "title":  "Early Charter Termination for SFL Trio - Offshore Engineer Magazine",
                       "link":  "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3FHUlRUeHNROHFSR01fNXVVdzJTeUNTeTRWWEczY1J2c1VHaWZTWVVJczQ2MERHU1ZyMm5nekpHbmRkMl9kaUd5NlVJVjR5VFFBRXdFQVlleTU5eFVOdDBEUVRDeUJ3VUUtWnFxNXo5V0NzLVVjckQ4SlBkT3RjUkVn?oc=5",
                       "pubDate":  "Tue, 18 Feb 2020 08:00:00 GMT",
-                      "is_new":  true
+                      "is_new":  false
                   },
                   {
                       "query":  "towage services tender Nigeria OR Namibia OR Senegal offshore",
@@ -44,7 +44,7 @@
                       "title":  "News Content Hub - Service contracts cut downtime, maintenance costs - rivieramm.com",
                       "link":  "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0lTQmhqSEswNkdncm5PU1VYLURjN3hxam5HdkhNRWp3bGpQNjlBNkItdmgxSWxOWGx0NldsUTRLTVlPeWZvZC01d1pVVjVNcmVva0lwNldyaW8tMGxLN09EcnFDM2d6S04wRlBQeGVIcXlEQ0hFcjQ0VDRWMnZJdHJ6dTJFaWVGdlFhdC1EYVg2bWZnQW9WbDdzSkoxZw?oc=5",
                       "pubDate":  "Wed, 29 Jul 2026 11:03:52 GMT",
-                      "is_new":  true
+                      "is_new":  false
                   },
                   {
                       "query":  "offshore towage tender Africa",
@@ -93,7 +93,7 @@
                       "title":  "Bourbon to Deliver Next-Gen Crewboats for ExxonMobil Offshore Angola - Offshore Engineer Magazine",
                       "link":  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFdpOEdFV1NpaVl4d1Fqc3U0QXRJMUhWV0FvWWpLcEFwbktKTm9PUjROdWxsaE1KYkd0UUZnRE11Nm1uT1EyTXRRMU50bWV2XzBkVzRydkRjdWZNSU1nbkVVamJrZTBST0VTa19ia0RBVDMyWEd2b0pSMlYwQVl4SjNxWjZTalYwdVh1RGU2LTRkSnEzZlczS1FTUzVKaXVBUUw2M1pyRXpSQQ?oc=5",
                       "pubDate":  "Wed, 03 Sep 2025 07:00:00 GMT",
-                      "is_new":  true
+                      "is_new":  false
                   },
                   {
                       "query":  "offshore towage tender Africa",
@@ -107,7 +107,7 @@
                       "title":  "Foss charters in Tier 4 tug Earl W Redd for offshore wind work - Marine Log",
                       "link":  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2lsMkdMVHhKSkw0ZUdLOWRraEVBOTVXc2ljdFpaaF8tT2lYdkFodWtqeDl2YUItdFNIWlVGMVBQcG1qRDFqd1c5UW1kVEdFVUdUX2dkNWNFaWl5VlU5dGxlSUx0OGtfMlBtSWhTeWMzWXdJZ041Sm9lS0hLQmlxUnRVV1J6OU9sZGtzOEUxUVV0a3hxR3RzemR2WWlsWkJKLVZQSTVvMG1TX245cGNfTHFR?oc=5",
                       "pubDate":  "Tue, 29 Nov 2022 08:00:00 GMT",
-                      "is_new":  true
+                      "is_new":  false
                   },
                   {
                       "query":  "AHTS charter Angola offshore",
@@ -135,7 +135,7 @@
                       "title":  "Netherlands’ Multraship wins North Sea towing and rescue vessel tender - Baird Maritime",
                       "link":  "https://news.google.com/rss/articles/CBMizgFBVV95cUxNclRNU0I4dTdSMlBIVVNpZ0FBNDI2ZUZpZktxVFIxY1NuUHB3bHdIMXBKbHZYMVRHZktWQ1lqeFJ0VDhIOXNWeGc0US1tTnh3RlR0ZkdXMjJKX2pSVEFvUGN4a3JlMUgxcy02bUQ3Um9zYTV1Rlh6UHBKeUxDTlFsVzJoRFFCbmZRNHdpemhrRWVtaDZYRDU0RDhOU3plUGtfMkJuNkl5UVhsRmtqQ0pmX3N3RjhSNFBmeXVpRk1FdzZKQ1M1eXoxYjllVGVwQdIB2wFBVV95cUxQeGttZDNRcW1wVnBXVTRrRXRqT3NBMDg0MnhaXzI2WDRrclcteTBQZXlZNVdBUWtBMUR1RVRFWXhqYV9MMUVPVkxLWnNRLVFrT2xuTkNlcGZxWjBEaElSLUhvX0R6R3kxc1lJRlBrVGk1M0dqZ1V3SHB3M0JFMHAtWWUyQkxCQW5JX3JRaHV4Nm5aamc1cUFRUFZGT0I2MnJnOV9sMGZIcDFGRTV3amlpNmEtdDA2ckVLZW1tNl8xZmkxOHVxdzRfQkpFeDF0TU1RNTdIZmRwNlB6LTA?oc=5",
                       "pubDate":  "Mon, 11 Jul 2022 07:00:00 GMT",
-                      "is_new":  true
+                      "is_new":  false
                   },
                   {
                       "query":  "AHTS charter Angola offshore",
