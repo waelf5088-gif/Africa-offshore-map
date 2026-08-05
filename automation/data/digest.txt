@@ -1,7 +1,7 @@
 ﻿📋 <b>FABLE — Synthese du cycle</b>
-2026-08-03 10:02
+2026-08-05 15:03
 🟢 Carte en ligne (bundle 1 717 361 o)
-💶 EUR/USD : 1.1485 (2026-07-31)
+💶 EUR/USD : 1.1515 (2026-08-04)
 🌊 Fenetres towage : GTA 5j/5 · Bonga / Nigeria 5j/5 · Kaminho / Angola 5j/5
-🦅 Appels d'offres : 20 suivis, 0 nouveaux
-🚀 Dernier deploiement : https://africa-offshore-5aazul18s-mapoffshoreafrica.vercel.app
+🦅 Appels d'offres : 20 suivis, 3 nouveaux
+🚀 Dernier deploiement : https://africa-offshore-8xdykg7ta-mapoffshoreafrica.vercel.app

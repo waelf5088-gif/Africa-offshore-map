@@ -1,26 +1,26 @@
 ﻿[
     {
-        "url":  "https://africa-offshore-5aazul18s-mapoffshoreafrica.vercel.app",
+        "url":  "https://africa-offshore-8xdykg7ta-mapoffshoreafrica.vercel.app",
         "healthy":  true,
-        "ts":  "2026-08-03T10:01:30"
+        "ts":  "2026-08-05T15:03:04"
     },
     {
         "value":  [
                       {
-                          "url":  "https://africa-offshore-l2rg3i7s8-mapoffshoreafrica.vercel.app",
+                          "url":  "https://africa-offshore-5aazul18s-mapoffshoreafrica.vercel.app",
                           "healthy":  true,
-                          "ts":  "2026-08-02T02:53:58"
+                          "ts":  "2026-08-03T10:01:30"
                       },
                       {
                           "value":  [
                                         {
-                                            "url":  "https://africa-offshore-2864dyrjt-mapoffshoreafrica.vercel.app",
+                                            "url":  "https://africa-offshore-l2rg3i7s8-mapoffshoreafrica.vercel.app",
                                             "healthy":  true,
-                                            "ts":  "2026-07-28T10:16:00"
+                                            "ts":  "2026-08-02T02:53:58"
                                         },
                                         {
-                                            "value":  "  ",
-                                            "Count":  3
+                                            "value":  " ",
+                                            "Count":  2
                                         }
                                     ],
                           "Count":  2
