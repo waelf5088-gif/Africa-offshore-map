@@ -1,9 +1,9 @@
 ﻿{
     "pair":  "EUR/USD",
-    "rate":  1.1515,
-    "usd_per_eur":  1.1515,
-    "eur_per_usd":  0.8684,
-    "rate_date":  "2026-08-04",
+    "rate":  1.1542,
+    "usd_per_eur":  1.1542,
+    "eur_per_usd":  0.8664,
+    "rate_date":  "2026-08-06",
     "source":  "BCE via api.frankfurter.app",
-    "fetched":  "2026-08-05T15:01:54"
+    "fetched":  "2026-08-07T10:00:15"
 }
